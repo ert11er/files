@@ -4,5 +4,9 @@
     "description": "ERT for points",
     "image": "https://github.com/ert11er/files/blob/main/image.png?raw=true",
     "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
     ]
   }
