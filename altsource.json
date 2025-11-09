@@ -73,36 +73,6 @@
       ]
     },
     {
-      "name": "ActiveGS iOS",
-      "bundleIdentifier": "com.yoshisuga.activeGS",
-      "developerName": "yoshisuga & Olivier Goguel",
-      "version": "2021.9",
-      "versionDate": "2021-09-23T09:28:59Z",
-      "versionDescription": "# 2021.9\n\nThis is a fork of Olivier Goguel's ActiveGS emulator for iOS.\r\n\r\nI've been tinkering it over the years and added some experimental features such as:\r\n\r\n- Support for iOS 15\r\n- Remap keyboard to supported wireless controller buttons (mFi/PS4/PS5/XBox One)\r\n- Custom split keyboard usable in landscape mode (written in Swift)\r\n\r\n![Simulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 22 43 15](https://user-images.githubusercontent.com/564774/134484167-3c17c2a7-1d6a-467c-ac82-d7bfae7f281b.png)\r\n\r\n- A memory debugger/rudimentary memory-editing cheat engine (also written in Swift). Accessible via the \"D\" button in the right pane custom keyboard. Browse the memory map and change memory values. Not sure how the bank switching works and how it's mapped to memory but you get some representation of memory. \r\n![Simulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 23 25 55](https://user-images.githubusercontent.com/564774/134484125-b984318a-b089-4484-b306-b976521963c3.png)\r\n\r\n\r\n",
-      "downloadURL": "https://github.com/yoshisuga/activegs-ios/releases/download/2021.9/ActiveGS.ipa",
-      "localizedDescription": "An emulator for all things Apple.",
-      "iconURL": "https://i.imgur.com/7LuLkoR.png",
-      "tintColor": "#21486b",
-      "size": 16593403,
-      "screenshotURLs": [
-        "https://i.imgur.com/8xekjhv.png",
-        "https://i.imgur.com/JFd6LiM.png",
-        "https://i.imgur.com/4ZE0DbB.png"
-      ],
-      "subtitle": "An emulator for Apple II/2GS.",
-      "absoluteVersion": "2021.9",
-      "versions": [
-        {
-          "version": "2021.9",
-          "date": "2021-09-23T09:28:59Z",
-          "downloadURL": "https://github.com/yoshisuga/activegs-ios/releases/download/2021.9/ActiveGS.ipa",
-          "localizedDescription": "# 2021.9\n\nThis is a fork of Olivier Goguel's ActiveGS emulator for iOS.\r\n\r\nI've been tinkering it over the years and added some experimental features such as:\r\n\r\n- Support for iOS 15\r\n- Remap keyboard to supported wireless controller buttons (mFi/PS4/PS5/XBox One)\r\n- Custom split keyboard usable in landscape mode (written in Swift)\r\n\r\n![Simulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 22 43 15](https://user-images.githubusercontent.com/564774/134484167-3c17c2a7-1d6a-467c-ac82-d7bfae7f281b.png)\r\n\r\n- A memory debugger/rudimentary memory-editing cheat engine (also written in Swift). Accessible via the \"D\" button in the right pane custom keyboard. Browse the memory map and change memory values. Not sure how the bank switching works and how it's mapped to memory but you get some representation of memory. \r\n![Simulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 23 25 55](https://user-images.githubusercontent.com/564774/134484125-b984318a-b089-4484-b306-b976521963c3.png)\r\n\r\n\r\n",
-          "size": 16593403,
-          "absoluteVersion": "2021.9"
-        }
-      ]
-    },
-    {
       "name": "Adobe Premiere: Video Editor",
       "bundleIdentifier": "com.blatant.adobepremierevideoeditor",
       "developerName": "Blatant",
@@ -580,26 +550,6 @@
       "appID": "it.ned.appdb-ios"
     },
     {
-      "name": "appdb",
-      "bundleIdentifier": "it.ned.appdb-ios",
-      "developerName": "n3d1117",
-      "subtitle": "A fully-featured iOS client for appdb.to written in Swift 5",
-      "version": "1.0.4",
-      "versionDate": "2019-12-07",
-      "versionDescription": "Custom developer identities are now detected correctly\nIntegrated new iOS 13 context menus, homescreen shortcuts & haptic feedbacks\nAdded pull to refresh to Featured tab\nAdded French translation (thanks to DzMohaipa)\nAdded Indonesian translation (thanks to Am1nCmd)\nAdded Javanese (Indonesia) translation (thanks to EskaseptianTeam)\nFixed bug where links were not clickable in News\nRemoved the (deprecated) option to link device via email\nVarious other minor fixes and additions",
-      "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.0.4/appdb_1.0.4.ipa",
-      "localizedDescription": "appdb is the successor of our old website named appaddict. appdb was formed when ex staff were concerned for the security of the users of our old website. appdb was setup using a new perspective of simplicity yet effectiveness. This formed our app-less approach and simple interface to install apps.",
-      "iconURL": "https://static.appdb.to/images/cydia-1900000538-icon.png",
-      "tintColor": "008CE3",
-      "size": 23554600,
-      "screenshotURLs": [
-        "https://cdn.discordapp.com/attachments/558842854462717954/680945917465067599/appdb1.png",
-        "https://cdn.discordapp.com/attachments/558842854462717954/680945918417305613/appdb2.png",
-        "https://cdn.discordapp.com/attachments/558842854462717954/680945921420427266/appdb3.png",
-        "https://cdn.discordapp.com/attachments/558842854462717954/680945924255907860/appdb4.png"
-      ]
-    },
-    {
       "name": "B612 - AI Photo and Video Editor",
       "bundleIdentifier": "com.blatant.b612aiphotoandvideoeditor",
       "developerName": "Blatant",
@@ -654,53 +604,6 @@
         }
       ],
       "appID": "AlexisBarreyat.BeReal"
-    },
-    {
-      "name": "BeReal++",
-      "bundleIdentifier": "AlexisBarreyat.BeReal",
-      "developerName": "Yandevelop",
-      "subtitle": "See your friends BeReals without posting anything!",
-      "localizedDescription": "Tap the \u201cBeReal+\u201d text (It may be blank) at the top of the screen to upload BeReals from the camera roll\n\nView BeReals without posting your own\n\u2022 Upload BeReals from the camera roll:\n\t- Post on time, even if you're posting late\n\t- Set a custom location\n\t- Set a custom retake count\n\t- Add what you're currently playing or add a song\n\u2022 Download BeReals",
-      "iconURL": "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.webp",
-      "tintColor": "0b0b0b",
-      "category": "Social",
-      "screenshotURLs": [
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-1.webp",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-2.webp",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-3.webp",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-4.webp",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.webp",
-        "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-6.webp"
-      ],
-      "version": "2.14.2",
-      "versionDate": "2024-10-09",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v2.14.2.+.Bea.v1.3.8.ipa",
-      "versionDescription": "\u2022 Updated BeReal to v2.14.2\n\u2022 Updated Bea to v1.3.8",
-      "size": 63800000,
-      "versions": [
-        {
-          "version": "2.14.2",
-          "date": "2024-10-09",
-          "localizedDescription": "\u2022 Updated BeReal to v2.14.2\n\u2022 Updated Bea to v1.3.8",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v2.14.2.+.Bea.v1.3.8.ipa",
-          "size": 63800000
-        },
-        {
-          "version": "2.13.1",
-          "date": "2024-04-30",
-          "localizedDescription": "\u2022 Updated BeReal to v2.13.1\n\u2022 Updated Bea to v1.3.6",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v2.13.1.+.Bea.v1.3.6.ipa",
-          "size": 35700000
-        },
-        {
-          "version": "1.15.0",
-          "date": "2023-10-21",
-          "localizedDescription": "\u2022 Updated BeReal to v1.15.0\n\u2022 Updated Bea to v1.3.2",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v1.15.0.+.Bea.v1.3.2.ipa",
-          "size": 29200000
-        }
-      ],
-      "beta": false
     },
     {
       "name": "BHTikTok+",
@@ -1243,42 +1146,6 @@
       "appID": "com.deezer.Deezer"
     },
     {
-      "name": "Deezer++",
-      "bundleIdentifier": "com.deezer.Deezer",
-      "developerName": "iJulioVerne",
-      "subtitle": "Deezer with premium activated!",
-      "localizedDescription": "Deezer is a music streaming platform that enables you to match The Power of Music to your lifestyle and identity.\n\nEnjoy a massive music catalog that has everything and more with in-built algorithms that learn what you like and recommend more of it. The Deezer music player is your companion across all devices, providing access to the artists, songs and communities that speak to you. Discover and create playlists in your favorite genres: hip hop, rap, rock, lofi. No WiFi needed \u2014 download songs and enjoy offline music \u2014 perfect for when at home or on the go.\n\nThis is the most personalized and intuitive listening experience, brought to you from the home of music.\n\nWith Deezer Free*, you'll get all you need in one app:\n\n\u2022 Flow, our feature for infinite, personalized mixes (on-point recommendations every time)\n\u2022 SongCatcher, for identifying any song playing around you (try singing or humming for magic results)\n\u2022 Game on with music quiz (see how fast you can guess your favorite song)\n\u2022 A ludicrously-large catalog (go on, try to find a song that isn't there)\n\u2022 The freedom to play music based on moods, niche genres and scenes\n\u2022 Personal and collaborative playlists, favorites, radio* and more\n\u2022 Dive deeper into the music with the Lyrics feature and translated lyrics\n\u2022 Sleep timer function (for those beauty Zzzzzz)\n\u2022 Sharing function for spreading the love on socials\n\n\nLooking for a level up? Switch to Deezer Premium**, Deezer Family** or Deezer Student** and you'll benefit from these added perks:\n\n\u2022 No ads, ever!\n\u2022 Offline listening (just cause the signal cuts doesn't mean the music has to)\n\u2022 Unlimited skips, unlimited listening\n\u2022 HiFi sound (High Fidelity, lossless quality at 1,411 kbps)\n\u2022 FLAC-standard quality on millions of tracks\n\u2022 High-end sound system compatibility\n\nCompatible devices:\nGet Deezer on all your connected devices \u2014 Google Nest, HomePod Mini, Amazon Alexa, Sonos and more.",
-      "iconURL": "https://img.ipa4fun.com/23/af/ed/292738169-icon.webp",
-      "tintColor": "8c4384",
-      "category": "Entertainment",
-      "screenshotURLs": [
-        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-1.webp",
-        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-2.webp",
-        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-3.webp",
-        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-4.webp",
-        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-5.webp",
-        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-6.webp",
-        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-7.webp",
-        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-8.webp",
-        "https://img.ipa4fun.com/23/af/ed/292738169-screenshot-9.webp"
-      ],
-      "version": "7.15.0",
-      "versionDate": "2023-10-22",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Deezer.v7.15.0.+.Deezelife.v0.5.ipa",
-      "versionDescription": "\u2022 Updated Deezer to v7.15.0 - Last working version with tweak.",
-      "size": 29200000,
-      "versions": [
-        {
-          "version": "7.15.0",
-          "date": "2023-10-22",
-          "localizedDescription": "\u2022 Updated Deezer to v7.15.0 - Last working version with tweak.",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Deezer.v7.15.0.+.Deezelife.v0.5.ipa",
-          "size": 29200000
-        }
-      ],
-      "beta": false
-    },
-    {
       "name": "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName": "Riley Testut",
@@ -1805,38 +1672,6 @@
       "appID": "me.oatmealdome.dolphinios-njb"
     },
     {
-      "name": "DolphiniOS",
-      "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
-      "developerName": "OatmealDome",
-      "subtitle": "GameCube and Wii games on the go.",
-      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
-      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
-      "tintColor": "41cdff",
-      "screenshotURLs": [
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "3.2.1",
-          "date": "2022-09-11T22:00:00.0000000Z",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
-          "size": 80253902,
-          "minOSVersion": "12.0",
-          "maxOSVersion": "99.0"
-        }
-      ],
-      "version": "3.2.1",
-      "versionDate": "2022-09-11T22:00:00.0000000Z",
-      "versionDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
-      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
-      "size": 80253902
-    },
-    {
       "name": "DolphiniOS (Public Beta)",
       "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
       "developerName": "OatmealDome",
@@ -1933,92 +1768,6 @@
       "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
     },
     {
-      "name": "DolphiniOS (Public Beta)",
-      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-      "developerName": "OatmealDome",
-      "subtitle": "Test the latest DolphiniOS.",
-      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
-      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
-      "tintColor": "ffbb3d",
-      "screenshotURLs": [
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
-        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
-      ],
-      "beta": false,
-      "versions": [
-        {
-          "version": "5.0.0b4",
-          "date": "2025-10-23T02:30:00.0000000Z",
-          "localizedDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
-          "size": 17958943,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "5.0.0b3",
-          "date": "2025-10-18T00:00:00.0000000Z",
-          "localizedDescription": "Adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
-          "size": 17958943,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "5.0.0b2",
-          "date": "2025-10-13T00:00:00.0000000Z",
-          "localizedDescription": "Adds support for JIT on iOS 26 using StikDebug.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
-          "size": 17958943,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "5.0.0b1",
-          "date": "2025-10-11T17:00:00.0000000Z",
-          "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
-          "size": 17958943,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "4.0.0b8",
-          "date": "2025-01-19T00:00:00.0000000Z",
-          "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
-          "size": 15830129,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "4.0.0b7",
-          "date": "2024-01-21T20:30:00.0000000Z",
-          "localizedDescription": "This is the first build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
-          "size": 13775833,
-          "minOSVersion": "14.0",
-          "maxOSVersion": "99.0"
-        },
-        {
-          "version": "3.2.1b1",
-          "date": "2022-07-05T22:00:00.0000000Z",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa",
-          "size": 80291610,
-          "minOSVersion": "12.0",
-          "maxOSVersion": "99.0"
-        }
-      ],
-      "version": "5.0.0b4",
-      "versionDate": "2025-10-23T02:30:00.0000000Z",
-      "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
-      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
-      "size": 17958943
-    },
-    {
       "name": "Duolingo++",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "unlimapps",
@@ -2045,55 +1794,6 @@
         }
       ],
       "appID": "com.duolingo.DuolingoMobile"
-    },
-    {
-      "name": "Duolingo++",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "Laxus",
-      "subtitle": "Duolingo with Super Duolingo Activated!",
-      "localizedDescription": "Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.\n\nWhether you\u2019re learning a language for travel, school, career, family and friends, or your brain health, you\u2019ll love learning with Duolingo.\n\nWhy Duolingo?\n\u2022 Duolingo is fun and effective. Game-like lessons and fun characters help you build solid speaking, reading, listening, and writing skills.\n\n\u2022 Duolingo works. Designed by language experts, Duolingo has a science-based teaching methodology proven to foster long-term language retention.\n\n\u2022 Track your progress. Work toward your language learning goals with playful rewards and achievements when you make practicing a daily habit!\n\n\u2022 Join 300+ million learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.\n\n\u2022 Every language course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian!",
-      "iconURL": "https://i.imgur.com/gl8jTYA.jpeg",
-      "tintColor": "7cd404",
-      "category": "Lifestyle",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/85/3c/6d/853c6dcc-509f-af17-1a68-5a14a1ddfcd6/tns.lgtxetwx.png/314x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/00/a9/d000a923-fdb2-074c-29c9-b0b756210be3/tns.egimlxov.png/314x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7d/1b/c9/7d1bc96c-d220-6613-031c-e04dfd587375/tns.jhthyhvf.png/314x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f3/fc/45/f3fc4501-0e63-4c86-c843-d62f024cb72e/tns.beyxhlrn.png/314x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9e/a8/70/9ea87049-d4ce-ba8b-0186-a06f7daec44c/tns.qtcpgyze.png/314x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f9/5f/74/f95f7417-abd2-1da0-df60-25c5b4cc7b42/tns.xletkwju.png/314x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/71/50/25/7150254b-c1fe-0f0a-3080-d132ec1df02b/tns.kxzrjpco.png/314x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/66/d8/e5/66d8e526-9452-3aef-929c-1e91c675512a/7c022d98-f86f-4b31-8503-632ddcd73657_6.5-inch-screen9__U00283_U0029.png/314x0w.webp"
-      ],
-      "version": "7.29.0",
-      "versionDate": "2025-03-04",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.v7.29.0.Cracked.ipa",
-      "versionDescription": "\u2022 Duolingo Updated to v7.29.0",
-      "size": 101000000,
-      "versions": [
-        {
-          "version": "7.29.0",
-          "date": "2025-03-04",
-          "localizedDescription": "\u2022 Duolingo Updated to v7.29.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.v7.29.0.Cracked.ipa",
-          "size": 101000000
-        },
-        {
-          "version": "7.9.0",
-          "date": "2024-05-11",
-          "localizedDescription": "\u2022 Duolingo Updated to v7.9.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.Cracked.v7.9.0.ipa",
-          "size": 101000000
-        },
-        {
-          "version": "6.196.0",
-          "date": "2023-10-23",
-          "localizedDescription": "\u2022 Duolingo Updated to v6.196.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.Cracked.v6.196.0.ipa",
-          "size": 112000000
-        }
-      ],
-      "beta": false
     },
     {
       "name": "Eevee Spotify",
@@ -2394,82 +2094,6 @@
       "appID": "com.facebook.Facebook"
     },
     {
-      "beta": false,
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "Michael Lema & Qn_",
-      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Efkyz3QAKyFNouUBvVdZbi0ByCqJToLW78ctOkSB5ayBUw?download=1",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
-      "localizedDescription": "Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.\n\nLearn how to make your own IPA of Facebook Wolf here: https://github.com/qnblackcat/FBSideloadfix\n\nFEATURES:\n\u2022 No feed ads\n\u2022 No story ads\n\u2022 Disable marking messages as seen\n\u2022 Disable typing status in messages\n\u2022 Disable marking stories\n\u2022 Disable auto-advance in stories\n\u2022 Save Story images and videos\n\u2022 Save Feed videos by long-pressing the video\n\nNOTES:\n\u2022 I'm not the developer of Wolf. This is not an official version of Wolf.\n\u2022 Michael Lema, the developer of Wolf,  hasn't updated Wolf for a while. Expect some features may not work correctly.",
-      "name": "Facebook Wolf",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/wolf2.jpg",
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2698.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2699.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2700.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2701.PNG"
-      ],
-      "size": 152672665,
-      "subtitle": "A tweaked version of \"Wolf\" (made by Michael Lema). Requires iOS 12.4 and later.",
-      "tintColor": "478EE2",
-      "version": "402.0",
-      "versionDate": "2023-02-22T14:00:00-00:30",
-      "versionDescription": "v402.0 (2.1): Updated to the latest version of Facebook app"
-    },
-    {
-      "name": "Facebook++",
-      "bundleIdentifier": "com.facebook.Facebook",
-      "developerName": "Michael Lema",
-      "subtitle": "Facebook with a number of new features!",
-      "localizedDescription": "Facebook Wolf brings a number of new features to Facebook such as:\n\nUser\n\u2022 Disable marking messages as seen\n\u2022 Disable typing status in messages\n\u2022 No feed ads\n\nStory\n\u2022 Disable marking stories\n\u2022 Disable auto-advance in stories\n\u2022 Save Story images and videos\n\u2022 No story ads (Not working)\n\nFeed\n\u2022 Save Feed videos by long-pressing the video\n\nAnd more!",
-      "iconURL": "https://img.ipa4fun.com/92/c2/a0/284882215-logo.webp",
-      "tintColor": "0c63f9",
-      "category": "Social",
-      "screenshotURLs": [
-        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-1.webp",
-        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-2.webp",
-        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-3.webp",
-        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-4.webp",
-        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-5.webp",
-        "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-6.webp"
-      ],
-      "version": "502.2.0",
-      "versionDate": "2025-03-04",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v502.2.0.+.Wolf.v2.1.ipa",
-      "versionDescription": "\u2022 Updated Facebook to v502.2.0",
-      "size": 137000000,
-      "versions": [
-        {
-          "version": "502.2.0",
-          "date": "2025-03-04",
-          "localizedDescription": "\u2022 Updated Facebook to v502.2.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v502.2.0.+.Wolf.v2.1.ipa",
-          "size": 137000000
-        },
-        {
-          "version": "461.0.3",
-          "date": "2024-04-30",
-          "localizedDescription": "\u2022 Updated Facebook to v461.0.3",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v461.0.3.+.Wolf.v2.1.ipa",
-          "size": 137000000
-        },
-        {
-          "version": "438.2",
-          "date": "2024-01-07",
-          "localizedDescription": "\u2022 Updated Facebook to v438.2",
-          "downloadURL": "https://starfilesdl.com/file/ifrp2geRDxVH?fpdi_ticket=RXgrRkx5dHhGcmJrcFVtVVh4VmtaUkVlN3hwYmJ3b1dibXNIUDNMLzdzTEthQXRjdFh3WlNWUXBaTXhiMVp1cHVHcDZNZlRpa1lxZ21nZEZmODFqdVljT3I2T0JweDZoODFpN0hOZG12TThwdUNac29ZNm5XZVNUakNrVmlwOEdJSnh5RHV1MEE3d0d4ajJsbGNGanpnPT0%3D",
-          "size": 133000000
-        },
-        {
-          "version": "435.2",
-          "date": "2023-10-19",
-          "localizedDescription": "\u2022 Updated Facebook to v435.2",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v435.2.+.Wolf.v2.1.ipa",
-          "size": 133000000
-        }
-      ],
-      "beta": false
-    },
-    {
       "name": "Filmr Pro",
       "bundleIdentifier": "com.stey",
       "developerName": "Stei App",
@@ -2551,37 +2175,6 @@
           "localizedDescription": "# A heap of improvements: Firebird 1.5\n\n**New features:**\r\n* UI language can be switched\r\n* The debugger has a command history, press Up and Down arrow keys\r\n* On Android, the system file picker is used now, which fixes \"Could not start the emulation\" in many cases\r\n* The color scheme follows the system now\r\n* Improved performance of CX flash access by ignoring certain cache flush requests\r\n\r\n**Improvements:**\r\n* LCD can be resized freely now\r\n* Performance improvements for the ARM and AArch64 JITs\r\n* Supports macOS 10.15 Catalina\r\n* The Android APK includes arm64-v8a now\r\n* The Windows ZIP includes software OpenGL now, so should work on more systems\r\n\r\n**Bugfixes:**\r\n* Fix the external LCD sometimes being invisible\r\n* Allows building with recent versions of the Android NDK with clang\r\n* Does not crash on exit due to use of incompatible compile flags with GCC\r\n* Android devices with a lower w/h ratio are marked as supported now\r\n* firebird-send supports different implementations of netcat now\r\n* GDB and remote debugger work after emulation autostart as well\r\n* Moving the cursor over keypad buttons no longer clicks\r\n* On Windows, the filename for snapshots can now include non-ASCII characters\r\n* Fix crash on emulation start on certain x86-64 systems\r\n* Fix freeze on exit on JIT builds for the iOS version\r\n\r\nNote: Firebird Emu requires Qt 5.9 now.\r\n\r\n_Repo for Arch, Debian, Fedora, Ubuntu and openSUSE: [via OBS](https://software.opensuse.org/download.html?project=home%3AVogtinator%3Afirebird-emu&package=firebird-emu&locale=en)._\r\n",
           "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.5/firebird-iOS.ipa",
           "size": 9680896
-        }
-      ],
-      "appID": "com.firebird.firebird-emu"
-    },
-    {
-      "name": "Firebird Emu",
-      "bundleIdentifier": "com.adriweb.firebird-emu",
-      "developerName": "nspire-emus",
-      "version": "1.5",
-      "versionDate": "2023-01-07T16:36:46Z",
-      "versionDescription": "# A heap of improvements: Firebird 1.5\n\n**New features:**\r\n* UI language can be switched\r\n* The debugger has a command history, press Up and Down arrow keys\r\n* On Android, the system file picker is used now, which fixes \"Could not start the emulation\" in many cases\r\n* The color scheme follows the system now\r\n* Improved performance of CX flash access by ignoring certain cache flush requests\r\n\r\n**Improvements:**\r\n* LCD can be resized freely now\r\n* Performance improvements for the ARM and AArch64 JITs\r\n* Supports macOS 10.15 Catalina\r\n* The Android APK includes arm64-v8a now\r\n* The Windows ZIP includes software OpenGL now, so should work on more systems\r\n\r\n**Bugfixes:**\r\n* Fix the external LCD sometimes being invisible\r\n* Allows building with recent versions of the Android NDK with clang\r\n* Does not crash on exit due to use of incompatible compile flags with GCC\r\n* Android devices with a lower w/h ratio are marked as supported now\r\n* firebird-send supports different implementations of netcat now\r\n* GDB and remote debugger work after emulation autostart as well\r\n* Moving the cursor over keypad buttons no longer clicks\r\n* On Windows, the filename for snapshots can now include non-ASCII characters\r\n* Fix crash on emulation start on certain x86-64 systems\r\n* Fix freeze on exit on JIT builds for the iOS version\r\n\r\nNote: Firebird Emu requires Qt 5.9 now.\r\n\r\n_Repo for Arch, Debian, Fedora, Ubuntu and openSUSE: [via OBS](https://software.opensuse.org/download.html?project=home%3AVogtinator%3Afirebird-emu&package=firebird-emu&locale=en)._\r\n",
-      "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa",
-      "localizedDescription": "Third-party multi-platform emulator of the ARM-based TI-Nspire calculators.",
-      "iconURL": "https://i.imgur.com/U2HvZFZ.png",
-      "tintColor": "#010f00",
-      "size": 9953289,
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/64176728/211237020-f12974b6-5836-4bf1-a927-002f9e48a00f.png",
-        "https://user-images.githubusercontent.com/64176728/211237030-6c613bae-3a5e-4826-9fd6-20dfa628bd4a.png",
-        "https://user-images.githubusercontent.com/64176728/211237032-e8a72501-9c94-4d5f-b50c-ea65ef84c361.png"
-      ],
-      "subtitle": "ARM-based TI-Nspire calculator.",
-      "absoluteVersion": "1.5",
-      "versions": [
-        {
-          "absoluteVersion": "1.6",
-          "date": "2023-01-07T16:36:46Z",
-          "localizedDescription": "# New year, new version: Firebird 1.6\n\n**New features:**\r\n* New dialog for creating Flash images, which is also available in the Mobile UI! (#262) \r\n* Running as 64bit application on Windows is supported now (#234)\r\n* Polish translation is available now (#207)\r\n* CX II (/-T/CAS) calculators can now be emulated (#165)! However, with the current dumping programs you will not get a complete bootrom and booting the OS will fail.\r\n\r\n**Improvements:**\r\n* Multiple files can be sent in the Mobile UI and by dropping them into the main window on desktop (#279)\r\n Reimplemented emulation speed control: Now it's more accurate, especially on Windows\r\n* GitHub actions now performs automated builds for Android (armeabi-v7a and arm64-v8a in one APK), macOS and Windows (32bit and 64bit) on releases and pull requests (#283, #284, #285)\r\n* The \"installer\" for OS 4.5.3.14 (and later?) works now. It requires [fastboot RAM](https://hackspire.org/index.php?title=Memory-mapped_I/O_ports_on_CX#90030000_-_Fastboot_RAM) to persist state across reboots, which is now implemented.\r\n* More accurate emulation of the On button: It's now possible to enter Press-To-Test mode (#271)\r\n* Faster saving and loading of snapshots (#231)\r\n* More reliable USB file transfers\r\n* The debugger console now includes entered commands in the log\r\n* Support for PIE (position-independent executables) on x86_64. Previously, care needed to be taken that PIE was disabled, otherwise it would crash on start. (#211)\r\n* Building the JIT is disabled automatically if the platform does not support it (#197)\r\n* Firebird builds on FreeBSD now (#228, #248)\r\n\r\n**Bugfixes:**\r\n* File access on Android got fixed (#202 and its various duplicates)\r\n* Fix placement of keypad buttons in the touchpad area (#41)\r\n* Various fixes for the Mobile UI layout (#201)\r\n* The kit configuration page in the Mobile UI no longer causes the keyboard to pop up by default (#257)\r\n* Connecting with GDB on windows works now (#259, #260)\r\n* Some shades of grey were not displayed properly when emulating pre-CX models (#270)\r\n* Fix crash on AArch64/arm64 when executing certain instructions\r\n* The keypad reacts to touch events in the desktop version as well now (#292, #293)\r\n* Some places were no longer translated correctly after the introduction of language switching in 1.5\r\n* Keys could get stuck on focus changes. Now they're all released when the keypad loses focus (#287)\r\n* The Ctrl key now changes color when pressed\r\n* Emulation speed no longer remains unlimited after a failed file transfer\r\n\r\n_Repo for Arch, Debian, Fedora, Ubuntu and openSUSE: [via OBS](https://software.opensuse.org/download.html?project=home%3AVogtinator%3Afirebird-emu&package=firebird-emu&locale=en)._\r\n\r\nThere is work in progress to implement and improve support for running in the browser on Qt for WebAssembly (#294). A preview is available on https://nspire-emus.github.io/firebird/wasm/\n\nNOTE: BundleIdentifier changed in this version and automatic updates have been disabled until manual install occurs.",
-          "size": 9953289,
-          "version": "1.5",
-          "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa"
         }
       ],
       "appID": "com.firebird.firebird-emu"
@@ -2724,26 +2317,6 @@
       },
       "beta": false,
       "appID": "com.flyinghead.Flycast"
-    },
-    {
-      "beta": false,
-      "name": "Flycast",
-      "bundleIdentifier": "com.flyinghead.Flycast",
-      "developerName": "Flyinghead",
-      "subtitle": "Dreamcast, Naomi and Atomiswave emulator.",
-      "version": "v2.5",
-      "versionDate": "2025-05-07T11:36:00+02:00",
-      "versionDescription": "DCNet support, new on-screen gamepad",
-      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.5/Flycast-2.5.ipa",
-      "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
-      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
-      "tintColor": "9b54fd",
-      "size": 8161611,
-      "screenshotURLs": [
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
-        "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
-      ]
     },
     {
       "name": "Fortnite",
@@ -2931,35 +2504,6 @@
           "downloadURL": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
           "size": 5704322,
           "sha256": "1660903b0d3ec6cc4686bc99c028d3f46267018ecdac5ccf9c02778a96cb1a4d"
-        }
-      ]
-    },
-    {
-      "name": "iDOS",
-      "bundleIdentifier": "com.litchie.idosgames",
-      "developerName": "litchie",
-      "subtitle": "Play DOS games on iOS.",
-      "version": "2.1",
-      "versionDate": "2020-10-20",
-      "versionDescription": "- Support Mfi game controllers\n- Support external bluetooth keyboard (Text input only).\nYou can use Command-1, Command-2 .. for function keys.",
-      "downloadURL": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
-      "localizedDescription": "Play classic DOS games on your iPhone and iPad!\n\niDOS turns your device right into a powerful DOS gaming PC, with modern game control to make your old favorites as playable as possible.\n\nYou can also use iDOS for non-gaming purposes, such as word processing, casual programming. Apps in the DOS days are often simpler and surprisingly productive.\n\nKEYBOARD\n\niDOS provides a PC compatible on-screen keyboard with carefully designed layouts for different devices and orientations. The keyboard has a sliding control in landscape mode so that you can keep it from covering critical part of the screen.\n\nBluetooth keyboard is partially supported. We support ESC, function keys, and ordinary CTRL and ALT key bindings. Unfortunately the arrow keys can't be used for game control. You should use a bluetooth game controller instead.\n\nGAMEPAD\n\niDOS provides a virtual gamepad with key bindings that are fairly common in DOS games. You can customize the bindings. The DPAD works in 8-axis way. It can also be toggled into a joystick.\n\nExternal bluetooth game controllers are supported. Make sure your game controller is connected (System Settings->Bluetooth). To customize button bindings, go to iDOS in landscape mode, tap on bluetooth icon on the auto-hiding top bar.\n\nMOUSE\n\n* The screen area serves as a trackpad for moving mouse pointer.\n* Tap on the screen for left click. If direct touch is enabled, the mouse pointer will move to where you tap.\n* Hold one finger on the screen, and tap with another finger for right click.\n* On-screen mouse buttons are also provided for your convenience.\n* Bluetooth mice are only partially supported.\n\nSUPPORT\n\n- Visit https://litchie.com/dospad for more information.\n- Send email to idos@litchie.com\n- Follow the developer on Twitter: https://twitter.com/litchiedev\n- iDOS is open source, report issues on https://github.com/litchie/dospad",
-      "iconURL": "https://i.imgur.com/Yah6zFk.png",
-      "tintColor": "#042eef",
-      "size": 5704322,
-      "screenshotURLs": [
-        "https://i.imgur.com/hRMA2Zr.png",
-        "https://i.imgur.com/gvhvQpo.png",
-        "https://i.imgur.com/NHOE1ba.png",
-        "https://i.imgur.com/eBEqmnt.png"
-      ],
-      "versions": [
-        {
-          "version": "2.1",
-          "date": "2020-10-20",
-          "downloadURL": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
-          "localizedDescription": "- Support Mfi game controllers\n- Support external bluetooth keyboard (Text input only).\nYou can use Command-1, Command-2 .. for function keys.",
-          "size": 5704322
         }
       ]
     },
@@ -3493,65 +3037,6 @@
       ]
     },
     {
-      "name": "iNDS",
-      "bundleIdentifier": "net.nerd.iNDS",
-      "developerName": "iNDS Team",
-      "subtitle": "Revival of the Nintendo DS emulator for iOS.",
-      "version": "1.10.7",
-      "versionDate": "2020-02-10",
-      "versionDescription": "Version 1.10.7 adds better support for Dark Mode on iOS, thus fixing #129 and #148. Additionally, landscape mode support for modern iPhones (after iPhone X) was improved, fixing #153. Additionally, a bug was fixed in which the status bar would appear in-game and not be dismissable.",
-      "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
-      "localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
-      "iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
-      "tintColor": "FC2125",
-      "size": 857669,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
-        }
-      ],
-      "screenshotURLs": [
-        "https://static.appdb.to/images/cydia-1900000021-iphone-0.png",
-        "https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
-        "https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
-      ]
-    },
-    {
-      "name": "iNDS",
-      "bundleIdentifier": "net.nerd.iNDS",
-      "developerName": "iNDS Team",
-      "subtitle": "Revival of the Nintendo DS emulator for iOS.",
-      "version": "1.10.8",
-      "versionDate": "2021-03-01T22:39:20Z",
-      "versionDescription": "Version 1.10.8 fixes the cover art system, thus closing #190. ~~There also appears to be an issue with the previous Cydia release being corrupted, so hopefully, that is fixed in this version.~~\r\n\r\n**Full Changelog**\r\n- Fixed cover art system (#203). Thanks, @unlmtd.\r\n- Fixed compilation errors (#191). Thanks, @jdkula.",
-      "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-      "localizedDescription": "iNDS is a derivation of the previous Nintendo DS emulator apps for iOS: nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. The iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
-      "iconURL": "https://i.imgur.com/DbWJeF8.png",
-      "tintColor": "#fc2125",
-      "size": 8553596,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
-        }
-      ],
-      "screenshotURLs": [
-        "https://i.imgur.com/ap8Er1K.png",
-        "https://i.imgur.com/EgfrobI.png",
-        "https://i.imgur.com/9gLwHGD.png"
-      ],
-      "versions": [
-        {
-          "version": "1.10.8",
-          "date": "2021-03-01T22:39:20Z",
-          "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-          "localizedDescription": "Version 1.10.8 fixes the cover art system, thus closing #190. ~~There also appears to be an issue with the previous Cydia release being corrupted, so hopefully, that is fixed in this version.~~\r\n\r\n**Full Changelog**\r\n- Fixed cover art system (#203). Thanks, @unlmtd.\r\n- Fixed compilation errors (#191). Thanks, @jdkula.",
-          "size": 8553596
-        }
-      ]
-    },
-    {
       "name": "Infuse",
       "bundleIdentifier": "com.dangerouspixel.infuse",
       "developerName": "Dangerous Pixel",
@@ -3614,72 +3099,6 @@
         }
       ],
       "appID": "com.Lema.Michael.InstagramApp"
-    },
-    {
-      "name": "Instagram++",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Fouad Raheb",
-      "subtitle": "A must-have tweak for Instagram users!",
-      "localizedDescription": "Regram for instagram!\n\nFeed Enhancements\n\u2022 Download posts (Videos and Photos)\n\u2022 Repost posts (Videos and Photos)\n\u2022 Long press on posts to zoom\n\u2022 Copy text captions from posts\n\nStories\n\u2022 Save stories to Camera Roll\n\u2022 View stories anonymously\n\u2022 Manually mark stories as seen\n\u2022 Mute and unmute video stories\n\u2022 Upload from Camera Roll (Swipe up)\n\u2022 Disable auto switch between stories\n\u2022 Hide stories bar from feed\n\nProfile\n\u2022 Show if other users follow you\n\u2022 Long press on profile image to zoom\n\u2022 Show exact value of numerical stats\n\nDirect Messages\n\u2022 Disable read receipts\n\u2022 Save messaged stories to Camera Roll\n\u2022 Disable screenshot detection in stories\n\nSpoofing (Local Only)\n\u2022 Verify your profile\n\u2022 Followers count\n\u2022 Following count\n\u2022 Uploads count\n\nAnd More!",
-      "iconURL": "https://img.ipa4fun.com/ab/4f/56/389801252-logo.webp",
-      "tintColor": "d111c9",
-      "category": "Social",
-      "screenshotURLs": [
-        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-1.webp",
-        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-2.webp",
-        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-3.webp",
-        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-4.webp",
-        "https://img.ipa4fun.com/ab/4f/56/389801252-screenshot-5.webp"
-      ],
-      "version": "356.1.0",
-      "versionDate": "2025-03-04",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v356.1.0.+.Regram.B15.Cracked.ipa",
-      "versionDescription": "\u2022 Updated Instagram to v320.0.4",
-      "size": 117000000,
-      "versions": [
-        {
-          "version": "356.1.0",
-          "date": "2025-03-04",
-          "localizedDescription": "\u2022 Updated Instagram to v356.1.0\n\u2022 Replaced old instagram tweak with Regram",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v356.1.0.+.Regram.B15.Cracked.ipa",
-          "size": 117000000
-        },
-        {
-          "version": "310.0.4",
-          "date": "2024-04-30",
-          "localizedDescription": "\u2022 Updated Instagram to v320.0.4",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v310.0.4.+.Rocket+.v3.8.18.+.Plus+.v2.5.0K.ipa",
-          "size": 117000000
-        },
-        {
-          "version": "301.1",
-          "date": "2023-10-19",
-          "localizedDescription": "\u2022 Updated Instagram to v303.1",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v301.1.+.Rocket.v3.8.13K.+.Plus.v2.5.0K.ipa",
-          "size": 107000000
-        }
-      ],
-      "beta": false
-    },
-    {
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Majd Alfhaily",
-      "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/Instagram_v177.0_Rocket_v3.7.18.ipa",
-      "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/rocket.jpg",
-      "localizedDescription": "Rocket for Instagram is the one and only tweak that you'll need for Instagram. Made by Instagram users for Instagram users.\nAnonymous Viewer\n\nView other users' stories and messages without notifying them that you've seen their media.\nGrid Feed Layout\n\nRocket for Instagram brings the much-beloved grid layout for the home feed.\nSave Posts to Gallery\n\nWith Rocket for Instagram, you can save any photo or video posted on Instagram to your device.\nFriendship Status\n\nCheck whether other users follow you or not by simply visiting their own profile.",
-      "name": "Instagram++",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
-      ],
-      "size": 71036797,
-      "subtitle": "Instagram Rocket",
-      "tintColor": "EF9141",
-      "version": "177.0",
-      "versionDate": "2021-03-01T16:00:00-06:00",
-      "versionDescription": "Updated Instagram and Rocket"
     },
     {
       "name": "iPoGo ",
@@ -3752,240 +3171,6 @@
           }
         ]
       },
-      "appID": "app.ish.iSH"
-    },
-    {
-      "bundleIdentifier": "app.ish.iSH",
-      "name": "iSH",
-      "developerName": "Theodore Dubois and contributors",
-      "iconURL": "https://ish.app/assets/icon-full.png",
-      "tintColor": "000000",
-      "subtitle": "Linux shell for iOS",
-      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "screenshotURLs": [
-        "https://ish.app/assets/front-iphone-full.png"
-      ],
-      "version": "Build 796",
-      "versionDate": "2025-11-08T06:10:51+00:00",
-      "versionDescription": "Automated daily build",
-      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/796/iSH.ipa",
-      "size": 4603438
-    },
-    {
-      "bundleIdentifier": "app.ish.iSH",
-      "name": "iSH",
-      "developerName": "Theodore Dubois and contributors",
-      "iconURL": "https://ish.app/assets/icon-full.png",
-      "tintColor": "000000",
-      "subtitle": "Linux shell for iOS",
-      "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
-      "screenshotURLs": [
-        "https://ish.app/assets/front-iphone-full.png",
-        "https://user-images.githubusercontent.com/64176728/216813647-1f660131-b5fe-4951-b46b-44fcfad0c2f2.png"
-      ],
-      "version": "1.3.2",
-      "versionDate": "2023-04-23T04:37:22+00:00",
-      "versionDescription": "New stuff:\r\n- iSH now supports custom themes\r\n- Preferences are now exposed via procfs\r\n- Some more app icon choices\r\n- Hyperlinks created by OSC 8 are underlined instead of invisible\r\n\r\nFixed bugs:\r\n- Forward SO_RCVTIMEO, SO_SNDTIMEO in setsockopts to support snac\r\n- Add about four dozen SIMD instructions to improve support for nodejs and Rust\r\n- Fix bottom keyboard inset for iPad, Stage Manager, and devices with no home button\r\n- Implement /proc/pid/task to fix recent versions of GDB\r\n- Fix VoiceOver focus stealing keyboard focus on iOS 15+\r\n- Resolve an issue with xadd causing git clones to hang\r\n- Trigger segfault on unaligned cmpxchg8b, which iSH does not support\r\n- Fix a race condition that causes some output to be lost\r\n- Fix toolbar button sizing",
-      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/494/iSH.ipa",
-      "size": 4183791,
-      "versions": [
-        {
-          "version": "1.3.2",
-          "date": "2023-04-23T04:37:22+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/494/iSH.ipa",
-          "localizedDescription": "New stuff:\r\n- iSH now supports custom themes\r\n- Preferences are now exposed via procfs\r\n- Some more app icon choices\r\n- Hyperlinks created by OSC 8 are underlined instead of invisible\r\n\r\nFixed bugs:\r\n- Forward SO_RCVTIMEO, SO_SNDTIMEO in setsockopts to support snac\r\n- Add about four dozen SIMD instructions to improve support for nodejs and Rust\r\n- Fix bottom keyboard inset for iPad, Stage Manager, and devices with no home button\r\n- Implement /proc/pid/task to fix recent versions of GDB\r\n- Fix VoiceOver focus stealing keyboard focus on iOS 15+\r\n- Resolve an issue with xadd causing git clones to hang\r\n- Trigger segfault on unaligned cmpxchg8b, which iSH does not support\r\n- Fix a race condition that causes some output to be lost\r\n- Fix toolbar button sizing",
-          "size": 4183791
-        },
-        {
-          "version": "Build 484",
-          "date": "2023-04-23T10:05:03+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/484/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4225426
-        },
-        {
-          "version": "Build 483",
-          "date": "2023-04-23T06:07:57+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/483/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4225981
-        },
-        {
-          "version": "Build 482",
-          "date": "2023-04-23T04:37:22+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/482/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183791
-        },
-        {
-          "version": "Build 481",
-          "date": "2023-04-22T06:08:01+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/481/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183616
-        },
-        {
-          "version": "Build 480",
-          "date": "2023-04-21T06:08:02+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/480/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183618
-        },
-        {
-          "version": "Build 479",
-          "date": "2023-04-19T06:08:28+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/479/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183615
-        },
-        {
-          "version": "Build 478",
-          "date": "2023-04-14T06:08:22+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/478/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183062
-        },
-        {
-          "version": "Build 477",
-          "date": "2023-04-10T06:09:44+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/477/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183084
-        },
-        {
-          "version": "Build 476",
-          "date": "2023-04-07T06:08:10+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/476/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183193
-        },
-        {
-          "version": "Build 475",
-          "date": "2023-04-06T06:07:21+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/475/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183183
-        },
-        {
-          "version": "Build 474",
-          "date": "2023-04-01T06:07:15+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/474/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183196
-        },
-        {
-          "version": "Build 473",
-          "date": "2023-03-31T06:07:35+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/473/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183189
-        },
-        {
-          "version": "Build 472",
-          "date": "2023-03-30T06:07:34+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/472/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183201
-        },
-        {
-          "version": "Build 471",
-          "date": "2023-03-29T06:07:32+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/471/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183199
-        },
-        {
-          "version": "Build 470",
-          "date": "2023-03-27T06:07:58+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/470/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183201
-        },
-        {
-          "version": "Build 469",
-          "date": "2023-03-26T06:06:51+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/469/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183205
-        },
-        {
-          "version": "Build 468",
-          "date": "2023-03-25T06:07:28+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/468/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183183
-        },
-        {
-          "version": "Build 467",
-          "date": "2023-03-24T06:10:23+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/467/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183196
-        },
-        {
-          "version": "Build 466",
-          "date": "2023-03-23T06:07:10+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/466/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183189
-        },
-        {
-          "version": "Build 465",
-          "date": "2023-03-18T06:07:18+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/465/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183185
-        },
-        {
-          "version": "Build 454",
-          "date": "2023-02-16T06:07:30+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/454/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183985
-        },
-        {
-          "version": "Build 452",
-          "date": "2023-02-14T06:07:48+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/452/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183981
-        },
-        {
-          "version": "Build 451",
-          "date": "2023-02-12T06:07:00+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/451/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177809
-        },
-        {
-          "version": "Build 450",
-          "date": "2023-02-11T06:06:55+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/450/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177826
-        },
-        {
-          "version": "Build 449",
-          "date": "2023-02-10T06:27:51+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/449/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177822
-        },
-        {
-          "version": "Build 448",
-          "date": "2023-02-08T06:25:45+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/448/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177813
-        },
-        {
-          "version": "Build 447",
-          "date": "2023-02-03T06:07:41+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/447/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177818
-        }
-      ],
       "appID": "app.ish.iSH"
     },
     {
@@ -4282,50 +3467,6 @@
       "appID": "com.example.mame4ios"
     },
     {
-      "name": "MAME4iOS",
-      "bundleIdentifier": "com.example.mame4ios",
-      "developerName": "yoshisuga",
-      "subtitle": "A MAME Arcade emulator for iOS.",
-      "version": "2022.5",
-      "versionDate": "2022-12-12T02:16:35Z",
-      "versionDescription": "# 2022.3\n\n# Version 2022.3\r\n\r\n* iOS 16 support\r\n",
-      "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-139.ipa",
-      "localizedDescription": "MAME stands for Multi Arcade Machine Emulator. This app lets you play arcade games from the past 30+ years on your iPhone, iPad, macOS, or AppleTV.\n\nMore than 2000 games are supported, and the currently supported romset version is MAME 0.139u1 (September 2010).\n\nOther nifty features include:\n* 64-bit binary to run on modern and future iOS devices\n* Supports modern device screen sizes, including iPhone X/XR/XS/XS Max and iPad Pro\n* A native iOS/iPadOS/tvOS frontend (by @ToddLa, new in 2020!)\n* A native Metal rendering engine (by @ToddLa, new in 2020!)\n* tvOS support (new in 2019!)\n* An in-app web server to transfer files from your computer (new in 2019!)\n* Transfer ROMs, Artwork, and ROMSETs via AirDrop or iOS File Sharing (new in 2020!)\n* Multiple MFI controllers (up to 4 with dual analog support - @DarrenBranford)\n* Supports using the touch screen as a lightgun\n* Turbo mode toggle for buttons\n* Touch analog for games like Arkanoid\n* Builds in Xcode 11.x/12.x and runs on latest iOS 13/14 versions",
-      "iconURL": "https://i.imgur.com/gZCjhLl.png",
-      "tintColor": "#51bacc",
-      "size": 52332306,
-      "permissions": [
-        {
-          "type": "bluetooth",
-          "usageDescription": "We need bluetooth for peer play and steam controllers."
-        }
-      ],
-      "screenshotURLs": [
-        "https://i.imgur.com/0JkUpEA.png",
-        "https://i.imgur.com/UJXiIUM.png"
-      ],
-      "absoluteVersion": "2022.3",
-      "appID": "com.example.mame4ios",
-      "versions": [
-        {
-          "absoluteVersion": "2022.5",
-          "date": "2022-12-12T02:16:35Z",
-          "localizedDescription": "# 2022.5\n\n* Updated to [MAME 250](https://www.mamedev.org/releases/whatsnew_0250.txt).\r\n* tvOS UX: use a Alert instead of a inline Segmented Control.\r\n* Show upload feedback in Web Server UX.\r\n* Added `Make First Favorite` to game context menu.\r\n",
-          "size": 52332306,
-          "version": "2022.5",
-          "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-139.ipa"
-        },
-        {
-          "version": "2022.3",
-          "date": "2022-09-17T02:33:58Z",
-          "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.3/MAME4tvOS-2022.3-139.ipa",
-          "localizedDescription": "# 2022.3\n\n# Version 2022.3\r\n\r\n* iOS 16 support\r\n",
-          "size": 46033990,
-          "absoluteVersion": "2022.3"
-        }
-      ]
-    },
-    {
       "name": "Marvel Contest of Champions",
       "bundleIdentifier": "com.iosgods.marvelcontestofchampions",
       "developerName": "iOSGods",
@@ -4421,42 +3562,6 @@
         "privacy": []
       },
       "appID": "net.namedfork.minivmac"
-    },
-    {
-      "name": "Mini vMac",
-      "bundleIdentifier": "net.namedfork.minivmac",
-      "developerName": "Gryphel Project & zydeco",
-      "subtitle": "A miniature early Macintosh emulator.",
-      "version": "2.5",
-      "versionDate": "2022-05-26T18:30:55Z",
-      "versionDescription": "# Mini vMac for iOS 2.5\n\n* Update to Mini vMac 37.03 beta\r\n* Fixed crash when deleting disk images on iPad\r\n* Adds recently used disks to quick actions menu\r\n* Removed custom presentation modes for disk and settings screens\r\n* Doesn't show \"The developer of this app needs to update it to work with this version of iOS\" error when installing IPA on iOS 15",
-      "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.5/minivmac4ios-2.5.ipa",
-      "localizedDescription": "Features\n\n\u2022 Emulates Mac Plus, Mac II or Mac 128K\n\u2022 Full simulated keyboard (including all Mac keys)\n\u2022 Full sound output\n\u2022 Uses external keyboard if available\n\u2022 Regulable emulation speed\n\u2022 Easy(ish) to import/export disk images\n\nPlease check out the github README for usage instructions: https://github.com/zydeco/minivmac4ios",
-      "iconURL": "https://i.imgur.com/MGxGvKR.png",
-      "tintColor": "#dd2b03",
-      "size": 1194371,
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/64176728/211237407-e79d6562-c6c2-4a69-b8ea-4414e6b97be0.png",
-        "https://user-images.githubusercontent.com/64176728/211237433-ca07c970-747e-4fd1-a206-be07384183cb.png",
-        "https://user-images.githubusercontent.com/64176728/211237435-27c3a84c-7213-4a55-b4d9-b7a9362ffb36.png"
-      ],
-      "permissions": [
-        {
-          "type": "background-audio",
-          "usageDescription": "This allows the application to continue running audio in the background."
-        }
-      ],
-      "absoluteVersion": "2.5",
-      "versions": [
-        {
-          "version": "2.5",
-          "date": "2022-05-26T18:30:55Z",
-          "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.5/minivmac4ios-2.5.ipa",
-          "localizedDescription": "# Mini vMac for iOS 2.5\n\n* Update to Mini vMac 37.03 beta\r\n* Fixed crash when deleting disk images on iPad\r\n* Adds recently used disks to quick actions menu\r\n* Removed custom presentation modes for disk and settings screens\r\n* Doesn't show \"The developer of this app needs to update it to work with this version of iOS\" error when installing IPA on iOS 15",
-          "size": 1194371,
-          "absoluteVersion": "2.5"
-        }
-      ]
     },
     {
       "name": "Minutes: AI Meeting Note Taker",
@@ -4635,26 +3740,6 @@
         }
       ],
       "appID": "org.coolstar.odyssey"
-    },
-    {
-      "name": "Odyssey",
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "developerName": "Odyssey Team",
-      "subtitle": "An iOS 13.0-13.7 jailbreak.",
-      "version": "1.4.3",
-      "versionDate": "2023-04-03",
-      "versionDescription": "- Update Sileo to 2.3-1",
-      "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.4.3/Odyssey-1.4.3.ipa",
-      "localizedDescription": "Supporting iOS Versions: 13.0 - 13.7.\nOdyssey is the first jailbreak to be written almost entirely in Swift. Completely open source and welcomes community contributions and pull requests, as a tribute to the dearly departed s0uthwes and his continued optimism and faith in the project. Comes with the open source Procursus bootstrap, designed from the ground up with openness and compatiblity in mind. Along with a new tweak injection platform, libhooker.",
-      "iconURL": "https://theodyssey.dev/assets/images/icon.png",
-      "tintColor": "D287F4",
-      "size": 27200000,
-      "beta": false,
-      "screenshotURLs": [
-        "https://theodyssey.dev/assets/images/ss-1.png",
-        "https://theodyssey.dev/assets/images/ss-2.png",
-        "https://theodyssey.dev/assets/images/ss-3.png"
-      ]
     },
     {
       "name": "OldOS",
@@ -4986,56 +4071,6 @@
         }
       ],
       "appID": "com.virtualapplications.play"
-    },
-    {
-      "name": "Play!",
-      "bundleIdentifier": "com.virtualapplications.play",
-      "appID": "com.virtualapplications.play",
-      "developerName": "Jean-Philip Desjardins",
-      "subtitle": "PlayStation 2 Games on iOS.",
-      "version": "0.58-8-g70a126e3",
-      "versionDate": "2023-01-10",
-      "versionDescription": "Update submodules. [70a126e3]",
-      "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/70a126e3/Play.ipa",
-      "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite game's disc and have fun!\n\n\u2022 No BIOS required. Play! is an high-level emulator.\n\u2022 Easy configuration. No custom settings to fix specific games.\n\u2022 Available on many platforms, making sure the experience is the same quality everywhere.",
-      "iconURL": "https://i.imgur.com/NOi1cdl.png",
-      "tintColor": "#5f5fff",
-      "size": 33200000,
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/64176728/209461585-74b856e0-ae30-41be-91ce-d3eb262be260.png",
-        "https://user-images.githubusercontent.com/64176728/209461763-c122f9f6-5103-4c59-b730-0e5b34b5937b.png",
-        "https://user-images.githubusercontent.com/64176728/209461593-f771a49d-a44d-4d9c-8bb7-dfab48c5dd25.png"
-      ],
-      "versions": [
-        {
-          "version": "0.58-8-g70a126e3",
-          "date": "2023-01-10",
-          "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/70a126e3/Play.ipa",
-          "localizedDescription": "Update submodules. [70a126e3]",
-          "size": 33200000
-        },
-        {
-          "version": "0.58-7-gdf46379d",
-          "date": "2023-01-03",
-          "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/df46379d/Play.ipa",
-          "localizedDescription": "Add copy Qt DLL phase. [df46379d]",
-          "size": 33200000
-        },
-        {
-          "version": "0.57-22-g1126c39c",
-          "date": "2022-10-17",
-          "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/1126c39c/Play.ipa",
-          "localizedDescription": "Bug fixes and improvements.",
-          "size": 13371703
-        },
-        {
-          "version": "0.5",
-          "date": "2022-03-07",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Play.ipa",
-          "localizedDescription": "Bug fixes.",
-          "size": 12346902
-        }
-      ]
     },
     {
       "name": "Pocket Build",
@@ -5638,25 +4673,6 @@
       "appID": "eu.pokemmo.client"
     },
     {
-      "bundleIdentifier": "eu.pokemmo.client",
-      "developerName": "PokeMMO",
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=30920",
-      "iconURL": "https://pokemmo.com/build/images/altstore.f5930b35.png",
-      "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
-      "name": "PokeMMO",
-      "screenshotURLs": [
-        "https://pokemmo.com/build/images/screenshot/c.b5d935d8.png",
-        "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
-        "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png",
-        "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
-        "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
-      ],
-      "size": 135808526,
-      "tintColor": "73ACE2",
-      "version": "30920",
-      "versionDate": "2025-11-07T02:11:25+00:00"
-    },
-    {
       "name": "PokeMMO PTS",
       "bundleIdentifier": "eu.pokemmo.client.pts",
       "developerName": "PokeMMO",
@@ -5749,56 +4765,6 @@
       "appID": "org.ppsspp.ppsspp"
     },
     {
-      "name": "PPSSPP",
-      "bundleIdentifier": "org.ppsspp.ppsspp",
-      "developerName": "Henrik Rydg\u00e5rd",
-      "version": "1.13.2",
-      "versionDate": "2022-09-18T23:59:49Z",
-      "versionDescription": "# v1.13.2\n\n",
-      "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-      "localizedDescription": "PPSSPP can run your PSP games on your iPhone and iPad in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. Even on modern iPhones and iPads, you can often run at double the original resolution.",
-      "iconURL": "https://i.imgur.com/JP0Fncv.png",
-      "tintColor": "#21486b",
-      "size": 14509458,
-      "screenshotURLs": [
-        "https://i.imgur.com/CWl6GgH.png",
-        "https://i.imgur.com/SxmN1M0.png",
-        "https://i.imgur.com/sGWgR6z.png",
-        "https://i.imgur.com/AFKTdmZ.png"
-      ],
-      "subtitle": "PlayStation Portable games on iOS.",
-      "absoluteVersion": "1.13.2",
-      "appID": "org.ppsspp.ppsspp",
-      "versions": [
-        {
-          "version": "1.13.2",
-          "date": "2022-09-18T23:59:49Z",
-          "downloadURL": "https://github.com/QuarkSources/ppsspp-builder/releases/download/v1.13.2/PPSSPP_v1.13.2.ipa",
-          "localizedDescription": "# v1.13.2\n\n",
-          "size": 14509458,
-          "absoluteVersion": "1.13.2"
-        }
-      ]
-    },
-    {
-      "bundleIdentifier": "org.ppsspp.ppsspp",
-      "developerName": "PPSSPP Team",
-      "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/PPSSPP_v1.12.3-759-g5a6bf8b43.ipa",
-      "iconURL": "https://www.ppsspp.org/img/ppsspp-icon.png",
-      "localizedDescription": "Play your PSP games in HD!\nPPSSPP can run your PSP games on your PC in full HD resolution, and play them on Android too. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.\n\nEven on modern Android phones and tablets, you can often run at double the original resolution.\n\nEnhance your experience!\nPlay in HD resolutions and more\nPlay on a tablet for big-screen mobile gaming\nCustomize on-screen touch controls or use an external controller or keyboard\nSave and restore game state anywhere, anytime\nCrank up the anisotropic filtering and texture scaling\nContinue where you left off by transferring saves from your real PSP\nFree & Open Source\nPPSSPP is an open source project, licensed under the GPL 2.0 (or later). Anyone is welcome to contribute improvements to the code. Partly thanks to such contributions, PPSSPP's compatibility is steadily increasing, letting us all play our PSP games on the devices of our choice.",
-      "name": "PPSSPP Stable",
-      "screenshotURLs": [
-        "https://i.imgur.com/ef8iews.jpg",
-        "https://i.imgur.com/j50vMOv.jpg"
-      ],
-      "size": 33258309,
-      "subtitle": "PSP emulator for iOS",
-      "tintColor": "8BC3D3",
-      "version": "1.12.3",
-      "versionDate": "2022-01-25T12:00:00-06:00",
-      "versionDescription": "Updated to 1.12.3. Includes lots of bugfixes and improvements."
-    },
-    {
       "name": "Provenance",
       "bundleIdentifier": "com.provenance-emu.provenance",
       "developerName": "Provenance Team",
@@ -5874,35 +4840,6 @@
       "appID": "org.provenance-emu.provenance"
     },
     {
-      "name": "Provenance EMU",
-      "bundleIdentifier": "org.provenance-emu.provenance",
-      "developerName": "Joe Mattiello",
-      "subtitle": "Multi-emulator frontend for iOS & tvOS",
-      "version": "2.2.1",
-      "versionDate": "2022-12-30T00:01:00-05:00",
-      "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
-      "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
-      "localizedDescription": "Multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
-      "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
-      "tintColor": "#162434",
-      "size": 77010038,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows Provenance to use images from your Photo Library as game artwork."
-        }
-      ],
-      "screenshotURLs": [
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2306.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2308.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2309.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2310.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
-        "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
-      ]
-    },
-    {
       "name": "Ready",
       "bundleIdentifier": "at.spiderlab.c64",
       "developerName": "T-Pau",
@@ -5942,37 +4879,6 @@
         "privacy": []
       },
       "appID": "at.spiderlab.c64"
-    },
-    {
-      "name": "Ready",
-      "bundleIdentifier": "at.spiderlab.c64",
-      "developerName": "T-Pau",
-      "version": "1.6",
-      "versionDate": "2020-07-08T15:55:00Z",
-      "versionDescription": "# Release 1.6\n\n- Rename to Ready.\r\n\r\n- Add Commodore 16 and Plus/4 emulation.\r\n\r\n- Add ZX Spectrum emulation. Supported models are 16k, 48k, Specturm+, 128k, +2.\r\n\r\n- Add new app icons, one for each supported computer.\r\n",
-      "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6/Ready-1.6.ipa",
-      "localizedDescription": "Ready is an open source emulator for the following 8 bit home computers:\n* Commodore 64\n* Commodore VIC-20\n* Commodore 16, Plus/4\n* Sinclair ZX Spectrum (16k, 48k, Spectrum+, 128k, +2)\n\nWith preliminary support for these computers:\n* Atari 600XL, 800XL\n* Commodore 128\n* Commander X16\n\nIt is based on atari800, fuse, Vice, and x16-emulator, which provide accurate emulation of many hardware variants and peripherals. Ready requires at least iPadOS 13.5.\n\nReady aims to approximate the feeling of using actual hardware. Rather than configuring abstract settings, you select hardware components. The software keyboard is a facsimile of the original, reflecting the different existing styles. Even the noise of the disk drive is emulated. The Library section offers a way to organize a large collection of games, demos and programs. The emulated hardware can be customized for each entry.\n\nThe Inbox provides a place to quickly try new programs. You can easily move the ones you want to keep to the library.\n\nTools mode allows attaching a cartridge like Action Replay or Final Cartridge and a collection of disks with your favorite tools, to help you dig into the programs, like back in the day.",
-      "iconURL": "https://i.imgur.com/S9WS2C2.png",
-      "tintColor": "#1c71c6",
-      "size": 63972294,
-      "screenshotURLs": [
-        "https://i.imgur.com/CN3fR34.png",
-        "https://i.imgur.com/q8ueM8W.png",
-        "https://i.imgur.com/2EHk0Wp.png",
-        "https://i.imgur.com/F3bXlmW.png"
-      ],
-      "subtitle": "8-bit games for your iPad.",
-      "absoluteVersion": "1.6",
-      "versions": [
-        {
-          "version": "1.6",
-          "date": "2020-07-08T15:55:00Z",
-          "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6/Ready-1.6.ipa",
-          "localizedDescription": "# Release 1.6\n\n- Rename to Ready.\r\n\r\n- Add Commodore 16 and Plus/4 emulation.\r\n\r\n- Add ZX Spectrum emulation. Supported models are 16k, 48k, Specturm+, 128k, +2.\r\n\r\n- Add new app icons, one for each supported computer.\r\n",
-          "size": 63972294,
-          "absoluteVersion": "1.6"
-        }
-      ]
     },
     {
       "name": "Reddit++",
@@ -6087,25 +4993,6 @@
       "appID": "com.reddit.Reddit"
     },
     {
-      "beta": false,
-      "bundleIdentifier": "com.reddit.Reddit",
-      "developerName": "level3tjg",
-      "downloadURL": "https://github.com/qnblackcat/RedditFilter_Sideloaded/releases/download/v2023.50.1-1.1.1/RedditFilter_2023.50.1_1.1.1.ipa",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
-      "localizedDescription": "- RedditFilter & RedditSideloadFix are made by u/level3tjg!!!\n- Filter out unwanted content from your Reddit feed. Configurable from in-app settings.\n- Requires iOS 14.0 or later.\n- Source code: \nhttps://github.com/level3tjg/RedditFilter\nhttps://github.com/level3tjg/RedditSideloadFix",
-      "name": "RedditFilter",
-      "screenshotURLs": [
-        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/1.PNG",
-        "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG"
-      ],
-      "size": 142121615,
-      "subtitle": "Filter out unwanted content from your Reddit feed. Configurable from in-app settings",
-      "tintColor": "ff4600",
-      "version": "2023.50.1",
-      "versionDate": "2024-01-05T12:00:00-01:00",
-      "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
-    },
-    {
       "name": "Renovate AI : Home Design",
       "bundleIdentifier": "com.billymoore.renovateaihomedesign",
       "developerName": "BillyMoore",
@@ -6168,44 +5055,6 @@
       "versionDescription": "Updated RetroArch to 1.10.1. View the changelog here: https://www.libretro.com/index.php/retroarch-1-10-1-release/"
     },
     {
-      "name": "RetroArch",
-      "bundleIdentifier": "com.libretro.RetroArchiOS11",
-      "developerName": "libretro",
-      "subtitle": "Cross-platform, sophisticated frontend for emulation.",
-      "version": "1.12.0",
-      "versionDate": "2022-10-17",
-      "versionDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
-      "downloadURL": "https://buildbot.libretro.com/stable/1.12.0/apple/ios-arm64/RetroArch.ipa",
-      "localizedDescription": "RetroArch is a frontend for a plethora of emulators. Almost every Retro console can be run using one of RetroArch's downloadable cores.\n\nThere are several ways to customize your experience by installing different themes, rearranging your touchscreen controls, and downloading game box art.\nRetroArch enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!\n\nCheck out all of RetroArch's awesome features at our website: https://www.retroarch.com/",
-      "iconURL": "https://i.imgur.com/pqgVB0v.png",
-      "tintColor": "#000000",
-      "size": 435770036,
-      "screenshotURLs": [
-        "https://i.imgur.com/uv1x1c4.png",
-        "https://i.imgur.com/qJdyNl2.png",
-        "https://i.imgur.com/fijaR4n.png",
-        "https://i.imgur.com/B3J5zMB.png",
-        "https://i.imgur.com/4Mj77IY.png"
-      ],
-      "versions": [
-        {
-          "version": "1.12.0",
-          "date": "2022-10-18",
-          "downloadURL": "https://buildbot.libretro.com/stable/1.12.0/apple/ios-arm64/RetroArch.ipa",
-          "localizedDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
-          "size": 255389680
-        },
-        {
-          "version": "1.9.0",
-          "date": "2020-08-07",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/RetroArch.ipa",
-          "localizedDescription": "Many bug fixes and quality of life improvements. See full changelog for details: https://github.com/libretro/RetroArch/blob/master/CHANGES.md",
-          "size": 255389680
-        }
-      ],
-      "appID": "com.libretro.RetroArchiOS11"
-    },
-    {
       "name": "Rewound",
       "bundleIdentifier": "com.louisanslow.record",
       "developerName": "Louis Anslow",
@@ -6227,60 +5076,6 @@
           "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa",
           "size": 5628716,
           "sha256": "6fe3f0e30e23e1a0a3f224245dfdb1f804de7bedf46496110b797eb271282721"
-        }
-      ],
-      "appID": "com.louisanslow.record"
-    },
-    {
-      "bundleIdentifier": "com.louisanslow.record",
-      "developerName": "Louis Anslow",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Rewound.ipa",
-      "iconURL": "https://pbs.twimg.com/profile_images/1185480705205325825/2pSbjkEz_400x400.jpg",
-      "localizedDescription": "Rewound turns your smartphone into your favourite MP3 player from the early 2000s. Access your whole Apple Music library with the swipe of a clickywheel.",
-      "name": "Rewound",
-      "screenshotURLs": [
-        "https://i.imgur.com/SCfCAr0.png",
-        "https://i.imgur.com/vPEuaf4.jpg"
-      ],
-      "size": 5628716,
-      "subtitle": "iPod Classic for iPhone",
-      "tintColor": "000000",
-      "version": "2019.7",
-      "versionDate": "2020-03-24T14:00:00-06:00",
-      "versionDescription": "Rewound has been pulled from AppStore. Further updates are unlikely."
-    },
-    {
-      "name": "Rewound",
-      "bundleIdentifier": "com.louisanslow.record",
-      "developerName": "Louis Anslow",
-      "subtitle": "Turn your iPhone into an iPod. Classic.",
-      "version": "2019.7",
-      "versionDate": "2019-12-09",
-      "versionDescription": "Small fixes.",
-      "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa",
-      "localizedDescription": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
-      "iconURL": "https://i.imgur.com/LfIRxqb.png",
-      "tintColor": "#9e968d",
-      "size": 5628716,
-      "permissions": [
-        {
-          "type": "music",
-          "usageDescription": "Rewound needs access to your music library to control your music."
-        }
-      ],
-      "screenshotURLs": [
-        "https://i.imgur.com/IfLobOR.png",
-        "https://i.imgur.com/IJcJ6WG.png",
-        "https://i.imgur.com/dVjieD9.png",
-        "https://i.imgur.com/kmC3NtZ.png"
-      ],
-      "versions": [
-        {
-          "version": "2019.7",
-          "date": "2019-12-09",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa",
-          "localizedDescription": "Small fixes.",
-          "size": 5628716
         }
       ],
       "appID": "com.louisanslow.record"
@@ -6404,27 +5199,6 @@
       "appID": "com.burbn.instagram"
     },
     {
-      "beta": false,
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Alfhaily & Qn_",
-      "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EdNlrmF07-VKts4Vb-ZNdn8Bl_HIJjiUKwnNGHEzOsmW4g?download=1",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
-      "localizedDescription": "Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
-      "name": "Rocket for Instagram",
-      "screenshotURLs": [
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
-        "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
-      ],
-      "size": 91750400,
-      "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 12.4 and later.",
-      "tintColor": "c72a96",
-      "version": "312.0.0",
-      "versionDate": "2024-01-05T12:00:00-01:00",
-      "versionDescription": "Changelog v312.0.0-3.8.19:\n- https://apt.alfhaily.me/depiction/4EYOXC"
-    },
-    {
       "name": "ScummVM",
       "bundleIdentifier": "org.scummvm.scummvm",
       "developerName": "ScummVM Team",
@@ -6451,42 +5225,6 @@
           "date": "2020-09-13",
           "localizedDescription": "Bug fixes.",
           "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/ScummVM.ipa",
-          "size": 57222372
-        }
-      ],
-      "appID": "org.scummvm.scummvm"
-    },
-    {
-      "name": "ScummVM",
-      "bundleIdentifier": "org.scummvm.scummvm",
-      "developerName": "ScummVM Team",
-      "subtitle": "Point and click adventures.",
-      "version": "2.6.0",
-      "versionDate": "2022-07-25",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://downloads.scummvm.org/frs/scummvm/2.6.0/scummvm-2.6.0-ios.ipa",
-      "localizedDescription": "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed!\n\nScummVM supports a huge library of adventures with over 250 games in total. It supports many classics published by legendary studios like LucasArts, Sierra On-Line, Revolution Software, Cyan, Inc. and Westwood Studios. Next to ground-breaking titles like the Monkey Island series, Broken Sword, Myst, Blade Runner and countless other games you will find some really obscure adventures and truly hidden gems to explore.",
-      "iconURL": "https://i.imgur.com/sSQhbwJ.png",
-      "tintColor": "#bf6a27",
-      "size": 92033520,
-      "screenshotURLs": [
-        "https://i.imgur.com/7BHTMT0.png",
-        "https://i.imgur.com/Fp24Isf.png",
-        "https://i.imgur.com/vD3UJfE.png"
-      ],
-      "versions": [
-        {
-          "version": "2.6.0",
-          "date": "2022-07-25",
-          "downloadURL": "https://downloads.scummvm.org/frs/scummvm/2.6.0/scummvm-2.6.0-ios.ipa",
-          "localizedDescription": "Bug fixes.",
-          "size": 92033520
-        },
-        {
-          "version": "2.2.0",
-          "date": "2020-09-13",
-          "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/ScummVM.ipa",
-          "localizedDescription": "Bug fixes.",
           "size": 57222372
         }
       ],
@@ -6627,54 +5365,6 @@
       "appID": "com.soundcloud.TouchApp"
     },
     {
-      "name": "SoundCloud++",
-      "bundleIdentifier": "com.soundcloud.TouchApp",
-      "developerName": "Rov3r",
-      "subtitle": "SoundCloud with no ads! Read Description.",
-      "localizedDescription": "DOES NOT WORK ON ALTSTORE/SIDESTORE. Requires Trollstore/Cert to install\n\nEnhance your SoundCloud experience with the following features:\n\n\u2022 Remove Ads\n\u2022 Remove Promoted Playlists\n\u2022 Remove Upsell Buttons\n\n\nHOW TO INSTALL IF NOT WORKING\n\n(iOS 15):\n\n1. Download the REGULAR SoundCloud app from the app store (IMPORTANT)\n2. Sign in to the app\n3. Delete the app while still signed in\n4. Download the IPA (app file) from the table below.\n5. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n6. Once installed, you can enjoy, as you should be logged in already.\n\n\n(iOS 16):\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the IPA (app file) from the table below.\n3. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n4. Sign in using your Google or Facebook account\n5. Use the same method uYou used for bypassing the unsafe installation login error\n\n\n(iOS 16) [Method 2]:\n\n1. Until fixed, users will have to link a Google or Facebook account to their SoundCloud. This can be done on the SoundCloud website.\n2. Download the REGULAR SoundCloud app from the AppStore\n3. Sign in to the app using Google or Facebook Account sign-in\n4. Delete the app while still signed in\n5. Download the IPA (app file) from the table below.\n6. Install using your preferred sideloading method** (AltStore, Sideloadly, appdb, etc.)\n7. Once installed, you can enjoy, as you should be logged in already.",
-      "iconURL": "https://i.imgur.com/a0VxTYB.jpeg",
-      "tintColor": "0a0a0a",
-      "screenshotURLs": [
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-3.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-4.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-5.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-6.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-7.webp",
-        "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-8.webp"
-      ],
-      "version": "7.65.4",
-      "versionDate": "2025-03-04",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.65.4.+.SCMusicPlus.v24.9.1-3.ipa",
-      "versionDescription": "\u2022 Updated SoundCloud to v7.65.4",
-      "size": 57600000,
-      "versions": [
-        {
-          "version": "7.65.4",
-          "date": "2025-03-04",
-          "localizedDescription": "\u2022 Updated SoundCloud to v7.65.4",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.65.4.+.SCMusicPlus.v24.9.1-3.ipa",
-          "size": 57600000
-        },
-        {
-          "version": "7.14.0",
-          "date": "2024-05-10",
-          "localizedDescription": "\u2022 Updated SoundCloud to v7.14.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.14.0.+.SCMusicPlus.v2.2.1.ipa",
-          "size": 57600000
-        },
-        {
-          "version": "7.2.0",
-          "date": "2023-10-22",
-          "localizedDescription": "\u2022 Updated SoundCloud to v7.2.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.2.0.+.SCMusicPlus.v2.2.1.ipa",
-          "size": 47600000
-        }
-      ],
-      "beta": false
-    },
-    {
       "name": "SpooferPro",
       "bundleIdentifier": "com.spooferpro.spooferpro",
       "developerName": "SpooferPro",
@@ -6797,106 +5487,6 @@
         ]
       },
       "appID": "com.spotify.client"
-    },
-    {
-      "name": "Spotify++ (NEW)",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "Eevee",
-      "subtitle": "A new and improved Spotify tweak!",
-      "localizedDescription": "This tweak makes Spotify think that you have a Premium subscription, granting free listening, just like Spotilife.\n\nAlthough there are restrictions:\n\n\u2022 Using \"Very High\" audio quality\n\u2022 Downloading songs/playlists (podcast downloads work, though)\n",
-      "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.webp",
-      "tintColor": "1fd362",
-      "category": "Entertainment",
-      "screenshotURLs": [
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.webp",
-        "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-6.webp"
-      ],
-      "version": "9.0.20",
-      "versionDate": "2025-03-04",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v9.0.20.+.Eevee.v5.8.7.ipa",
-      "versionDescription": "\u2022 Updated Spotify to v9.0.20\n\u2022 Updated Eevee to v5.8.7",
-      "size": 76500000,
-      "versions": [
-        {
-          "version": "9.0.20",
-          "date": "2025-03-04",
-          "localizedDescription": "\u2022 Updated Spotify to v9.0.20\n\u2022 Updated Eevee to v5.8.7",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v9.0.20.+.Eevee.v5.8.7.ipa",
-          "size": 76500000
-        },
-        {
-          "version": "8.9.80",
-          "date": "2024-10-09",
-          "localizedDescription": "(5.4 - Current)\n\n\u2022 Updated Ukrainian localization by @LIKVIDATOR1337\n\u2022 Updated Turkish localization by @gototheskinny\n\u2022 Updated Danish localization by @UnexcitingDean\n\n(5.3)\n\n\u2022 Liked Songs on artist page\n\u2022 Improved Reset Data option (now clears /Library/Caches/ too, progress animation)\n\u2022 Updated dumped configuration; fixed app crashes when clicking on three dots on song page\n\u2022 Updated swift-protobuf to 1.28.1 and Swift to version 6 (Xcode 16.0)\n\u2022 Fixed Download action app crashes, improved its hooking logic\n\u2022 PetitLyrics is now available for everyone\n\u2022 Updated Simplified Chinese localization by @xiangfeidexiaohuo\n\u2022 Updated Traditional Chinese localizaton by @ElliotCHEN37\n\u2022 Updated Vietnamese localization by @Richard-NDC\n\n(5.2)\n\n\u2022 Brazil loc by @emal0n\n\u2022 French localization corrections by @5jd\n\n(5.1)\n\n\u2022 French localization by @5jd\n\n(5.0)\n\n\u2022 Danish localization by @UnexcitingDean\n\u2022 Swiss German localization by @An0n-00\n\u2022 Polish localization by @CukierDev\n\u2022 Nepalese localization by @3xynos7\n\u2022 German localization corrections by @wlxxd\n\u2022 Azerbaijani localization by @by3lish\n\n(4.9)\n\n\u2022 Musixmatch source support for local files\n\u2022 Lyrics colors support for local files\n\u2022 Bulgarian localization by @schweppes-0x\n\u2022 Traditional Chinese localization corrections by @Neo1102\n\u2022 Korean localization by @speedyfriend433\n\u2022 Vietnamese localization by @Richard-NDC\n\u2022 German localization by @wlxxd\n\u2022 Persian localization by @Incognito-Coder\n\n(4.8)\n\n\u2022 Fixed original lyrics colors\n\u2022 Spanish localization by @longopy\n\u2022 Simplified Chinese localization by @xiangfeidexiaohuo\n\u2022 Italian localization by @LivioZ\n\u2022 Russian localization\n\u2022 Ukrainian localization by @LIKVIDATOR1337\n\u2022 Turkish localization by @gototheskinny\n\u2022 Traditional Chinese localization by @ElliotCHEN37\n\n(4.7)\n\n\u2022 Fixed lyrics not appearing issue\n\u2022 Fixed Premium patching for recent versions; removed static method\n\u2022 Musixmatch romanization and translation now work simultaneously\n\u2022 Added localizations support; feel free to open pull requests with your .lproj\n\n(4.6)\n\n\u2022 Fixed popups white background bug on iPad\n\n(4.5)\n\n\u2022 Musixmatch lyrics translation is now integrated natively\n\u2022 Local lyrics romanization for all sources\n\u2022 PetitLyrics source (only for Japanese users)\n\u2022 Added instrumental lyrics message\n\u2022 Fixed Musixmatch language code issues for some languages\n\u2022 Fixed native popups white background bug agian\n\u2022 Other minor improvements\n\n(4.4)\n\n\u2022 Fixed crashes on iOS 14 (Spotify 8.9.8) and added support for 8.9.54\n\u2022 Redesigned Settings\n\u2022 Option to show romanized lyrics on Musixmatch and Genius\n\u2022 Option to show translated Musixmatch lyrics\n\u2022 Musixmatch lyrics translation is now integrated natively\n\u2022 Local lyrics romanization for all sources\n\u2022 PetitLyrics source (only for Japanese users)\n\u2022 Added instrumental lyrics message\n\u2022 Fixed Musixmatch language code issues for some languages\n\u2022 Fixed native popups white background bug agian\n\u2022 Other minor improvements\n\n(4.3)\n\n\u2022 Fixed \"Couldn't load the lyrics for this song\" message when they are restricted on Musixmatch\n\u2022 Option to show fallback reasons in the lyrics card header\n\u2022 Updated OpenSpotifySafariExtension no longer mismatches on links like charts.spotify.com\n\n(4.2)\n\n\u2022 Real fix for crashes with LRCLIB\n\u2022 The tweak now searches only songs on Genius (no articles anymore)\n\u2022 Improved URLSession intercepts (fixes #182 and likely resolves login issues)\n\u2022 Fixed iPad Musixmatch token and blank area issues\n\u2022 Added Lyrics Colors option\n\u2022 Added version section and checking for update\n\n(4.1)\n\n\u2022 Original colors for lyrics available on Spotify\n\u2022 Fixed LRCLIB lyrics crash for some songs and issue of the settings view being too wide on iPad (pull request)\n\u2022 Overwrite Configuration option. Try using it if you experience issues like appearing ads; it might help, but it's not guaranteed\n\u2022 Musixmatch invalid token popup and better token input\n\u2022 Dynamic Premium patching method by default",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.80.+.Eevee.v5.4.ipa",
-          "size": 76500000
-        },
-        {
-          "version": "8.9.42",
-          "date": "2024-05-28",
-          "localizedDescription": "\u2022 Dynamic Premium Patching! - The tweak can now intercept Spotify requests to load user data, deserialize it, and modify the parameters in real-time. You can select the Dynamic Premium patching method in the EeveeSpotify settings.\n\u2022 Do Not Patch Premium option (for users with an active Premium subscription)\n\u2022 Reset Data option\n\u2022 Fixed native popups white background bug\n\u2022 Fixed opening Spotify links in the app when it's closed\n\nNOTE: When updating from an older tweak version, you need to go to EeveeSpotify settings and set the Premium patching method (either static or dynamic).\n\n\n(From v3.1)\n\n\u2022 Genius Fallback: Load lyrics from Genius if there is a problem with LRCLIB or Musixmatch\n\u2022 Updated OpenSpotifySafariExtension: Now supports all Spotify links and works great\n\u2022 Dark PopUps option\n\u2022 Improved lyrics colors (not so light and washed out, looks more like the original)\n\u2022 Improved song search algorithm on Genius or LRCLIB\n\u2022 Fixed EeveeSpotify settings crash when tapping on tabbar\n\u2022 Updated Musixmatch token alert message; the tweak now allows you to paste debug info",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.42.+.Eevee.v4.0.ipa",
-          "size": 71100000
-        },
-        {
-          "version": "8.9.38",
-          "date": "2024-05-10",
-          "localizedDescription": "\u2022 EeveeSpotify now supports LRCLIB and Musixmatch time-synced lyrics sources! You can select your preferred source in the tweak settings\n\u2022 Lyrics colors are now normalized\n\u2022 Fixed Genius issue where the tweak would pick a translation instead of the original lyrics",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.38.+.Eevee.v3.0.ipa",
-          "size": 68800000
-        },
-        {
-          "version": "8.9.36",
-          "date": "2024-05-08",
-          "localizedDescription": "\u2022 Fixed app crashing when opening the player\n\u2022 EeveeSpotify now replaces Spotify monthly limited lyrics with Genius! (If it shows the limit has been reached there are no lyrics available on genius, this is different to the lyrics spotify provide)\n\u2022 Added OpenWithSpotify extension to open Spotify links in safari (must be enabled)\n\u2022 Updated Spotify to v8.9.36",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.36.+.Eevee.v2.1.ipa",
-          "size": 69100000
-        },
-        {
-          "version": "8.9.34",
-          "date": "2024-04-30",
-          "localizedDescription": "\u2022 Replaced Spotify v8.6.42 (Spotilife) with Spotify v8.9.34 (Eevee)",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.34.+.Eevee.v1.4.1.ipa",
-          "size": 65900000
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.carplay-audio",
-          "get-task-allow",
-          "com.apple.developer.group-session",
-          "com.apple.developer.healthkit",
-          "keychain-access-groups",
-          "com.apple.developer.networking.multicast",
-          "aps-environment",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.siri",
-          "com.apple.developer.networking.wifi-info"
-        ],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "App accesses Apple Music for streaming music.",
-          "NSBluetoothAlwaysUsageDescription": "App requires continuous access to Bluetooth.",
-          "NSBluetoothPeripheralUsageDescription": "App uses Bluetooth for peripheral devices.",
-          "NSCameraUsageDescription": "App uses the camera for capturing photos or videos.",
-          "NSFaceIDUsageDescription": "App uses Face ID for authentication.",
-          "NSHealthUpdateUsageDescription": "App updates health-related data in Health.",
-          "NSHealthShareUsageDescription": "App shares health-related data with Health.",
-          "NSLocalNetworkUsageDescription": "App accesses devices on the local network.",
-          "NSMicrophoneUsageDescription": "App uses the microphone to record audio.",
-          "NSMotionUsageDescription": "App uses motion sensors for tracking movement.",
-          "NSPhotoLibraryAddUsageDescription": "App adds photos to the user's photo library.",
-          "NSPhotoLibraryUsageDescription": "App accesses the user's photo library.",
-          "NSUserTrackingUsageDescription": "App tracks user activity for advertising purposes."
-        }
-      },
-      "beta": false
     },
     {
       "name": "Spotify++ (Old)",
@@ -7380,26 +5970,6 @@
       ]
     },
     {
-      "name": "Taurine",
-      "bundleIdentifier": "com.odysseyteam.taurine",
-      "developerName": "Odyssey Team",
-      "subtitle": "Time to get amped.",
-      "version": "1.1.7",
-      "versionDate": "2023-08-23",
-      "versionDescription": "- Add support for up to 14.8.1",
-      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7b1/Taurine_1.1.7b1.ipa",
-      "localizedDescription": "Taurine is an iOS 14.0-14.8.1 jailbreak, utilising Procursus and Libhooker.",
-      "iconURL": "https://taurine.app/assets/images/icon.png",
-      "tintColor": "F65656",
-      "size": 31500000,
-      "beta": false,
-      "screenshotURLs": [
-        "https://taurine.app/assets/images/ss-1.png",
-        "https://taurine.app/assets/images/ss-2.png",
-        "https://taurine.app/assets/images/ss-3.png"
-      ]
-    },
-    {
       "name": "Temply: AI Video & Reels Maker",
       "bundleIdentifier": "com.blatant.templyaivideoreelsmaker",
       "developerName": "Blatant",
@@ -7474,45 +6044,6 @@
       "appID": "com.zhiliaoapp.musically"
     },
     {
-      "name": "TikTok++",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "aJBbo",
-      "subtitle": "TikTok with added features.",
-      "localizedDescription": "AC - An awesome tweak for TikTok!\n\nFeatures:\n\n\u2022 No Ads\n\u2022 Download Videos\n\u2022 Download Musics\n\u2022 Show/Hide UI button\n\u2022 Copy video decription\n\u2022 Copy video link\n\u2022 Copy Music link\n\u2022 Auto Play Next Video\n\u2022 Show progress bar\n\u2022 Confirm like\n\u2022 Confirm comment like\n\u2022 Confirm comment dislike\n\u2022 Confirm follow\n\u2022 Save profile image\n\u2022 Copy profile information\n\u2022 Extend bio\n\u2022 Extend comment\n\u2022 Always open in Safari\n\u2022 Changing region\n\u2022 Fake verify blue mark\n\u2022 Fake Follower count\n\u2022 Fake Following count\n\u2022 Padlock",
-      "iconURL": "https://img.ipa4fun.com/06/ac/ac/835599320-logo.webp",
-      "tintColor": "0b0b0b",
-      "category": "Social",
-      "screenshotURLs": [
-        "https://i.imgur.com/PMPlQVa.jpeg",
-        "https://i.imgur.com/YN0hG8M.jpeg",
-        "https://i.imgur.com/pmXZBpB.jpeg",
-        "https://i.imgur.com/bia0rue.jpeg",
-        "https://i.imgur.com/tJtEO1r.jpeg"
-      ],
-      "version": "38.7.0",
-      "versionDate": "2025-03-04",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v38.7.0.+.AC.v2.0.ipa",
-      "versionDescription": "\u2022 Updated TikTok to v38.7.0\n\u2022 Replaced BHTikTok with AC",
-      "size": 226000000,
-      "versions": [
-        {
-          "version": "38.7.0",
-          "date": "2025-03-04",
-          "localizedDescription": "\u2022 Updated TikTok to v38.7.0\n\u2022 Replaced BHTikTok with AC",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v38.7.0.+.AC.v2.0.ipa",
-          "size": 226000000
-        },
-        {
-          "version": "32.2.0",
-          "date": "2024-04-30",
-          "localizedDescription": "\u2022 Updated TikTok to v32.2.0\n\u2022 Replaced TikTokLRD with BHTikTok",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v32.2.0.+.BH+.v2.3.ipa",
-          "size": 226000000
-        }
-      ],
-      "beta": false
-    },
-    {
       "name": "Twitch++",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Michael Lema",
@@ -7565,73 +6096,6 @@
           "sha256": "d385c2be158c3106266b0b7795647fe2f873905bca94874b57ef35cce6cf50f6",
           "minOSVersion": "11.0",
           "maxOSVersion": "14.8"
-        }
-      ]
-    },
-    {
-      "name": "unc0ver",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "Pwn20wnd & Sam Bingner",
-      "subtitle": "The most advanced jailbreak tool.",
-      "version": "4.0.0",
-      "versionDate": "2020-02-15",
-      "versionDescription": "Full-fledged support for A12-A13 devices on iOS 13.0-13.3 with Cydia and system-wide tweak injection",
-      "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.0.3/Undecimus-v4.0.3.ipa",
-      "localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatible:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStable:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
-      "iconURL": "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
-      "tintColor": "101216",
-      "size": 857669,
-      "screenshotURLs": [
-        "https://cdn.discordapp.com/attachments/482068798095228928/678392675698999349/image0.png",
-        "https://cdn.discordapp.com/attachments/482068798095228928/678392676340465714/image1.png"
-      ]
-    },
-    {
-      "name": "Unc0ver",
-      "subtitle": "The most advanced jailbreak tool",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "Pwn20wnd",
-      "version": "8.0.2",
-      "versionDate": "2021-12-29T16:00:00-06:00",
-      "versionDescription": "Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8",
-      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-      "localizedDescription": "The most advanced jailbreak tool for iOS 11.0 to iOS 14.3\n\nStable: Utilizing proper and deterministic techniques, jail\u200bbreak stability is guaranteed.\nSecure: Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.\nExtensively Tested: Unc0ver has been extensively tested to ensure it's a seamless experience on all devices.",
-      "iconURL": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
-      "tintColor": "000000",
-      "size": 54489484,
-      "screenshotURLs": [
-        "https://i.imgur.com/I3aRpPO.jpg",
-        "https://i.imgur.com/mERBTaF.jpg"
-      ]
-    },
-    {
-      "name": "unc0ver",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "Pwn20wnd",
-      "subtitle": "The most advanced jailbreak tool.",
-      "version": "8.0.2",
-      "versionDate": "2021-12-29T21:35:42Z",
-      "versionDescription": "# v8.0.2 Release\n\n- Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\r\n- Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8",
-      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-      "localizedDescription": "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n* unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)\n\nStability:\n* Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.\n\nSecurity:\n* Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
-      "iconURL": "https://i.imgur.com/5aehDxj.png",
-      "tintColor": "#101216",
-      "size": 54489484,
-      "screenshotURLs": [
-        "https://i.imgur.com/ItMaRRV.png",
-        "https://i.imgur.com/bjzyqpY.png",
-        "https://i.imgur.com/3TMGkaO.png",
-        "https://i.imgur.com/gTYfncm.png"
-      ],
-      "absoluteVersion": "8.0.2",
-      "versions": [
-        {
-          "version": "8.0.2",
-          "date": "2021-12-29T21:35:42Z",
-          "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-          "localizedDescription": "# v8.0.2 Release\n\n- Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\r\n- Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8",
-          "size": 54489484,
-          "absoluteVersion": "8.0.2"
         }
       ]
     },
@@ -7767,34 +6231,6 @@
       ]
     },
     {
-      "name": "UTM",
-      "bundleIdentifier": "com.utmapp.UTM",
-      "developerName": "osy",
-      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\nThis version requires using AltJIT. Install UTM SE for slower emulation without JIT.\n\n\nMore information at https://getutm.app/\n\nFeatures:\n\n\u2022 Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n\u2022 Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n\u2022 Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n\u2022 High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n\u2022 Free and Open Source\nUTM and its dependencies are all free and open source\n\u2022 Easy to Use\nConfigure and customize your VM in a native UI",
-      "iconURL": "https://alt.getutm.app/icon.png",
-      "versions": [
-        {
-          "version": "4.7.4",
-          "date": "2025-09-15T19:14:29Z",
-          "localizedDescription": "## Highlights\r\n* **QEMU v10.0.2**: The backend has been updated to the latest upstream QEMU which brings with it a variety of bug fixes and performance improvements.\r\n* **Liquid Glass**: UTM adopts the Liquid Glass design on *OS 26.\r\n* **App Intents**: New support for automation with Shortcuts.\r\n* **Keyboard Shortcuts**: Define custom key combinations (such as Ctrl+Alt+Del) that can be sent to the VM from the new Keyboard menu.\r\n* **Improved Wizard**: Simplify the creation of emulated machines by selecting from a list of well-supported configurations. The updated wizard can create more working configurations such as RISC-V64 Ubuntu, classic Mac OS 8.x/9.x, and Windows 95/98.\r\n\r\n## Changes (v4.7.4)\r\n* (macOS) Fixed a crash on VM start when a toolbar menu was reinitialized (note v4.7.4 was re-released to address this) (#7408)\r\n* Home: Fixed layout issue with button titles\r\n* (macOS) Fixed a crash when VM exits while USB is active\r\n* (iOS) Support for StikDebug on iOS 26 (non-SE only)\r\n\r\n## Changes (v4.7.3)\r\n* Fixed a crash when starting a VM results in a block device error\r\n* Stop button can now be used a second time to force kill a VM if it is unresponsive after stopping for the first time\r\n* libusb: Fixed multiple race conditions that caused crashes when using USB capture\r\n* CocoaSpice: Fixed multiple race conditions that caused crashes during VM start\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (macOS) Scripting: Fixed broken commands due to name collision (#7360)\r\n* (macOS) Fixed crash when exiting full screen (#7377)\r\n\r\n## Changes (v4.7.2)\r\n* (macOS) AVF: Fixed a crash when starting any Apple Virtualization VM (#7355) (We are re-releasing v4.7.2 with build 112 due to this critical bug.)\r\n* Home: Display network details and active IP addresses on the home details screen (thanks @gabefair)\r\n* Home: Show a security warning message when importing a .utm with custom arguments (#6252)\r\n* Config: Option to reset UEFI without pre-loading Secure Boot keys (useful for custom TPM configurations) (#7005)\r\n* Config: Pre-loading Secure Boot keys will now install Microsoft UEFI 2023 certificates (#7257)\r\n* Config: When PS/2 device is enabled, no longer create USB mouse and keyboard devices. This allows older Windows install to work out of the box.\r\n* Config: Quotes in custom arguments are no longer stripped (unless the only quotes wrap the entire argument) (#6343)\r\n* Config: Provide a fixed serial number for VirtIO block devices (#7332)\r\n* QEMU: Fixed an issue which causes Windows 98 to BSoD (#7342)\r\n* QEMU: Do not create a default floppy drive when -nodefaults is used. UTM configuration will set up a FDC device and this is the only way to set up bootindex for floppy.\r\n* Wizard: Legacy Windows configurations will now use PS/2 controller by default\r\n* Wizard: Update OS logos to be consistent with other icons\r\n* Wizard: Windows + i440fx hardware will now instantiate default devices (sound, VGA, networking) that should work with Windows 95/98\r\n* Wizard: Add additional supported hardware configurations for running older Windows\r\n* Wizard: Support floppy boot for Windows configuration\r\n* Scripting: New input automation suite for sending keyboard and mouse input (#6462)\r\n* USB: Fixed a rare crash when initializing the USB devices list (#5811)\r\n* SPICE: Fixed an issue where monitor configuration sent to spice-vdagent contains an invalid size (#5832)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (iOS) Toolbar: Fix foreground issue on iOS 26 beta 5 and higher\r\n* (macOS) Added ability to auto-connect USB devices on start (#3400)\r\n* (macOS) Fixed connecting USB devices from secondary windows\r\n* (macOS) New \"Virtual Machine\" menu which mirrors the actions accessible through the toolbar\r\n* (macOS) Keyboard Shortcuts toolbar icon is no longer shown by default (it can be placed on the toolbar through View -> Customize Toolbar). It is also accessible through the \"Virtual Machine\" menu.\r\n* (macOS) Fixed sending simultaneous mouse button presses (#7068)\r\n* (macOS) utmctl: Add `version` command to detect current UTM version\r\n* (macOS) Settings: New option to disable key swapping on ISO keyboards (#6976)\r\n* (macOS) Settings: New option to randomize network MAC addresses on clone (#7035)\r\n\r\n## Changes (v4.7.1)\r\n* New Liquid Glass icon thanks to @forcequitOS\r\n* Added App Intents for VM operations (#6245)\r\n* Added UEFI boot support for RISC-V64 and LoongArch64. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* QEMU PPC: Disable `bootindex` when `boot-device` is used in prom-env. This allows Yellow Dog Linux for PPC to work out of the box. (#6436)\r\n* QEMU x86_64: Fixed floppy boot order configuration for other PC models (isapc, i440fx) (#7166)\r\n* QEMU PPC/M68K: Includes classicvirtio drivers to support cursor input without capture and directory sharing (#6520)\r\n* QEMU M68K: Fixed virtio drive config (#7008)\r\n* Fixed a rare crash after stopping VM due to a race condition in libusb\r\n* Home: improve screenshot contrast in Dark Mode (#6894)\r\n* Config: Fixed a crash when trying to enter a large size value when creating a new drive (#7295)\r\n* Config: Corrected the default host IP address in port forwarding config to \"0.0.0.0\" when it incorrectly displayed \"127.0.0.1\" (#7132)\r\n* Keyboard Shortcuts: Create custom combinations of keyboard shortcuts from either Settings -> Input or via the Keyboard icon in the VM (press and hold on iOS/visionOS). This will allow you to easily send key commands such as Ctrl+Alt+Del or Stop+A to the VM. (#5698, #6310, #6757)\r\n* Wizard: New option to import an existing drive image when setting up a Linux VM. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* Wizard: New option to create a serial port only Linux VM. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* Wizard: Removed VHDX import option because Microsoft now provides ARM64 ISO images. Note: You can still create manually import an VHDX after creating a new VM.\r\n* Wizard: New template to create classic Mac OS VMs for M68K and PPC (#3504, #6890)\r\n* Wizard: Most common and supported machines for emulation are now listed prominently with the full list of supported QEMU architectures/targets hidden behind an \"Expert\" mode. This is necessary because most of the QEMU targets are not properly supported by the wizard anyways and does not generate a bootable config. They usually require a lot more manual tinkering. The page order of the wizard is also tweaked so the hardware config comes before the boot config now.\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (iOS SE) Fixed a crash when launching ArchLinux due to mis-handling of REV32\r\n* (iOS SE) Fixed a crash when the first instruction executed is a goto\r\n* (iOS SE) Removed ARM32, RISC-V32, and added M68K. There is little use for ARM32 and RISC-V32 as they cannot boot anything useful that cannot also be booted by the 64-bit variant (which is still included). If you have a counter example of this, please open an issue on GitHub and we can consider re-adding it back in the future. However, removing these will make the app size a lot smaller. M68K is added to support classic Mac OS.\r\n* (macOS 11) Fixed guest tools mounting (#7297)\r\n* (macOS 11) Fixed stop button not working (#7298)\r\n* (macOS) Fixed a bug where an error message on startup leads to the window being stuck (#7161)\r\n* (macOS) Settings: New setting to disable file locking so VMs can be launched from a network share or a filesystem that does not support locking (#7211)\r\n* (macOS) Settings: New setting to disable screenshots completely for privacy reasons (#6620)\r\n* (macOS) Settings: New setting to swap Ctrl and Cmd keys in VMs (#4003)\r\n* (macOS 26) Settings: Brand new layout with a sidebar to match other native apps\r\n* (macOS) AVF: Added clearer message when trying to install macOS beta without having the latest beta support tools installed\r\n* (macOS) AVF: New option to resize (expand) disk images (#6891)\r\n* (macOS 26) Fixed a layout issue with the resize image popover\r\n* (macOS) Home: Fixed hide sidebar button\r\n* (macOS) Config: Show localized network adapter names when available (#7287) (thanks @Schamper)\r\n* (macOS) Scripting: Fixed an issue where wrong UUIDs were generated for display configs (#7145)\r\n\r\n## Changes (v4.7.0)\r\n* Updated to QEMU v10.0.2\r\n* Config: In the RAM slider, the maximum value has been increased to 64GiB (note that you can always go above the slider limit by typing in the text box) (#7234)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* Wizard: Fixed crash when VM name is empty (#7245)\r\n* (iOS) Toolbar: Refactored toolbar button layout code\r\n* (macOS) Host only networks: you can set up multiple host-only networks (including ones shared by VMware) and have multiple VMs on the same virtual network (thanks @Schamper)\r\n* (macOS) utmctl: added option to boot Apple VMs into recovery mode (thanks @cees-elzinga)\r\n* (macOS) ~~Enable QEMU support for vmapple (#7150)~~ Machine model is removed for stability reasons but `apple-gfx-pci` is still supported for Intel VMs\r\n* (macOS) Rename the main window to 'UTM Library' (#7264)\r\n* (macOS) Display an error when IPSW install fails to load the file (instead of crashing) (#6855)\r\n* (macOS) Settings: Fixed a layout issue (#7117)\r\n* (macOS) Apple Virtualization: Add support for ASIF drive images. On macOS 26, ASIF drives will be created by default.\r\n\r\n## Issues\r\nPlease check the full list on [Github](https://github.com/utmapp/UTM/issues) and help report any bug you find that is not listed.\r\n\r\n## Installation\r\n\r\n* [iOS](https://docs.getutm.app/installation/ios/)\r\n* [macOS](https://docs.getutm.app/installation/macos/)\r\n\r\n| File | Description | Installation | JIT | Hypervisor | USB |\r\n|------|------------|--------------|-----|-----------|-----|\r\n| UTM.deb | Jailbroken iOS version | Open in Cydia, dpkg, or Sileo | Yes | Yes(1) | Yes |\r\n| UTM.dmg | macOS version | Mounting and copying UTM.app to /Applications | Yes | Yes | Yes |\r\n| UTM.ipa | Non-jailbroken iOS version (sideloading) | AltStore, etc (see guide) | Yes(2) | No | No |\r\n| UTM-HV.ipa | Non-jailbroken iOS version (TrollStore) | TrollStore | Yes | Yes(1) | Yes |\r\n| UTM-SE.ipa | Non-jailbroken iOS version (sideloading) | AltStore, enterprise signing, etc | No | No | No |\r\n| UTM-Remote.ipa | Remote client | Any | No | No | No |\r\n\r\n1. Hypervisor on iOS requires an M1 iPad or newer.\r\n2. Enabling JIT may require a separate JIT enabler such as [Jitterbug][2] or Jitstreamer.\r\n\r\n[1]: https://getutm.app/install/\r\n[2]: https://github.com/osy/Jitterbug",
-          "minOSVersion": "14.0",
-          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.4/UTM.ipa",
-          "size": 130036731
-        }
-      ],
-      "subtitle": "Virtual machines for iOS (with JIT support)",
-      "tintColor": "#1a2cc2",
-      "screenshotURLs": [
-        "https://alt.getutm.app/screen0.png",
-        "https://alt.getutm.app/screen1.png",
-        "https://alt.getutm.app/screen2.png",
-        "https://alt.getutm.app/screen3.png",
-        "https://alt.getutm.app/screen4.png",
-        "https://alt.getutm.app/screen5.png",
-        "https://alt.getutm.app/screen6.png"
-      ]
-    },
-    {
       "name": "UTM SE",
       "bundleIdentifier": "com.utmapp.UTM-SE",
       "developerName": "osy",
@@ -7907,56 +6343,6 @@
         ]
       },
       "appID": "com.utmapp.UTM-SE"
-    },
-    {
-      "name": "UTM SE",
-      "bundleIdentifier": "com.utmapp.UTM-SE",
-      "developerName": "osy",
-      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\nThis version runs on all iOS 14+ devices but lacks JIT support and is slower than regular UTM.\n\n\nMore information at https://getutm.app/\n\nFeatures:\n\n\u2022 Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n\u2022 Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n\u2022 Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n\u2022 High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n\u2022 Free and Open Source\nUTM and its dependencies are all free and open source\n\u2022 Easy to Use\nConfigure and customize your VM in a native UI",
-      "iconURL": "https://alt.getutm.app/icon.png",
-      "versions": [
-        {
-          "version": "4.7.4",
-          "date": "2025-09-15T19:14:29Z",
-          "localizedDescription": "## Highlights\r\n* **QEMU v10.0.2**: The backend has been updated to the latest upstream QEMU which brings with it a variety of bug fixes and performance improvements.\r\n* **Liquid Glass**: UTM adopts the Liquid Glass design on *OS 26.\r\n* **App Intents**: New support for automation with Shortcuts.\r\n* **Keyboard Shortcuts**: Define custom key combinations (such as Ctrl+Alt+Del) that can be sent to the VM from the new Keyboard menu.\r\n* **Improved Wizard**: Simplify the creation of emulated machines by selecting from a list of well-supported configurations. The updated wizard can create more working configurations such as RISC-V64 Ubuntu, classic Mac OS 8.x/9.x, and Windows 95/98.\r\n\r\n## Changes (v4.7.4)\r\n* (macOS) Fixed a crash on VM start when a toolbar menu was reinitialized (note v4.7.4 was re-released to address this) (#7408)\r\n* Home: Fixed layout issue with button titles\r\n* (macOS) Fixed a crash when VM exits while USB is active\r\n* (iOS) Support for StikDebug on iOS 26 (non-SE only)\r\n\r\n## Changes (v4.7.3)\r\n* Fixed a crash when starting a VM results in a block device error\r\n* Stop button can now be used a second time to force kill a VM if it is unresponsive after stopping for the first time\r\n* libusb: Fixed multiple race conditions that caused crashes when using USB capture\r\n* CocoaSpice: Fixed multiple race conditions that caused crashes during VM start\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (macOS) Scripting: Fixed broken commands due to name collision (#7360)\r\n* (macOS) Fixed crash when exiting full screen (#7377)\r\n\r\n## Changes (v4.7.2)\r\n* (macOS) AVF: Fixed a crash when starting any Apple Virtualization VM (#7355) (We are re-releasing v4.7.2 with build 112 due to this critical bug.)\r\n* Home: Display network details and active IP addresses on the home details screen (thanks @gabefair)\r\n* Home: Show a security warning message when importing a .utm with custom arguments (#6252)\r\n* Config: Option to reset UEFI without pre-loading Secure Boot keys (useful for custom TPM configurations) (#7005)\r\n* Config: Pre-loading Secure Boot keys will now install Microsoft UEFI 2023 certificates (#7257)\r\n* Config: When PS/2 device is enabled, no longer create USB mouse and keyboard devices. This allows older Windows install to work out of the box.\r\n* Config: Quotes in custom arguments are no longer stripped (unless the only quotes wrap the entire argument) (#6343)\r\n* Config: Provide a fixed serial number for VirtIO block devices (#7332)\r\n* QEMU: Fixed an issue which causes Windows 98 to BSoD (#7342)\r\n* QEMU: Do not create a default floppy drive when -nodefaults is used. UTM configuration will set up a FDC device and this is the only way to set up bootindex for floppy.\r\n* Wizard: Legacy Windows configurations will now use PS/2 controller by default\r\n* Wizard: Update OS logos to be consistent with other icons\r\n* Wizard: Windows + i440fx hardware will now instantiate default devices (sound, VGA, networking) that should work with Windows 95/98\r\n* Wizard: Add additional supported hardware configurations for running older Windows\r\n* Wizard: Support floppy boot for Windows configuration\r\n* Scripting: New input automation suite for sending keyboard and mouse input (#6462)\r\n* USB: Fixed a rare crash when initializing the USB devices list (#5811)\r\n* SPICE: Fixed an issue where monitor configuration sent to spice-vdagent contains an invalid size (#5832)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (iOS) Toolbar: Fix foreground issue on iOS 26 beta 5 and higher\r\n* (macOS) Added ability to auto-connect USB devices on start (#3400)\r\n* (macOS) Fixed connecting USB devices from secondary windows\r\n* (macOS) New \"Virtual Machine\" menu which mirrors the actions accessible through the toolbar\r\n* (macOS) Keyboard Shortcuts toolbar icon is no longer shown by default (it can be placed on the toolbar through View -> Customize Toolbar). It is also accessible through the \"Virtual Machine\" menu.\r\n* (macOS) Fixed sending simultaneous mouse button presses (#7068)\r\n* (macOS) utmctl: Add `version` command to detect current UTM version\r\n* (macOS) Settings: New option to disable key swapping on ISO keyboards (#6976)\r\n* (macOS) Settings: New option to randomize network MAC addresses on clone (#7035)\r\n\r\n## Changes (v4.7.1)\r\n* New Liquid Glass icon thanks to @forcequitOS\r\n* Added App Intents for VM operations (#6245)\r\n* Added UEFI boot support for RISC-V64 and LoongArch64. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* QEMU PPC: Disable `bootindex` when `boot-device` is used in prom-env. This allows Yellow Dog Linux for PPC to work out of the box. (#6436)\r\n* QEMU x86_64: Fixed floppy boot order configuration for other PC models (isapc, i440fx) (#7166)\r\n* QEMU PPC/M68K: Includes classicvirtio drivers to support cursor input without capture and directory sharing (#6520)\r\n* QEMU M68K: Fixed virtio drive config (#7008)\r\n* Fixed a rare crash after stopping VM due to a race condition in libusb\r\n* Home: improve screenshot contrast in Dark Mode (#6894)\r\n* Config: Fixed a crash when trying to enter a large size value when creating a new drive (#7295)\r\n* Config: Corrected the default host IP address in port forwarding config to \"0.0.0.0\" when it incorrectly displayed \"127.0.0.1\" (#7132)\r\n* Keyboard Shortcuts: Create custom combinations of keyboard shortcuts from either Settings -> Input or via the Keyboard icon in the VM (press and hold on iOS/visionOS). This will allow you to easily send key commands such as Ctrl+Alt+Del or Stop+A to the VM. (#5698, #6310, #6757)\r\n* Wizard: New option to import an existing drive image when setting up a Linux VM. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* Wizard: New option to create a serial port only Linux VM. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* Wizard: Removed VHDX import option because Microsoft now provides ARM64 ISO images. Note: You can still create manually import an VHDX after creating a new VM.\r\n* Wizard: New template to create classic Mac OS VMs for M68K and PPC (#3504, #6890)\r\n* Wizard: Most common and supported machines for emulation are now listed prominently with the full list of supported QEMU architectures/targets hidden behind an \"Expert\" mode. This is necessary because most of the QEMU targets are not properly supported by the wizard anyways and does not generate a bootable config. They usually require a lot more manual tinkering. The page order of the wizard is also tweaked so the hardware config comes before the boot config now.\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (iOS SE) Fixed a crash when launching ArchLinux due to mis-handling of REV32\r\n* (iOS SE) Fixed a crash when the first instruction executed is a goto\r\n* (iOS SE) Removed ARM32, RISC-V32, and added M68K. There is little use for ARM32 and RISC-V32 as they cannot boot anything useful that cannot also be booted by the 64-bit variant (which is still included). If you have a counter example of this, please open an issue on GitHub and we can consider re-adding it back in the future. However, removing these will make the app size a lot smaller. M68K is added to support classic Mac OS.\r\n* (macOS 11) Fixed guest tools mounting (#7297)\r\n* (macOS 11) Fixed stop button not working (#7298)\r\n* (macOS) Fixed a bug where an error message on startup leads to the window being stuck (#7161)\r\n* (macOS) Settings: New setting to disable file locking so VMs can be launched from a network share or a filesystem that does not support locking (#7211)\r\n* (macOS) Settings: New setting to disable screenshots completely for privacy reasons (#6620)\r\n* (macOS) Settings: New setting to swap Ctrl and Cmd keys in VMs (#4003)\r\n* (macOS 26) Settings: Brand new layout with a sidebar to match other native apps\r\n* (macOS) AVF: Added clearer message when trying to install macOS beta without having the latest beta support tools installed\r\n* (macOS) AVF: New option to resize (expand) disk images (#6891)\r\n* (macOS 26) Fixed a layout issue with the resize image popover\r\n* (macOS) Home: Fixed hide sidebar button\r\n* (macOS) Config: Show localized network adapter names when available (#7287) (thanks @Schamper)\r\n* (macOS) Scripting: Fixed an issue where wrong UUIDs were generated for display configs (#7145)\r\n\r\n## Changes (v4.7.0)\r\n* Updated to QEMU v10.0.2\r\n* Config: In the RAM slider, the maximum value has been increased to 64GiB (note that you can always go above the slider limit by typing in the text box) (#7234)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* Wizard: Fixed crash when VM name is empty (#7245)\r\n* (iOS) Toolbar: Refactored toolbar button layout code\r\n* (macOS) Host only networks: you can set up multiple host-only networks (including ones shared by VMware) and have multiple VMs on the same virtual network (thanks @Schamper)\r\n* (macOS) utmctl: added option to boot Apple VMs into recovery mode (thanks @cees-elzinga)\r\n* (macOS) ~~Enable QEMU support for vmapple (#7150)~~ Machine model is removed for stability reasons but `apple-gfx-pci` is still supported for Intel VMs\r\n* (macOS) Rename the main window to 'UTM Library' (#7264)\r\n* (macOS) Display an error when IPSW install fails to load the file (instead of crashing) (#6855)\r\n* (macOS) Settings: Fixed a layout issue (#7117)\r\n* (macOS) Apple Virtualization: Add support for ASIF drive images. On macOS 26, ASIF drives will be created by default.\r\n\r\n## Issues\r\nPlease check the full list on [Github](https://github.com/utmapp/UTM/issues) and help report any bug you find that is not listed.\r\n\r\n## Installation\r\n\r\n* [iOS](https://docs.getutm.app/installation/ios/)\r\n* [macOS](https://docs.getutm.app/installation/macos/)\r\n\r\n| File | Description | Installation | JIT | Hypervisor | USB |\r\n|------|------------|--------------|-----|-----------|-----|\r\n| UTM.deb | Jailbroken iOS version | Open in Cydia, dpkg, or Sileo | Yes | Yes(1) | Yes |\r\n| UTM.dmg | macOS version | Mounting and copying UTM.app to /Applications | Yes | Yes | Yes |\r\n| UTM.ipa | Non-jailbroken iOS version (sideloading) | AltStore, etc (see guide) | Yes(2) | No | No |\r\n| UTM-HV.ipa | Non-jailbroken iOS version (TrollStore) | TrollStore | Yes | Yes(1) | Yes |\r\n| UTM-SE.ipa | Non-jailbroken iOS version (sideloading) | AltStore, enterprise signing, etc | No | No | No |\r\n| UTM-Remote.ipa | Remote client | Any | No | No | No |\r\n\r\n1. Hypervisor on iOS requires an M1 iPad or newer.\r\n2. Enabling JIT may require a separate JIT enabler such as [Jitterbug][2] or Jitstreamer.\r\n\r\n[1]: https://getutm.app/install/\r\n[2]: https://github.com/osy/Jitterbug",
-          "minOSVersion": "14.0",
-          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.4/UTM-SE.ipa",
-          "size": 213854035
-        }
-      ],
-      "subtitle": "Virtual machines for iOS (without JIT support)",
-      "tintColor": "#1a2cc2",
-      "screenshotURLs": [
-        "https://alt.getutm.app/screen0.png",
-        "https://alt.getutm.app/screen1.png",
-        "https://alt.getutm.app/screen2.png",
-        "https://alt.getutm.app/screen3.png",
-        "https://alt.getutm.app/screen4.png",
-        "https://alt.getutm.app/screen5.png",
-        "https://alt.getutm.app/screen6.png"
-      ]
-    },
-    {
-      "beta": false,
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "MiRO92 & Qn_",
-      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v19.08.2-3.0.3/uYouPlus-19.08.2-3.0.3.ipa",
-      "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
-      "localizedDescription": "uYouPlus is a modified version of uYou with some extra features! (requires iOS 14.0 and later).\n\nFull infomation about uYouPlus (uYou+) is available on my Github: https://github.com/qnblackcat/uYouPlus/\n\nCredits: Please keep the Credits if you re-up uYouPlus! \nhttps://github.com/qnblackcat/uYouPlus#credits\n\nAttention:\n- If you like the app, considering support the developers!\n- YTUHD is not stable atm. You might encounter stuttering, heat, battery drain..., especially when playing at 2160p (4K) quality. However, this should not happen if you use TrollStore.\n- Unless you're using TrollStore, deep-link (aka Open in the YouTube App) simply will not work.\n\nKnown issues:\n- uYou's issues: https://github.com/MiRO92/uYou-for-YouTube/issues\n- uYouPlus's issues: https://github.com/qnblackcat/uYouPlus",
-      "name": "uYouPlus (uYou+)",
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
-        "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
-      ],
-      "size": 126194273,
-      "subtitle": "A modified version of uYou with extra features! Requires iOS 14.0 and later.",
-      "tintColor": "e85567",
-      "version": "19.08.2",
-      "versionDate": "2024-2-27T12:00:00-01:00",
-      "versionDescription": "v19.08.2 (3.0.3): The changelog can be found at\nhttps://github.com/qnblackcat/uYouPlus/releases/tag/latest"
     },
     {
       "name": "VCMI",
@@ -8271,91 +6657,6 @@
       "appID": "com.vcmi.VCMI"
     },
     {
-      "beta": false,
-      "name": "VCMI",
-      "bundleIdentifier": "eu.vcmi.vcmiclient",
-      "developerName": "VCMI Team",
-      "subtitle": "Heroes of Might & Magic III engine",
-      "version": "1.6.7",
-      "versionDate": "2025-02-28T12:00:00+04:00",
-      "versionDescription": "Stability improvements and fixes for issues found in 1.6 release",
-      "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.7/VCMI-iOS.ipa",
-      "localizedDescription": "VCMI is a open source cross-platform HoMM3 engine written from scratch. \n\nYou need data copied from original game to play. \nFollow instructions from https://wiki.vcmi.eu/Installation_on_iOS",
-      "iconURL": "https://github.com/vcmi/vcmi/raw/develop/clientapp/icons/vcmiclient.512x512.png",
-      "tintColor": "CD8526",
-      "size": 20863158,
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot1.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot2.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot3.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot4.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot5.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot6.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot7.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot8.png",
-        "https://raw.githubusercontent.com/vcmi/vcmi-updates/master/altstore/screenshots/screenshot9.png"
-      ],
-      "versions": [
-        {
-          "version": "1.6.7",
-          "date": "2025-02-28T12:00:00+04:00",
-          "localizedDescription": "Stability improvements and fixes for issues found in 1.6 release",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.7/VCMI-iOS.ipa",
-          "size": 20863158,
-          "sha256": "fa07a827210a9a4a202c362be66212a0e942e1fc0c506fe9c396160839e1b8a1"
-        },
-        {
-          "version": "1.3.2",
-          "date": "2023-09-15T12:00:00+04:00",
-          "localizedDescription": "Stability improvements and fixes for issues found in 1.3 release",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.3.2/VCMI-1.3.2-iOS.ipa",
-          "size": 27910340,
-          "sha256": "0966c7ad34a53d72e4b393bf18e2db48717a7cb5f9f49c25e60295b00de4d442"
-        },
-        {
-          "version": "1.3.1",
-          "date": "2023-08-18T12:00:00+04:00",
-          "localizedDescription": "Stability improvements and fixes for issues found in 1.3 release",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.3.1/VCMI-1.3.1-iOS.ipa",
-          "size": 27943336,
-          "sha256": "242b2e8b4ba341f1b7020475548f8decfaa9f9d333716b617d5e88dc91b08fa1"
-        },
-        {
-          "version": "1.2.1",
-          "date": "2023-04-28T12:00:00+04:00",
-          "localizedDescription": "Fixes for issues found in 1.2 release",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.2.1/VCMI-1.2.1-iOS.ipa",
-          "size": 26347869
-        },
-        {
-          "version": "1.2.0",
-          "date": "2023-04-14T12:00:00+04:00",
-          "localizedDescription": "Rendering improvements, revamped UI, translations support, bugfixes and many more!",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.2.0/VCMI-1.2.0-iOS.ipa",
-          "size": 26346303
-        },
-        {
-          "version": "1.1.1",
-          "date": "2023-02-03T12:00:00+04:00",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.1.1/VCMI-1.1.1-iOS.ipa",
-          "localizedDescription": "Fixes for issues found in 1.1 release",
-          "size": 25570455
-        },
-        {
-          "version": "1.1.0",
-          "date": "2022-12-23T12:00:00+04:00",
-          "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.1.0/VCMI-1.1.0-5278271-iOS.ipa",
-          "localizedDescription": "VCMI was ported on iOS",
-          "size": 25501741
-        }
-      ],
-      "appID": "eu.vcmi.vcmiclient",
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": []
-      }
-    },
-    {
       "name": "VidList",
       "bundleIdentifier": "com.vidlist.vidlist",
       "developerName": "@vidlist",
@@ -8522,66 +6823,6 @@
       "iconURL": "https://i.imgur.com/tLl08tH.png"
     },
     {
-      "name": "X++",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "Densor",
-      "subtitle": "An new tweak for X!",
-      "localizedDescription": "Features:\n\n\u2022 Download Videos (even if account private).\n\u2022 Replay later feature.\n\u2022 Video zoom feature.\n\u2022 No history feature.\n\u2022 Hide topics tweet feature.\n\u2022 Disable video layer caption.\n\u2022 Padlock.\n\u2022 Font changer.\n\u2022 Auto load photos in highest quality feature\n\u2022 Undo tweet feature.\n\u2022 Reader mode feature.\n\u2022 Disable new tweet style (A.K.A edge to edge tweet)\n\u2022 Enable voice tweet and voice message in DM.\n\u2022 Hide promoted tweet from the timeline.\n\u2022 Confirm alert when hit the tweet button.\n\u2022 Confirm alert when hit like button.\n\u2022 FLEX for debugging.\n\n\u2022 And more!",
-      "iconURL": "https://i.imgur.com/HjyhiOC.jpeg",
-      "tintColor": "030303",
-      "category": "Social",
-      "screenshotURLs": [
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-1.webp",
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-2.webp",
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-3.webp",
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-4.webp",
-        "https://img.ipa4fun.com/fe/b5/38/333903271-screenshot-5.webp"
-      ],
-      "version": "10.83",
-      "versionDate": "2025-03-04",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v10.83.+.TwiGalaxy.v1.1.ipa",
-      "versionDescription": "\u2022 Updated X to v10.83\n\u2022 Replaced BHTwitter with TwiGalaxy",
-      "size": 119000000,
-      "versions": [
-        {
-          "version": "10.83",
-          "date": "2025-03-04",
-          "localizedDescription": "\u2022 Updated X to v10.83\n\u2022 Replaced BHTwitter with TwiGalaxy",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v10.83.+.TwiGalaxy.v1.1.ipa",
-          "size": 119000000
-        },
-        {
-          "version": "10.62",
-          "date": "2024-10-09",
-          "localizedDescription": "\u2022 Updated X to v10.62\n\u2022 Updated BHTwitter to v4.3-4",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v10.62.+.BHTwitter.v4.3-4.ipa",
-          "size": 119000000
-        },
-        {
-          "version": "10.39.0",
-          "date": "2024-04-30",
-          "localizedDescription": "\u2022 Updated X to v10.39.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v10.39.+.BHX.v4.3.ipa",
-          "size": 93000000
-        },
-        {
-          "version": "10.22.0",
-          "date": "2024-01-07",
-          "localizedDescription": "\u2022 Updated X to v10.22.0",
-          "downloadURL": "https://starfilesdl.com/file/m1rSEUEHz83q?fpdi_ticket=RXgrRkx5dHhGcmJrcFVtVVh4VmtaZE1VdHZLN0trTng2SUY3NTdWekErY2wwOTYwMlBYRUJvMFJKVjlqLyszWXQ1d2pxeHhhc2dJQVBRQ28zSDFVUXdqYTRSMXlDajcySmxBcG9lRlZYVnVxaDA1ZWxsNjJnWCtSNlFqWVpXdmNDZWJBNFpmY3VZZVNGa1BsRFYyQ01nPT0%3D",
-          "size": 93000000
-        },
-        {
-          "version": "10.10.0",
-          "date": "2023-10-19",
-          "localizedDescription": "\u2022 Updated X to v10.10.0",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.X.v10.10.+.BHX.v4.0.ipa",
-          "size": 93000000
-        }
-      ],
-      "beta": false
-    },
-    {
       "name": "XPatcher",
       "bundleIdentifier": "com.wh0ba.xpatcher",
       "developerName": "Wh0ba",
@@ -8602,35 +6843,6 @@
           "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
           "size": 357189,
           "sha256": "0f2bf920c6760fdb410fb39fe5df7f678aaf12c55c4d4ca0e01c76bd860b8e24"
-        }
-      ]
-    },
-    {
-      "name": "XPatcher",
-      "bundleIdentifier": "com.wh0ba.xpatcher",
-      "developerName": "Wh0ba",
-      "subtitle": "A Rom-patcher utility for your iOS device.",
-      "version": "2.2",
-      "versionDate": "2022-01-07T10:15:55Z",
-      "versionDescription": "# File hashes when selecting files\n\n### XPatcher 2.2\r\n### A small updated with a little feature \r\n\r\nNow when you select a file in the Documents tab, it will show SHA1, MD5, and CRC32 hashes of the selected file.\r\nclosing #5\r\nother changes might be adding .vcdiff to the recognized patch formats (XDelta) but so far it seems kinda broken as stated in #6 .\r\n\r\n**Full Changelog**: https://github.com/Wh0ba/XPatcher/compare/2.0...v2.2",
-      "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
-      "localizedDescription": "XPatcher is a GUI front-end for flips, libppf, xdelta, and libRUP patching libraries.\n\nThis app allows you to apply patches to files on your iOS devices, mostly used to apply rom hacks to video game roms with a simple to use interface to make it as user-friendly as possible.",
-      "iconURL": "https://i.imgur.com/cgrsWgC.png",
-      "tintColor": "#ff767d",
-      "size": 357189,
-      "screenshotURLs": [
-        "https://i.imgur.com/nFunb9n.png",
-        "https://i.imgur.com/7UvBK4J.png"
-      ],
-      "absoluteVersion": "2.2",
-      "versions": [
-        {
-          "version": "2.2",
-          "date": "2022-01-07T10:15:55Z",
-          "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
-          "localizedDescription": "# File hashes when selecting files\n\n### XPatcher 2.2\r\n### A small updated with a little feature \r\n\r\nNow when you select a file in the Documents tab, it will show SHA1, MD5, and CRC32 hashes of the selected file.\r\nclosing #5\r\nother changes might be adding .vcdiff to the recognized patch formats (XDelta) but so far it seems kinda broken as stated in #6 .\r\n\r\n**Full Changelog**: https://github.com/Wh0ba/XPatcher/compare/2.0...v2.2",
-          "size": 357189,
-          "absoluteVersion": "2.2"
         }
       ]
     },
@@ -8658,84 +6870,6 @@
         }
       ],
       "appID": "stream.yattee.app"
-    },
-    {
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Ryan H & SarahH12099",
-      "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/YouTube_v16.19.6_Reborn_v2.1.2.7.ipa",
-      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/a7/b6/b7/a7b6b7e9-7542-6fd9-9423-4cbb7db548a6/source/512x512bb.jpg",
-      "localizedDescription": "- No Video And No Homescreen Ads \r\n- Background Playback \r\n- Picture-In-Picture (iOS 14+) \r\n- Video Downloading (Can Import Downloaded Videos To Camera Roll) \r\n- Audio Downloading (iPhone Only) \r\n- Unlock UHD Quality (iOS 14+) \r\n- Allow HD On Cellular Data \r\n- Disable Video Endscreen Popups \r\n- Disable Video Info Cards \r\n- Disable Video AutoPlay \r\n- Disable Double Tap To Skip \r\n- Always Show Player Bar \r\n- Show Status Bar In Overlay (Portrait Only) \r\n- Hide Previous & Next Button In Overlay \r\n- Hide AutoPlay Switch In Overlay \r\n- Hide Captions/Subtitles Button In Overlay \r\n- Disable Related Videos In Overlay \r\n- Hide Overlay Dark Background \r\n- Hide Tab Bar Labels \r\n- Hide Tabs (Explore, Create/Upload[+], Subscriptions, Library) \r\n- Enable iPad Style On iPhone \r\n- No Download Button \r\n- No Comments Section \r\n- No Cast Button \r\n- No Notification Button \r\n- No Search Button \r\n- No Topics Section \r\n- Disable YouTube Kids \r\n- Disable Voice Search \r\n- Disable Hints \r\n- Hide Channel Watermark \r\n- Oled Dark Mode (iOS 13) \r\n- Colour Options (iOS 14+)",
-      "name": "YouTube Reborn",
-      "screenshotURLs": [
-        "null"
-      ],
-      "size": 76392273,
-      "subtitle": "Ad blocking, video downloading, and more!",
-      "tintColor": "DB3020",
-      "version": "16.19.6",
-      "versionDate": "2021-05-19T18:00:00-06:00",
-      "versionDescription": "Updated YouTube base to v16.19.6 and updated YouTube Reborn"
-    },
-    {
-      "name": "YouTube++",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Dayanch96",
-      "subtitle": "The All-In-One Tweak for YouTube.",
-      "localizedDescription": "Tweak preferences can be found in the YouTube Settings\n\nFeatures:\n\n\u2022 Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n\u2022 Copy video, comment, and post information\n\u2022 Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n\u2022 Player settings: Gestures, default quality, preferred audio track\n\u2022 Save, Load and Restore settings. Clear cache once or automatically on app startup\n\u2022 Built-in SponsorBlock\n\u2022 And much, much more",
-      "iconURL": "https://img.ipa4fun.com/65/82/9f/544007664-logo.webp",
-      "tintColor": "f90505",
-      "category": "Entertainment",
-      "screenshotURLs": [
-        "https://i.imgur.com/nJSE7u7.jpeg",
-        "https://i.imgur.com/5ABmJ5d.jpeg",
-        "https://i.imgur.com/B1NnJb8.jpeg",
-        "https://i.imgur.com/1l2lFCm.jpeg",
-        "https://i.imgur.com/tZ2yvOY.jpeg",
-        "https://i.imgur.com/ayNc4BB.jpeg"
-      ],
-      "version": "20.09.3",
-      "versionDate": "2025-03-04",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Youtube.v20.09.3.+.YTLite.v5.1.Full.ipa",
-      "versionDescription": "\u2022 YouTube updated to v19.39.1\n\u2022 YTLite (Full) updated to v5.1",
-      "size": 106000000,
-      "versions": [
-        {
-          "version": "20.09.3",
-          "date": "2025-03-04",
-          "localizedDescription": "\u2022 YouTube updated to v19.39.1\n\u2022 YTLite (Full) updated to v5.1",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Youtube.v20.09.3.+.YTLite.v5.1.Full.ipa",
-          "size": 106000000
-        },
-        {
-          "version": "19.39.1",
-          "date": "2024-10-09",
-          "localizedDescription": "\u2022 YouTube updated to v19.39.1\n\u2022 uYouEnhanced replaced with YTLiteFull v5.0.2",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v19.39.1.+.YTLiteFull.v5.0.2.ipa",
-          "size": 106000000
-        },
-        {
-          "version": "19.16.3",
-          "date": "2024-04-30",
-          "localizedDescription": "\u2022 YouTube updated to v19.16.3\n\u2022 uYouEnhanced updated to v3.0.3",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v19.16.3.+.uYouEnhanced.v3.0.3.ipa",
-          "size": 119000000
-        },
-        {
-          "version": "18.49.3",
-          "date": "2024-01-07",
-          "localizedDescription": "\u2022 YouTube updated to v18.49.3\n\u2022 uYouEnhanced updated to v3.0.1",
-          "downloadURL": "https://github.com/arichorn/uYouEnhanced/releases/download/v18.49.3-3.0.1-F3/uYouEnhanced_18.49.3_3.0.1_F3.ipa",
-          "size": 121000000
-        },
-        {
-          "version": "18.40.1",
-          "date": "2023-10-22",
-          "localizedDescription": "\u2022 YouTube updated to v18.14.1\n\u2022 uYouPlusExtra updated to v3.0.1",
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v18.40.1.+.uYouPlusExtra.v3.0.1.ipa",
-          "size": 121000000
-        }
-      ],
-      "beta": false
     },
     {
       "name": "ZiniTevi++",
