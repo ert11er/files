@@ -1,0 +1,169 @@
+name: Update AltSource
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '* * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Fetch app data
+      run: curl "https://nestapi.flekstore.com/app?page=0&search=false&filter=updates" -o ids.txt
+
+    - name: Format app data
+      run: |
+        cat <<'EOF' > bids.py
+        import json, sys
+        try:
+            with open("ids.txt", "r", encoding="utf-8") as infile:
+                data = json.load(infile)
+            with open("bids.json", "w", encoding="utf-8") as outfile:
+                json.dump(data, outfile, indent=4, ensure_ascii=False)
+            print("Successfully converted ids.txt to beautified bids.json")
+        except FileNotFoundError:
+            print("Error: ids.txt not found.")
+            sys.exit(1)
+        except json.JSONDecodeError:
+            print("Error: Could not decode JSON from ids.txt. Check the file format.")
+            sys.exit(1)
+        EOF
+        python bids.py
+
+    - name: Generate altsource.json
+      run: |
+        cat <<'EOF' > bids_sorter.py
+        import json, requests, sys, re
+        
+        other_sources = [
+            "https://ipa.cypwn.xyz/cypwn.json",
+            "https://bit.ly/Quantumsource",
+            "https://bit.ly/Quantumsource-plus",
+            "https://bit.ly/wuxuslibraryplus",
+            "https://bit.ly/Altstore-complete",
+            "https://altstore.oatmealdome.me/",
+            "https://flyinghead.github.io/flycast-builds/altstore.json",
+            "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+            "https://alts.lao.sb",
+            "https://floridaman7588.me/altjb/altsource.json",
+            "https://pokemmo.com/altstore/",
+            "https://alt.getutm.app",
+            "https://theodyssey.dev/altstore/odysseysource.json",
+            "https://taurine.app/altstore/taurinestore.json",
+            "https://altstore.9ani.app",
+            "https://randomblock1.com/altstore/apps.json",
+            "https://provenance-emu.com/apps.json",
+            "https://bit.ly/40Isul6",
+            "https://ish.app/altstore.json",
+            "https://community-apps.sidestore.io/sidecommunity.json",
+            "https://repo.starfiles.co/public?gbox",
+            "https://repo.apptesters.org"
+        ]
+
+        altsource = {
+            "name": "Ert Source",
+            "identifier": "com.ert.source",
+            "sourceURL": "https://files-private.vercel.app/altsource.json",
+            "apps": [],
+            "news": []
+        }
+
+        # Add apps from other sources
+        for source_url in other_sources:
+            try:
+                print(f"Fetching data from {source_url}")
+                response = requests.get(source_url, timeout=10)
+                response.raise_for_status()
+                source_data = response.json()
+                if "apps" in source_data:
+                    altsource["apps"].extend(source_data["apps"])
+                    print(f"  Successfully added {len(source_data['apps'])} apps from {source_data.get('name', source_url)}")
+            except requests.exceptions.RequestException as e:
+                print(f"  Error fetching data from {source_url}: {e}")
+            except json.JSONDecodeError:
+                print(f"  Error decoding JSON from {source_url}. Skipping.")
+        
+        try:
+            with open("bids.json", "r", encoding="utf-8") as f:
+                bids_data = json.load(f)
+        except FileNotFoundError:
+            print("Warning: bids.json not found. Proceeding without local apps.")
+            bids_data = []
+        except Exception as e:
+            print(f"Error reading bids.json: {e}")
+            sys.exit(1)
+
+        for bid_item in bids_data:
+            app_id = bid_item.get("id")
+            if not app_id:
+                continue
+            url = f"https://nestapi.flekstore.com/app/{app_id}"
+            print(f"Fetching data for app ID: {app_id}")
+            try:
+                response = requests.get(url)
+                response.raise_for_status()
+                api_data = response.json()
+
+                # Generate bundleIdentifier
+                developer = api_data.get("developer")
+                name = api_data.get("name")
+                bundle_identifier = None
+                if developer and name:
+                    dev_part = developer.split('|')[0].strip()
+                    sanitized_dev = re.sub(r'[^a-zA-Z0-9]', '', dev_part).lower()
+                    sanitized_name = re.sub(r'[^a-zA-Z0-9]', '', name).lower()
+                    if sanitized_dev and sanitized_name:
+                        bundle_identifier = f"com.{sanitized_dev}.{sanitized_name}"
+
+                install_url = api_data.get('install_url')
+                download_url = f"https://s3.flekstore.com/ipa-library/{install_url}" if install_url else None
+                
+                app_entry = {
+                    "name": name,
+                    "bundleIdentifier": bundle_identifier,
+                    "developerName": developer,
+                    "version": api_data.get("version"),
+                    "versionDate": api_data.get("date"),
+                    "size": api_data.get("size"),
+                    "downloadURL": download_url,
+                    "localizedDescription": api_data.get("description"),
+                    "iconURL": api_data.get("icon")
+                }
+
+                if not app_entry.get("bundleIdentifier") or not app_entry.get("downloadURL"):
+                    print(f"  Skipping {app_entry.get('name')} due to missing bundleIdentifier or downloadURL.")
+                    continue
+                
+                altsource["apps"].append(app_entry)
+                print(f"  Successfully processed {app_entry.get('name')}")
+            except requests.exceptions.RequestException as e:
+                print(f"  Error fetching data for ID {app_id}: {e}")
+            except json.JSONDecodeError:
+                print(f"  Error decoding JSON for ID {app_id}. Skipping.")
+        altsource["apps"].sort(key=lambda x: x.get('name', '').lower())
+        with open("altsource.json", "w", encoding="utf-8") as f:
+            json.dump(altsource, f, indent=2)
+        print("\nAltStore source file altsource.json created successfully.")
+        EOF
+        python bids_sorter.py
+
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Update altsource.json"
+        file_pattern: altsource.json
