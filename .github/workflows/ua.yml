@@ -3,7 +3,7 @@ name: Update AltSource
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Güncelleme: Her gün gece yarısı çalışacak (daha uygun bir zamanlama)
+    - cron: '0 * * * *' # Güncelleme: Her gün gece yarısı çalışacak (daha uygun bir zamanlama)
                         # Orijinaldeki '* * * * *' her dakika çalışır, bu da çok fazladır.
 
 jobs:
