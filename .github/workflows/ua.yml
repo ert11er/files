@@ -3,8 +3,8 @@ name: Update AltSource
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' # Güncelleme: Her gün gece yarısı çalışacak (daha uygun bir zamanlama)
-                        # Orijinaldeki '* * * * *' her dakika çalışır, bu da çok fazladır.
+    # Runs at minute 0 of every hour
+    - cron: '0 * * * *' 
 
 jobs:
   build:
@@ -27,7 +27,7 @@ jobs:
     - name: Fetch app data
       run: curl "https://nestapi.flekstore.com/app?page=0&search=false&filter=updates" -o ids.txt
 
-    - name: Format app data
+    - name: Format app data (ids.txt to bids.json)
       run: |
         cat <<'EOF' > bids.py
         import json, sys
@@ -46,7 +46,7 @@ jobs:
         EOF
         python bids.py
 
-    - name: Generate altsource.json (Deduplicated)
+    - name: Generate altsource.json (Deduplication Logic)
       run: |
         cat <<'EOF' > bids_sorter.py
         import json, requests, sys, re
@@ -84,35 +84,27 @@ jobs:
             "news": []
         }
         
-        # Benzersiz uygulama tanımlayıcılarını tutmak için bir küme (set)
-        # Bu, kopyaları kontrol etmemizi ve engellememizi sağlayacak.
-        unique_identifiers = set() 
+        # Set to track bundle identifiers already added
+        processed_bundle_identifiers = set()
 
-        # Add apps from other sources
+        # Phase 1: Add apps from other sources
         for source_url in other_sources:
             try:
                 print(f"Fetching data from {source_url}")
                 response = requests.get(source_url, timeout=10)
                 response.raise_for_status()
                 source_data = response.json()
+                
                 if "apps" in source_data:
-                    new_apps = 0
+                    new_apps_count = 0
                     for app in source_data["apps"]:
-                        # Eğer uygulama bir tanımlayıcıya (identifier) sahipse
-                        if "bundleIdentifier" in app and app["bundleIdentifier"]:
-                            identifier = app["bundleIdentifier"]
-                            # Eğer bu tanımlayıcıyı daha önce görmediysek, uygulamayı ekle
-                            if identifier not in unique_identifiers:
-                                altsource["apps"].append(app)
-                                unique_identifiers.add(identifier)
-                                new_apps += 1
-                            else:
-                                print(f"  Skipping duplicate app with identifier: {identifier}")
-                        else:
-                            # Tanımlayıcısı olmayan uygulamalar atlanır
-                            print(f"  Skipping app with missing bundleIdentifier from {source_url}")
-
-                    print(f"  Successfully added {new_apps} unique apps from {source_data.get('name', source_url)}")
+                        bundle_id = app.get("bundleIdentifier")
+                        # Only add if it's unique
+                        if bundle_id and bundle_id not in processed_bundle_identifiers:
+                            altsource["apps"].append(app)
+                            processed_bundle_identifiers.add(bundle_id)
+                            new_apps_count += 1
+                    print(f"  Successfully added {new_apps_count} unique apps from {source_data.get('name', source_url)}")
             except requests.exceptions.RequestException as e:
                 print(f"  Error fetching data from {source_url}: {e}")
             except json.JSONDecodeError:
@@ -128,7 +120,7 @@ jobs:
             print(f"Error reading bids.json: {e}")
             sys.exit(1)
 
-        # Process apps from bids.json
+        # Phase 2: Add apps fetched from flekstore, renaming duplicates
         for bid_item in bids_data:
             app_id = bid_item.get("id")
             if not app_id:
@@ -146,11 +138,9 @@ jobs:
                 bundle_identifier = None
                 if developer and name:
                     dev_part = developer.split('|')[0].strip()
-                    # Karakterleri temizle ve küçük harfe çevir
                     sanitized_dev = re.sub(r'[^a-zA-Z0-9]', '', dev_part).lower()
                     sanitized_name = re.sub(r'[^a-zA-Z0-9]', '', name).lower()
                     if sanitized_dev and sanitized_name:
-                        # Oluşturulan bundleIdentifier
                         bundle_identifier = f"com.{sanitized_dev}.{sanitized_name}"
 
                 install_url = api_data.get('install_url')
@@ -168,20 +158,33 @@ jobs:
                     "iconURL": api_data.get("icon")
                 }
 
-                # Önemli Kontrol ve Tekrar Kontrolü: 
-                # Eksik bundleIdentifier veya downloadURL varsa atla
                 if not app_entry.get("bundleIdentifier") or not app_entry.get("downloadURL"):
                     print(f"  Skipping {app_entry.get('name')} due to missing bundleIdentifier or downloadURL.")
                     continue
                 
-                # Mükerrer Kontrolü: Eğer bu bundleIdentifier daha önce eklendiyse atla
-                current_identifier = app_entry["bundleIdentifier"]
-                if current_identifier not in unique_identifiers:
+                # Check for duplication against items already added
+                if bundle_identifier not in processed_bundle_identifiers:
+                    # New App: Add normally
                     altsource["apps"].append(app_entry)
-                    unique_identifiers.add(current_identifier) # Yeni tanımlayıcıyı kümeye ekle
-                    print(f"  Successfully processed and added {app_entry.get('name')}")
+                    processed_bundle_identifiers.add(bundle_identifier)
+                    print(f"  Successfully processed {app_entry.get('name')} (New)")
                 else:
-                    print(f"  Skipping duplicate app from bids.json with identifier: {current_identifier}")
+                    # Duplicate App: Rename and use a new bundleIdentifier
+                    new_bundle_id = f"{bundle_identifier}.flekstore"
+                    new_name = f"{app_entry.get('name')} (API Variant)"
+                    
+                    # Safety check: Ensure the variant ID itself is unique
+                    if new_bundle_id in processed_bundle_identifiers:
+                         print(f"  Skipping {app_entry.get('name')} - Variant ID {new_bundle_id} already exists.")
+                         continue
+
+                    # Apply the new name and ID
+                    app_entry["bundleIdentifier"] = new_bundle_id
+                    app_entry["name"] = new_name
+                    
+                    altsource["apps"].append(app_entry)
+                    processed_bundle_identifiers.add(new_bundle_id)
+                    print(f"  Added duplicate as {new_name} with ID: {new_bundle_id}")
 
             except requests.exceptions.RequestException as e:
                 print(f"  Error fetching data for ID {app_id}: {e}")
@@ -191,12 +194,12 @@ jobs:
         altsource["apps"].sort(key=lambda x: x.get('name', '').lower())
         with open("altsource.json", "w", encoding="utf-8") as f:
             json.dump(altsource, f, indent=2)
-        print(f"\nAltStore source file altsource.json created successfully with {len(altsource['apps'])} unique apps.")
+        print("\nAltStore source file altsource.json created successfully, including renamed duplicates.")
         EOF
         python bids_sorter.py
 
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: "Update altsource.json"
+        commit_message: "Update altsource.json (including API duplicates)"
         file_pattern: altsource.json
