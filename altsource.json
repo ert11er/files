@@ -73,17 +73,6 @@
       ]
     },
     {
-      "name": "Adobe Premiere: Video Editor",
-      "bundleIdentifier": "com.blatant.adobepremierevideoeditor",
-      "developerName": "Blatant",
-      "version": "25.6.0",
-      "versionDate": "2025-11-02T14:47:51.000Z",
-      "size": 97895549,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/premierAdobe.ipa",
-      "localizedDescription": "Effortless editing. Total control. Meet the fast, free, and focused mobile video editing app that's powerful enough for any idea, yet simple enough for anyone to use. Edit videos from wherever you are, with no ads or watermarks. Premiere offers unmatched speed on a precise multi-track timeline and studio-quality audio featuring crystal clear voice recordings and perfectly timed AI sound effects -- plus Firefly-powered visuals to create stand out videos.",
-      "iconURL": "https://i.imgur.com/rcCpacd.png"
-    },
-    {
       "name": "Aloha Browser - Private VPN",
       "bundleIdentifier": "com.blatant.alohabrowserprivatevpn",
       "developerName": "Blatant",
@@ -99,7 +88,7 @@
       "bundleIdentifier": "com.altmarketteam.altmarket",
       "developerName": "AltMarket Team",
       "version": "1.0",
-      "versionDate": "2025-11-02T18:56:40.000Z",
+      "versionDate": "2025-11-10T17:47:35.000Z",
       "size": 3073771,
       "downloadURL": "https://s3.flekstore.com/ipa-library/AltMarket.ipa",
       "localizedDescription": "<i>Access bypassing invite codes is open.</i><div class=\"\"><i><br></i></div><div class=\"\"><span class=\"\">Games and software store for different platforms: PC, PS, Xbox, Nintendo.</span></div><div class=\"\"><span class=\"\">Simple and clear interface, instant receipt of paid goods, discounts up to 95% on new game releases, Windows, Microsoft Office, SpooferPro etc.</span></div>",
@@ -1038,8 +1027,8 @@
       "name": "Coconote - AI Note Taker",
       "bundleIdentifier": "com.blatant.coconoteainotetaker",
       "developerName": "Blatant",
-      "version": "2.22",
-      "versionDate": "2025-11-04T12:22:06.000Z",
+      "version": "2.23",
+      "versionDate": "2025-11-10T17:43:58.000Z",
       "size": 32974725,
       "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
@@ -2103,6 +2092,17 @@
       ],
       "beta": false,
       "appID": "com.facebook.Facebook"
+    },
+    {
+      "name": "Facetune",
+      "bundleIdentifier": "com.omtk.facetune",
+      "developerName": "omtk",
+      "version": "3.110",
+      "versionDate": "2025-11-10T17:44:26.000Z",
+      "size": 50934299,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
+      "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
+      "iconURL": "https://i.imgur.com/hW3UutY.png"
     },
     {
       "name": "Filmr Pro",
@@ -4709,7 +4709,7 @@
       "bundleIdentifier": "com.pokemon.pokemonsunmoon",
       "developerName": "Pokemon ",
       "version": "5.0.0",
-      "versionDate": "2025-11-02T18:56:13.000Z",
+      "versionDate": "2025-11-10T17:47:21.000Z",
       "size": 1115933674,
       "downloadURL": "https://s3.flekstore.com/ipa-library/pokemonSunMoon.ipa",
       "localizedDescription": "Massive collection of cute pets, innovative gameplay and fun! Log in to \"Pokemon Sun Moon\" now and set sail towards the goal of becoming a top trainer!<div><br><div></div><div></div><div class=\"\"><b>Classic childhood masterpiece</b></div><div class=\"\">Classic plot, classic scene, players are about to become a cute pet trainer, and challenge their cute pet companions on the road to becoming a champion master in the adventure world!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Free capture of divine beasts</b></div><div class=\"\">New joint participation, free capture of divine beasts. 800+ cute pets for you to choose, wild beasts to capture, massive activities and gameplay to help you easily evolve elves!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Real-time PVP competition</b></div><div class=\"\">Real-time competitive gameplay, smooth PVP fair battle! Players compete online and match indiscriminately around the world. Your strength will amaze the world!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">More interesting gameplay</b></div><div>Multiplayer dungeons, world bosses, and Buddhist trainers can also feel full of joy! Experience the peak duel and compete for technical strength!</div><div>\r</div><div>\r</div><div>\r</div></div>",
@@ -4720,7 +4720,7 @@
       "bundleIdentifier": "com.pokelegends.pokemonechoesoftime",
       "developerName": "PokeLegends",
       "version": "1.0",
-      "versionDate": "2025-11-02T18:56:30.000Z",
+      "versionDate": "2025-11-10T17:47:29.000Z",
       "size": 1274681738,
       "downloadURL": "https://s3.flekstore.com/ipa-library/PokemonEchos.ipa",
       "localizedDescription": "Embark on an unforgettable adventure in Pokeland Legends, a Pok\u00e9mon RPG featuring over 800 distinct Pok\u00e9mon. Choose your favorites, train them, and evolve together as you challenge other trainers for fame and glory.\r<div>\r</div><div>Collect Over 800 Unique Pok\u00e9mon\r</div><div>Explore a vast world filled with more than 800 different Pok\u00e9mon, each with their own unique abilities and skills. Level up your Pok\u00e9mon through training, improving their skills and attributes to make them stronger and more adaptable in battle.\r</div><div>Engage in Strategic Turn-Based Combat\r</div><div>Pokeland Legends offers a turn-based combat system that requires strategic planning based on your Pok\u00e9mon's abilities and strengths. Take part in story-driven quests and competitive arenas to earn rewards and prove your skills as a trainer.\r</div><div>Explore a Massive World\r</div><div>Dive into a large, diverse world brimming with secrets and adventure. Complete captivating story quests and take on tough missions to uncover the mysteries hidden within Pokeland.\r</div><div>Build and Empower Your Pok\u00e9mon Team\r</div><div>Form a strong team of Pok\u00e9mon and tackle increasingly difficult challenges. Strengthen your team\u2019s synergy and abilities to rise through the ranks and claim victory in battles.\r</div><div>Experience the ultimate Pok\u00e9mon adventure in Pok\u00e9mon: Echoes of Time, where every trainer's dream becomes a reality. Start your journey today and become the ultimate Pok\u00e9mon Master!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
