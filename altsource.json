@@ -539,17 +539,6 @@
       "appID": "it.ned.appdb-ios"
     },
     {
-      "name": "B612 - AI Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.b612aiphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "14.5.21",
-      "versionDate": "2025-11-02T14:52:05.000Z",
-      "size": 132121404,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/b612.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>B612 is the best all-in-one camera &amp; photo/video editing app. We offer various free features and tools to make every moment more special.\r<div>\r</div><div>Meet trendy effects, filters, and stickers that are updated every day!\r</div><div>=== Main features ===\r</div><div>*Create your own filters*\r</div><div>- Create a one-of-a-kind filter and share it with friends\r</div><div>- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\r</div><div>- Meet the creative and diverse filters of B612 creators.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/gelvNEn.png"
-    },
-    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Avangelista",
@@ -1102,17 +1091,6 @@
         }
       ],
       "appID": "com.crunchyroll.iphone"
-    },
-    {
-      "name": "Darkroom: Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.darkroomphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "6.8.22",
-      "versionDate": "2025-11-02T16:37:31.000Z",
-      "size": 159660645,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/darkroom.ipa",
-      "localizedDescription": "Optimize your creative workflow with Darkroom: Photo &amp; Video Editor, now available for macOS. Experience the pinnacle of desktop editing with Darkroom, designed to elevate your photo and video projects with its comprehensive, feature-rich editing suite.<div><br><div></div><div></div><div class=\"\">Dive into a world where AI powers precision editing, offering you the ability to meticulously sculpt your visuals. With advanced depth editing and object recognition, fine-tune the elements of your photos\u2014like skies, hair, and skin\u2014with unmatched accuracy. Darkroom rivals the functionality of industry giants such as Adobe Lightroom and Canva, providing a versatile toolkit for every creative need.\r</div><div class=\"\"><br></div><div>Unleash your creativity with intuitive tools like touch-responsive curves and selective color adjustments, making the editing process smoother and enabling the creation of distinctive presets. Explore the richness of RAW photography with full-resolution support and 16-bit color depth, ensuring every detail, shadow, and highlight is perfectly captured.</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/XjVWYPX.png"
     },
     {
       "name": "Deezer++",
@@ -1768,6 +1746,17 @@
       "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
     },
     {
+      "name": "Duolingo Hacked",
+      "bundleIdentifier": "com.blatant.duolingohacked",
+      "developerName": "Blatant",
+      "version": "7.99",
+      "versionDate": "2025-11-11T21:55:41.000Z",
+      "size": 182898277,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
+      "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
+      "iconURL": "https://i.imgur.com/X0T1dLm.png"
+    },
+    {
       "name": "Duolingo++",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "unlimapps",
@@ -2328,6 +2317,17 @@
       },
       "beta": false,
       "appID": "com.flyinghead.Flycast"
+    },
+    {
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.fortnite",
+      "developerName": "Epic Games",
+      "version": "38.10",
+      "versionDate": "2025-11-11T21:59:51.000Z",
+      "size": 237086916,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite1.ipa",
+      "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
+      "iconURL": "https://i.imgur.com/nzXoQiP.png"
     },
     {
       "name": "Gardenscapes Hack",
@@ -3373,17 +3373,6 @@
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
     },
     {
-      "name": "Lifesum: AI Calorie Counter",
-      "bundleIdentifier": "com.blatant.lifesumaicaloriecounter",
-      "developerName": "Blatant",
-      "version": "22.1.1",
-      "versionDate": "2025-11-02T17:55:09.000Z",
-      "size": 130997524,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/LifeSum.ipa",
-      "localizedDescription": "A revolutionary way to track your meals, enhanced by AI.\r<div>\r</div><div>Welcome to a new era of nutrition tracking, tailored to your style. With the new Lifesum experience, you can choose to log your meals by snapping a photo, using your voice, typing a text, or scanning a barcode.\r</div><div><br></div><div>Health isn\u2019t about perfection\u2014it\u2019s about progress. Lifesum encourages small, manageable changes that add up to lasting results.\r</div><div class=\"\">Whether it\u2019s drinking more water, adding more fruits and veggies to your plate, or choosing healthier snacks, Lifesum celebrates every win, no matter how small.\r</div><div class=\"\"><br></div><div class=\"\"><b>SMARTER, SIMPLER MEAL TRACKING\r</b></div><div class=\"\">Track your meals your way:\r</div><div>\u2022 Snap a photo to get instant nutrition details.\r</div><div>\u2022 Speak for easy, hands-free logging.\r</div><div>\u2022 Type for more detailed tracking.\r</div><div>\u2022 Scan barcodes for fast info.\r</div><div class=\"\">\u2022 Use quick tracking for simple entries.\r</div><div class=\"\"><br></div><div class=\"\"><b>TOP LIFESUM FEATURES\r</b></div><div>\u2022 Calorie counter\r</div><div>\u2022 Macro tracker and food rating\r</div><div>\u2022 Nutrition plans for weight management and body composition\r</div><div>\u2022 Water tracker\r</div><div>\u2022 Fruit, vegetable, and fish tracker\r</div><div>\u2022 Meal plans with grocery lists included\r</div><div>\u2022 Integration with fitness trackers for in-depth health monitoring\r</div><div>\u2022 Life Score test for personalized nutrition recommendations</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/PNdUdJd.png"
-    },
-    {
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch, LLC",
@@ -3415,8 +3404,8 @@
       "name": "Luminar Mobile AI Photo Editor",
       "bundleIdentifier": "com.blatant.luminarmobileaiphotoeditor",
       "developerName": "Blatant",
-      "version": "3.0.1",
-      "versionDate": "2025-11-05T17:16:22.000Z",
+      "version": "3.0.2",
+      "versionDate": "2025-11-11T21:52:25.000Z",
       "size": 373249461,
       "downloadURL": "https://s3.flekstore.com/ipa-library/luminar.ipa",
       "localizedDescription": "Luminar Mobile \u2014 Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.",
@@ -3512,6 +3501,17 @@
       "beta": false
     },
     {
+      "name": "Mimo: Learn Coding/Programming",
+      "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
+      "developerName": "Blatant",
+      "version": "9.32.0",
+      "versionDate": "2025-11-11T22:01:03.000Z",
+      "size": 136645016,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
+      "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
+      "iconURL": "https://i.imgur.com/OqfiZf2.png"
+    },
+    {
       "name": "Minecraft",
       "bundleIdentifier": "com.glesign.minecraft",
       "developerName": "GLESign",
@@ -3562,28 +3562,6 @@
         "privacy": []
       },
       "appID": "net.namedfork.minivmac"
-    },
-    {
-      "name": "Minutes: AI Meeting Note Taker",
-      "bundleIdentifier": "com.blatant.minutesaimeetingnotetaker",
-      "developerName": "Blatant",
-      "version": "1.9.10",
-      "versionDate": "2025-11-04T12:26:31.000Z",
-      "size": 12708547,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MinutesAI.ipa",
-      "localizedDescription": "<b>MinutesAI automatically does your meeting notes and transcriptions with AI.</b>&nbsp;<div>Minutes records audio and provides word for word transcripts with speakers labels. Then, it gives you formatted notes, summaries, and the ability to search for key terms/topics. You can ask questions like \u201cWhat stats did Laura reference on her slide?.\u201d\r<div>\r</div><div>\r</div><div class=\"\">Minutes takes care of your notes so you can stay focused on what\u2019s important. It's build with privacy in mind, meaning Minutes will never sell or provide third-party access to your data.\r</div><div class=\"\"><br></div><div>Minutes is great for:\r</div><div>- Taking meeting notes automatically, and easily sharing with your coworkers\r</div><div>- Recording and transcribing interviews, lectures, podcasts, videos, YouTube videos, webinars, keynotes\r</div><div class=\"\">- Providing live captioning to the deaf and managers with a quiet microphone\r</div><div class=\"\"><br></div><div class=\"\">Record &amp; Transcribe Live\r</div><div>- Start recording with one click\r</div><div>- Specify keywords (uncommon words, terms, acronyms, names, etc.) for Minutes AI to listen for\r</div><div>- Specify transcription and summary languages (eg transcribe in Spanish, take notes in English)\r</div><div>- Get a highly accurate live transcription with labeled speakers\r</div><div>- See a list of key points to review later\r</div><div>- Ask questions and chat with the recording using AI</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/VvygdCr.png"
-    },
-    {
-      "name": "Mojo: AI Video and Reels Editor",
-      "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
-      "developerName": "Blatant",
-      "version": "1.248.0",
-      "versionDate": "2025-11-04T12:20:57.000Z",
-      "size": 189797587,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/q3iu7n4.png"
     },
     {
       "name": "MyFitnessPal++",
@@ -3647,8 +3625,8 @@
       "name": "MyFitnessPal: Calorie Counter",
       "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
       "developerName": "MyFitnessPal",
-      "version": "25.44.0",
-      "versionDate": "2025-11-05T19:06:31.000Z",
+      "version": "25.45.0",
+      "versionDate": "2025-11-11T21:50:47.000Z",
       "size": 80827557,
       "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
       "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
@@ -3947,6 +3925,17 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
+      "name": "Persona",
+      "bundleIdentifier": "com.tickettothemoon.persona",
+      "developerName": "Ticket To The Moon",
+      "version": "1.14.34",
+      "versionDate": "2025-11-11T21:54:42.000Z",
+      "size": 153483973,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/persona.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Master your look with Persona \u2014 a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\r</div><div>MAIN FEATURES:\r</div><div>\u2022 Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally \u2014 instant with one click, for photos and videos.\r</div><div>\u2022 Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\r</div><div>\u2022 Body Tuning: Shape your figure a bit for a sharp, real result in stills or clips.\r</div><div>\u2022 Skin Improvement: Get a tan, fix texture, or remove shine in one tap, for any shot.\r</div><div>\u2022 Editing Controls: Change brightness, contrast, or sharpness like a pro, for both photos and videos.\r</div><div>\u2022 Face Refining: Improve eyes, nose, lips, or jawline easily, anytime.\r</div><div>\u2022 Color Boost: Add bold, stylish tones to your photos or videos.\r</div><div>\u2022 Unique Details: Add freckles, dimples, or small touches to both photos and videos.\r</div><div>\u2022 Quick Fix: Erase spots or extras fast, no matter what you\u2019re editing.\r</div><div class=\"\">\u2022 Exclusive AI Tools: Retake shots with better angles, generate new photo sessions from your selfies, and more.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/Rf7hrZP.png"
+    },
+    {
       "name": "PewDiePie's Tuber Simulator",
       "bundleIdentifier": "com.glehack.pewdiepiestubersimulator",
       "developerName": "GLEHack",
@@ -3956,6 +3945,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
       "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
       "iconURL": "https://i.imgur.com/8lf8h0O.png"
+    },
+    {
+      "name": "Phocus: Portrait Mode Editor",
+      "bundleIdentifier": "com.blatant.phocusportraitmodeeditor",
+      "developerName": "Blatant",
+      "version": "3.0.8",
+      "versionDate": "2025-11-11T21:51:30.000Z",
+      "size": 208681769,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Phocus.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div><br></div><div>Phocus is a portrait editor and DSLR-style camera powered by AI, giving you full control over depth, background blur, aperture, bokeh, and focal length. Whether you're capturing cinematic portraits or editing precise lens details, Phocus delivers pro-level photography tools in a fast, intuitive interface built for creators.\r</div><div>Inspired by real optical systems, Phocus lets you emulate DSLR lens behavior\u2014without external gear. Control blur shape and depth radius with real aperture modeling. Adjust lens type, depth dynamics, and recreate unique bokeh styles from vintage and high-end lenses. Apply subtle distortions and optical characteristics for expressive storytelling. Phocus doesn\u2019t just blur the background\u2014it understands the physics of photography.</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/PlSCerp.png"
     },
     {
       "name": "Photomath++",
@@ -4003,17 +4003,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
       "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/a3jEO3b.png"
-    },
-    {
-      "name": "Photoshop Express Hack",
-      "bundleIdentifier": "com.adobe.photoshopexpresshack",
-      "developerName": "Adobe",
-      "version": "25.43.0",
-      "versionDate": "2025-11-04T12:20:12.000Z",
-      "size": 104508698,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoshop.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3>\n\n<p>ENHANCE, STYLIZE AND SHARE YOUR PHOTOS WITH EASE.</p>\n\n<p>Tap into your creativity on the go with Photoshop Express\u2013the fast and easy photo editor\u2013used by millions of creative individuals. Edit pictures like the pros with this easy-to-use digital studio full of photo editing features on your mobile device.</p>\n",
-      "iconURL": "https://i.imgur.com/smUWvBF.png"
     },
     {
       "name": "PicsArt Pro",
@@ -5275,8 +5264,8 @@
       "name": "SNOW - AI Profile",
       "bundleIdentifier": "com.blatant.snowaiprofile",
       "developerName": "Blatant",
-      "version": "14.6",
-      "versionDate": "2025-11-09T19:10:48.000Z",
+      "version": "14.6.1",
+      "versionDate": "2025-11-11T21:50:06.000Z",
       "size": 133730441,
       "downloadURL": "https://s3.flekstore.com/ipa-library/SnowAI.ipa",
       "localizedDescription": "SNOW is a camera app used by over 200 million people around the world.\r<div>\r</div><div>\r</div><div>- Find your favorite version of yourself by creating and saving custom beauty effects.\r</div><div>- Take profile-worthy selfies with stylish AR makeup features.\r</div><div>- Explore thousands of stickers with updates every day.\r</div><div>- Don't miss exclusive seasonal filters that add color to your daily life.\r</div><div>- Professional photo edits with just a few taps.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -5888,6 +5877,17 @@
       "iconURL": "https://i.imgur.com/bFi3sQt.png"
     },
     {
+      "name": "Swipewipe - Photo Cleaner",
+      "bundleIdentifier": "com.blatant.swipewipephotocleaner",
+      "developerName": "Blatant",
+      "version": "3.2.34",
+      "versionDate": "2025-11-11T22:02:14.000Z",
+      "size": 78727663,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/swipewipe1.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Swipewipe is the app that will (finally) help you clean up your camera roll. And you\u2019ll enjoy reminiscing while you do it.\r</div><div>We'll save you the time: Yes, there are other apps that can help you quickly delete photos on your phone. But none of them worked for us!\r</div><div class=\"\">We wanted a simple, fun, elegant solution that let us go month-by-month, work our way through all our photos, videos, screenshots, and everything else in our camera roll, and decide - one by one - what to keep and what to get rid of. That\u2019s Swipewipe.\r</div><div class=\"\"><br></div><div>Here\u2019s how it works: swipe right to keep a photo, and left to delete it. If you make a mistake or change your mind, just tap the current photo to go back. Hold down on a picture to see its metadata. After you\u2019re done reviewing that month\u2019s photos, take one last look at the photos you chose to keep and the ones you chose to delete, make any tweaks you need to, and then\u2026you\u2019re done!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/XCukJTH.png"
+    },
+    {
       "name": "Taurine",
       "bundleIdentifier": "org.coolstar.taurine",
       "developerName": "Odyssey Team",
@@ -6098,6 +6098,17 @@
           "maxOSVersion": "14.8"
         }
       ]
+    },
+    {
+      "name": "Unfold: Story and Reels Maker",
+      "bundleIdentifier": "com.squarespace.unfoldstoryandreelsmaker",
+      "developerName": "Squarespace",
+      "version": "8.149.0",
+      "versionDate": "2025-11-11T22:01:51.000Z",
+      "size": 163485644,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Unfold.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div>\u2014 Stitch video clips together with Reels templates\r<div>\r</div><div>\u2014 Create with template collections like Film\r</div><div>\u2014 Plan and preview your Instagram Feed\r</div><div>\u2014 Remove any background with our AI editing tool\r</div><div>\u2014 Make a Bio Site for your new link in bio\r</div><div class=\"\">\u2014 Edit your content with filters and effects\r</div><div class=\"\"><br></div><div>Reels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\r</div><div>Story, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/zkLZ4N3.png"
     },
     {
       "name": "UTM",
@@ -6810,17 +6821,6 @@
         }
       ],
       "appID": "com.wolframalpha.wolframalpha"
-    },
-    {
-      "name": "Words of Wonders: Crossword",
-      "bundleIdentifier": "com.iosgods.wordsofwonderscrossword",
-      "developerName": "iOSGods",
-      "version": "5.3.3",
-      "versionDate": "2025-11-02T18:54:24.000Z",
-      "size": 210085174,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/WordsOfWonders.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><div>Hack Features\r</div><div>\r</div><div><br></div><div>- Auto ADS OFF\r</div><div>- Auto Win\r</div><div>- Gems\r</div><div>- w Coins\r</div><div>- Hints\r</div><div>- Hammer\r</div><div class=\"\">- Rocket</div><div class=\"\"><br></div>Take a visit to the Wonders of the World and solve the mystery that words hide. Test your vocabulary and challenge yourself. Begin your world journey now!<div><br><div></div><div></div><div><b>Test your vocabulary!\r</b></div><div><b>Find the hidden words!\r</b></div><div><b>Discover Wonders!\r</b></div><div class=\"\"><b>Become a master!\r</b></div><div class=\"\"><b><br></b></div><div>Words Of Wonders will test your vocabulary as you discover the wonders filled with challenging levels. Begin your journey with the first wonder and climb your way up to reach the final wonder. Each wonder and level will get progressively harder and will be unique, thanks to the game\u2019s rich word database. Connect the letters without lifting your finger, find the hidden words on the board!\r</div><div>Enjoy simple and beautiful game design!\r</div><div>Variety of level designs will give you more fun during the play!\r</div><div class=\"\">Words Of Wonders is a challenging word game from the makers of Wordz.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/tLl08tH.png"
     },
     {
       "name": "XPatcher",
