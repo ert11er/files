@@ -584,15 +584,15 @@
       "appID": "AlexisBarreyat.BeReal"
     },
     {
-      "name": "BHTikTok+",
-      "bundleIdentifier": "com.ttbetadecryptedxrxtiktok.bhtiktok",
-      "developerName": "TTBeta Decrypted x RXTikTok",
-      "version": "42.3.0",
-      "versionDate": "2025-11-04T12:31:15.000Z",
-      "size": 316478159,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/bhtiktok.ipa",
-      "localizedDescription": "<div class=\"\"><i>To use app on USA connect to VPN and turn off Location services in iPhone settings.</i></div><div><br></div><div>Features</div><div>\u2022 No Ads</div><div class=\"\">\u2022 Download Videos</div><div>\u2022 Download HD Videos</div><div>\u2022 Download Photos</div><div>\u2022 Download Musics</div><div>\u2022 Upload Region</div><div>\u2022 Show Username</div><div>\u2022 Disable Pull-to-refresh</div><div>\u2022 Disable Unsensitive warning</div><div>\u2022 Disable Warnings</div><div>\u2022 Disable Live Broadcast</div><div>\u2022 Skip Recommendations</div><div>\u2022 Remove Watermark</div><div>\u2022 Show/Hide UI button</div><div>\u2022 Copy video decription</div><div>\u2022 Copy video link</div><div>\u2022 Copy Music link</div><div>\u2022 Auto Play Next Video</div><div>\u2022 Show progress bar</div><div>\u2022 Confirm like</div><div>\u2022 Confirm comment like</div><div>\u2022 Confirm comment dislike</div><div>\u2022 Confirm follow</div><div>\u2022 Save profile image</div><div>\u2022 Copy profile information</div><div>\u2022 Profile Video Count</div><div>\u2022 Video Upload Date</div><div>\u2022 Video Like Count</div><div>\u2022 Always Upload In HD</div><div>\u2022 Extend bio</div><div>\u2022 Extend comment</div><div>\u2022 Always open in Safari</div><div>\u2022 Changing region</div><div>\u2022 Fake verify blue mark</div><div>\u2022 Fake Follower count</div><div>\u2022 Fake Following count</div><div>\u2022 Padlock</div>",
-      "iconURL": "https://i.imgur.com/WEEwxI1.png"
+      "name": "BH Instagram",
+      "bundleIdentifier": "com.banderhl.bhinstagram",
+      "developerName": "BanderHL",
+      "version": "406.1.0",
+      "versionDate": "2025-11-12T19:09:53.000Z",
+      "size": 250666471,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/BHInsta.ipa",
+      "localizedDescription": "<ul><li>Hide Ads\r</li><li>No suggested post\r</li><li>Show Like count\r</li><li>Confirm like\r</li><li>Copy description\r</li><li>Download Videos\r</li><li>Save profile image\r</li><li>Keep deleted message\r</li><li>Remove last seen\r</li><li>Remove screenshot alert\r</li><li>Unlimited replay of once story\r</li><li>Disable Story Seen Receipt\r</li><li>Padlock</li></ul>",
+      "iconURL": "https://i.imgur.com/cVK7tEc.png"
     },
     {
       "name": "BHTwitter (deprecated)",
