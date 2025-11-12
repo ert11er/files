@@ -587,10 +587,10 @@
       "name": "BH Instagram",
       "bundleIdentifier": "com.banderhl.bhinstagram",
       "developerName": "BanderHL",
-      "version": "406.1.0",
-      "versionDate": "2025-11-12T19:09:53.000Z",
+      "version": "404.0.0",
+      "versionDate": "2025-11-12T19:22:52.000Z",
       "size": 250666471,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BHInsta.ipa",
+      "downloadURL": "https://s3.flekstore.com/ipa-library/BHInsta1.ipa",
       "localizedDescription": "<ul><li>Hide Ads\r</li><li>No suggested post\r</li><li>Show Like count\r</li><li>Confirm like\r</li><li>Copy description\r</li><li>Download Videos\r</li><li>Save profile image\r</li><li>Keep deleted message\r</li><li>Remove last seen\r</li><li>Remove screenshot alert\r</li><li>Unlimited replay of once story\r</li><li>Disable Story Seen Receipt\r</li><li>Padlock</li></ul>",
       "iconURL": "https://i.imgur.com/cVK7tEc.png"
     },
@@ -3373,6 +3373,17 @@
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
     },
     {
+      "name": "Lampa \u2014 Digital and Film Camera",
+      "bundleIdentifier": "com.blatant.lampadigitalandfilmcamera",
+      "developerName": "Blatant",
+      "version": "1.7.3",
+      "versionDate": "2025-11-12T22:26:35.000Z",
+      "size": 57187455,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Lampa.ipa",
+      "localizedDescription": "Lampa is a camera for capturing the warmth of moments, not the sharpness of pixels. We believe all you need for beautiful photos are a lens and a sensor, not artificial algorithms. With Lampa, you can get the most realistic optical images without HDR or AI enhancements and achieve the most authenticity in mobile photography.<div><br><div></div><div class=\"\">Everyone loves film photography, and so do we \u2014 not for the glares and aberrations, but for the harmonious, pleasant colors and depth of light. Our profiles help you achieve the same authentic feeling directly from the camera, without the need for further editing.\r</div><div class=\"\"><br></div><div class=\"\"><b>In-House Image Capture Engine: \r</b></div><div>\u2014 Lampa captures RAW data and processes it immediately with profiles. You get a result that can't be achieved by editing photos taken with a standard camera.\r</div><div class=\"\">\u2014 No digital oversharpening and forced HDR-effects\r</div><div class=\"\"><br></div><div class=\"\"><b>Gentle Film-Inspired Profiles: \r</b></div><div>\u2014 Four profiles with accurately selected contrast and colors create the most natural and soft pictures. \r</div><div class=\"\">\u2014 Inspired by point-and-shoot and 35mm snapshots, they make your mobile photos look like they were taken with a camera, not a phone.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>Familiar Experience and Simple UI: \r</b></div><div>\u2014 No need to adapt to a complicated interface to capture a moment. Simple design with every button where you expect it to be. \r</div><div>\u2014 Quick launch from the Lock screen and Control center.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/sYY5oaR.png"
+    },
+    {
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch, LLC",
@@ -3512,17 +3523,6 @@
       "iconURL": "https://i.imgur.com/OqfiZf2.png"
     },
     {
-      "name": "Minecraft",
-      "bundleIdentifier": "com.glesign.minecraft",
-      "developerName": "GLESign",
-      "version": "1.21.120",
-      "versionDate": "2025-11-04T12:39:29.000Z",
-      "size": 139311431,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Minecraft.ipa",
-      "localizedDescription": "<p class=\"\"><em class=\"\">Price in Appstore $7.99</em></p>\n\n<p>Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or play with friends on all different devices.&nbsp;</p>\n\n<p>EXPAND YOUR GAME:</p>\n\n<p>Marketplace - Discover the latest community creations in the marketplace! Get unique maps, skins, and texture packs from your favorite creators.</p>\n\n<p>Slash commands - Tweak how the game plays: you can give items away, summon mobs, change the time of day, and more.&nbsp;</p>\n\n<p>Add-Ons - Customize your experience even further with free Add-Ons! If you're more tech-inclined, you can modify data-driven behaviors in the game to create new resource packs.</p>\n",
-      "iconURL": "https://i.imgur.com/7GhHsVq.png"
-    },
-    {
       "name": "Mini vMac",
       "bundleIdentifier": "net.namedfork.minivmac",
       "developerName": "Gryphel Project & zydeco",
@@ -3631,6 +3631,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
       "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
       "iconURL": "https://i.imgur.com/fKnkIwE.png"
+    },
+    {
+      "name": "NeoFreeBird",
+      "bundleIdentifier": "com.blatant.neofreebird",
+      "developerName": "Blatant",
+      "version": "11.38",
+      "versionDate": "2025-11-12T20:10:47.000Z",
+      "size": 161265911,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/TwitterNeobird.ipa",
+      "localizedDescription": "A modified Twitter/X app for iOS/iPadOS devices with branding reverts, a new updated BHTwitter, and many other useful features.",
+      "iconURL": "https://i.imgur.com/RYqHDBQ.png"
     },
     {
       "name": "NineAnimator",
@@ -4969,17 +4980,6 @@
       },
       "beta": false,
       "appID": "com.reddit.Reddit"
-    },
-    {
-      "name": "Renovate AI : Home Design",
-      "bundleIdentifier": "com.billymoore.renovateaihomedesign",
-      "developerName": "BillyMoore",
-      "version": "4.4.65",
-      "versionDate": "2025-11-04T12:50:32.000Z",
-      "size": 54117768,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/RenovateAI.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div><br></div><div>Transform your home effortlessly with Renovate AI! Redesign interiors, exteriors, and landscapes using AI tools for stunning, photorealistic results. Try it now!\r</div><div>Reimagine Your Space with Renovate AI!\r</div><div>Discover the future of architectural design and home renovation with Renovate AI, your go-to solution for creating stunning interiors and exteriors. Whether you're planning a full home design, room design, or landscape design, our cutting-edge technology simplifies every step in your design space.\r</div><div>With our powerful features as an AI room planner and home planner, Renovate AI empowers you to transform your home into the space you\u2019ve always envisioned. Everything you need, from exploring furniture options to perfecting your home decor, is at your fingertips.\r</div><div>With Renovate AI, you can explore endless design possibilities for both the interior design and exterior of your house. Experiment with different colors, furniture, and materials until you create the perfect look that reflects your style. Use our AI home design and AI interior design features to bring your ideas to life. Whether it's creating your dream bedroom or designing a home design 3D layout, we\u2019ve got you covered. Start your journey with Renovate AI today and realize your dream home design in no time!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/8LJybPz.png"
     },
     {
       "name": "RetroArch",
