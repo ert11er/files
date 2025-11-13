@@ -4754,6 +4754,17 @@
       "appID": "org.ppsspp.ppsspp"
     },
     {
+      "name": "Procreate Pocket ",
+      "bundleIdentifier": "com.savageinteractiveptyltd.procreatepocket",
+      "developerName": "Savage Interactive Pty Ltd",
+      "version": "4.0.14",
+      "versionDate": "2025-11-13T12:36:21.000Z",
+      "size": 298234989,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Procreate.ipa",
+      "localizedDescription": "<p class=\"\"><em class=\"\">Price in AppStore&nbsp;$5.99</em></p>\n\n<p>Powerful enough for creative professionals. Simple enough for everyone. The award-winning Procreate Pocket is the most versatile art app ever designed for iPhone.</p>\n\n<p>Offering hundreds of varied pressure-sensitive brushes, an advanced layer system, and the breathtaking speed of Silica M, Procreate Pocket gives you everything you need to create expressive sketches, rich paintings, and gorgeous illustrations on an expansive, ultra-portable canvas. Work on the couch, at the beach, on the train, or while waiting in line for coffee. It\u2019s a complete art studio in the palm of your hand.</p>\n",
+      "iconURL": "https://i.imgur.com/kgOQraB.png"
+    },
+    {
       "name": "Provenance",
       "bundleIdentifier": "com.provenance-emu.provenance",
       "developerName": "Provenance Team",
@@ -5853,17 +5864,6 @@
         ]
       },
       "appID": "com.streamer.ios"
-    },
-    {
-      "name": "Subway Surfers Hack",
-      "bundleIdentifier": "com.iosgods.subwaysurfershack",
-      "developerName": "iOSGods",
-      "version": "3.54.0",
-      "versionDate": "2025-11-04T13:41:54.000Z",
-      "size": 142964570,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/subway.ipa",
-      "localizedDescription": "<p class=\"\"><span class=\"\"><i style=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></span></p><p class=\"\"><strong class=\"\">Hack Features:<br></strong></p><p class=\"\"><span class=\"\">- Free Store (not Free iAP)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free iAP (ViP Only)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock Characters Outfit<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Custom Jump Height<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)</span></p>\n",
-      "iconURL": "https://i.imgur.com/QScGnfP.jpeg"
     },
     {
       "name": "Survivor.io Hack",
