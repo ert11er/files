@@ -595,6 +595,17 @@
       "iconURL": "https://i.imgur.com/cVK7tEc.png"
     },
     {
+      "name": "BH X",
+      "bundleIdentifier": "com.dangerouspixel.bhx",
+      "developerName": "Dangerous Pixel",
+      "version": "11.30.1",
+      "versionDate": "2025-11-13T18:14:30.000Z",
+      "size": 100174044,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/TwitterBHTwitter.ipa",
+      "localizedDescription": "BHTwitter<div>\u2022 Download Videos (even with private accounts).</div><div>\u2022 Download Videos from DM (hold the video cell).</div><div>\u2022 Unlock Undo Tweets for free.</div><div>\u2022 Hide promoted tweet from the timeline.</div><div>\u2022 Enable voice tweet and voice message in DM.</div><div>\u2022 Confirm alert when Like/Dislike.</div><div>\u2022 Lock Twitter with passcode.</div><div>\u2022 Enable Reader mode.</div><div>\u2022 Autoload photos in the highest quality.</div><div><br></div>",
+      "iconURL": "https://i.imgur.com/rpd1scd.png"
+    },
+    {
       "name": "BHTwitter (deprecated)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL",
@@ -2470,17 +2481,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Homescapes.ipa",
       "localizedDescription": "<p class=\"\"><b>Hack Features:</b></p><p class=\"\"></p><ul><li><b>Infinite Moves</b></li><li><b>Infinite Lives</b></li><li><b>Infinite Boosters</b></li><li><b>Complete tasks without stars</b></li><li><b class=\"\">Unlock Season Pass</b></li></ul><p></p><p class=\"\">Welcome to Homescapes, a warm and cozy game. Make match-3 combinations and turn every corner of your home into an inviting place to relax and have fun.\n</p><p class=\"\">Solve puzzles, restore the interior room by room, and meet new friends in every chapter of the exciting storyline. Austin the butler is ready to welcome you to a world of incredible adventures!</p><p class=\"\">\n</p><p class=\"\">\n</p>\n",
       "iconURL": "https://i.imgur.com/crDKoSy.png"
-    },
-    {
-      "name": "Hot Wheels Unlimited",
-      "bundleIdentifier": "com.iosgods.hotwheelsunlimited",
-      "developerName": "iOSGods",
-      "version": "2025.3.1",
-      "versionDate": "2025-11-04T14:00:36.000Z",
-      "size": 996824167,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/HotWheels.ipa",
-      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods</a><div class=\"\"><br></div><h3>Hack Features:<br>\r- PREMIUM</h3><div class=\"\"><br></div><div class=\"\">Buckle up! Get ready to blast full throttle! We\u2019re all about awesome cars, fun racing games, crazy challenges, and building the coolest race tracks around. Head on over to Hot Wheels\u2122 City to test your skills with fun kids car racing challenges. Race solo or compete against friends! Start your engines, this is going to be an awesome ride!</div><div class=\"\"><a href=\"https://iosgods.com/\"></a><div><br></div></div>",
-      "iconURL": "https://i.imgur.com/DNObxOw.png"
     },
     {
       "name": "iDOS",
