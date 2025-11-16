@@ -707,6 +707,17 @@
       "iconURL": "https://i.imgur.com/hboZbpJ.png"
     },
     {
+      "name": "Captions: For Talking Videos",
+      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
+      "developerName": "Blatant",
+      "version": "12.43",
+      "versionDate": "2025-11-16T13:37:45.000Z",
+      "size": 373335088,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
+      "iconURL": "https://i.imgur.com/zAg0CiN.png"
+    },
+    {
       "name": "CARROT Weather",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "developerName": "Grailr LLC",
@@ -2461,17 +2472,6 @@
       "beta": false
     },
     {
-      "name": "Home Workout - No Equipments",
-      "bundleIdentifier": "com.leaphealth.homeworkoutnoequipments",
-      "developerName": "Leap Health",
-      "version": "1.40.10",
-      "versionDate": "2025-11-05T17:21:11.000Z",
-      "size": 333427853,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Homeworkouts.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3>Looking to build muscle and lose weight? Home Workout has got you covered!\r<div>\r</div><div>Home workouts with no equipment, easy to follow.\r</div><div>Follow the tailored workout plans and expert guidance to meet a fitter, stronger you!\r</div><div>Home Workout app is an expertly crafted fitness app that offers a variety of workouts and workout plans suitable for everyone, from fitness beginners to experts.</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/M6LdnkW.png"
-    },
-    {
       "name": "Homescapes Hack",
       "bundleIdentifier": "com.glehack.homescapeshack",
       "developerName": "GLEHack",
@@ -3384,6 +3384,17 @@
       "iconURL": "https://i.imgur.com/sYY5oaR.png"
     },
     {
+      "name": "LoFi Cam: Film Digital Camera",
+      "bundleIdentifier": "com.pixelpunk.loficamfilmdigitalcamera",
+      "developerName": "PixelPunk",
+      "version": "3.11.0",
+      "versionDate": "2025-11-16T13:32:59.000Z",
+      "size": 286136304,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/LoFiCam.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div>LoFi Cam: A Retro Camera App that recreates the distinctive feel of CCD digital cameras.",
+      "iconURL": "https://i.imgur.com/g6NRFq6.png"
+    },
+    {
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch, LLC",
@@ -3421,6 +3432,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/luminar.ipa",
       "localizedDescription": "Luminar Mobile \u2014 Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.",
       "iconURL": "https://i.imgur.com/MLlSu1E.png"
+    },
+    {
+      "name": "MacroFactor - Macro Tracker",
+      "bundleIdentifier": "com.blatant.macrofactormacrotracker",
+      "developerName": "Blatant",
+      "version": "5.6.2",
+      "versionDate": "2025-11-16T13:49:49.000Z",
+      "size": 90984369,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MacroFactor.ipa",
+      "localizedDescription": "<b class=\"\">DIET SMARTER\r</b><div>\r</div><div>Using a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \r</div><div>\u2022 The unique energy expenditure calculation detects changes in your metabolism\r</div><div>\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\r</div><div>\u2022 Weekly check-ins keep you on track toward your goals\r</div><div class=\"\">The result? You better understand your body\u2019s needs and can successfully reach and sustain your goals without stress.\r</div><div class=\"\"><br></div><div class=\"\"><b>THE BEST MACRO TRACKER TOOLS</b></div><div>\u2022 The fastest macro tracker on the market with tools like barcode scan and custom foods\r</div><div>\u2022 Verified food database, so you can trust the accuracy of the foods you log \r</div><div>\u2022 Custom macro programs and weekly check-ins based on your goals and preferences\r</div><div>\u2022 Detailed breakdowns of micronutrients, macros, and more\r</div><div>\u2022 Period tracker, habit tracker, unique data insights and visualization, integrations, dark mode, and more</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/sGSONJS.png"
     },
     {
       "name": "MadOut 2: Grand Auto Racing",
@@ -3465,17 +3487,6 @@
         }
       ],
       "appID": "com.example.mame4ios"
-    },
-    {
-      "name": "Marvel Contest of Champions",
-      "bundleIdentifier": "com.iosgods.marvelcontestofchampions",
-      "developerName": "iOSGods",
-      "version": "53.1.0",
-      "versionDate": "2025-11-05T18:55:29.000Z",
-      "size": 1883492326,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MarvelContest.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><h3>Hack Features:\r</h3><div class=\"\"><ul><li class=\"\">X Player Damage\r</li><li>X Player Defense\r</li><li>X Player Mana\r</li><li>Enemy Mana\r</li><li class=\"\">Enemy/AI Doesn't Attack\r</li><li>Special Attack/Skill Always Available\r</li><li>No Knockbacks When Hit\r</li><li>No Knockdowns When Hit\r</li><li>Enemy Doesn't Block\r</li><li class=\"\">Auto Win\r</li><li class=\"\">One Hit Kill</li></ul></div><div class=\"\"><br></div>The biggest names from the Marvel Universe are ready to battle!\r<div>\r</div><div>\r</div><div>Prepare for epic versus-fighting action and battles with your favorite Marvel Super Heroes &amp; Super Villains in the ultimate cosmic showdown! Spider-Man, Iron Man, Deadpool, Wolverine &amp; more await your summons to battle! Assemble a team &amp; begin your quest to become the Ultimate Marvel Champion!</div>",
-      "iconURL": "https://i.imgur.com/ACMuUoz.png"
     },
     {
       "name": "Messenger++",
@@ -3934,6 +3945,17 @@
         ]
       },
       "appID": "com.faizandurrani.paperback.ios"
+    },
+    {
+      "name": "PDF Expert - Editor and Reader",
+      "bundleIdentifier": "com.blatant.pdfexperteditorandreader",
+      "developerName": "Blatant",
+      "version": "7.24.1",
+      "versionDate": "2025-11-16T13:34:21.000Z",
+      "size": 152350871,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PDFExpert.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>READ PDFs WITH JOY\r</div><div>\u2022 Pick Day, Night, or Sepia mode and enjoy reading anytime, anywhere.\r</div><div>\u2022 Enjoy both vertical and horizontal scrolling.\r</div><div>\u2022 Export PDF files from email, web, or any app that supports the Apple system-wide Share menu\r</div><div>\u2022 Use Text to Speech to hear the selected text read out loud\r</div><div>HIGHLIGHT AND ANNOTATE PDFs\r</div><div>\u2022 Mark important info in books using colors, text, or stickers\r</div><div>\u2022 Add stamps such as Approved, Confidential, etc.\r</div><div>\u2022 Record your voice and add it to the doc\r</div><div>FILL OUT FORMS\r</div><div>\u2022 Fill out PDF forms using interactive text fields, checkboxes, and radio buttons\r</div><div>\u2022 All the major form formats support, including acro forms and static XFA forms</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/E37J0eT.png"
     },
     {
       "name": "Persona",
@@ -5240,6 +5262,17 @@
       ]
     },
     {
+      "name": "Six Pack in 30 Days",
+      "bundleIdentifier": "com.sixpack.sixpackin30days",
+      "developerName": "Six Pack",
+      "version": "1.41.0",
+      "versionDate": "2025-11-16T13:22:24.000Z",
+      "size": 416684600,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/sixpack.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Want to lose belly fat and get six pack abs for the summer? Start sculpting your abs with this super effective abs workout app. Workouts are suitable for all levels, and you can easily do them at home or anywhere, anytime. Just a few minutes a day to get the sexy abs you have been dreaming of!\r<div>\r</div><div>\r</div><div>Workout Plan with Different Levels\r</div><div>Lose Belly Fat, Rock Hard Abs and Six Pack Abs - these 3 levels of workout plans help you lose belly fat and build abdominal muscles step by step. Whether you are a beginner or a pro, you can find workouts that are suitable for you. Different exercises are prepared every day to keep it fresh and exciting.</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/NW5fYxn.png"
+    },
+    {
       "name": "Snapchat++",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Kanji",
@@ -5363,17 +5396,6 @@
         }
       ],
       "appID": "com.soundcloud.TouchApp"
-    },
-    {
-      "name": "SpooferPro",
-      "bundleIdentifier": "com.spooferpro.spooferpro",
-      "developerName": "SpooferPro",
-      "version": "0.385.2 (0.550)",
-      "versionDate": "2025-11-05T17:18:25.000Z",
-      "size": 138735247,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/spoofer.ipa",
-      "localizedDescription": "<div><b>If you use in LiveContainer: Set Allow location access for LiveContainer app in iPhone settings to always and set Precise Location to ON&nbsp;</b></div><b><div><b><br></b></div>Description:</b><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">SpooferPro is an iOS GPS Spoofer and gameplay enhancer designed to assist players in their gameplay and gain resources very efficiently.</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">Join SpooferPro on Discord for feature and installation guides, quick app support, gameplay tips and more!</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">Uninstall Pok\u00e9monGo/iSpoofer/iPogo before installing</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div class=\"\"><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><b>Free features:</b></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Gps Spoof, Autowalk, GPX support</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Import routes and hotspots</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Over 800 premade GPX routes</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Pok\u00e9mon Scanner for Shiny &amp; Hundo</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Built in Virtual GO Plus module</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Fast Map loading</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffOne click item bag cleaner</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 One click Pok\u00e9mon bag cleaner</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffNearby Feed + Overlay</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Global feeds with customization&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Freeze movement in encounter</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffBlock non shiny encounters</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffBlock non hundo (100iv) encounters</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Encounter settings (Throw excellent etc)</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffTeam Rocket 1 hit</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Journal / Stats tracker</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Notifications &amp; IV preview</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Cooldown warning on teleport</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Loop Gpx route</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Tap to Walk</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Incognito/Anonymous Mode</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Pro Features</b></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"> (Purchased on the website of the developer spooferpro.com) :</span></div><div class=\"\"><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Includes all free features</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Ban protection through active patches&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Pro Catch&amp;Spin (99x better than VGP)</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Auto clean Pok\u00e9mon &amp; Item bag</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Instant Rocket Battles&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Instant Battles for team leaders</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Skip animations</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Spawn Booster</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Tap to teleport</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Buddy feature - feed, play, snapshot</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Invisible Team rocket fight&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Auto Heal Pok\u00e9mon</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Walk route &amp; pick up Zygarde cell</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Auto Favorite</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Reconnect VGP for you</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Performance Mode</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Enable features on reboot (farm loop)</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Many more features...</span></div><div><br></div><div class=\"\">Join SpooferPro community:</div><div class=\"\"><a href=\"https://spooferpro.com\">Website</a>: https://spooferpro.com</div><div class=\"\"><a href=\"https://discord.gg/52HpPM4T2p\">Discord</a>: https://discord.gg/52HpPM4T2p</div><div class=\"\"><a href=\"https://t.me/SpooferProOffical\">Telegram</a>: https://t.me/SpooferProOffical</div>",
-      "iconURL": "https://i.imgur.com/JrcYKNq.png"
     },
     {
       "name": "Spotify++",
@@ -6666,28 +6688,6 @@
         "privacy": []
       },
       "appID": "com.vcmi.VCMI"
-    },
-    {
-      "name": "VidList",
-      "bundleIdentifier": "com.vidlist.vidlist",
-      "developerName": "@vidlist",
-      "version": "2.1.1",
-      "versionDate": "2025-11-05T17:30:20.000Z",
-      "size": 21118510,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/vidlist.ipa",
-      "localizedDescription": "- Seen content from sites phub/premium (next PHub/PHub Premium), xvios (next XV), and etc. without ads and others.<div>- Save seen history, you can disable it in Settings.</div><div>- Can change video quality.</div><div>- Also, app have subscription named VidList Premium.</div>",
-      "iconURL": "https://i.imgur.com/J2zs84Z.png"
-    },
-    {
-      "name": "VN Video Editor",
-      "bundleIdentifier": "com.blatant.vnvideoeditor",
-      "developerName": "Blatant",
-      "version": "1.102.3",
-      "versionDate": "2025-11-05T17:19:08.000Z",
-      "size": 316753263,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/YYfDChx.png"
     },
     {
       "name": "VSCO",
