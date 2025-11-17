@@ -2202,17 +2202,6 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
-      "name": "Fishdom",
-      "bundleIdentifier": "com.laxus.fishdom",
-      "developerName": "Laxus",
-      "version": "9.3.2",
-      "versionDate": "2025-11-05T19:04:22.000Z",
-      "size": 188637690,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Fishdom.ipa",
-      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a><div class=\"\"><br></div><h3 class=\"\">Hack Features:<br>\r- Infinite Moves<br>\r- Infinite Boosters<br>\r- Infinite Lives</h3><div><br></div><div><br></div><div>Dive into the fantastic world of Fishdom! You're in for an ocean of exciting levels, scores of adorable fish and pets, and a sea of captivating events!\r</div><div>Explore incredible underwater adventures! Unlock aquariums and decorate them to your taste, creating perfect homes for cute fish and their friends.\r</div><div>Game Features:\r</div><div>\u25cf Original gameplay: beat match-3 levels to create the perfect home for your fish!\r</div><div>\u25cf Thousands of captivating levels with powerful boosters!\r</div><div>\u25cf Loads of beautiful decorations and unlimited creative freedom: what the aquariums look like is entirely up to you!\r</div><div>\u25cf Exciting events: embark on expeditions, collect keys in season adventures, and get awesome rewards like power-ups, boosters, unlimited lives, pets, and aquarium decorations!\r</div><div>\u25cf Have fun together: compete against other players, team up, and win fantastic prizes! Play with your Facebook friends, or make new friends in the game community!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/AW5M3yL.png"
-    },
-    {
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
@@ -3035,17 +3024,6 @@
           "sha256": "795253059e78f7acd96af1ce6e9430bc98611cf58342e51f8e7e6e8c459a59b0"
         }
       ]
-    },
-    {
-      "name": "Infuse",
-      "bundleIdentifier": "com.dangerouspixel.infuse",
-      "developerName": "Dangerous Pixel",
-      "version": "8.3.1",
-      "versionDate": "2025-11-05T22:12:44.000Z",
-      "size": 38933889,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/infuse.ipa",
-      "localizedDescription": "Ignite your video content with Infuse \u2013 the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, Mac, and Vision. No need to convert files! Infuse is optimized for iOS 26, with powerful streaming options, Trakt sync, and unmatched AirPlay &amp; subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.<div><br><div></div><div class=\"\"><b>- PLAY MORE VIDEO TYPES\r</b></div><div class=\"\">A powerful video player that plays just about anything, including MP4, MKV, M4V and MOV \u2013 plus many others. Includes support for HDR, HDR10+, Dolby Vision, plus Dolby and DTS audio.\r</div><div class=\"\"><br></div><div class=\"\"><b>- STREAM FROM OTHER DEVICES\r</b></div><div class=\"\">Browse and play videos stored on your Mac, PC, NAS, Wi-Fi hard drive, apps like Plex, Emby, and Jellyfin, or from cloud services like Dropbox, Google Drive, OneDrive, Box, pCloud, Yandex.Disk, MEGA, Aliyun Drive, and others \u2013 no syncing required!\r</div><div class=\"\"><br></div><div class=\"\"><b>- AIRPLAY &amp; GOOGLE CAST OPTIONS\r</b></div><div class=\"\">Stream a wide variety of videos types such as MKV, MP4, M4V, and others over AirPlay &amp; Google Cast with full surround sound and subtitles.\r</div><div class=\"\"><br></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/cF2l4DX.png"
     },
     {
       "name": "Infuse Pro 6",
@@ -4049,17 +4027,6 @@
       "iconURL": "https://i.imgur.com/TohrZE2.png"
     },
     {
-      "name": "Planes Live - Flight Tracker",
-      "bundleIdentifier": "com.blatant.planesliveflighttracker",
-      "developerName": "Blatant",
-      "version": "3.10.53",
-      "versionDate": "2025-11-05T22:15:38.000Z",
-      "size": 129416732,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/planesLive.ipa",
-      "localizedDescription": "Planes Live Free is a simple yet powerful flight tracking tool that lets you watch the planes online all over the world and get up-to-date information on flights instantly! Track the flights of your family members or beloved ones as if you were traveling with them and find the best time to pick them up at the airport. \r<div>\r</div><div class=\"\">Whether you are a professional pilot or an aviation enthusiast, you'll definitely appreciate our flight tracker - the simple, clean and informative interface coupled with powerful functionality!\r</div><div class=\"\"><br></div><div class=\"\"><b>FEATURES\r</b></div><div><ul><li class=\"\">Track planes and biplanes online all over the world\r</li><li class=\"\">Get notified about the flight schedule changes with handy alerts: be aware of the flight status, canceled flights, new departure and arrival time and more\r</li><li>Search for particular flights, airports, \u200band locations\r</li><li>Get detailed information on flights: from aircraft characteristics and picture to its route and schedule\r</li><li>Find up-to-date airport information that covers accurate departures and arrivals schedule, airport timezone and local time, its location and weather forecast\r</li><li>Add airports and locations to \"My Places\" to access them instantly!\r</li><li>Check weather forecast for a particular location or airport\r</li><li>Spot planes and airports near you: select the desirable distance and enjoy the show!\r</li><li>Apply smart filters to track a particular airplane model or an airline company, watch the planes of selected altitude, speed or airport.\r</li></ul></div><div class=\"\"><b><br></b></div><div class=\"\"><b>PREMIUM FEATURES\r</b></div><div><ul><li class=\"\">Weather Overlays\r</li><li>Unlimited number of alerts\r</li><li>2x faster data update\r</li><li>Terminal, Check In, Gate and Baggage info\r</li><li>No Ads</li></ul></div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/ZOOmHc5.png"
-    },
-    {
       "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
@@ -5013,6 +4980,17 @@
       },
       "beta": false,
       "appID": "com.reddit.Reddit"
+    },
+    {
+      "name": "Regram for Instagram",
+      "bundleIdentifier": "com.fouadraheb.regramforinstagram",
+      "developerName": "Fouad Raheb",
+      "version": "406.1.0 (2.2)",
+      "versionDate": "2025-11-17T13:01:21.000Z",
+      "size": 204357512,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/regram.ipa",
+      "localizedDescription": "<span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Built-into Instagram</b></span><div>Runs inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features</div><div class=\"\"><b>Profile Analyzer</b></div><div>Scans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).</div><div class=\"\"><b>Stories Archive</b><br>Automatically download and store all your uploaded Stories including the full viewers and likers list and allow to view analytics of top viewers and likers.</div><div class=\"\"><b>Media Downloader</b></div><div class=\"\">Downloads any Instagram media, including posts, stories, reels, post audio, and direct messages.</div><div class=\"\"><b>Privacy</b></div><div class=\"\">View stories and read direct messages without sending seen receipts, send them manually with a single tap.</div><div class=\"\"><b>Messages</b></div><div class=\"\">Keep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.</div><div class=\"\"><b>Utilities &amp; Customization</b></div><div class=\"\">Confirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.<br><br></div>",
+      "iconURL": "https://i.imgur.com/Y5n6G8O.png"
     },
     {
       "name": "RetroArch",
@@ -6769,6 +6747,28 @@
           "maxOSVersion": "16.1.2"
         }
       ]
+    },
+    {
+      "name": "WhatsApp Business",
+      "bundleIdentifier": "com.fouadraheb.whatsappbusiness",
+      "developerName": "FouadRaheb",
+      "version": "25.33.74",
+      "versionDate": "2025-11-17T12:40:33.000Z",
+      "size": 105049917,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/WatusiBusiness.ipa",
+      "localizedDescription": "The all-in-one tweak for WhatsApp Business!<div><br></div><div>Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.</div>",
+      "iconURL": "https://i.imgur.com/7uCL87n.png"
+    },
+    {
+      "name": "WhatsApp Watusi",
+      "bundleIdentifier": "com.fouadraheb.whatsappwatusi",
+      "developerName": "Fouad Raheb",
+      "version": "25.33.73",
+      "versionDate": "2025-11-17T13:11:08.000Z",
+      "size": 121430663,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Watusi.ipa",
+      "localizedDescription": "<p class=\"\"><em style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">For notifications to work in the Watusi settings, you need to enable the \"local notifications\" option and keep the application in the background.</em></p>\n\n<p class=\"\">Features:<br>\n- Stealth Mode<br>\n- Disable Read Receipts<br>\n- Selective Read Receipts<br>\n- Disable Delivery Receipts<br>\n- Custom Theme<br>\n- Custom Text Color<br>\n- Full Profile Pic<br>\n- Send Unlimited Media<br>\n- Share Music<br>\n- Record audio<br>\n- Passcode/TouchID</p>\n",
+      "iconURL": "https://i.imgur.com/5WRFBOk.png"
     },
     {
       "name": "WhatsApp++",
