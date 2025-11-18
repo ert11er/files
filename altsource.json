@@ -15,6 +15,39 @@
       "iconURL": "https://i.imgur.com/8fYqQgj.png"
     },
     {
+      "name": "3Speak.tv - Acela",
+      "bundleIdentifier": "com.example.acela",
+      "developerName": "sagarkothari88",
+      "subtitle": "Tokenized Video Communities",
+      "version": "1.0.3",
+      "versionDate": "2022-12-08",
+      "versionDescription": "https://ecency.com/hive-181335/@sagarkothari88/3speak-development-update-from-sagarkothari88-7cd51a3b88448",
+      "downloadURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/Runner.ipa",
+      "localizedDescription": "The build which was also submitted to the Apple for TestFlight review",
+      "iconURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/AppIcon-512.png",
+      "tintColor": "AFEEEE",
+      "size": 857669,
+      "permissions": [],
+      "screenshotURLs": [
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5651.PNG",
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5652.PNG",
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5653.PNG",
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5654.PNG",
+        "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/IMG_5655.PNG"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2022-12-08",
+          "downloadURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/Runner.ipa",
+          "localizedDescription": "https://ecency.com/hive-181335/@sagarkothari88/3speak-development-update-from-sagarkothari88-7cd51a3b88448",
+          "size": 857669
+        }
+      ],
+      "appID": "com.example.acela"
+    },
+    {
       "name": "ActiveGS iOS",
       "bundleIdentifier": "com.yoshisuga.activeGS",
       "developerName": "yoshisuga & Olivier Goguel",
@@ -601,6 +634,57 @@
       "appID": "com.atebits.Tweetie2"
     },
     {
+      "name": "blurt.blog",
+      "bundleIdentifier": "blog.blurt.blurt",
+      "developerName": "sagarkothari88",
+      "subtitle": "A fair world of social liberty",
+      "version": "1.0.7",
+      "versionDate": "2023-01-01",
+      "versionDescription": "https://blurt.blog/blurt/@sagarkothari88/h350a80ssgii-ct0j-9x",
+      "downloadURL": "https://github.com/sag333ar/blurt-releases/releases/download/1.0.7(36)/Runner.ipa",
+      "localizedDescription": "The build which was also submitted to the Apple for AppStore review",
+      "iconURL": "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/512x512.png",
+      "tintColor": "8A28F7",
+      "size": 857669,
+      "permissions": [],
+      "screenshotURLs": [
+        "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/se/01.png",
+        "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/se/02.png",
+        "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/se/03.png",
+        "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/se/04.png",
+        "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/se/05.png",
+        "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/se/06.png",
+        "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/se/07.png",
+        "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/se/08.png",
+        "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/se/09.png"
+      ],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.7",
+          "date": "2023-01-01",
+          "downloadURL": "https://github.com/sag333ar/blurt-releases/releases/download/1.0.7(36)/Runner.ipa",
+          "localizedDescription": "https://blurt.blog/blurt/@sagarkothari88/h350a80ssgii-ct0j-9x",
+          "size": 857669
+        },
+        {
+          "version": "1.0.6",
+          "date": "2020-11-20",
+          "downloadURL": "https://github.com/sag333ar/blurt-releases/releases/download/1.0.6(35)/Runner.ipa",
+          "localizedDescription": "https://blurt.blog/blurt/@sagarkothari88/we-are-ready-to-submit-to-appstore-and-curation-report-18th-and-19th-nov-2022",
+          "size": 857669
+        },
+        {
+          "version": "1.0.3",
+          "date": "2020-11-20",
+          "downloadURL": "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/ios/releases/1.0.3/app.ipa",
+          "localizedDescription": "https://blurt.blog/blurt/@sagarkothari88/we-are-ready-to-submit-to-appstore-and-curation-report-18th-and-19th-nov-2022",
+          "size": 857669
+        }
+      ],
+      "appID": "blog.blurt.blurt"
+    },
+    {
       "name": "Busuu: Language Learning",
       "bundleIdentifier": "com.blatant.busuulanguagelearning",
       "developerName": "Blatant",
@@ -960,6 +1044,37 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
       "iconURL": "https://i.imgur.com/zhyX6RJ.png"
+    },
+    {
+      "name": "Countdown",
+      "bundleIdentifier": "com.neo.countdown",
+      "developerName": "neoarz",
+      "version": "1.6",
+      "versionDate": "2025-02-22T21:37:29-05:00",
+      "versionDescription": "Added new animation!",
+      "downloadURL": "https://github.com/neoarz/Countdown-App/releases/download/1.6/Countdown.ipa",
+      "localizedDescription": "This app is purely for entertainment purposes and is not intended to predict or influence real-life events. Any countdown generated by the app is entirely fictional and should not be taken seriously. I am not affiliated with the creators of the movie Countdown and is not responsible for any emotional, psychological, or other effects caused by the use of this app. By using this app, you agree to do so at your own discretion and risk.",
+      "iconURL": "https://github.com/neoarz/Countdown-App/raw/main/Assets/CountdownLogo.jpg",
+      "tintColor": "000",
+      "size": 720000,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/neoarz/Countdown-App/main/RepoAssets/Clock.jpeg",
+        "https://raw.githubusercontent.com/neoarz/Countdown-App/main/RepoAssets/UserAgreementBroken.jpeg",
+        "https://raw.githubusercontent.com/neoarz/Countdown-App/main/RepoAssets/AcceptTOC.jpeg"
+      ],
+      "subtitle": "If you could know exactly when you're going to die, would you want to know?",
+      "absoluteVersion": "1.6",
+      "appID": "com.neo.countdown",
+      "versions": [
+        {
+          "version": "1.6",
+          "date": "2025-02-22T21:37:29-05:00",
+          "downloadURL": "https://github.com/neoarz/Countdown-App/releases/download/1.6/Countdown.ipa",
+          "localizedDescription": "Added new animation!",
+          "size": 720000,
+          "absoluteVersion": "1.6"
+        }
+      ]
     },
     {
       "name": "Critical Strike Hack",
@@ -2087,6 +2202,36 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "Brandon Plank",
+      "subtitle": "A revival of the once popular game.",
+      "version": "4.3",
+      "versionDate": "2022-06-14T20:54:11Z",
+      "versionDescription": "# 4.3\n\n**Full Changelog**: https://github.com/crypticplank/flappybird/compare/4.2.0...4.3\r\n* Removed Leaderboard\r\n* Removed Accounts\r\n* Removed Anti-Cheat",
+      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+      "localizedDescription": "This Flappy Bird is a revival of the original Flappy Bird by Dong Nguyen. There are a many new features to enhance gameplay as well!\n\n\u2022 Tap to flap\n\u2022 Avoid the hitting the pipes\n\u2022 Flap for infinity!",
+      "iconURL": "https://i.imgur.com/tIUJeSs.png",
+      "tintColor": "#49cc48",
+      "size": 2099365,
+      "screenshotURLs": [
+        "https://i.imgur.com/nIq1VVv.png",
+        "https://i.imgur.com/TZBdg7M.png",
+        "https://i.imgur.com/41u9JUh.png"
+      ],
+      "absoluteVersion": "4.3",
+      "versions": [
+        {
+          "version": "4.3",
+          "date": "2022-06-14T20:54:11Z",
+          "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+          "localizedDescription": "# 4.3\n\n**Full Changelog**: https://github.com/crypticplank/flappybird/compare/4.2.0...4.3\r\n* Removed Leaderboard\r\n* Removed Accounts\r\n* Removed Anti-Cheat",
+          "size": 2099365,
+          "absoluteVersion": "4.3"
+        }
+      ]
+    },
+    {
       "name": "Flycast",
       "bundleIdentifier": "com.flyinghead.Flycast",
       "developerName": "Flyinghead",
@@ -3032,6 +3177,41 @@
       ]
     },
     {
+      "name": "iTorrent",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
+      "developerName": "XITRIX",
+      "subtitle": "Ordinary iOS torrent client app.",
+      "version": "2.0.14",
+      "versionDate": "2024-11-19",
+      "versionDescription": "What's new:\n\n\u2022 Text accessibility support added\n\u2022 Huge backend refactoring\n\u2022 Libtorrent updated to 1.2.9\n\u2022 Minor UI improvements\n\u2022 Many bugs fixed (possibly new ones added)",
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.0.14-1/iTorrent.ipa",
+      "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n\u2022 Download in the background\n\u2022 Sequential download (use VLC to watch films while loading)\n\u2022 Add torrent files from Share menu (Safari and other apps)\n\u2022 Add magnet links directly from Safari\n\u2022 Store files in Files app (iOS 11+)\n\u2022 File sharing directly from app\n\u2022 Download torrent by link\n\u2022 Download torrent by magnet\n\u2022 Send notification on torrent downloaded\n\u2022 FTP Server (unstable)\n\u2022 Select files to download or not\n\u2022 Change UI to dark theme\n\nNow supporting these localizations:\n\u2022 English\n\u2022 Russian\n\u2022 Turkish",
+      "iconURL": "https://i.imgur.com/C3KwMP5.png",
+      "tintColor": "#e32b3c",
+      "size": 21218913,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows iTorrent to save files to Photos app."
+        }
+      ],
+      "screenshotURLs": [
+        "https://i.imgur.com/0o7qou3.png",
+        "https://i.imgur.com/sO510zC.png",
+        "https://i.imgur.com/MQPWxYz.png",
+        "https://i.imgur.com/xTAo5uE.png"
+      ],
+      "versions": [
+        {
+          "version": "2.0.14",
+          "date": "2020-11-19",
+          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.0.14-1/iTorrent.ipa",
+          "localizedDescription": "What's new: Status filters in navigation bar",
+          "size": 21218913
+        }
+      ]
+    },
+    {
       "name": "iVanced for YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "TherionRO",
@@ -3618,6 +3798,64 @@
         ]
       },
       "appID": "com.zurac.OldOS"
+    },
+    {
+      "name": "OldOS",
+      "bundleIdentifier": "com.zurac.OldOS",
+      "developerName": "zzanehip",
+      "subtitle": "OldOS is a testament to the days of iOS 4.",
+      "version": "1.0",
+      "versionDate": "2021-11-23T19:01:37Z",
+      "versionDescription": "# IPA V1.0 Build 18\n\n1.0 (18):\r\n- Mail is here! This is a full-blown email client, no ifs, ands, or buts\r\n- View mailboxes, read emails, move emails, manage inbox, and send emails\r\n- Fixes to YouTube backend\r\n- Other bug fixes",
+      "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+      "localizedDescription": "OldOS is a testament to the days of yesteryear, showcasing what iOS once was ten years ago. The ethos of the app is to merge the technologies of today with a pixel-perfect recreation of the user experience of the past. The vast majority of apps in OldOS are fully functional \u2014 meaning they seamlessly integrate with the data on your phone to deliver a live, emulator-esque experience. What does this mean? Well, you can play your music in iPod, get directions in Maps, surf the web in Safari, view the current weather in Weather, and much more. By the same token, no shortcuts were taken in fully fleshing out the operating system. You can change your background, adjust settings, search apps, et cetera. There are a few apps still not ready for primetime but don't worry, they're coming soon.\n\nWith OldOS, you no longer need to worry about securing a legacy iPhone to experience nostalgia \u2014 it's available on your daily driver.\n\nPart of the goal with OldOS is to enable anyone to understand how iOS works and demonstrate just how powerful SwiftUI truly is. For that reason, the entire app is open-sourced \u2014 enabling developers to learn about, modify, and add to the app. I thought building this over my last six or so months in high school and sharing it with the world would be a fun and productive endeavor.\n\nSpecial Features:\n* \ud83e\uddd1\u200d\ud83d\udcbb Built almost entirely using SwiftUI.\n* \ud83c\udfa8 Designed to be as close to pixel-perfect as possible.\n* \ud83d\udcf1 Fully functional, perhaps even usable as a second OS.\n* \u2764\ufe0f A testament to the work of Apple employees of both the past and the present.\n* \ud83d\uddfa\ufe0f Fully open source for all to learn, modify, and build on.",
+      "iconURL": "https://raw.githubusercontent.com/zzanehip/The-OldOS-Project/master/OldOS/OldOS/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "tintColor": "#181818",
+      "size": 88173533,
+      "screenshotURLs": [
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_1.jpg",
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_2.jpg",
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_3.jpg",
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_4.jpg",
+        "https://github.com/zzanehip/The-OldOS-Project/raw/master/Images/Market_5.jpg"
+      ],
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "To take photos in OldOS, please enable access to your camera."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app."
+        },
+        {
+          "type": "music",
+          "usageDescription": "To view, play, and experience your music in OldOS, please enable access to your music library."
+        },
+        {
+          "type": "location",
+          "usageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "To record your audio while filming a video in OldOS, please in enable microphone access."
+        },
+        {
+          "type": "contacts",
+          "usageDescription": "To view and manage your contacts in OldOS, please enable access to your contacts list."
+        }
+      ],
+      "absoluteVersion": "1.0_18",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2021-11-23T19:01:37Z",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+          "localizedDescription": "# IPA V1.0 Build 18\n\n1.0 (18):\r\n- Mail is here! This is a full-blown email client, no ifs, ands, or buts\r\n- View mailboxes, read emails, move emails, manage inbox, and send emails\r\n- Fixes to YouTube backend\r\n- Other bug fixes",
+          "size": 88173533,
+          "absoluteVersion": "1.0_18"
+        }
+      ]
     },
     {
       "name": "Paperback",
@@ -5289,6 +5527,48 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "StikNES",
+      "bundleIdentifier": "com.stik.StikNES",
+      "developerName": "StikNES Team",
+      "version": "5.2",
+      "versionDate": "2025-02-22T21:37:29-05:00",
+      "versionDescription": "StikNES Comes to Sidestore!",
+      "downloadURL": "https://github.com/StikEMU/StikNES-2.0/releases/download/v2.0.2/StikNES.ipa",
+      "localizedDescription": "StikNES is a SwiftUI-based NES emulator designed for iOS devices. It leverages the power of SwiftUI to deliver a clean, modern interface while emulating the classic NES gaming experience using the nes-rust library.",
+      "iconURL": "https://github.com/StikEMU/StikNES-Site/blob/main/Website/logo.png?raw=true",
+      "tintColor": "293B45",
+      "size": 490000,
+      "screenshotURLs": [
+        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot1.png?raw=true",
+        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot2.png?raw=true",
+        "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot3.png?raw=true"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.sustained-execution",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit"
+        ],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission."
+        }
+      },
+      "subtitle": "SwiftUI NES Emulator for iOS",
+      "absoluteVersion": "5.2",
+      "appID": "com.stik.StikNES",
+      "versions": [
+        {
+          "version": "5.2",
+          "date": "2025-02-22T21:37:29-05:00",
+          "downloadURL": "https://github.com/StikEMU/StikNES-2.0/releases/download/v2.0.2/StikNES.ipa",
+          "localizedDescription": "StikNES Comes to Sidestore!",
+          "size": 490000,
+          "absoluteVersion": "5.2"
+        }
+      ]
     },
     {
       "name": "Streamer",
