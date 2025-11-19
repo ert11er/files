@@ -4,17 +4,6 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
-      "name": " Uplens: Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.uplensphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "3.4.0",
-      "versionDate": "2025-11-05T22:26:12.000Z",
-      "size": 179070044,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/uplens.ipa",
-      "localizedDescription": "Uplens is the ultimate mobile photo and video editor, powered by AI and designed to help you take perfect selfies and create stunning visuals in just a few taps. With our advanced retouching tools and a full range of professional-grade editing features, Uplens gives you everything you need to make your photos and videos look their best.<div><br><div></div><div class=\"\">Use the Magic AI Retouch function to get flawless skin and natural color correction. Our vintage presets give your visuals a unique, nostalgic vibe, and with our easy-to-use editing tools, you can customize each preset to create your own signature style.\r</div><div class=\"\"><br></div><div>In addition to our powerful retouching tools, video editing features, and vintage presets, Uplens also offers a full suite of professional-grade editing tools, including contrast, saturation, noise, and more. Whether you're a professional photographer or just want to take your Instagram profile to the next level, Uplens is the perfect tool for all your photo and video editing needs.</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/8fYqQgj.png"
-    },
-    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -1038,8 +1027,8 @@
       "name": "Coconote - AI Note Taker",
       "bundleIdentifier": "com.blatant.coconoteainotetaker",
       "developerName": "Blatant",
-      "version": "2.24",
-      "versionDate": "2025-11-16T13:21:45.000Z",
+      "version": "2.25",
+      "versionDate": "2025-11-19T09:05:48.000Z",
       "size": 32974725,
       "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
@@ -1566,17 +1555,6 @@
       "appID": "com.rileytestut.Delta.Beta"
     },
     {
-      "name": "Delta Executor for Roblox",
-      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
-      "developerName": "Delta Executor",
-      "version": "2.699",
-      "versionDate": "2025-11-06T09:47:09.000Z",
-      "size": 140988698,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
-      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
-      "iconURL": "https://i.imgur.com/DSJyw6J.png"
-    },
-    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
@@ -1768,11 +1746,22 @@
       "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
     },
     {
+      "name": "Duet Display",
+      "bundleIdentifier": "com.blatant.duetdisplay",
+      "developerName": "Blatant",
+      "version": "3.0.2",
+      "versionDate": "2025-11-19T09:39:01.000Z",
+      "size": 43860814,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/DuetDisplay.ipa",
+      "localizedDescription": "<div class=\"\">Install host app on PC or Mac from here <a href=\"https://www.duetdisplay.com/\">https://www.duetdisplay.com/</a></div><div><br></div>Duet turns your iPad or iPhone into the most advanced extra display for your Mac &amp; PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.<div><br><div></div><div class=\"\"><b>\u2014 DO MORE \u2014\r</b></div><div class=\"\">Be twice as productive by multitasking with two screens. And for those that travel, have a portable way to stay productive. \r</div><div class=\"\"><br></div><div class=\"\"><b>\u2014 INCREDIBLY SIMPLE \u2014\r</b></div><div>To get started, plug your iPad into your desktop using your charging cable. The free Duet desktop app will automatically detect your device, and transform it into a high performance touchscreen display.\r</div><div class=\"\">There\u2019s no need to worry about unreliable Wi-Fi, laggy performance, pixelated screens or managing network passwords. \r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>\u2014 TOUCHSCREEN \u2014\r</b></div><div>Interact with Mac &amp; PC like never before, with touch &amp; gestures, including two-finger scrolling, pan and zoom.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/qH8SEXt.png"
+    },
+    {
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
-      "version": "7.99",
-      "versionDate": "2025-11-11T21:55:41.000Z",
+      "version": "7.100",
+      "versionDate": "2025-11-19T09:07:16.000Z",
       "size": 182898277,
       "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
       "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
@@ -3415,8 +3404,8 @@
       "name": "MacroFactor - Macro Tracker",
       "bundleIdentifier": "com.blatant.macrofactormacrotracker",
       "developerName": "Blatant",
-      "version": "5.6.2",
-      "versionDate": "2025-11-16T13:49:49.000Z",
+      "version": "5.6.3",
+      "versionDate": "2025-11-19T09:07:44.000Z",
       "size": 90984369,
       "downloadURL": "https://s3.flekstore.com/ipa-library/MacroFactor.ipa",
       "localizedDescription": "<b class=\"\">DIET SMARTER\r</b><div>\r</div><div>Using a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \r</div><div>\u2022 The unique energy expenditure calculation detects changes in your metabolism\r</div><div>\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\r</div><div>\u2022 Weekly check-ins keep you on track toward your goals\r</div><div class=\"\">The result? You better understand your body\u2019s needs and can successfully reach and sustain your goals without stress.\r</div><div class=\"\"><br></div><div class=\"\"><b>THE BEST MACRO TRACKER TOOLS</b></div><div>\u2022 The fastest macro tracker on the market with tools like barcode scan and custom foods\r</div><div>\u2022 Verified food database, so you can trust the accuracy of the foods you log \r</div><div>\u2022 Custom macro programs and weekly check-ins based on your goals and preferences\r</div><div>\u2022 Detailed breakdowns of micronutrients, macros, and more\r</div><div>\u2022 Period tracker, habit tracker, unique data insights and visualization, integrations, dark mode, and more</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -3614,8 +3603,8 @@
       "name": "MyFitnessPal: Calorie Counter",
       "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
       "developerName": "MyFitnessPal",
-      "version": "25.45.0",
-      "versionDate": "2025-11-11T21:50:47.000Z",
+      "version": "25.46.0",
+      "versionDate": "2025-11-19T09:10:41.000Z",
       "size": 80827557,
       "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
       "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
@@ -5286,8 +5275,8 @@
       "name": "SNOW - AI Profile",
       "bundleIdentifier": "com.blatant.snowaiprofile",
       "developerName": "Blatant",
-      "version": "14.6.1",
-      "versionDate": "2025-11-11T21:50:06.000Z",
+      "version": "14.6.7",
+      "versionDate": "2025-11-19T09:08:42.000Z",
       "size": 133730441,
       "downloadURL": "https://s3.flekstore.com/ipa-library/SnowAI.ipa",
       "localizedDescription": "SNOW is a camera app used by over 200 million people around the world.\r<div>\r</div><div>\r</div><div>- Find your favorite version of yourself by creating and saving custom beauty effects.\r</div><div>- Take profile-worthy selfies with stylish AR makeup features.\r</div><div>- Explore thousands of stickers with updates every day.\r</div><div>- Don't miss exclusive seasonal filters that add color to your daily life.\r</div><div>- Professional photo edits with just a few taps.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -5973,8 +5962,8 @@
       "name": "Temply: AI Video & Reels Maker",
       "bundleIdentifier": "com.blatant.templyaivideoreelsmaker",
       "developerName": "Blatant",
-      "version": "8.3",
-      "versionDate": "2025-11-12T17:27:58.000Z",
+      "version": "8.3.1",
+      "versionDate": "2025-11-19T09:11:38.000Z",
       "size": 87525499,
       "downloadURL": "https://s3.flekstore.com/ipa-library/templyAI.ipa",
       "localizedDescription": "<b>Templates that Inspire:\r</b><div>\r</div><div>\u2022 600+ Templates: Choose from a diverse range of templates tailored for Reels, TikTok, Stories, and more.\r</div><div>\u2022 AI-Powered \"Created For You\": Instantly generate engaging, trendy videos using your personal media.\r</div><div class=\"\">\u2022 Beat-Synced Templates: Effortlessly create videos synchronized to music beats.\r</div><div class=\"\"><br></div><div class=\"\"><b>Tools to Enhance Your Content:\r</b></div><div>\u2022 Royalty-Free Music: Access 600+ soundtracks for social media and commercial use.\r</div><div>\u2022 Fonts &amp; Text Tools: Customize with 100+ fonts, shadows, strokes, and color picking.\r</div><div>\u2022 Stickers &amp; Filters: Use 800+ trendy stickers and 50+ filters to elevate your content.\r</div><div class=\"\">\u2022 Transitions &amp; Effects: Add dynamic transitions and effects for professional-quality results.\r</div><div class=\"\"><br></div><div class=\"\"><b>User-Friendly Interface:\r</b></div><div>\u2022 Quick Learning Curve: Ideal for newcomers in the world of social media content creation.\r</div><div>\u2022 4K Export: Ensure high-quality video output for all your projects.\r</div><div>\u2022 Direct Sharing: Share your creations directly to social media platforms.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -6666,6 +6655,17 @@
         "privacy": []
       },
       "appID": "com.vcmi.VCMI"
+    },
+    {
+      "name": "VN Video Editor",
+      "bundleIdentifier": "com.blatant.vnvideoeditor",
+      "developerName": "Blatant",
+      "version": "1.103",
+      "versionDate": "2025-11-19T09:10:03.000Z",
+      "size": 316753263,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/YYfDChx.png"
     },
     {
       "name": "VSCO",
