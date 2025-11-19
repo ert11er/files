@@ -6767,7 +6767,7 @@
       "versionDate": "2025-11-17T13:11:08.000Z",
       "size": 121430663,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Watusi.ipa",
-      "localizedDescription": "<p class=\"\"><em style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">For notifications to work in the Watusi settings, you need to enable the \"local notifications\" option and keep the application in the background.</em></p>\n\n<p class=\"\">Features:<br>\n- Stealth Mode<br>\n- Disable Read Receipts<br>\n- Selective Read Receipts<br>\n- Disable Delivery Receipts<br>\n- Custom Theme<br>\n- Custom Text Color<br>\n- Full Profile Pic<br>\n- Send Unlimited Media<br>\n- Share Music<br>\n- Record audio<br>\n- Passcode/TouchID</p>\n",
+      "localizedDescription": "<p class=\"\"><b class=\"\">If you click Continue on Allow Notifications screen during setup in LiveContainer, you need in long press on WhatsApp app and enable Fix Local Notifications option in settings.</b></p>\n\n<p class=\"\">Features:<br>\n- Stealth Mode<br>\n- Disable Read Receipts<br>\n- Selective Read Receipts<br>\n- Disable Delivery Receipts<br>\n- Custom Theme<br>\n- Custom Text Color<br>\n- Full Profile Pic<br>\n- Send Unlimited Media<br>\n- Share Music<br>\n- Record audio<br>\n- Passcode/TouchID</p>\n",
       "iconURL": "https://i.imgur.com/5WRFBOk.png"
     },
     {
