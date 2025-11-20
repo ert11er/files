@@ -1055,17 +1055,6 @@
       ]
     },
     {
-      "name": "Critical Strike Hack",
-      "bundleIdentifier": "com.glehack.criticalstrikehack",
-      "developerName": "GLEHack",
-      "version": "14.2009",
-      "versionDate": "2025-11-09T12:33:54.000Z",
-      "size": 1477258649,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CriticalStrike.ipa",
-      "localizedDescription": "<h3>Hacks:</h3><div class=\"\"><ul><li class=\"\">Premium pass unlocked</li><li class=\"\">Fire rate</li><li class=\"\">One Hit Kill (OHK)</li><li>Max Speed</li><li class=\"\">High Range</li><li class=\"\">High Accuracy</li><li class=\"\">Infinite Ammo</li><li class=\"\">Bots disabled</li><li class=\"\">No Reload time</li><li class=\"\">No Respawn time</li><li class=\"\">No smoke</li><li class=\"\">No Flash</li><li class=\"\">No Gravity</li></ul></div>Critical Strike is a fast-paced modern multiplayer FPS counter terrorist game.\n<div>\n</div><div>Are you a fan of the good old counter terrorists battles? Enjoying online shooters and multiplayer gun games? There is the best 3D First Person Shooter in real-time.\n</div><div>Take the part in the vanguard at the battlefield of Critical Strike!\n</div><div>Play with your friends, you will love the multiplayer PvP shooting experience on your mobile device! Compete with people around the world and show your skills.\n</div><div>Fight against real players around the world over multiple game modes with 10 seconds of matchmaking and battles under 4 minutes.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://i.imgur.com/UjxZ4C3.png"
-    },
-    {
       "name": "Crunchyroll++",
       "bundleIdentifier": "com.crunchyroll.iphone",
       "developerName": "unlimapps",
@@ -1091,6 +1080,17 @@
         }
       ],
       "appID": "com.crunchyroll.iphone"
+    },
+    {
+      "name": "Dead Cells+",
+      "bundleIdentifier": "com.motiontwin.deadcells",
+      "developerName": "Motion Twin",
+      "version": "3.3.15",
+      "versionDate": "2025-11-20T15:19:14.000Z",
+      "size": 1369144077,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/DeadCells.ipa",
+      "localizedDescription": "Play as a failed alchemic experiment and explore the sprawling, ever-changing castle to find out what happened on this gloomy island\u2026! \r<div>That is, assuming you\u2019re able to fight your way past its keepers.\r</div><div>Dead Cells+ is a roguevania action platformer that will require you to master frantic 2D combat with a wide variety of weapons and skills against merciless minions and boss.\r</div><div class=\"\">The indie hit Dead Cells+ is now slaying foes on Apple Arcade!\r</div><div class=\"\"><br></div><div class=\"\"><b>Main Features</b></div><div>\u2022 Roguevania: The progressive exploration of an interconnected world, with the replayability of a rogue-lite and the adrenaline pumping threat of permadeath\r</div><div>\u2022 Frantic and Dynamic 2D Action: Learn your enemies\u2019 patterns to stay alive, or prepare to be sent back to your cell before you can say \u201cbaguette\u201d\r</div><div>\u2022 Nonlinear Progression: Unlock new levels with every death, opt for the path that suits your current build, your playstyle or just your mood. \r</div><div class=\"\">Surely, the ramparts can\u2019t be as bad the sewers, right?\r</div><div>\u2022 Play at your own pace: Will you explore every nook and cranny of the castle, or rush to the end?\r</div><div class=\"\"><br></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/pFQtr7Z.png"
     },
     {
       "name": "Deezer++",
@@ -2356,17 +2356,6 @@
       "appID": "com.rileytestut.GBA4iOS"
     },
     {
-      "name": "Grim Soul: Survival",
-      "bundleIdentifier": "com.glehack.grimsoulsurvival",
-      "developerName": "GLEHack",
-      "version": "7.7.2",
-      "versionDate": "2025-11-09T12:28:56.000Z",
-      "size": 173219080,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
-      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
-      "iconURL": "https://i.imgur.com/H19BePp.png"
-    },
-    {
       "name": "HD Flix (No Ads)",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",
       "developerName": "Dezokr",
@@ -3388,17 +3377,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MacroFactor.ipa",
       "localizedDescription": "<b class=\"\">DIET SMARTER\r</b><div>\r</div><div>Using a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \r</div><div>\u2022 The unique energy expenditure calculation detects changes in your metabolism\r</div><div>\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\r</div><div>\u2022 Weekly check-ins keep you on track toward your goals\r</div><div class=\"\">The result? You better understand your body\u2019s needs and can successfully reach and sustain your goals without stress.\r</div><div class=\"\"><br></div><div class=\"\"><b>THE BEST MACRO TRACKER TOOLS</b></div><div>\u2022 The fastest macro tracker on the market with tools like barcode scan and custom foods\r</div><div>\u2022 Verified food database, so you can trust the accuracy of the foods you log \r</div><div>\u2022 Custom macro programs and weekly check-ins based on your goals and preferences\r</div><div>\u2022 Detailed breakdowns of micronutrients, macros, and more\r</div><div>\u2022 Period tracker, habit tracker, unique data insights and visualization, integrations, dark mode, and more</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/sGSONJS.png"
-    },
-    {
-      "name": "MadOut 2: Grand Auto Racing",
-      "bundleIdentifier": "com.glehack.madout2grandautoracing",
-      "developerName": "GLEHack",
-      "version": "17.09",
-      "versionDate": "2025-11-09T12:36:10.000Z",
-      "size": 982235042,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MadOutTwo.ipa",
-      "localizedDescription": "<h3 class=\"\">Hacks:</h3><div><ul><li>Unlimited Ammo</li><li>Rapidfire</li><li>Stop car traffic</li><li>Stop human traffic</li><li>Stop Police traffic</li><li>Boost car speed</li><li>No Ads</li></ul></div><div><br></div>Complete freedom of action and communication with other players surrounded by visceral stylish Eastern Europe locations. Ready to be the next Big City Legend? Become a real gangster and join the crazy MadOut 2 online family!\n<div>\n</div><div>\n</div><div>Gameplay for every taste:\n</div><div>1. Play with other players online in multiplayer mode (up to 200 on the server!) and in single player mode offline.\n</div><div>2. More than 30 story missions with awesome plot twists with insane crimes and mafia RP elements.\n</div><div>3. Online jobs: earn money together in a single world! Be a serious gangstar boss or lawful civilian guy!</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://i.imgur.com/B7rfrzc.png"
     },
     {
       "name": "MAME4iOS",
@@ -5177,6 +5155,28 @@
       "appID": "com.burbn.instagram"
     },
     {
+      "name": "Royal Kingdom",
+      "bundleIdentifier": "com.iosgods.royalkingdom",
+      "developerName": "iosGods",
+      "version": "23511",
+      "versionDate": "2025-11-20T14:52:10.000Z",
+      "size": 197464587,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/RoyalKingdom.ipa",
+      "localizedDescription": "\n<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li class=\"\">- Freeze Coins</li><li class=\"\">- Freeze Lives</li><li class=\"\">- Freeze Boosters</li><li class=\"\">- Freeze Moves</li></ul><div><br></div></div><div><br></div><div>From the creators of Royal Match comes a brand new match 3 puzzle adventure in Royal Kingdom, starring the extended Royal Family!\n</div><div class=\"\">You\u2019ll meet King Richard, King Robert's younger brother, as well as a charming cast of new characters, including Princess Bella and the Wizard, to embark on a journey to build legendary kingdoms! Solve match 3 puzzles to explore new lands and defeat the Dark King &amp; his army!\n</div><div class=\"\"><br></div><div class=\"\">MASTER MATCH 3 PUZZLES\n</div><div>Test your skills and become the ultimate match 3 expert by solving fun yet challenging puzzles! Beat thrilling levels and overcome unique obstacles!</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://i.imgur.com/icGgNIM.png"
+    },
+    {
+      "name": "Royal Match Hack",
+      "bundleIdentifier": "com.iosgods.royalmatchhack",
+      "developerName": "iosGods",
+      "version": "32263",
+      "versionDate": "2025-11-20T14:51:07.000Z",
+      "size": 162105486,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/RoyalMatch.ipa",
+      "localizedDescription": "<h3 class=\"\"><br><i>Features:</i></h3><div class=\"\"><ul><li>Freeze coins\n</li><li>Freeze stars\n</li><li>Freeze lives\n</li><li>Freeze boosters\n</li><li>Freeze time\n</li><li>Freeze moves\n</li><li>Unlock vip badges\n</li><li>Unlock vip style\n</li><li>Unlock vip frames\n</li><li class=\"\">Auto win</li></ul><div><br></div></div>King Robert needs your help to restore Royal Castle\u2019s former glory. Break the obstacles and combine amazing power-ups to beat joyful and challenging levels! Keep unlocking wonderful areas by playing fun match-3 levels! Come along now and join the fun!",
+      "iconURL": "https://i.imgur.com/ySlvIxD.png"
+    },
+    {
       "name": "ScummVM",
       "bundleIdentifier": "org.scummvm.scummvm",
       "developerName": "ScummVM Team",
@@ -5281,17 +5281,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/SnowAI.ipa",
       "localizedDescription": "SNOW is a camera app used by over 200 million people around the world.\r<div>\r</div><div>\r</div><div>- Find your favorite version of yourself by creating and saving custom beauty effects.\r</div><div>- Take profile-worthy selfies with stylish AR makeup features.\r</div><div>- Explore thousands of stickers with updates every day.\r</div><div>- Don't miss exclusive seasonal filters that add color to your daily life.\r</div><div>- Professional photo edits with just a few taps.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/YgzzHQS.png"
-    },
-    {
-      "name": "Soul Knight Hack",
-      "bundleIdentifier": "com.glehack.soulknighthack",
-      "developerName": "GLEHack",
-      "version": "7.7.0",
-      "versionDate": "2025-11-09T12:38:04.000Z",
-      "size": 309758980,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SoulKnight.ipa",
-      "localizedDescription": "<h3><i>Features:</i></h3><div class=\"\"><ul><li>Max HP\r</li><li>Max Energy\r</li><li>Max Armor\r</li><li>Infinite Fish\r</li><li>Infinite Gems\r</li><li>Fire Rate\r</li><li>Max Speed\r</li><li>OHK\r</li><li>No skill cooldown</li></ul></div><div><br></div>This is the shooter game that features extremely easy and intuitive control. Its super smooth and enjoyable gameplay, mixed with rogue-like elements, will get you hooked from the very first run!",
-      "iconURL": "https://i.imgur.com/2HG67SP.png"
     },
     {
       "name": "SoundCloud++",
@@ -6907,6 +6896,17 @@
         }
       ],
       "appID": "jb.zini.tevi"
+    },
+    {
+      "name": "Zooba Hack",
+      "bundleIdentifier": "com.iosgods.zoobahack",
+      "developerName": "iOSGods",
+      "version": "5.34",
+      "versionDate": "2025-11-20T14:44:15.000Z",
+      "size": 163156388,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/zooba1.ipa",
+      "localizedDescription": "<div><i class=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></div><div><i class=\"\"><br></i></div><div><i class=\"\">Features:</i></div>- Map Hacks<div>- Allow Shoot in Water</div>",
+      "iconURL": "https://i.imgur.com/jIy4zSU.png"
     }
   ],
   "news": []
