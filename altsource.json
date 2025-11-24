@@ -584,17 +584,6 @@
       "appID": "AlexisBarreyat.BeReal"
     },
     {
-      "name": "BH Instagram",
-      "bundleIdentifier": "com.banderhl.bhinstagram",
-      "developerName": "BanderHL",
-      "version": "404.0.0",
-      "versionDate": "2025-11-12T19:22:52.000Z",
-      "size": 250666471,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BHInsta1.ipa",
-      "localizedDescription": "<ul><li>Hide Ads\r</li><li>No suggested post\r</li><li>Show Like count\r</li><li>Confirm like\r</li><li>Copy description\r</li><li>Download Videos\r</li><li>Save profile image\r</li><li>Keep deleted message\r</li><li>Remove last seen\r</li><li>Remove screenshot alert\r</li><li>Unlimited replay of once story\r</li><li>Disable Story Seen Receipt\r</li><li>Padlock</li></ul>",
-      "iconURL": "https://i.imgur.com/cVK7tEc.png"
-    },
-    {
       "name": "BH X",
       "bundleIdentifier": "com.dangerouspixel.bhx",
       "developerName": "Dangerous Pixel",
@@ -2328,6 +2317,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite1.ipa",
       "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
       "iconURL": "https://i.imgur.com/nzXoQiP.png"
+    },
+    {
+      "name": "Game Dev Tycoon",
+      "bundleIdentifier": "com.iosgods.gamedevtycoon",
+      "developerName": "iOSGods",
+      "version": "1.6.12",
+      "versionDate": "2025-11-24T14:22:37.000Z",
+      "size": 75508273,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/GameDevTycoon.ipa",
+      "localizedDescription": "<div class=\"\">Requires registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><b>Hack:</b></div><div class=\"\"><b>- Add Money Per Month</b></div><div><br></div>Game Dev Tycoon is a casual business simulation game where your success depends on your creativity and willingness to experiment. The game does *not* contain any in-app purchases or ads. Slip into the role of a game developer: start your own company, design your own games and make your way to the top to become a Game Dev Tycoon.<div><br><div></div><div>&nbsp;- Start your own game development company in the 80s\r</div><div>&nbsp;- Replay gaming history\r</div><div>&nbsp;- Design and create your own games\r</div><div>&nbsp;- Hold your breath and wait for reviews to come in\r</div><div>&nbsp;- Research new technologies\r</div><div>&nbsp;- Hire and manage a world-leading development team\r</div><div>&nbsp;- Become the leader of the market\r</div><div class=\"\">&nbsp;- Gain worldwide fans\r</div><div><br></div></div>",
+      "iconURL": "https://i.imgur.com/tGVmzBj.png"
     },
     {
       "name": "Gardenscapes Hack",
