@@ -25,7 +25,7 @@ jobs:
       run: pip install requests
 
     - name: Fetch app data
-      run: curl "https://nestapi.flekstore.com/app?page=0&search=false&filter=updates" -o ids.txt
+      run: curl -sS "https://nestapi.flekstore.com/app?page=0&search=false&filter=updates" -o ids.txt
 
     - name: Format app data (ids.txt to bids.json)
       run: |
