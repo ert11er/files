@@ -4,6 +4,17 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
+      "name": " Uplens: Photo and Video Editor",
+      "bundleIdentifier": "com.blatant.uplensphotoandvideoeditor",
+      "developerName": "Blatant",
+      "version": "3.4.1",
+      "versionDate": "2025-11-25T15:44:56.000Z",
+      "size": 179070044,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/uplens.ipa",
+      "localizedDescription": "Uplens is the ultimate mobile photo and video editor, powered by AI and designed to help you take perfect selfies and create stunning visuals in just a few taps. With our advanced retouching tools and a full range of professional-grade editing features, Uplens gives you everything you need to make your photos and videos look their best.<div><br><div></div><div class=\"\">Use the Magic AI Retouch function to get flawless skin and natural color correction. Our vintage presets give your visuals a unique, nostalgic vibe, and with our easy-to-use editing tools, you can customize each preset to create your own signature style.\r</div><div class=\"\"><br></div><div>In addition to our powerful retouching tools, video editing features, and vintage presets, Uplens also offers a full suite of professional-grade editing tools, including contrast, saturation, noise, and more. Whether you're a professional photographer or just want to take your Instagram profile to the next level, Uplens is the perfect tool for all your photo and video editing needs.</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/8fYqQgj.png"
+    },
+    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -584,17 +595,6 @@
       "appID": "AlexisBarreyat.BeReal"
     },
     {
-      "name": "BH X",
-      "bundleIdentifier": "com.dangerouspixel.bhx",
-      "developerName": "Dangerous Pixel",
-      "version": "11.30.1",
-      "versionDate": "2025-11-13T18:14:30.000Z",
-      "size": 100174044,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/TwitterBHTwitter.ipa",
-      "localizedDescription": "BHTwitter<div>\u2022 Download Videos (even with private accounts).</div><div>\u2022 Download Videos from DM (hold the video cell).</div><div>\u2022 Unlock Undo Tweets for free.</div><div>\u2022 Hide promoted tweet from the timeline.</div><div>\u2022 Enable voice tweet and voice message in DM.</div><div>\u2022 Confirm alert when Like/Dislike.</div><div>\u2022 Lock Twitter with passcode.</div><div>\u2022 Enable Reader mode.</div><div>\u2022 Autoload photos in the highest quality.</div><div><br></div>",
-      "iconURL": "https://i.imgur.com/rpd1scd.png"
-    },
-    {
       "name": "BHTwitter (deprecated)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL",
@@ -683,6 +683,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
       "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
       "iconURL": "https://i.imgur.com/4g9OFUk.png"
+    },
+    {
+      "name": "Calm: Sleep Meditation",
+      "bundleIdentifier": "com.ipalibrary.calmsleepmeditation",
+      "developerName": "IPA Library",
+      "version": "6.84",
+      "versionDate": "2025-11-25T15:46:42.000Z",
+      "size": 88181827,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Calm.ipa",
+      "localizedDescription": "Calm is the #1 app for Sleep, Meditation and Relaxation. Join the millions experiencing better sleep, lower stress, and less anxiety with our guided meditations, Sleep Stories, breathing programs, stretching exercises, and relaxing music. Calm is recommended by top psychologists, therapists, and mental health experts.<div><br></div><div>Calm is the perfect mindfulness app for beginners, but also includes hundreds of programs for intermediate and advanced users. Guided meditation sessions are available in lengths of 3, 5, 10, 15, 20 or 25 minutes so you can choose the perfect length to fit with your schedule.</div>",
+      "iconURL": "https://i.imgur.com/hboZbpJ.png"
     },
     {
       "name": "Captions: For Talking Videos",
@@ -3318,17 +3329,6 @@
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
     },
     {
-      "name": "Lampa \u2014 Digital and Film Camera",
-      "bundleIdentifier": "com.blatant.lampadigitalandfilmcamera",
-      "developerName": "Blatant",
-      "version": "1.7.3",
-      "versionDate": "2025-11-12T22:26:35.000Z",
-      "size": 57187455,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Lampa.ipa",
-      "localizedDescription": "Lampa is a camera for capturing the warmth of moments, not the sharpness of pixels. We believe all you need for beautiful photos are a lens and a sensor, not artificial algorithms. With Lampa, you can get the most realistic optical images without HDR or AI enhancements and achieve the most authenticity in mobile photography.<div><br><div></div><div class=\"\">Everyone loves film photography, and so do we \u2014 not for the glares and aberrations, but for the harmonious, pleasant colors and depth of light. Our profiles help you achieve the same authentic feeling directly from the camera, without the need for further editing.\r</div><div class=\"\"><br></div><div class=\"\"><b>In-House Image Capture Engine: \r</b></div><div>\u2014 Lampa captures RAW data and processes it immediately with profiles. You get a result that can't be achieved by editing photos taken with a standard camera.\r</div><div class=\"\">\u2014 No digital oversharpening and forced HDR-effects\r</div><div class=\"\"><br></div><div class=\"\"><b>Gentle Film-Inspired Profiles: \r</b></div><div>\u2014 Four profiles with accurately selected contrast and colors create the most natural and soft pictures. \r</div><div class=\"\">\u2014 Inspired by point-and-shoot and 35mm snapshots, they make your mobile photos look like they were taken with a camera, not a phone.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>Familiar Experience and Simple UI: \r</b></div><div>\u2014 No need to adapt to a complicated interface to capture a moment. Simple design with every button where you expect it to be. \r</div><div>\u2014 Quick launch from the Lock screen and Control center.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/sYY5oaR.png"
-    },
-    {
       "name": "Last Day On Earth Hack",
       "bundleIdentifier": "com.iosgods.lastdayonearthhack",
       "developerName": "iOSGods",
@@ -3388,6 +3388,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MacroFactor.ipa",
       "localizedDescription": "<b class=\"\">DIET SMARTER\r</b><div>\r</div><div>Using a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \r</div><div>\u2022 The unique energy expenditure calculation detects changes in your metabolism\r</div><div>\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\r</div><div>\u2022 Weekly check-ins keep you on track toward your goals\r</div><div class=\"\">The result? You better understand your body\u2019s needs and can successfully reach and sustain your goals without stress.\r</div><div class=\"\"><br></div><div class=\"\"><b>THE BEST MACRO TRACKER TOOLS</b></div><div>\u2022 The fastest macro tracker on the market with tools like barcode scan and custom foods\r</div><div>\u2022 Verified food database, so you can trust the accuracy of the foods you log \r</div><div>\u2022 Custom macro programs and weekly check-ins based on your goals and preferences\r</div><div>\u2022 Detailed breakdowns of micronutrients, macros, and more\r</div><div>\u2022 Period tracker, habit tracker, unique data insights and visualization, integrations, dark mode, and more</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/sGSONJS.png"
+    },
+    {
+      "name": "Magic Eraser Background Editor",
+      "bundleIdentifier": "com.dangerouspixel.magiceraserbackgroundeditor",
+      "developerName": "Dangerous Pixel",
+      "version": "3.10.0",
+      "versionDate": "2025-11-25T15:43:32.000Z",
+      "size": 244413160,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MagicEraser.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Instantly remove the background or object of any picture, edit, arrange and save as PNG or JPG! Join 10 million Magic Background Eraser creators and take your images to the next level with AI powered high resolution editing.\r</div><div>Ideal for online sellers or photo enthusiasts, it is the most usable app for free without a watermark. Extra features are available for an affordable price.\r</div><div>Remove objects or cut out and save transparent images for use in Instagram, Poshmark, Shopify, Pinterest and many other apps. Add a white, colored or custom background to your photo cut-out and grow your brand with beautiful product posts and stories.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/2ria2r2.png"
     },
     {
       "name": "MAME4iOS",
@@ -4697,17 +4708,6 @@
         }
       ],
       "appID": "org.ppsspp.ppsspp"
-    },
-    {
-      "name": "Procreate Pocket ",
-      "bundleIdentifier": "com.savageinteractiveptyltd.procreatepocket",
-      "developerName": "Savage Interactive Pty Ltd",
-      "version": "4.0.14",
-      "versionDate": "2025-11-13T12:36:21.000Z",
-      "size": 298234989,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Procreate.ipa",
-      "localizedDescription": "<p class=\"\"><em class=\"\">Price in AppStore&nbsp;$5.99</em></p>\n\n<p>Powerful enough for creative professionals. Simple enough for everyone. The award-winning Procreate Pocket is the most versatile art app ever designed for iPhone.</p>\n\n<p>Offering hundreds of varied pressure-sensitive brushes, an advanced layer system, and the breathtaking speed of Silica M, Procreate Pocket gives you everything you need to create expressive sketches, rich paintings, and gorgeous illustrations on an expansive, ultra-portable canvas. Work on the couch, at the beach, on the train, or while waiting in line for coffee. It\u2019s a complete art studio in the palm of your hand.</p>\n",
-      "iconURL": "https://i.imgur.com/kgOQraB.png"
     },
     {
       "name": "Provenance",
