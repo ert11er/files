@@ -3351,17 +3351,6 @@
       "iconURL": "https://i.imgur.com/vSdiCk0.png"
     },
     {
-      "name": "LoFi Cam: Film Digital Camera",
-      "bundleIdentifier": "com.pixelpunk.loficamfilmdigitalcamera",
-      "developerName": "PixelPunk",
-      "version": "3.11.0",
-      "versionDate": "2025-11-16T13:32:59.000Z",
-      "size": 286136304,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/LoFiCam.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div>LoFi Cam: A Retro Camera App that recreates the distinctive feel of CCD digital cameras.",
-      "iconURL": "https://i.imgur.com/g6NRFq6.png"
-    },
-    {
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch, LLC",
