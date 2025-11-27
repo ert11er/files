@@ -2483,6 +2483,17 @@
       "beta": false
     },
     {
+      "name": "Home Workout - No Equipments",
+      "bundleIdentifier": "com.leaphealth.homeworkoutnoequipments",
+      "developerName": "Leap Health",
+      "version": "1.42",
+      "versionDate": "2025-11-27T13:12:44.000Z",
+      "size": 333427853,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Homeworkouts.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3>Looking to build muscle and lose weight? Home Workout has got you covered!\r<div>\r</div><div>Home workouts with no equipment, easy to follow.\r</div><div>Follow the tailored workout plans and expert guidance to meet a fitter, stronger you!\r</div><div>Home Workout app is an expertly crafted fitness app that offers a variety of workouts and workout plans suitable for everyone, from fitness beginners to experts.</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/M6LdnkW.png"
+    },
+    {
       "name": "Homescapes Hack",
       "bundleIdentifier": "com.glehack.homescapeshack",
       "developerName": "GLEHack",
@@ -3234,6 +3245,17 @@
       ]
     },
     {
+      "name": "iTranslate Translator",
+      "bundleIdentifier": "com.blatant.itranslatetranslator",
+      "developerName": "Blatant",
+      "version": "17.4.59",
+      "versionDate": "2025-11-27T13:13:07.000Z",
+      "size": 75306866,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/iTranslate.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>iTranslate is one of the leading translation and dictionary apps designed to help you break language barriers with ease. Seamlessly translate text, websites, objects, or start voice-to-voice conversations in over 100 languages. Our unique Custom Phrasebook feature allows you to learn new languages and create personalized collections of phrases for various life situations. And if you need to use iTranslate abroad, our Offline Mode allows you to forget about paying expensive roaming charges.</div>",
+      "iconURL": "https://i.imgur.com/8lmNCxG.png"
+    },
+    {
       "name": "iVanced for YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "TherionRO",
@@ -3631,17 +3653,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "MyFitnessPal: Calorie Counter",
-      "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
-      "developerName": "MyFitnessPal",
-      "version": "25.46.0",
-      "versionDate": "2025-11-19T09:10:41.000Z",
-      "size": 80827557,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
-      "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
-      "iconURL": "https://i.imgur.com/fKnkIwE.png"
     },
     {
       "name": "NineAnimator",
@@ -5292,17 +5303,6 @@
         }
       ],
       "appID": "com.toyopagroup.picaboo"
-    },
-    {
-      "name": "SNOW - AI Profile",
-      "bundleIdentifier": "com.blatant.snowaiprofile",
-      "developerName": "Blatant",
-      "version": "14.6.7",
-      "versionDate": "2025-11-19T09:08:42.000Z",
-      "size": 133730441,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SnowAI.ipa",
-      "localizedDescription": "SNOW is a camera app used by over 200 million people around the world.\r<div>\r</div><div>\r</div><div>- Find your favorite version of yourself by creating and saving custom beauty effects.\r</div><div>- Take profile-worthy selfies with stylish AR makeup features.\r</div><div>- Explore thousands of stickers with updates every day.\r</div><div>- Don't miss exclusive seasonal filters that add color to your daily life.\r</div><div>- Professional photo edits with just a few taps.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/YgzzHQS.png"
     },
     {
       "name": "SoundCloud++",
