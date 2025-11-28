@@ -2505,6 +2505,17 @@
       "iconURL": "https://i.imgur.com/crDKoSy.png"
     },
     {
+      "name": "Human: Fall Flat",
+      "bundleIdentifier": "com.nobrakesgames.humanfallflat",
+      "developerName": "No Brakes Games",
+      "version": "2.4",
+      "versionDate": "2025-11-28T13:57:58.000Z",
+      "size": 620309245,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/HumanFallFlat.ipa",
+      "localizedDescription": "Human Fall Flat is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.<div><br><div></div><div></div><div></div><div></div><div class=\"\"><b>MORE HUMANS, MORE MAYHEM</b> - Need a hand getting that boulder on to a catapult, or need someone to break that wall? Online multiplayer for up to 4 players transforms the way Human Fall Flat is played.\r</div><div class=\"\"><br></div><div class=\"\"><b>MIND BENDING PUZZLES </b>- Explore open-ended levels full of challenging puzzles and hilarious distractions. Try new paths and discover all the secrets!\r</div><div class=\"\"><br></div><div class=\"\"><b>A BLANK CANVAS</b> - Your Human is yours to customize. With outfits from builder to chef, skydiver, miner, astronaut and ninja. Choose your head, upper and lower body and get creative with the colors!\r</div><div class=\"\"><br></div><div class=\"\"><b>FREE GREAT CONTENT</b> - Since launch more than four brand new levels have launched free of charge with even more on the horizon. What could the next dreamscape have in store?</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/SNoXGbj.png"
+    },
+    {
       "name": "iDOS",
       "bundleIdentifier": "com.litchie.idosgames",
       "developerName": "litchie",
