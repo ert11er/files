@@ -1577,6 +1577,17 @@
       "appID": "com.rileytestut.Delta.Beta"
     },
     {
+      "name": "Delta Executor for Roblox",
+      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
+      "developerName": "Delta Executor",
+      "version": "2.701",
+      "versionDate": "2025-11-30T17:04:36.000Z",
+      "size": 140988698,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
+      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
+      "iconURL": "https://i.imgur.com/DSJyw6J.png"
+    },
+    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
@@ -5979,17 +5990,6 @@
         "https://taurine.app/assets/images/ss-2.png",
         "https://taurine.app/assets/images/ss-3.png"
       ]
-    },
-    {
-      "name": "Temply: AI Video & Reels Maker",
-      "bundleIdentifier": "com.blatant.templyaivideoreelsmaker",
-      "developerName": "Blatant",
-      "version": "8.3.1",
-      "versionDate": "2025-11-19T09:11:38.000Z",
-      "size": 87525499,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/templyAI.ipa",
-      "localizedDescription": "<b>Templates that Inspire:\r</b><div>\r</div><div>\u2022 600+ Templates: Choose from a diverse range of templates tailored for Reels, TikTok, Stories, and more.\r</div><div>\u2022 AI-Powered \"Created For You\": Instantly generate engaging, trendy videos using your personal media.\r</div><div class=\"\">\u2022 Beat-Synced Templates: Effortlessly create videos synchronized to music beats.\r</div><div class=\"\"><br></div><div class=\"\"><b>Tools to Enhance Your Content:\r</b></div><div>\u2022 Royalty-Free Music: Access 600+ soundtracks for social media and commercial use.\r</div><div>\u2022 Fonts &amp; Text Tools: Customize with 100+ fonts, shadows, strokes, and color picking.\r</div><div>\u2022 Stickers &amp; Filters: Use 800+ trendy stickers and 50+ filters to elevate your content.\r</div><div class=\"\">\u2022 Transitions &amp; Effects: Add dynamic transitions and effects for professional-quality results.\r</div><div class=\"\"><br></div><div class=\"\"><b>User-Friendly Interface:\r</b></div><div>\u2022 Quick Learning Curve: Ideal for newcomers in the world of social media content creation.\r</div><div>\u2022 4K Export: Ensure high-quality video output for all your projects.\r</div><div>\u2022 Direct Sharing: Share your creations directly to social media platforms.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/s7A6zC8.png"
     },
     {
       "name": "Thermometer",
