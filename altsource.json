@@ -2138,6 +2138,17 @@
       "iconURL": "https://i.imgur.com/hW3UutY.png"
     },
     {
+      "name": "Fall Guys",
+      "bundleIdentifier": "com.epicgames.fallguys",
+      "developerName": "Epic Games",
+      "version": "21.1.1",
+      "versionDate": "2025-12-02T12:20:40.000Z",
+      "size": 1835876907,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/fallguy.ipa",
+      "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.<div><br></div><div>Create your own Course: Fall Guys Creative is a level editor that allows you to create fiendish custom Rounds and share them with the wider community.</div><div><br></div><div>Competitive &amp; Cooperative: Tumble between competitive free-for-alls and cooperative challenges\u2014or take on the Blunderdome with up to 3 friends!</div><div><br></div><div>Play with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.</div><div><br></div><div>Ever-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play.</div>",
+      "iconURL": "https://i.imgur.com/XWmHtbr.png"
+    },
+    {
       "name": "Filmr Pro",
       "bundleIdentifier": "com.stey",
       "developerName": "Stei App",
@@ -3945,17 +3956,6 @@
         ]
       },
       "appID": "com.faizandurrani.paperback.ios"
-    },
-    {
-      "name": "PewDiePie's Tuber Simulator",
-      "bundleIdentifier": "com.glehack.pewdiepiestubersimulator",
-      "developerName": "GLEHack",
-      "version": "2.65.0",
-      "versionDate": "2025-11-19T14:10:39.000Z",
-      "size": 198483742,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
-      "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
-      "iconURL": "https://i.imgur.com/U8OrdVk.png"
     },
     {
       "name": "Photomath++",
