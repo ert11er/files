@@ -531,8 +531,8 @@
       "name": "Archero Hack",
       "bundleIdentifier": "com.iosgods.archerohack",
       "developerName": "iOSGods",
-      "version": "7.4.1 ",
-      "versionDate": "2025-12-01T13:23:29.000Z",
+      "version": "7.4.3",
+      "versionDate": "2025-12-03T14:39:34.000Z",
       "size": 183964928,
       "downloadURL": "https://s3.flekstore.com/ipa-library/archero.ipa",
       "localizedDescription": "<p class=\"\">Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\">Hacked version of Archero!<br>\n<strong>Features:</strong><br>- Multiply Defense (Enter Any Amount and Enable The Switch)</p><p class=\"\">- Multiply Attack (Enter Any Amount and Enable The Switch)</p><p class=\"\">- God Mode</p><p class=\"\">- One Hit Kill (Must use with God Mode or use Multiply Attack instead)</p><p class=\"\">- Freeze Enemies</p>\n",
@@ -3619,17 +3619,6 @@
       "iconURL": "https://i.imgur.com/GgcmKzG.png"
     },
     {
-      "name": "Motionleap",
-      "bundleIdentifier": "com.dangerouspixel.motionleap",
-      "developerName": "Dangerous Pixel",
-      "version": "1.9.32",
-      "versionDate": "2025-11-23T18:40:09.000Z",
-      "size": 175868348,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Motionleap.ipa",
-      "localizedDescription": "<i>All premium features unlocked</i><div><i><br></i>All your animation ideas can come alive as you type - describe any image and our AI generator will create it for you, in seconds.<div><br></div><div class=\"\">Create moving photos for a unique type of photo art! Animate your photos &amp; magically bring them to life with Motionleap. The newest addition to the award-winning Enlight Creativity Suite of apps, brought to you by Lightricks, takes photo editing to the next level.</div></div>",
-      "iconURL": "https://i.imgur.com/ZRwAqkv.png"
-    },
-    {
       "name": "MyFitnessPal++",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "Strejda603",
@@ -6713,6 +6702,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/YYfDChx.png"
+    },
+    {
+      "name": "Warhammer 40000: Tacticus Hack",
+      "bundleIdentifier": "com.iosgods.warhammer40000tacticushack",
+      "developerName": "iOSGods",
+      "version": "1.34.30",
+      "versionDate": "2025-12-03T15:01:38.000Z",
+      "size": 170230586,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/WarhammerTacticus.ipa",
+      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods</a>&nbsp;and premium<div class=\"\"><br><a href=\"https://iosgods.com/\"></a><div class=\"\"><b>Hack Features:\n</b></div><div class=\"\"><ul><li class=\"\">Always Win [ even if all your characters die, you win ]\n</li><li class=\"\">Custom Ability Stats\n</li><li class=\"\">Ability Always Available\n</li><li class=\"\">Game Speed Multiplier\n</li></ul></div><div class=\"\"><b>Note:\n</b></div><div class=\"\"><ul class=\"\"><li class=\"\">Use characters that summon using their skills or do area damage to many.\n</li><li class=\"\">Make sure you have completed the tutorial and synced your account with GameCenter.\n</li><li class=\"\">If you start from the tutorial stage, you will be stuck in one of the stages. Restart your game, and you can sync your account to GameCenter to continue your progress.</li></ul><div><br></div><div class=\"\">Warhammer 40,000: Tacticus&nbsp; is a turn-based tactical strategy game set in the eternal conflict of Games Workshop's Warhammer 40,000 Universe. Experience the intense battles of the Space Marine, Imperial, Chaos, and Xenos on the go!</div></div><div class=\"\">\n</div></div>",
+      "iconURL": "https://i.imgur.com/QgdeJ51.jpeg"
     },
     {
       "beta": false,
