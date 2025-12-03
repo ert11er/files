@@ -707,17 +707,6 @@
       "appID": "blog.blurt.blurt"
     },
     {
-      "name": "Busuu: Language Learning",
-      "bundleIdentifier": "com.blatant.busuulanguagelearning",
-      "developerName": "Blatant",
-      "version": "29.26.1",
-      "versionDate": "2025-11-23T18:36:32.000Z",
-      "size": 41323858,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
-      "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
-      "iconURL": "https://i.imgur.com/4g9OFUk.png"
-    },
-    {
       "name": "Calm: Sleep Meditation",
       "bundleIdentifier": "com.ipalibrary.calmsleepmeditation",
       "developerName": "IPA Library",
@@ -1099,6 +1088,17 @@
       ]
     },
     {
+      "name": "Critical Strike Hack",
+      "bundleIdentifier": "com.glehack.criticalstrikehack",
+      "developerName": "GLEHack",
+      "version": "14.3005",
+      "versionDate": "2025-12-02T20:39:24.000Z",
+      "size": 1477258649,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/CriticalStrike.ipa",
+      "localizedDescription": "<h3>Hacks:</h3><div class=\"\"><ul><li class=\"\">Premium pass unlocked</li><li class=\"\">Fire rate</li><li class=\"\">One Hit Kill (OHK)</li><li>Max Speed</li><li class=\"\">High Range</li><li class=\"\">High Accuracy</li><li class=\"\">Infinite Ammo</li><li class=\"\">Bots disabled</li><li class=\"\">No Reload time</li><li class=\"\">No Respawn time</li><li class=\"\">No smoke</li><li class=\"\">No Flash</li><li class=\"\">No Gravity</li></ul></div>Critical Strike is a fast-paced modern multiplayer FPS counter terrorist game.\n<div>\n</div><div>Are you a fan of the good old counter terrorists battles? Enjoying online shooters and multiplayer gun games? There is the best 3D First Person Shooter in real-time.\n</div><div>Take the part in the vanguard at the battlefield of Critical Strike!\n</div><div>Play with your friends, you will love the multiplayer PvP shooting experience on your mobile device! Compete with people around the world and show your skills.\n</div><div>Fight against real players around the world over multiple game modes with 10 seconds of matchmaking and battles under 4 minutes.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://i.imgur.com/UjxZ4C3.png"
+    },
+    {
       "name": "Crunchyroll++",
       "bundleIdentifier": "com.crunchyroll.iphone",
       "developerName": "unlimapps",
@@ -1124,17 +1124,6 @@
         }
       ],
       "appID": "com.crunchyroll.iphone"
-    },
-    {
-      "name": "Dead Cells+",
-      "bundleIdentifier": "com.motiontwin.deadcells",
-      "developerName": "Motion Twin",
-      "version": "3.3.15",
-      "versionDate": "2025-11-20T15:19:14.000Z",
-      "size": 1369144077,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/DeadCells.ipa",
-      "localizedDescription": "Play as a failed alchemic experiment and explore the sprawling, ever-changing castle to find out what happened on this gloomy island\u2026! \r<div>That is, assuming you\u2019re able to fight your way past its keepers.\r</div><div>Dead Cells+ is a roguevania action platformer that will require you to master frantic 2D combat with a wide variety of weapons and skills against merciless minions and boss.\r</div><div class=\"\">The indie hit Dead Cells+ is now slaying foes on Apple Arcade!\r</div><div class=\"\"><br></div><div class=\"\"><b>Main Features</b></div><div>\u2022 Roguevania: The progressive exploration of an interconnected world, with the replayability of a rogue-lite and the adrenaline pumping threat of permadeath\r</div><div>\u2022 Frantic and Dynamic 2D Action: Learn your enemies\u2019 patterns to stay alive, or prepare to be sent back to your cell before you can say \u201cbaguette\u201d\r</div><div>\u2022 Nonlinear Progression: Unlock new levels with every death, opt for the path that suits your current build, your playstyle or just your mood. \r</div><div class=\"\">Surely, the ramparts can\u2019t be as bad the sewers, right?\r</div><div>\u2022 Play at your own pace: Will you explore every nook and cranny of the castle, or rush to the end?\r</div><div class=\"\"><br></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/pFQtr7Z.png"
     },
     {
       "name": "Deezer++",
@@ -2127,17 +2116,6 @@
       "appID": "com.facebook.Facebook"
     },
     {
-      "name": "Facetune",
-      "bundleIdentifier": "com.omtk.facetune",
-      "developerName": "omtk",
-      "version": "3.112",
-      "versionDate": "2025-11-23T18:37:27.000Z",
-      "size": 50934299,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
-      "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
-      "iconURL": "https://i.imgur.com/hW3UutY.png"
-    },
-    {
       "name": "Fall Guys",
       "bundleIdentifier": "com.epicgames.fallguys",
       "developerName": "Epic Games",
@@ -2396,6 +2374,17 @@
       "iconURL": "https://i.imgur.com/tGVmzBj.png"
     },
     {
+      "name": "Gardenscapes Hack",
+      "bundleIdentifier": "com.glehack.gardenscapeshack",
+      "developerName": "GLEHack",
+      "version": "9.2.2",
+      "versionDate": "2025-12-02T20:46:48.000Z",
+      "size": 154434000,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Gardenscapes.ipa",
+      "localizedDescription": "<div class=\"\"><i class=\"\"><br></i></div><h3><span class=\"\">Features:<br>\n</span><span class=\"\">- Infinite Moves<br>\n</span><span class=\"\">- Infinite Boosters<br>\n</span><span class=\"\">- Infinite Lives<br>\n</span><span class=\"\">- Freeze Stars&nbsp;</span></h3><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><span class=\"\">Tap to slay hundreds of Titans with your sword as you journey through the land in this clicker RPG adventure. Upgrade your blade for new gear, gather pets, and enter multiplayer clan raids with users across the globe to leave your legacy as the Ultimate Sword Master.</span></div><div class=\"\"><span class=\"\"><br></span></div><div class=\"\"><br></div>",
+      "iconURL": "https://i.imgur.com/g7ejoUd.png"
+    },
+    {
       "name": "GBA4iOS",
       "bundleIdentifier": "com.rileytestut.GBA4iOS",
       "developerName": "Riley Testut",
@@ -2420,6 +2409,17 @@
         }
       ],
       "appID": "com.rileytestut.GBA4iOS"
+    },
+    {
+      "name": "Grim Soul: Survival",
+      "bundleIdentifier": "com.glehack.grimsoulsurvival",
+      "developerName": "GLEHack",
+      "version": "7.8.5",
+      "versionDate": "2025-12-02T20:40:51.000Z",
+      "size": 173219080,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
+      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
+      "iconURL": "https://i.imgur.com/H19BePp.png"
     },
     {
       "name": "HD Flix (No Ads)",
@@ -2503,6 +2503,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Homeworkouts.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3>Looking to build muscle and lose weight? Home Workout has got you covered!\r<div>\r</div><div>Home workouts with no equipment, easy to follow.\r</div><div>Follow the tailored workout plans and expert guidance to meet a fitter, stronger you!\r</div><div>Home Workout app is an expertly crafted fitness app that offers a variety of workouts and workout plans suitable for everyone, from fitness beginners to experts.</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/M6LdnkW.png"
+    },
+    {
+      "name": "Homescapes Hack",
+      "bundleIdentifier": "com.glehack.homescapeshack",
+      "developerName": "GLEHack",
+      "version": "8.4.9",
+      "versionDate": "2025-12-02T20:37:52.000Z",
+      "size": 184549376,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Homescapes.ipa",
+      "localizedDescription": "<p class=\"\"><b>Hack Features:</b></p><p class=\"\"></p><ul><li><b>Infinite Moves</b></li><li><b>Infinite Lives</b></li><li><b>Infinite Boosters</b></li><li><b>Complete tasks without stars</b></li><li><b class=\"\">Unlock Season Pass</b></li></ul><p></p><p class=\"\">Welcome to Homescapes, a warm and cozy game. Make match-3 combinations and turn every corner of your home into an inviting place to relax and have fun.\n</p><p class=\"\">Solve puzzles, restore the interior room by room, and meet new friends in every chapter of the exciting storyline. Austin the butler is ready to welcome you to a world of incredible adventures!</p><p class=\"\">\n</p><p class=\"\">\n</p>\n",
+      "iconURL": "https://i.imgur.com/crDKoSy.png"
     },
     {
       "name": "Human: Fall Flat",
@@ -3377,6 +3388,17 @@
       "appID": "com.google.ios.youtube.ivanced"
     },
     {
+      "name": "Jurassic World\u2122: The Game Hack",
+      "bundleIdentifier": "com.glehack.jurassicworldthegamehack",
+      "developerName": "GLEHack",
+      "version": "1.87.6",
+      "versionDate": "2025-12-02T20:47:34.000Z",
+      "size": 902139897,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/JurassicWorld.ipa",
+      "localizedDescription": "<h3><i>Features:</i></h3><div><ul><li>Freeze all Currencies\r</li><li>Unlimited Special Packs\r</li><li>Evolution Always Successful\r</li><li><span class=\"\">Feed Instant Max Level\r</span></li><li>Free Speed Up Cost\r</li><li class=\"\">VIP Enabled</li></ul></div><div class=\"\"><br></div>Return to Isla Nublar with the creators of the smash hit Jurassic Park\u2122 Builder for your next adventure: Jurassic World\u2122: The Game, the official mobile game based on this summer\u2019s epic action-adventure. Bring to life more than 300 colossal dinosaurs from the new film and challenge your opponents in earth-shaking battles. Construct the theme park of tomorrow in this unrivaled build-and-battle dinosaur experience.",
+      "iconURL": "https://i.imgur.com/ydQWqk0.png"
+    },
+    {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
@@ -3956,6 +3978,17 @@
         ]
       },
       "appID": "com.faizandurrani.paperback.ios"
+    },
+    {
+      "name": "PewDiePie's Tuber Simulator",
+      "bundleIdentifier": "com.glehack.pewdiepiestubersimulator",
+      "developerName": "GLEHack",
+      "version": "2.66.0",
+      "versionDate": "2025-12-02T20:43:01.000Z",
+      "size": 198483742,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
+      "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
+      "iconURL": "https://i.imgur.com/39bbzsS.png"
     },
     {
       "name": "Photomath++",
@@ -4985,17 +5018,6 @@
       "appID": "com.reddit.Reddit"
     },
     {
-      "name": "Renovate AI : Home Design",
-      "bundleIdentifier": "com.billymoore.renovateaihomedesign",
-      "developerName": "BillyMoore",
-      "version": "4.4.66",
-      "versionDate": "2025-11-20T13:00:37.000Z",
-      "size": 54117768,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/RenovateAI.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div><br></div><div>Transform your home effortlessly with Renovate AI! Redesign interiors, exteriors, and landscapes using AI tools for stunning, photorealistic results. Try it now!\r</div><div>Reimagine Your Space with Renovate AI!\r</div><div>Discover the future of architectural design and home renovation with Renovate AI, your go-to solution for creating stunning interiors and exteriors. Whether you're planning a full home design, room design, or landscape design, our cutting-edge technology simplifies every step in your design space.\r</div><div>With our powerful features as an AI room planner and home planner, Renovate AI empowers you to transform your home into the space you\u2019ve always envisioned. Everything you need, from exploring furniture options to perfecting your home decor, is at your fingertips.\r</div><div>With Renovate AI, you can explore endless design possibilities for both the interior design and exterior of your house. Experiment with different colors, furniture, and materials until you create the perfect look that reflects your style. Use our AI home design and AI interior design features to bring your ideas to life. Whether it's creating your dream bedroom or designing a home design 3D layout, we\u2019ve got you covered. Start your journey with Renovate AI today and realize your dream home design in no time!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/8LJybPz.png"
-    },
-    {
       "name": "RetroArch",
       "bundleIdentifier": "com.libretro.RetroArchiOS11",
       "developerName": "libretro",
@@ -5191,28 +5213,6 @@
       "appID": "com.burbn.instagram"
     },
     {
-      "name": "Royal Kingdom",
-      "bundleIdentifier": "com.iosgods.royalkingdom",
-      "developerName": "iosGods",
-      "version": "23511",
-      "versionDate": "2025-11-20T14:52:10.000Z",
-      "size": 197464587,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/RoyalKingdom.ipa",
-      "localizedDescription": "\n<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li class=\"\">- Freeze Coins</li><li class=\"\">- Freeze Lives</li><li class=\"\">- Freeze Boosters</li><li class=\"\">- Freeze Moves</li></ul><div><br></div></div><div><br></div><div>From the creators of Royal Match comes a brand new match 3 puzzle adventure in Royal Kingdom, starring the extended Royal Family!\n</div><div class=\"\">You\u2019ll meet King Richard, King Robert's younger brother, as well as a charming cast of new characters, including Princess Bella and the Wizard, to embark on a journey to build legendary kingdoms! Solve match 3 puzzles to explore new lands and defeat the Dark King &amp; his army!\n</div><div class=\"\"><br></div><div class=\"\">MASTER MATCH 3 PUZZLES\n</div><div>Test your skills and become the ultimate match 3 expert by solving fun yet challenging puzzles! Beat thrilling levels and overcome unique obstacles!</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://i.imgur.com/icGgNIM.png"
-    },
-    {
-      "name": "Royal Match Hack",
-      "bundleIdentifier": "com.iosgods.royalmatchhack",
-      "developerName": "iosGods",
-      "version": "32263",
-      "versionDate": "2025-11-20T14:51:07.000Z",
-      "size": 162105486,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/RoyalMatch.ipa",
-      "localizedDescription": "<h3 class=\"\"><br><i>Features:</i></h3><div class=\"\"><ul><li>Freeze coins\n</li><li>Freeze stars\n</li><li>Freeze lives\n</li><li>Freeze boosters\n</li><li>Freeze time\n</li><li>Freeze moves\n</li><li>Unlock vip badges\n</li><li>Unlock vip style\n</li><li>Unlock vip frames\n</li><li class=\"\">Auto win</li></ul><div><br></div></div>King Robert needs your help to restore Royal Castle\u2019s former glory. Break the obstacles and combine amazing power-ups to beat joyful and challenging levels! Keep unlocking wonderful areas by playing fun match-3 levels! Come along now and join the fun!",
-      "iconURL": "https://i.imgur.com/ySlvIxD.png"
-    },
-    {
       "name": "ScummVM",
       "bundleIdentifier": "org.scummvm.scummvm",
       "developerName": "ScummVM Team",
@@ -5243,6 +5243,28 @@
         }
       ],
       "appID": "org.scummvm.scummvm"
+    },
+    {
+      "name": "Shadow Fight 2",
+      "bundleIdentifier": "com.glehack.shadowfight2",
+      "developerName": "GLEHack",
+      "version": "2.41.9",
+      "versionDate": "2025-12-02T20:38:29.000Z",
+      "size": 148928686,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/shadowfight.ipa",
+      "localizedDescription": "<h3>Hack Features:</h3><div class=\"\"><ul><li class=\"\">Infinite energy\r</li><li class=\"\">Infinite gems</li><li class=\"\">Infinite gold</li></ul></div>",
+      "iconURL": "https://i.imgur.com/4q0ksc3.png"
+    },
+    {
+      "name": "Shadow Fight 3",
+      "bundleIdentifier": "com.glesign.shadowfight3",
+      "developerName": "GLESign",
+      "version": "1.43",
+      "versionDate": "2025-12-02T20:44:10.000Z",
+      "size": 164015105,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ShadowFight3.ipa",
+      "localizedDescription": "<h3 class=\"\">Hack Features:\n</h3><div class=\"\"><ul><li class=\"\">High Damage&nbsp;</li><li>Freeze Enemies</li></ul></div>Keep your finger on the pulse of innovation! Learn all about the abilities of Raid bosses and how to defeat them!<div><br></div><div>Legend has it that a hero will come to end the fight for shadow energy. He will have to learn three fighting styles, collect the best weapons and challenge the strongest warriors.</div><div><br></div><div>The world is on the edge of an epic war. The mighty force unleashed by the Gates of Shadows many years ago has turned into a weapon, and now three war clans are fighting to decide the future of this force.</div><div><br></div><div>The Legion warriors want to destroy the dangerous energy. The people of the Dynasty want to use it for their own benefit. While the mysterious ninjas of the Heralds clan explore the darkest secrets of the shadow power.</div>",
+      "iconURL": "https://i.imgur.com/2bHlwkV.png"
     },
     {
       "name": "Sileo Demo",
@@ -6763,17 +6785,6 @@
       ]
     },
     {
-      "name": "WhatsApp Watusi",
-      "bundleIdentifier": "com.fouadraheb.whatsappwatusi",
-      "developerName": "Fouad Raheb",
-      "version": "25.33.73",
-      "versionDate": "2025-11-23T11:04:14.000Z",
-      "size": 121430663,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Watusi.ipa",
-      "localizedDescription": "<p class=\"\"><br></p>\n\n<p class=\"\">Features:<br>\n- Stealth Mode<br>\n- Disable Read Receipts<br>\n- Selective Read Receipts<br>\n- Disable Delivery Receipts<br>\n- Custom Theme<br>\n- Custom Text Color<br>\n- Full Profile Pic<br>\n- Send Unlimited Media<br>\n- Share Music<br>\n- Record audio<br>\n- Passcode/TouchID</p>\n",
-      "iconURL": "https://i.imgur.com/5WRFBOk.png"
-    },
-    {
       "name": "WhatsApp++",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "unlimapps",
@@ -6910,17 +6921,6 @@
         }
       ],
       "appID": "jb.zini.tevi"
-    },
-    {
-      "name": "Zooba Hack",
-      "bundleIdentifier": "com.iosgods.zoobahack",
-      "developerName": "iOSGods",
-      "version": "5.34",
-      "versionDate": "2025-11-20T14:44:15.000Z",
-      "size": 163156388,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/zooba1.ipa",
-      "localizedDescription": "<div><i class=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></div><div><i class=\"\"><br></i></div><div><i class=\"\">Features:</i></div>- Map Hacks<div>- Allow Shoot in Water</div>",
-      "iconURL": "https://i.imgur.com/jIy4zSU.png"
     }
   ],
   "news": []
