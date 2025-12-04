@@ -550,28 +550,6 @@
       "iconURL": "https://i.imgur.com/gelvNEn.png"
     },
     {
-      "name": "Baba Is You",
-      "bundleIdentifier": "com.hempuli.babaisyou",
-      "developerName": "Hempuli",
-      "version": "206.0.0",
-      "versionDate": "2025-11-24T13:58:40.000Z",
-      "size": 97882903,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BabaIsYou.ipa",
-      "localizedDescription": "Baba Is You is a puzzle game where you can change the rules by which you play. In every level, the rules are present as blocks you can interact with; by manipulating them, you can change how the level works and cause surprising, unexpected interactions! With some simple block-pushing you can turn yourself into a rock, turn patches of grass into dangerously hot obstacles, and even change the goal you need to reach to something entirely different.&nbsp;",
-      "iconURL": "https://i.imgur.com/qflbD9a.png"
-    },
-    {
-      "name": "BASEBALL 9",
-      "bundleIdentifier": "com.iosgods.baseball9",
-      "developerName": "iOSGods",
-      "version": "3.8.5",
-      "versionDate": "2025-11-23T18:55:33.000Z",
-      "size": 206553554,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BASEBALL9.ipa",
-      "localizedDescription": "<div><i class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a></i></div><div><br></div><i class=\"\">Features:</i><div><div>- Unlimited Coins</div><div>- Unlimited Stamina</div><div>- Unlimited Gems</div><div>- Unlimited Recruit Tickets</div><div>- Unlimited Gold Badges</div><div>- Unlimited Silver Badges</div><div>- Unlimited Platinum Badges</div><div>- Unlimited XP Drinks</div><div class=\"\">- Unlimited Condition Drinks</div></div><div class=\"\"><br></div><div class=\"\">Enjoy fast-paced, realistic baseball game, featuring compact gameplay and informative stats.</div><div class=\"\"><br></div><div class=\"\">Play BASEBALL NINE to become the Legend League Champion!</div>",
-      "iconURL": "https://i.imgur.com/z0euB4h.png"
-    },
-    {
       "name": "Bazaart: AI Photo Video Editor",
       "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
       "developerName": "Dangerous Pixel",
@@ -2116,6 +2094,17 @@
       "appID": "com.facebook.Facebook"
     },
     {
+      "name": "Facetune",
+      "bundleIdentifier": "com.omtk.facetune",
+      "developerName": "omtk",
+      "version": "3.113.1",
+      "versionDate": "2025-12-04T18:46:16.000Z",
+      "size": 50934299,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
+      "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
+      "iconURL": "https://i.imgur.com/hW3UutY.png"
+    },
+    {
       "name": "Fall Guys",
       "bundleIdentifier": "com.epicgames.fallguys",
       "developerName": "Epic Games",
@@ -2420,6 +2409,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
       "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
       "iconURL": "https://i.imgur.com/H19BePp.png"
+    },
+    {
+      "name": "HabitKit",
+      "bundleIdentifier": "com.habitkit.habitkit",
+      "developerName": "HabitKit",
+      "version": "1.14.3",
+      "versionDate": "2025-12-04T18:39:42.000Z",
+      "size": 45844865,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/HabitKit.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div>HabitKit is the perfect app for anyone looking to form new habits or break old ones. With HabitKit, you can track your progress with beautiful tile-based grid charts. Whether you're trying to quit smoking, eat healthier, or exercise more, HabitKit can help you achieve your goals. You can customize your dashboard by adjusting colors, icons and descriptions. Draw motivation from growing the amount of colored tiles on your habit dashboard.</div>",
+      "iconURL": "https://i.imgur.com/7NBLTjF.png"
     },
     {
       "name": "HD Flix (No Ads)",
@@ -3417,17 +3417,6 @@
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
     },
     {
-      "name": "Last Day On Earth Hack",
-      "bundleIdentifier": "com.iosgods.lastdayonearthhack",
-      "developerName": "iOSGods",
-      "version": "1.42.1",
-      "versionDate": "2025-11-23T18:51:38.000Z",
-      "size": 499878426,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/lastday.ipa",
-      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p><strong>Hack Features:</strong><br />\r\n&bull; Anti-Cheat -&gt; Disable Cheat detection.<br />\r\n&bull; Item Duplication -&gt; Split an Item to get more.<br />\r\n&bull; Can Duplicate/Split Any Item -&gt; Duplicate any item in your inventory!<br />\r\n&bull; Free Crafting -&gt; Craft without required items. Do not craft unreleased items or your game will stop loading! See the Club to find out which ones you shouldn&#39;t craft.<br />\r\n&bull; Free Building -&gt; Build without required items.<br />\r\n&bull; Free Upgrading -&gt; Upgrade without required items.<br />\r\n&bull; Building hack -&gt; Thanks to the features above<br />\r\n&bull; Infinite Weapon/Item Durability<br />\r\n&bull; Infinite All Armor Durability&nbsp;<br />\r\n&bull; Unlimited Skill Points -&gt; Use skill points to increase them.<br />\r\n&bull; No Level Requirement for Crafting<br />\r\n&bull; Loot Boxes Hack! -&gt; Open 1 loot box and gain 10,000! If IAP/Free Store is patched, use this to gain a lot of loot boxes when opening one.<br />\r\n&bull; Item Increase Hack -&gt; When taking an item from your inbox, it will take it and still keep it in your inbox. If you have a lot of the same item, you can increase said item as much as you want!<br />\r\n&bull; Unlock All Items -&gt; All blueprints unlocked!<br />\r\n&bull; Unlimited Consumables -&gt; Unlimited Food, Water, etc.<br />\r\n&bull; High Rate of Fire -&gt; One Hit Kill. Works well on Shotguns.<br />\r\n&bull; Unlimited Weapon Blueprints - Using the Recycler / Weapon Specialist in Bunker Alfa and the Unlimited Consumable Items Hack, you can get every Weapon Blueprints in the game.<br />\r\n&bull; Bow Instant Charge for Shot -&gt; Tap on the shoot icon to instantly shoot your bow without having to charge it.</p>\r\n",
-      "iconURL": "https://i.imgur.com/vSdiCk0.png"
-    },
-    {
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch, LLC",
@@ -3608,17 +3597,6 @@
       "iconURL": "https://i.imgur.com/q3iu7n4.png"
     },
     {
-      "name": "Monument Valley 2",
-      "bundleIdentifier": "com.ustwogames.monumentvalley2",
-      "developerName": "ustwo Games ",
-      "version": "3.10.604",
-      "versionDate": "2025-11-24T13:45:31.000Z",
-      "size": 273117604,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MonumentValleyTwo.ipa",
-      "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/GgcmKzG.png"
-    },
-    {
       "name": "MyFitnessPal++",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "Strejda603",
@@ -3675,6 +3653,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "MyFitnessPal: Calorie Counter",
+      "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
+      "developerName": "MyFitnessPal",
+      "version": "25.47.0",
+      "versionDate": "2025-12-04T18:38:44.000Z",
+      "size": 80827557,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
+      "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
+      "iconURL": "https://i.imgur.com/fKnkIwE.png"
     },
     {
       "name": "NineAnimator",
@@ -5005,6 +4994,17 @@
       },
       "beta": false,
       "appID": "com.reddit.Reddit"
+    },
+    {
+      "name": "Renovate AI : Home Design",
+      "bundleIdentifier": "com.billymoore.renovateaihomedesign",
+      "developerName": "BillyMoore",
+      "version": "4.4.67",
+      "versionDate": "2025-12-04T18:40:08.000Z",
+      "size": 54117768,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/RenovateAI.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div><br></div><div>Transform your home effortlessly with Renovate AI! Redesign interiors, exteriors, and landscapes using AI tools for stunning, photorealistic results. Try it now!\r</div><div>Reimagine Your Space with Renovate AI!\r</div><div>Discover the future of architectural design and home renovation with Renovate AI, your go-to solution for creating stunning interiors and exteriors. Whether you're planning a full home design, room design, or landscape design, our cutting-edge technology simplifies every step in your design space.\r</div><div>With our powerful features as an AI room planner and home planner, Renovate AI empowers you to transform your home into the space you\u2019ve always envisioned. Everything you need, from exploring furniture options to perfecting your home decor, is at your fingertips.\r</div><div>With Renovate AI, you can explore endless design possibilities for both the interior design and exterior of your house. Experiment with different colors, furniture, and materials until you create the perfect look that reflects your style. Use our AI home design and AI interior design features to bring your ideas to life. Whether it's creating your dream bedroom or designing a home design 3D layout, we\u2019ve got you covered. Start your journey with Renovate AI today and realize your dream home design in no time!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/8LJybPz.png"
     },
     {
       "name": "RetroArch",
@@ -6693,15 +6693,15 @@
       "appID": "com.vcmi.VCMI"
     },
     {
-      "name": "VN Video Editor",
-      "bundleIdentifier": "com.blatant.vnvideoeditor",
-      "developerName": "Blatant",
-      "version": "1.103.1",
-      "versionDate": "2025-11-24T13:05:43.000Z",
-      "size": 316753263,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/YYfDChx.png"
+      "name": "VSCO",
+      "bundleIdentifier": "com.michaellema.vsco",
+      "developerName": "Michael Lema",
+      "version": "451.0.0",
+      "versionDate": "2025-12-04T18:37:57.000Z",
+      "size": 96977746,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
+      "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
+      "iconURL": "https://i.imgur.com/Ke2ZsFC.png"
     },
     {
       "name": "Warhammer 40000: Tacticus Hack",
