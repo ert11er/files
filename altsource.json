@@ -606,6 +606,17 @@
       "appID": "AlexisBarreyat.BeReal"
     },
     {
+      "name": "BH X",
+      "bundleIdentifier": "com.dangerouspixel.bhx",
+      "developerName": "Dangerous Pixel",
+      "version": "11.46",
+      "versionDate": "2025-12-08T18:30:11.000Z",
+      "size": 100174044,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/TwitterBHTwitter.ipa",
+      "localizedDescription": "BHTwitter<div>\u2022 Download Videos (even with private accounts).</div><div>\u2022 Download Videos from DM (hold the video cell).</div><div>\u2022 Unlock Undo Tweets for free.</div><div>\u2022 Hide promoted tweet from the timeline.</div><div>\u2022 Enable voice tweet and voice message in DM.</div><div>\u2022 Confirm alert when Like/Dislike.</div><div>\u2022 Lock Twitter with passcode.</div><div>\u2022 Enable Reader mode.</div><div>\u2022 Autoload photos in the highest quality.</div><div><br></div>",
+      "iconURL": "https://i.imgur.com/rpd1scd.png"
+    },
+    {
       "name": "BHTwitter (deprecated)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL",
@@ -3445,17 +3456,6 @@
       "iconURL": "https://i.imgur.com/RJKkw9A.png"
     },
     {
-      "name": "Magic Eraser Background Editor",
-      "bundleIdentifier": "com.dangerouspixel.magiceraserbackgroundeditor",
-      "developerName": "Dangerous Pixel",
-      "version": "3.10.0",
-      "versionDate": "2025-11-25T15:43:32.000Z",
-      "size": 244413160,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MagicEraser.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Instantly remove the background or object of any picture, edit, arrange and save as PNG or JPG! Join 10 million Magic Background Eraser creators and take your images to the next level with AI powered high resolution editing.\r</div><div>Ideal for online sellers or photo enthusiasts, it is the most usable app for free without a watermark. Extra features are available for an affordable price.\r</div><div>Remove objects or cut out and save transparent images for use in Instagram, Poshmark, Shopify, Pinterest and many other apps. Add a white, colored or custom background to your photo cut-out and grow your brand with beautiful product posts and stories.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/2ria2r2.png"
-    },
-    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -4829,17 +4829,6 @@
         }
       ],
       "appID": "org.provenance-emu.provenance"
-    },
-    {
-      "name": "RAID: Shadow Legends Hack",
-      "bundleIdentifier": "com.iosgods.raidshadowlegendshack",
-      "developerName": "iOSGods",
-      "version": "10.90.3",
-      "versionDate": "2025-11-24T20:56:27.000Z",
-      "size": 131479235,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/raid.ipa",
-      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a></span></div><i class=\"\">Features:</i><div>\u2022 Fast Game Speed ( Use with x2 )</div>",
-      "iconURL": "https://i.imgur.com/6ygFoC4.png"
     },
     {
       "name": "Ready",
@@ -6905,6 +6894,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/youtubeOled.ipa",
       "localizedDescription": "<ul class=\"\"><li class=\"\">Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\r</li><li class=\"\">Copy video, comment, and post information\r</li><li class=\"\">Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only  mode\r</li><li class=\"\">Player settings: Gestures, default quality, preferred audio track\r</li><li class=\"\">Save, Load and Restore settings. Clear cache once or automatically on app startup\r</li><li class=\"\">Built-in SponsorBlock\r</li><li>And much, much more</li></ul>",
       "iconURL": "https://i.imgur.com/nOSbYff.png"
+    },
+    {
+      "name": "YouTube Plus (YTLite)",
+      "bundleIdentifier": "com.dayanch96.youtubeplusytlite",
+      "developerName": "dayanch96",
+      "version": "20.49.5 (5.2b4)",
+      "versionDate": "2025-12-08T18:58:29.000Z",
+      "size": 113340418,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YTlite.ipa",
+      "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.<div class=\"\"><br></div><div class=\"\"><i>Features:</i></div><div class=\"\"><ul><li>Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures</li><li>Copy video, comment, and post information</li><li>Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode</li><li>Player settings: Gestures, default quality, preferred audio track</li><li>Save, Load and Restore settings. Clear cache once or automatically on app startup</li><li>Built-in SponsorBlock</li><li>And much, much more</li></ul></div>",
+      "iconURL": "https://i.imgur.com/rFABlyF.png"
     },
     {
       "name": "ZiniTevi++",
