@@ -4,17 +4,6 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
-      "name": " Uplens: Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.uplensphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "3.4.1",
-      "versionDate": "2025-11-25T15:44:56.000Z",
-      "size": 179070044,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/uplens.ipa",
-      "localizedDescription": "Uplens is the ultimate mobile photo and video editor, powered by AI and designed to help you take perfect selfies and create stunning visuals in just a few taps. With our advanced retouching tools and a full range of professional-grade editing features, Uplens gives you everything you need to make your photos and videos look their best.<div><br><div></div><div class=\"\">Use the Magic AI Retouch function to get flawless skin and natural color correction. Our vintage presets give your visuals a unique, nostalgic vibe, and with our easy-to-use editing tools, you can customize each preset to create your own signature style.\r</div><div class=\"\"><br></div><div>In addition to our powerful retouching tools, video editing features, and vintage presets, Uplens also offers a full suite of professional-grade editing tools, including contrast, saturation, noise, and more. Whether you're a professional photographer or just want to take your Instagram profile to the next level, Uplens is the perfect tool for all your photo and video editing needs.</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/8fYqQgj.png"
-    },
-    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -3108,6 +3097,17 @@
         }
       ],
       "appID": "com.firecore.infuse"
+    },
+    {
+      "name": "iNKillerPlus",
+      "bundleIdentifier": "com.ikarwan.inkillerplus",
+      "developerName": "iKarwan",
+      "version": "407.0.0",
+      "versionDate": "2025-12-08T21:25:26.000Z",
+      "size": 211551184,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/InKiller.ipa",
+      "localizedDescription": "<div><b class=\"\">A whole new Instagram Experience!&nbsp;</b></div><b class=\"\"><div><b class=\"\"><br></b></div>To get premium</b><div><ol><li class=\"\">Open settings</li><li class=\"\">Click on Settings icon&nbsp;</li><li class=\"\">Restore purchase with 1234@random.lol&nbsp;</li><li class=\"\">Turn off internet&nbsp;</li><li class=\"\">Click on Settings icon&nbsp;</li><li class=\"\">Turn on Internet</li></ol></div>",
+      "iconURL": "https://i.imgur.com/fiX8xN9.png"
     },
     {
       "name": "Instagram Rhino",
