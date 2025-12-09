@@ -528,6 +528,17 @@
       "iconURL": "https://i.imgur.com/KMmt4Xu.png"
     },
     {
+      "name": "Ark Re:Code",
+      "bundleIdentifier": "com.erolabs.arkrecode",
+      "developerName": "ero-labs",
+      "version": "1.4.0.112351",
+      "versionDate": "2025-12-09T18:10:55.000Z",
+      "size": 323142270,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ArkRecode.ipa",
+      "localizedDescription": "In a world on the brink of destruction after a meteor strike, Your unique power shall be the key to saving the world.\n<div>\n</div><div>The girls you gather will eliminate the rampaging mutants; And you will need to use your special body fluids -\n</div><div class=\"\">To raise their abilities, cure their ailments, and bring them unimaginable pleasure!\n</div><div class=\"\"><br></div><div>Compose your own strategy through attributes, classes, set effects, and hundreds of skill combinations!\n</div><div class=\"\">Connect with the girl you admire and raise their abilities to earn the character-specific CG!\n</div><div class=\"\"><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://i.imgur.com/vFQBndH.jpeg"
+    },
+    {
       "name": "B612 - AI Photo and Video Editor",
       "bundleIdentifier": "com.blatant.b612aiphotoandvideoeditor",
       "developerName": "Blatant",
@@ -683,17 +694,6 @@
         }
       ],
       "appID": "blog.blurt.blurt"
-    },
-    {
-      "name": "Calm: Sleep Meditation",
-      "bundleIdentifier": "com.ipalibrary.calmsleepmeditation",
-      "developerName": "IPA Library",
-      "version": "6.84",
-      "versionDate": "2025-11-25T15:46:42.000Z",
-      "size": 88181827,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Calm.ipa",
-      "localizedDescription": "Calm is the #1 app for Sleep, Meditation and Relaxation. Join the millions experiencing better sleep, lower stress, and less anxiety with our guided meditations, Sleep Stories, breathing programs, stretching exercises, and relaxing music. Calm is recommended by top psychologists, therapists, and mental health experts.<div><br></div><div>Calm is the perfect mindfulness app for beginners, but also includes hundreds of programs for intermediate and advanced users. Guided meditation sessions are available in lengths of 3, 5, 10, 15, 20 or 25 minutes so you can choose the perfect length to fit with your schedule.</div>",
-      "iconURL": "https://i.imgur.com/hboZbpJ.png"
     },
     {
       "name": "Captions: For Talking Videos",
@@ -3443,6 +3443,17 @@
         }
       ],
       "appID": "com.luma-touch.LumaFusion"
+    },
+    {
+      "name": "Lust Goddess",
+      "bundleIdentifier": "com.erolabs.lustgoddess",
+      "developerName": "ero-labs",
+      "version": "8.0.11",
+      "versionDate": "2025-12-09T18:12:36.000Z",
+      "size": 298989623,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/LustGoddes.ipa",
+      "localizedDescription": "\n<div>In a world teetering on the edge of chaos, you take on the role of the newly appointed Captain of an elite mercenary squad.</div><div class=\"\">Your primary objective is to free captives and restore justice. Using your tactical expertise and the steadfast loyalty of your diverse team, you must navigate intense turn-based battles and build strong bonds with your squad members.\n</div><div class=\"\"><br></div><div class=\"\">Each girl you rescue possesses unique abilities and a captivating backstory, immersing you in a world filled with danger, romance, and redemption.\n</div><div class=\"\"><br></div><div><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://i.imgur.com/hHXIezE.jpeg"
     },
     {
       "name": "MADFUT Hacked",
@@ -6883,17 +6894,6 @@
         }
       ],
       "appID": "stream.yattee.app"
-    },
-    {
-      "name": "YouTube OLED",
-      "bundleIdentifier": "com.youtube.youtubeoled",
-      "developerName": "YouTube",
-      "version": "20.47.3",
-      "versionDate": "2025-11-25T17:01:30.000Z",
-      "size": 128245083,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/youtubeOled.ipa",
-      "localizedDescription": "<ul class=\"\"><li class=\"\">Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\r</li><li class=\"\">Copy video, comment, and post information\r</li><li class=\"\">Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only  mode\r</li><li class=\"\">Player settings: Gestures, default quality, preferred audio track\r</li><li class=\"\">Save, Load and Restore settings. Clear cache once or automatically on app startup\r</li><li class=\"\">Built-in SponsorBlock\r</li><li>And much, much more</li></ul>",
-      "iconURL": "https://i.imgur.com/nOSbYff.png"
     },
     {
       "name": "YouTube Plus (YTLite)",
