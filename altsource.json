@@ -539,17 +539,6 @@
       "iconURL": "https://i.imgur.com/vFQBndH.jpeg"
     },
     {
-      "name": "B612 - AI Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.b612aiphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "14.6.15",
-      "versionDate": "2025-11-26T19:56:21.000Z",
-      "size": 132121404,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/b612.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>B612 is the best all-in-one camera &amp; photo/video editing app. We offer various free features and tools to make every moment more special.\r<div>\r</div><div>Meet trendy effects, filters, and stickers that are updated every day!\r</div><div>=== Main features ===\r</div><div>*Create your own filters*\r</div><div>- Create a one-of-a-kind filter and share it with friends\r</div><div>- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\r</div><div>- Meet the creative and diverse filters of B612 creators.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/gelvNEn.png"
-    },
-    {
       "name": "Balance: Meditation and Sleep",
       "bundleIdentifier": "com.blatant.balancemeditationandsleep",
       "developerName": "Blatant",
@@ -705,6 +694,17 @@
         }
       ],
       "appID": "blog.blurt.blurt"
+    },
+    {
+      "name": "Car Parking Hack",
+      "bundleIdentifier": "com.kamohacks.carparkinghack",
+      "developerName": "Kamo Hacks",
+      "version": "4.9.5",
+      "versionDate": "2025-12-10T12:21:53.000Z",
+      "size": 747652262,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/CarParking1.ipa",
+      "localizedDescription": "<div class=\"\"><div class=\"\"><i>Hack features:</i></div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Press buy any product and cancel.</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free in app purchases</span><br></div><div></div>",
+      "iconURL": "https://i.imgur.com/JltvorH.png"
     },
     {
       "name": "CARROT Weather",
