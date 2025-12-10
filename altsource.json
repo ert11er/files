@@ -1616,17 +1616,6 @@
       "appID": "com.rileytestut.Deltroid"
     },
     {
-      "name": "Deus Ex GO",
-      "bundleIdentifier": "com.decaliveoperationsgmbh.deusexgo",
-      "developerName": "Deca Live Operations GmbH",
-      "version": "2.3.21",
-      "versionDate": "2025-11-26T20:10:27.000Z",
-      "size": 126255935,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/DeusExGo.ipa",
-      "localizedDescription": "Deus Ex GO features: \r<div>\r</div><div>\u2022 An engrossing story with over 50 challenging puzzles\r</div><div>\u2022 Special events with daily challenge levels \r</div><div>\u2022 Unique hacking powers \u2013 Take over enemy turrets or change the layout of the level itself\r</div><div>\u2022 Augmented puzzles \u2013 Solve puzzles using Adam\u2019s iconic augmentations\r</div><div>\u2022 Intelligent new enemies including guards, turrets, drones, walkers and more\r</div><div>\u2022 An intricate and mysterious storyline set in a beautiful vision of the future</div>",
-      "iconURL": "https://i.imgur.com/1NcXK1A.png"
-    },
-    {
       "name": "DolphiniOS",
       "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
       "developerName": "OatmealDome",
@@ -5188,6 +5177,17 @@
       },
       "beta": false,
       "appID": "com.burbn.instagram"
+    },
+    {
+      "name": "Scanner Air",
+      "bundleIdentifier": "com.blatant.scannerair",
+      "developerName": "Blatant",
+      "version": "2025.11.6",
+      "versionDate": "2025-12-10T18:00:20.000Z",
+      "size": 95586495,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ScannerAir.ipa",
+      "localizedDescription": "Transform your smartphone into a document scanner and a mobile office. Easily scan, sign, edit, and convert documents from anywhere\u2014whether you're at home, in the office, or on the move. Enjoy the convenience of digitizing and sharing files with just a few taps. Say goodbye to bulky scanners and embrace simplicity.<div><br><div></div><div class=\"\">Key Features:\r</div><div class=\"\"><b>Fast Document Scanner\r</b></div><div class=\"\">Use the document scanner to scan anything\u2014contracts, receipts, notes, or IDs. Works as an ID scanner, receipt scanner, and even a business card scanner to keep your paperwork digital and organized.\r</div><div class=\"\"><br></div><div class=\"\"><b>Scan to PDF &amp; Convert to PDF\r</b></div><div class=\"\">Instantly convert or scan in high resolution. Whether it\u2019s photos to PDF, JPG to PDF, or an image to text conversion, get professional-quality scans in seconds.\r</div><div class=\"\"><br></div><div class=\"\"><b>Edit Documents with Ease\r</b></div><div class=\"\">Use the built-in document editor to edit documents, crop, rotate, and enhance scans before sharing. Perfect for contracts, notes, or any other paperwork.\r</div><div class=\"\"><br></div><div class=\"\"><b>Sign &amp; Send with eSign\r</b></div><div>Digitally sign with the document signer and send them instantly. Use the eSign feature for contracts, agreements, or any important document.\r</div><div><br></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/lb16FkC.png"
     },
     {
       "name": "ScummVM",
