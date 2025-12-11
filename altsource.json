@@ -2333,8 +2333,8 @@
       "name": "Fortnite",
       "bundleIdentifier": "com.epicgames.fortnite",
       "developerName": "Epic Games",
-      "version": "39.00.1",
-      "versionDate": "2025-12-05T15:26:32.000Z",
+      "version": "39.10",
+      "versionDate": "2025-12-11T20:16:11.000Z",
       "size": 237086916,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
       "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
@@ -4707,17 +4707,6 @@
       "appID": "eu.pokemmo.client.pts"
     },
     {
-      "name": "Pokemon Sun Moon",
-      "bundleIdentifier": "com.pokemon.pokemonsunmoon",
-      "developerName": "Pokemon ",
-      "version": "5.0.0",
-      "versionDate": "2025-11-27T15:45:18.000Z",
-      "size": 1115933674,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/pokemonSunMoon.ipa",
-      "localizedDescription": "Massive collection of cute pets, innovative gameplay and fun! Log in to \"Pokemon Sun Moon\" now and set sail towards the goal of becoming a top trainer!<div><br><div></div><div></div><div class=\"\"><b>Classic childhood masterpiece</b></div><div class=\"\">Classic plot, classic scene, players are about to become a cute pet trainer, and challenge their cute pet companions on the road to becoming a champion master in the adventure world!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Free capture of divine beasts</b></div><div class=\"\">New joint participation, free capture of divine beasts. 800+ cute pets for you to choose, wild beasts to capture, massive activities and gameplay to help you easily evolve elves!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Real-time PVP competition</b></div><div class=\"\">Real-time competitive gameplay, smooth PVP fair battle! Players compete online and match indiscriminately around the world. Your strength will amaze the world!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">More interesting gameplay</b></div><div>Multiplayer dungeons, world bosses, and Buddhist trainers can also feel full of joy! Experience the peak duel and compete for technical strength!</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/fA3jlEz.png"
-    },
-    {
       "name": "PPSSPP",
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "Henrik Rydg\u00e5rd",
@@ -4971,6 +4960,17 @@
       },
       "beta": false,
       "appID": "com.reddit.Reddit"
+    },
+    {
+      "name": "Regram for Instagram",
+      "bundleIdentifier": "com.fouadraheb.regramforinstagram",
+      "developerName": "Fouad Raheb",
+      "version": "408.1.0 (2.3)",
+      "versionDate": "2025-12-11T20:13:37.000Z",
+      "size": 204357512,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/regram.ipa",
+      "localizedDescription": "<span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Built-into Instagram</b></span><div>Runs inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features</div><div class=\"\"><b>Profile Analyzer</b></div><div>Scans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).</div><div class=\"\"><b>Stories Archive</b><br>Automatically download and store all your uploaded Stories including the full viewers and likers list and allow to view analytics of top viewers and likers.</div><div class=\"\"><b>Media Downloader</b></div><div class=\"\">Downloads any Instagram media, including posts, stories, reels, post audio, and direct messages.</div><div class=\"\"><b>Privacy</b></div><div class=\"\">View stories and read direct messages without sending seen receipts, send them manually with a single tap.</div><div class=\"\"><b>Messages</b></div><div class=\"\">Keep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.</div><div class=\"\"><b>Utilities &amp; Customization</b></div><div class=\"\">Confirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.<br><br></div>",
+      "iconURL": "https://i.imgur.com/Y5n6G8O.png"
     },
     {
       "name": "Renovate AI : Home Design",
