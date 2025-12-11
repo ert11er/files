@@ -62,17 +62,6 @@
       ]
     },
     {
-      "name": "AltMarket",
-      "bundleIdentifier": "com.altmarketteam.altmarket",
-      "developerName": "AltMarket Team",
-      "version": "1.0",
-      "versionDate": "2025-11-27T15:45:02.000Z",
-      "size": 3073771,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AltMarket.ipa",
-      "localizedDescription": "<i>Access bypassing invite codes is open.</i><div class=\"\"><i><br></i></div><div class=\"\"><span class=\"\">Games and software store for different platforms: PC, PS, Xbox, Nintendo.</span></div><div class=\"\"><span class=\"\">Simple and clear interface, instant receipt of paid goods, discounts up to 95% on new game releases, Windows, Microsoft Office, SpooferPro etc.</span></div>",
-      "iconURL": "https://i.imgur.com/UOpWK40.png"
-    },
-    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -3086,6 +3075,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/InKiller.ipa",
       "localizedDescription": "<div><b class=\"\">A whole new Instagram Experience!&nbsp;</b></div><b class=\"\"><div><b class=\"\"><br></b></div>To get premium</b><div><ol><li class=\"\">Open settings</li><li class=\"\">Click on Settings icon&nbsp;</li><li class=\"\">Restore purchase with 1234@random.lol&nbsp;</li><li class=\"\">Turn off internet&nbsp;</li><li class=\"\">Click on Settings icon&nbsp;</li><li class=\"\">Turn on Internet</li></ol></div>",
       "iconURL": "https://i.imgur.com/fiX8xN9.png"
+    },
+    {
+      "name": "InShot",
+      "bundleIdentifier": "com.kamohacks.inshot",
+      "developerName": "Kamo Hacks",
+      "version": "1.92",
+      "versionDate": "2025-12-11T17:21:46.000Z",
+      "size": 90921678,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/InShot.ipa",
+      "localizedDescription": "<div class=\"\"><i>Premium Unlocked</i></div><div><br></div>InShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.",
+      "iconURL": "https://i.imgur.com/YKxyxgq.png"
     },
     {
       "name": "Instagram Rhino",
