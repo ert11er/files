@@ -550,17 +550,6 @@
       "iconURL": "https://i.imgur.com/0CkQyeg.png"
     },
     {
-      "name": "Bazaart: AI Photo Video Editor",
-      "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
-      "developerName": "Dangerous Pixel",
-      "version": "26.0.6",
-      "versionDate": "2025-12-01T12:39:39.000Z",
-      "size": 47437417,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Bazaart1.ipa",
-      "localizedDescription": "POWERFUL DESIGN &amp; EDITING TOOLS<div>\u2022 Create mind-blowing AI avatars of you, your cat or dog</div><div>\u2022 Magically remove the background from any photo with the magic background eraser</div><div>\u2022 Remove unwanted objects and people from any photo with surgical precision using the remove tool</div><div>\u2022 Create fantastic images using a powerful AI art tool and magically turn your text to image</div><div>\u2022 Cut out photos and videos like a pro with a selection of handy crop, scissors, eraser and shape cut-out tools</div><div>\u2022 Enhance, adjust, and customize photos and videos: Change exposure, contrast, saturation, vibrance, warmth, tint, shadows, highlights, fade, sharpness and blur</div><div>\u2022 Add up to 100 photo layers and 5 video layers: each layer is independently editable and all changes reversible</div><div>\u2022 Apply fabulous filters on photos and videos to add a \u201cwow\u201d effect</div><div>\u2022 Create custom edge styles for photos and videos with the outline and shadow tools</div><div>\u2022 Blend photos and videos for mind-blowing effects</div><div>\u2022 Sketch and draw freely with the drawing tool</div><div>\u2022 Curve your text to match an arc or a circle</div><div>\u2022 Edit and modify text with alignment, letter and line spacing</div><div>\u2022 Perfectly align photos, videos, text, and any element with auto-snapping</div><div>\u2022 Position elements precisely with the nudge tool</div>",
-      "iconURL": "https://i.imgur.com/N2CDQR8.png"
-    },
-    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Avangelista",
@@ -694,6 +683,17 @@
         }
       ],
       "appID": "blog.blurt.blurt"
+    },
+    {
+      "name": "Captions: For Talking Videos",
+      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
+      "developerName": "Blatant",
+      "version": "12.48.1",
+      "versionDate": "2025-12-15T12:03:10.000Z",
+      "size": 373335088,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
+      "iconURL": "https://i.imgur.com/zAg0CiN.png"
     },
     {
       "name": "Car Parking Hack",
@@ -1796,17 +1796,6 @@
       "appID": "com.duolingo.DuolingoMobile"
     },
     {
-      "name": "Eevee Spotify",
-      "bundleIdentifier": "com.whoeevee.eeveespotify",
-      "developerName": "whoeevee",
-      "version": "9.1.0 (6.2.2)",
-      "versionDate": "2025-11-30T09:21:57.000Z",
-      "size": 75026367,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/EeveeSpotify.ipa",
-      "localizedDescription": "<div><b style=\"\">Unable to Play Songs</b></div><div class=\"\"><b><br></b></div><div><b class=\"\">If all tracks are skipped, a song stops as soon as you play it, songs play in a random order, you see the \"You discovered a Premium feature\" popup when trying to play a song, or encounter other restrictions,</b></div><div class=\"\"><span class=\"\"><b style=\"\">You can only use Spotify abroad for 14 days. Connect to a VPN server in any country, change your region at <a href=\"accounts.spotify.com\" style=\"\">accounts.spotify.com</a>, then sign out and log back into Spotify with the VPN enabled.</b></span></div><div><br></div><div class=\"\"><br></div>This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.<div><br></div><div class=\"\"><b>This futures from premium didn't exist:</b></div><div class=\"\"><ul><li>Very High audio quality</li><li class=\"\">Native playlist downloading (you can download podcast episodes though)</li><li>Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)</li></ul></div><div><br></div>",
-      "iconURL": "https://i.imgur.com/cUkW2uG.png"
-    },
-    {
       "name": "EhPanda",
       "bundleIdentifier": "app.ehpanda",
       "developerName": "Araki Tatsuzou",
@@ -2392,8 +2381,8 @@
       "name": "HabitKit",
       "bundleIdentifier": "com.habitkit.habitkit",
       "developerName": "HabitKit",
-      "version": "1.14.3",
-      "versionDate": "2025-12-04T18:39:42.000Z",
+      "version": "1.14.4",
+      "versionDate": "2025-12-15T12:18:33.000Z",
       "size": 45844865,
       "downloadURL": "https://s3.flekstore.com/ipa-library/HabitKit.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div>HabitKit is the perfect app for anyone looking to form new habits or break old ones. With HabitKit, you can track your progress with beautiful tile-based grid charts. Whether you're trying to quit smoking, eat healthier, or exercise more, HabitKit can help you achieve your goals. You can customize your dashboard by adjusting colors, icons and descriptions. Draw motivation from growing the amount of colored tiles on your habit dashboard.</div>",
@@ -2481,17 +2470,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Homescapes.ipa",
       "localizedDescription": "<p class=\"\"><b>Hack Features:</b></p><p class=\"\"></p><ul><li><b>Infinite Moves</b></li><li><b>Infinite Lives</b></li><li><b>Infinite Boosters</b></li><li><b>Complete tasks without stars</b></li><li><b class=\"\">Unlock Season Pass</b></li></ul><p></p><p class=\"\">Welcome to Homescapes, a warm and cozy game. Make match-3 combinations and turn every corner of your home into an inviting place to relax and have fun.\n</p><p class=\"\">Solve puzzles, restore the interior room by room, and meet new friends in every chapter of the exciting storyline. Austin the butler is ready to welcome you to a world of incredible adventures!</p><p class=\"\">\n</p><p class=\"\">\n</p>\n",
       "iconURL": "https://i.imgur.com/crDKoSy.png"
-    },
-    {
-      "name": "Human: Fall Flat",
-      "bundleIdentifier": "com.nobrakesgames.humanfallflat",
-      "developerName": "No Brakes Games",
-      "version": "2.4",
-      "versionDate": "2025-11-28T13:57:58.000Z",
-      "size": 620309245,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/HumanFallFlat.ipa",
-      "localizedDescription": "Human Fall Flat is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded.<div><br><div></div><div></div><div></div><div></div><div class=\"\"><b>MORE HUMANS, MORE MAYHEM</b> - Need a hand getting that boulder on to a catapult, or need someone to break that wall? Online multiplayer for up to 4 players transforms the way Human Fall Flat is played.\r</div><div class=\"\"><br></div><div class=\"\"><b>MIND BENDING PUZZLES </b>- Explore open-ended levels full of challenging puzzles and hilarious distractions. Try new paths and discover all the secrets!\r</div><div class=\"\"><br></div><div class=\"\"><b>A BLANK CANVAS</b> - Your Human is yours to customize. With outfits from builder to chef, skydiver, miner, astronaut and ninja. Choose your head, upper and lower body and get creative with the colors!\r</div><div class=\"\"><br></div><div class=\"\"><b>FREE GREAT CONTENT</b> - Since launch more than four brand new levels have launched free of charge with even more on the horizon. What could the next dreamscape have in store?</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/SNoXGbj.png"
     },
     {
       "name": "iDOS",
@@ -3445,6 +3423,17 @@
       "iconURL": "https://i.imgur.com/hHXIezE.jpeg"
     },
     {
+      "name": "MacroFactor - Macro Tracker",
+      "bundleIdentifier": "com.blatant.macrofactormacrotracker",
+      "developerName": "Blatant",
+      "version": "5.7.1",
+      "versionDate": "2025-12-15T12:15:14.000Z",
+      "size": 90984369,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MacroFactor.ipa",
+      "localizedDescription": "<b class=\"\">DIET SMARTER\r</b><div>\r</div><div>Using a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \r</div><div>\u2022 The unique energy expenditure calculation detects changes in your metabolism\r</div><div>\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\r</div><div>\u2022 Weekly check-ins keep you on track toward your goals\r</div><div class=\"\">The result? You better understand your body\u2019s needs and can successfully reach and sustain your goals without stress.\r</div><div class=\"\"><br></div><div class=\"\"><b>THE BEST MACRO TRACKER TOOLS</b></div><div>\u2022 The fastest macro tracker on the market with tools like barcode scan and custom foods\r</div><div>\u2022 Verified food database, so you can trust the accuracy of the foods you log \r</div><div>\u2022 Custom macro programs and weekly check-ins based on your goals and preferences\r</div><div>\u2022 Detailed breakdowns of micronutrients, macros, and more\r</div><div>\u2022 Period tracker, habit tracker, unique data insights and visualization, integrations, dark mode, and more</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/sGSONJS.png"
+    },
+    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -4007,8 +3996,8 @@
       "name": "PicsArt Pro",
       "bundleIdentifier": "com.dangerouspixel.picsartpro",
       "developerName": "Dangerous Pixel",
-      "version": "28.9.8",
-      "versionDate": "2025-12-09T19:00:17.000Z",
+      "version": "29.0.2",
+      "versionDate": "2025-12-15T12:10:26.000Z",
       "size": 71112152,
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
@@ -6105,8 +6094,8 @@
       "name": "Unfold: Story and Reels Maker",
       "bundleIdentifier": "com.squarespace.unfoldstoryandreelsmaker",
       "developerName": "Squarespace",
-      "version": "8.151.0",
-      "versionDate": "2025-12-01T12:41:29.000Z",
+      "version": "8.152.0",
+      "versionDate": "2025-12-15T12:19:15.000Z",
       "size": 163485644,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Unfold.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div>\u2014 Stitch video clips together with Reels templates\r<div>\r</div><div>\u2014 Create with template collections like Film\r</div><div>\u2014 Plan and preview your Instagram Feed\r</div><div>\u2014 Remove any background with our AI editing tool\r</div><div>\u2014 Make a Bio Site for your new link in bio\r</div><div class=\"\">\u2014 Edit your content with filters and effects\r</div><div class=\"\"><br></div><div>Reels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\r</div><div>Story, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -6681,6 +6670,17 @@
       "iconURL": "https://i.imgur.com/4kl0uWr.png"
     },
     {
+      "name": "VN Video Editor",
+      "bundleIdentifier": "com.blatant.vnvideoeditor",
+      "developerName": "Blatant",
+      "version": "2.0.1",
+      "versionDate": "2025-12-15T12:12:11.000Z",
+      "size": 316753263,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/YYfDChx.png"
+    },
+    {
       "name": "VSCO",
       "bundleIdentifier": "com.michaellema.vsco",
       "developerName": "Michael Lema",
@@ -6888,8 +6888,8 @@
       "name": "YouTube OLED",
       "bundleIdentifier": "com.youtube.youtubeoled",
       "developerName": "YouTube",
-      "version": "20.49.5",
-      "versionDate": "2025-12-09T19:03:22.000Z",
+      "version": "20.50.6",
+      "versionDate": "2025-12-15T12:16:17.000Z",
       "size": 128245083,
       "downloadURL": "https://s3.flekstore.com/ipa-library/youtubeOled.ipa",
       "localizedDescription": "<ul class=\"\"><li class=\"\">Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\r</li><li class=\"\">Copy video, comment, and post information\r</li><li class=\"\">Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only  mode\r</li><li class=\"\">Player settings: Gestures, default quality, preferred audio track\r</li><li class=\"\">Save, Load and Restore settings. Clear cache once or automatically on app startup\r</li><li class=\"\">Built-in SponsorBlock\r</li><li>And much, much more</li></ul>",
