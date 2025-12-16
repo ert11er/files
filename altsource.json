@@ -1027,8 +1027,8 @@
       "name": "Coconote - AI Note Taker",
       "bundleIdentifier": "com.blatant.coconoteainotetaker",
       "developerName": "Blatant",
-      "version": "2.29",
-      "versionDate": "2025-12-09T18:59:12.000Z",
+      "version": "2.30",
+      "versionDate": "2025-12-16T18:14:54.000Z",
       "size": 32974725,
       "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
@@ -1091,6 +1091,17 @@
         }
       ],
       "appID": "com.crunchyroll.iphone"
+    },
+    {
+      "name": "Dazz Cam - Vintage Camera",
+      "bundleIdentifier": "com.blatant.dazzcamvintagecamera",
+      "developerName": "Blatant",
+      "version": "2.13",
+      "versionDate": "2025-12-16T18:12:20.000Z",
+      "size": 106980613,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Dazz.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Dazz Camera, Pro Photographer in your Pocket.\r</div><div>\r</div><div class=\"\"><br></div><div class=\"\">We believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\r</div><div class=\"\">\r</div><div><br></div><div>Dazz camera is inspired by classic film cameras from the 80s. We\u2019ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, half-frame cameras, instant camera, 3D film photography, disposable camera, and more.</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/lD2oaH3.png"
     },
     {
       "name": "Deezer++",
@@ -1760,8 +1771,8 @@
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
-      "version": "7.102.0",
-      "versionDate": "2025-12-09T19:10:29.000Z",
+      "version": "7.103.0",
+      "versionDate": "2025-12-16T18:16:41.000Z",
       "size": 182898277,
       "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
       "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
@@ -2046,6 +2057,17 @@
         "privacy": []
       },
       "appID": "com.antique.emuThreeDS"
+    },
+    {
+      "name": "Endel: Focus and Sleep Sounds",
+      "bundleIdentifier": "com.blatant.endelfocusandsleepsounds",
+      "developerName": "Blatant",
+      "version": "4.48.436",
+      "versionDate": "2025-12-16T18:10:07.000Z",
+      "size": 217373705,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Endel.ipa",
+      "localizedDescription": "Focus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.\r<div>\r</div><div class=\"\">Endel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.\r</div><div class=\"\"><br></div><div>Get access to the following classic soundscapes at home, work, or on the move to relax, concentrate, and minimize distractions and brain fatigue:\r</div><div>\u2022 Focus \u2013 boosts your productivity by helping you concentrate for longer\r</div><div>\u2022 Sleep \u2013 soothes you into a deep sleep with soft, gentle sounds\r</div><div>\u2022 Relax \u2013 calms your mind to create feelings of comfort and safety\r</div><div>\u2022 Move \u2013 feel grounded and present while walking, hiking, or running</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/j3ijAh5.png"
     },
     {
       "name": "Facebook Wolf",
@@ -3562,17 +3584,6 @@
         "privacy": []
       },
       "appID": "net.namedfork.minivmac"
-    },
-    {
-      "name": "Mojo: AI Video and Reels Editor",
-      "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
-      "developerName": "Blatant",
-      "version": "1.252.0",
-      "versionDate": "2025-12-01T12:43:43.000Z",
-      "size": 189797587,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/q3iu7n4.png"
     },
     {
       "name": "MyFitnessPal++",
@@ -5253,17 +5264,6 @@
       ]
     },
     {
-      "name": "Simply Piano Hacked",
-      "bundleIdentifier": "com.laxus.simplypianohacked",
-      "developerName": "Laxus",
-      "version": "9.10.46",
-      "versionDate": "2025-12-01T12:42:35.000Z",
-      "size": 195483304,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SimplyPiano.ipa",
-      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\" style=\"\">iOSGods\r</a></span></div><div><b class=\"\"><br></b></div><b class=\"\">Hack Features:</b><div class=\"\"><b class=\"\">- Unlocked All Courses (Turn on from Mod Menu first)</b></div><div class=\"\"><br></div><div class=\"\">A fast and fun way to learn piano - works with any piano or keyboard. Learn to play the songs you love with Simply Piano!</div><div class=\"\"><br></div><div class=\"\">Simply Piano is a fast and fun way to learn piano, from beginner to pro. Works with any piano or keyboard. Chosen as one of the best iPhone apps.</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">- Tons of fun songs like Imagine, Chandelier, All Of Me and Counting Stars, also J.S. Bach</div><div class=\"\"><br></div><div class=\"\">- Includes courses for different musical tastes and playing levels</div><div class=\"\"><br></div><div class=\"\">- Learn the basics step-by-step from reading sheet music to playing with both hands</div><div class=\"\"><br></div><div class=\"\">- Slow down library songs to choose your own pace for easy learning</div><div class=\"\"><br></div><div class=\"\">- Personalized 5-Min Workouts ensuring you progress fast and always succeed</div><div class=\"\"><br></div><div class=\"\">- Suitable for all ages, no previous knowledge required to learn piano</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">No Piano? Try the Touch Courses with 3D Touch to turn your device into an on-screen keyboard!</div>",
-      "iconURL": "https://i.imgur.com/UYVjROG.png"
-    },
-    {
       "name": "Snapchat++",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Kanji",
@@ -6684,8 +6684,8 @@
       "name": "VSCO",
       "bundleIdentifier": "com.michaellema.vsco",
       "developerName": "Michael Lema",
-      "version": "451.0.0",
-      "versionDate": "2025-12-04T18:37:57.000Z",
+      "version": "453.0.0",
+      "versionDate": "2025-12-16T18:18:54.000Z",
       "size": 96977746,
       "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
       "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
