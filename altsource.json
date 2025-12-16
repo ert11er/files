@@ -1956,6 +1956,17 @@
       "appID": "app.ehpanda"
     },
     {
+      "name": "Elevate - Brain Training Games",
+      "bundleIdentifier": "com.blatant.elevatebraintraininggames",
+      "developerName": "Blatant",
+      "version": "5.220.0",
+      "versionDate": "2025-12-16T19:12:22.000Z",
+      "size": 393758474,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ElevateBrain.ipa",
+      "localizedDescription": "<b>Elevate is a \u201ccognitive pick-me-up\u201d with games that are \u201cgood for mental breaks throughout the workday.\u201d \u2013 Washington Post.\r</b><div><b>\r</b></div><div class=\"\"><b>FEATURES\r</b></div><div class=\"\"><br></div><div>\u2022 40+ Brain Training Games: Improve your critical cognitive skills like focus, memory, processing, math, precision, and comprehension with 40+ brain training games.\r</div><div>\u2022 Performance Tracking: Track your progress and compare your mind\u2019s performance over time with weekly reports and insights.\r</div><div>\u2022 Personalized Workouts: Customize your daily training focus and choose between 3 and 5 games. Get personalized daily workouts that include the skills you need most.\r</div><div>\u2022 Adaptive Progression: Train your brain with adaptive difficulty progression that ensures your experience is challenging.\r</div><div>\u2022 Workout Calendar: Stay motivated by tracking your training streaks and keeping your mind active daily.\r</div><div>\u2022 Elevate Dash on Apple Watch: Play 4 additional mini-games and review your performance on your Apple Watch with Elevate Dash.\r</div><div>\u2022 And more!</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/W4XZmfB.png"
+    },
+    {
       "name": "Emnity",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Emnity Team",
@@ -5877,17 +5888,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/subway.ipa",
       "localizedDescription": "<p class=\"\"><span class=\"\"><i style=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></span></p><p class=\"\"><strong class=\"\">Hack Features:<br></strong></p><p class=\"\"><span class=\"\">- Free Store (not Free iAP)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free iAP (ViP Only)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock Characters Outfit<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Custom Jump Height<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)</span></p>\n",
       "iconURL": "https://i.imgur.com/QScGnfP.jpeg"
-    },
-    {
-      "name": "Swipewipe - Photo Cleaner",
-      "bundleIdentifier": "com.blatant.swipewipephotocleaner",
-      "developerName": "Blatant",
-      "version": "3.2.38",
-      "versionDate": "2025-12-01T12:45:36.000Z",
-      "size": 78727663,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/swipewipe1.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Swipewipe is the app that will (finally) help you clean up your camera roll. And you\u2019ll enjoy reminiscing while you do it.\r</div><div>We'll save you the time: Yes, there are other apps that can help you quickly delete photos on your phone. But none of them worked for us!\r</div><div class=\"\">We wanted a simple, fun, elegant solution that let us go month-by-month, work our way through all our photos, videos, screenshots, and everything else in our camera roll, and decide - one by one - what to keep and what to get rid of. That\u2019s Swipewipe.\r</div><div class=\"\"><br></div><div>Here\u2019s how it works: swipe right to keep a photo, and left to delete it. If you make a mistake or change your mind, just tap the current photo to go back. Hold down on a picture to see its metadata. After you\u2019re done reviewing that month\u2019s photos, take one last look at the photos you chose to keep and the ones you chose to delete, make any tweaks you need to, and then\u2026you\u2019re done!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/XCukJTH.png"
     },
     {
       "name": "Taurine",
