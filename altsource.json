@@ -73,6 +73,17 @@
       ]
     },
     {
+      "name": "AI Calorie Tracker by Yazio",
+      "bundleIdentifier": "com.blatant.aicalorietrackerbyyazio",
+      "developerName": "Blatant",
+      "version": "12.63.0",
+      "versionDate": "2025-12-16T19:29:05.000Z",
+      "size": 119803119,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/AICalorieTracker.ipa",
+      "localizedDescription": "<b>Welcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\r</b><div><b>\r</b></div><div class=\"\"><b>Track calories, eat better and reach your goals with Yazio\u2019s free calorie counter app!\r</b></div><div class=\"\"><b><br></b></div><div class=\"\">Yazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the help of its AI calorie tracker. Yazio combines a science-backed approach with cutting-edge AI calorie tracker technology to deliver long-term results without the need for extreme diets.\r</div><div class=\"\"><br></div><div><ul><li class=\"\">- Easy-to-use AI calorie tracker and food tracker\r</li><li>- Calorie deficit tracker to reach your weight goals\r</li><li>- Huge food database with 95% of all food items\r</li><li>- Calorie tracker with barcode scanner\r</li><li>- Meal planning, food tracker and personalized recipes\r</li><li>- Integrated step and activity tracking\r</li><li>- Water tracker with reminders\r</li><li>- Instant access with no signup required\r</li><li>- Regular updates for calorie counter, food tracker and AI calorie tracker tools\r</li><li>- Food tracker and nutrition tools for men and women\r</li><li>- Support for healthy muscle building and weight gain\r</li><li>- Focus on long-term results, not yo-yo dieting</li></ul></div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/QYik6Yn.png"
+    },
+    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -2125,17 +2136,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
       "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
       "iconURL": "https://i.imgur.com/hW3UutY.png"
-    },
-    {
-      "name": "Fall Guys",
-      "bundleIdentifier": "com.epicgames.fallguys",
-      "developerName": "Epic Games",
-      "version": "21.1.1",
-      "versionDate": "2025-12-02T12:20:40.000Z",
-      "size": 1835876907,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/fallguy.ipa",
-      "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.<div><br></div><div>Create your own Course: Fall Guys Creative is a level editor that allows you to create fiendish custom Rounds and share them with the wider community.</div><div><br></div><div>Competitive &amp; Cooperative: Tumble between competitive free-for-alls and cooperative challenges\u2014or take on the Blunderdome with up to 3 friends!</div><div><br></div><div>Play with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.</div><div><br></div><div>Ever-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play.</div>",
-      "iconURL": "https://i.imgur.com/XWmHtbr.png"
     },
     {
       "name": "Filmr Pro",
