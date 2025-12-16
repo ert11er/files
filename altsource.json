@@ -595,6 +595,17 @@
       "appID": "AlexisBarreyat.BeReal"
     },
     {
+      "name": "BH Instagram",
+      "bundleIdentifier": "com.banderhl.bhinstagram",
+      "developerName": "BanderHL",
+      "version": "410.0.0",
+      "versionDate": "2025-12-16T16:30:31.000Z",
+      "size": 250666471,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/BHInsta.ipa",
+      "localizedDescription": "<ul><li>Hide Ads\r</li><li>No suggested post\r</li><li>Show Like count\r</li><li>Confirm like\r</li><li>Copy description\r</li><li>Download Videos\r</li><li>Save profile image\r</li><li>Keep deleted message\r</li><li>Remove last seen\r</li><li>Remove screenshot alert\r</li><li>Unlimited replay of once story\r</li><li>Disable Story Seen Receipt\r</li><li>Padlock</li></ul>",
+      "iconURL": "https://i.imgur.com/cVK7tEc.png"
+    },
+    {
       "name": "BH X",
       "bundleIdentifier": "com.dangerouspixel.bhx",
       "developerName": "Dangerous Pixel",
@@ -914,17 +925,6 @@
         "privacy": []
       },
       "appID": "net.rinsuki.slapps.citra"
-    },
-    {
-      "name": "CleanMyPhone: Storage Cleaner",
-      "bundleIdentifier": "com.blatant.cleanmyphonestoragecleaner",
-      "developerName": "Blatant",
-      "version": "2.10.1",
-      "versionDate": "2025-12-01T12:40:15.000Z",
-      "size": 103343903,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CleanMyPhone.ipa",
-      "localizedDescription": "What can CleanMyPhone cleaner do?<div><br><div></div><div></div><div class=\"\"><b>CLEAN UP YOUR IPHONE STORAGE\r</b></div><div class=\"\">If you love snapping photos, it\u2019s easy to clog up your phone with blurred images, old screenshots, large videos, and multiple pictures of the same thing. CleanMyPhone will scan your entire library for photo clutter and optimize your storage.\r</div><div class=\"\"><br></div><div class=\"\"><b>DELETE DUPLICATES AND SIMILAR PHOTOS\r</b></div><div class=\"\">We all end up with too many photos in an attempt to get the perfect shot. But do we need all those identical images? CleanMyPhone looks for photo duplicates and similar shots, helping you pick the best picture and remove not-so-good copies.\r</div><div class=\"\"><br></div><div class=\"\"><b>COMPRESS VIDEOS\r</b></div><div class=\"\">CleanMyPhone lets you compress any video with minimal loss of quality. Free up space instantly and keep more of what you love on your iPhone.\r</div><div class=\"\"><br></div><div class=\"\"><b>TURN LIVE PHOTOS TO STILL IMAGES\r</b></div><div>How many Live Photos do you have? Our cleaner app helps you convert Live Photos to still images to free up some space for new ones.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/2mL8Guy.png"
     },
     {
       "name": "Clip",
