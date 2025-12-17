@@ -893,6 +893,17 @@
       "appID": "com.channelsapp.channels"
     },
     {
+      "name": "Chat Smith",
+      "bundleIdentifier": "com.dangerouspixel.chatsmith",
+      "developerName": "Dangerous Pixel",
+      "version": "8.251215.2",
+      "versionDate": "2025-12-17T17:42:49.000Z",
+      "size": 59260010,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/chatsmith.ipa",
+      "localizedDescription": "<div class=\"\">ChatGPT 3.5 and 4. iAP Hack (Press buy subscription and cancel).</div><div><br></div>Revolutionize your daily life with the power of AI, ChatGPT and GPT 4 with Chat Smith Chatbot<div><br></div><div>Chat Smith, powered by GPT-4 API delivers enhanced AI Chat app capabilities, voice interaction, write email and intelligent conversational experience for all your needs</div><div><br></div><div>As an iOS AI Chat app, Chat Smith uses advanced AI model to deliver any AI-powered search, conversation, text completion, and other advanced AI features.</div>",
+      "iconURL": "https://i.imgur.com/4y4iYNC.png"
+    },
+    {
       "bundleIdentifier": "com.electrateam.chimera",
       "developerName": "Electra Team",
       "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.4-12.2-12.5.ipa",
@@ -2400,17 +2411,6 @@
       "appID": "com.rileytestut.GBA4iOS"
     },
     {
-      "name": "Grim Soul: Survival",
-      "bundleIdentifier": "com.glehack.grimsoulsurvival",
-      "developerName": "GLEHack",
-      "version": "7.8.5",
-      "versionDate": "2025-12-02T20:40:51.000Z",
-      "size": 173219080,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
-      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
-      "iconURL": "https://i.imgur.com/H19BePp.png"
-    },
-    {
       "name": "HabitKit",
       "bundleIdentifier": "com.habitkit.habitkit",
       "developerName": "HabitKit",
@@ -2492,17 +2492,6 @@
         }
       },
       "beta": false
-    },
-    {
-      "name": "Homescapes Hack",
-      "bundleIdentifier": "com.glehack.homescapeshack",
-      "developerName": "GLEHack",
-      "version": "8.4.9",
-      "versionDate": "2025-12-02T20:37:52.000Z",
-      "size": 184549376,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Homescapes.ipa",
-      "localizedDescription": "<p class=\"\"><b>Hack Features:</b></p><p class=\"\"></p><ul><li><b>Infinite Moves</b></li><li><b>Infinite Lives</b></li><li><b>Infinite Boosters</b></li><li><b>Complete tasks without stars</b></li><li><b class=\"\">Unlock Season Pass</b></li></ul><p></p><p class=\"\">Welcome to Homescapes, a warm and cozy game. Make match-3 combinations and turn every corner of your home into an inviting place to relax and have fun.\n</p><p class=\"\">Solve puzzles, restore the interior room by room, and meet new friends in every chapter of the exciting storyline. Austin the butler is ready to welcome you to a world of incredible adventures!</p><p class=\"\">\n</p><p class=\"\">\n</p>\n",
-      "iconURL": "https://i.imgur.com/crDKoSy.png"
     },
     {
       "name": "iDOS",
@@ -4037,6 +4026,17 @@
       "iconURL": "https://i.imgur.com/TohrZE2.png"
     },
     {
+      "name": "Planta: Plant and Garden Care",
+      "bundleIdentifier": "com.planta.plantaplantandgardencare",
+      "developerName": "Planta",
+      "version": "3.103",
+      "versionDate": "2025-12-17T17:35:36.000Z",
+      "size": 124014203,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Planta.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Individual care schedule and reminders for your plants, recommendations, step by step guides, identification, light meter and more. Keep your plants alive with Planta!\r</div><div><br></div><div>INTELLIGENT CARE REMINDERS \u2013 Powered by Planta\u2019s advanced AI!\r</div><div class=\"\">Never forget to water, fertilize, mist, repot, clean, prune, or overwintering your plants again! Just add them to the app, and Planta will send you perfectly timed care reminders and always adapt the schedule, tailored to each plant\u2019s needs.\r</div><div class=\"\"><br></div><div>DR. PLANTA \u2013 Your Personal Plant Doctor and In-House Plant Expert Team!\r</div><div>Yellow leaves? Brown spots? Unwanted pests? Weak growth? Dr. Planta and our in-house plant expert team will diagnose</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/UZCIWjW.png"
+    },
+    {
       "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
       "developerName": "Jean-Philip Desjardins",
@@ -5233,17 +5233,6 @@
       "appID": "org.scummvm.scummvm"
     },
     {
-      "name": "Shadow Fight 2",
-      "bundleIdentifier": "com.glehack.shadowfight2",
-      "developerName": "GLEHack",
-      "version": "2.41.9",
-      "versionDate": "2025-12-02T20:38:29.000Z",
-      "size": 148928686,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/shadowfight.ipa",
-      "localizedDescription": "<h3>Hack Features:</h3><div class=\"\"><ul><li class=\"\">Infinite energy\r</li><li class=\"\">Infinite gems</li><li class=\"\">Infinite gold</li></ul></div>",
-      "iconURL": "https://i.imgur.com/4q0ksc3.png"
-    },
-    {
       "name": "Shadow Fight 3",
       "bundleIdentifier": "com.glesign.shadowfight3",
       "developerName": "GLESign",
@@ -5888,6 +5877,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/subway.ipa",
       "localizedDescription": "<p class=\"\"><span class=\"\"><i style=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></span></p><p class=\"\"><strong class=\"\">Hack Features:<br></strong></p><p class=\"\"><span class=\"\">- Free Store (not Free iAP)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free iAP (ViP Only)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock Characters Outfit<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Custom Jump Height<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)</span></p>\n",
       "iconURL": "https://i.imgur.com/QScGnfP.jpeg"
+    },
+    {
+      "name": "Swipewipe - Photo Cleaner",
+      "bundleIdentifier": "com.blatant.swipewipephotocleaner",
+      "developerName": "Blatant",
+      "version": "3.2.40",
+      "versionDate": "2025-12-17T17:34:42.000Z",
+      "size": 78727663,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/swipewipe1.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Swipewipe is the app that will (finally) help you clean up your camera roll. And you\u2019ll enjoy reminiscing while you do it.\r</div><div>We'll save you the time: Yes, there are other apps that can help you quickly delete photos on your phone. But none of them worked for us!\r</div><div class=\"\">We wanted a simple, fun, elegant solution that let us go month-by-month, work our way through all our photos, videos, screenshots, and everything else in our camera roll, and decide - one by one - what to keep and what to get rid of. That\u2019s Swipewipe.\r</div><div class=\"\"><br></div><div>Here\u2019s how it works: swipe right to keep a photo, and left to delete it. If you make a mistake or change your mind, just tap the current photo to go back. Hold down on a picture to see its metadata. After you\u2019re done reviewing that month\u2019s photos, take one last look at the photos you chose to keep and the ones you chose to delete, make any tweaks you need to, and then\u2026you\u2019re done!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/XCukJTH.png"
     },
     {
       "name": "Taurine",
