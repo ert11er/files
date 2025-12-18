@@ -1989,6 +1989,17 @@
       "appID": "app.ehpanda"
     },
     {
+      "name": "Elevate - Brain Training Games",
+      "bundleIdentifier": "com.blatant.elevatebraintraininggames",
+      "developerName": "Blatant",
+      "version": "5.220.0",
+      "versionDate": "2025-12-16T19:12:22.000Z",
+      "size": 393758474,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ElevateBrain.ipa",
+      "localizedDescription": "<b>Elevate is a \u201ccognitive pick-me-up\u201d with games that are \u201cgood for mental breaks throughout the workday.\u201d \u2013 Washington Post.\r</b><div><b>\r</b></div><div class=\"\"><b>FEATURES\r</b></div><div class=\"\"><br></div><div>\u2022 40+ Brain Training Games: Improve your critical cognitive skills like focus, memory, processing, math, precision, and comprehension with 40+ brain training games.\r</div><div>\u2022 Performance Tracking: Track your progress and compare your mind\u2019s performance over time with weekly reports and insights.\r</div><div>\u2022 Personalized Workouts: Customize your daily training focus and choose between 3 and 5 games. Get personalized daily workouts that include the skills you need most.\r</div><div>\u2022 Adaptive Progression: Train your brain with adaptive difficulty progression that ensures your experience is challenging.\r</div><div>\u2022 Workout Calendar: Stay motivated by tracking your training streaks and keeping your mind active daily.\r</div><div>\u2022 Elevate Dash on Apple Watch: Play 4 additional mini-games and review your performance on your Apple Watch with Elevate Dash.\r</div><div>\u2022 And more!</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/W4XZmfB.png"
+    },
+    {
       "name": "Emnity",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Emnity Team",
