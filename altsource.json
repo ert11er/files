@@ -1088,6 +1088,17 @@
       ]
     },
     {
+      "name": "Crsel: Carousel and Story Maker",
+      "bundleIdentifier": "com.blatant.crselcarouselandstorymaker",
+      "developerName": "Blatant",
+      "version": "1.2.11",
+      "versionDate": "2025-12-17T20:39:57.000Z",
+      "size": 144457400,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/crsel.ipa",
+      "localizedDescription": "<b>Crsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.</b><div><br><div></div><div class=\"\"><ul><li>Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\r</li><li>From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to design posts that feel intentional, premium, and uniquely yours.\r</li><li>Trendy Collage Templates. Choose from layered, editorial-style templates made for storytelling! Combine multiple photos, add text, and guide your audience through a visual journey.\r</li><li>Story Templates That Match Your Feed. Create IG stories and Reels covers using the same style as your carousels. Maintain a cohesive aesthetic across all your content, from feed to story highlights.\r</li><li>Reels Cover Designer. Design eye-catching Reels thumbnails that match your feed. Crsel helps you maintain a polished and branded look across all formats\r</li><li>AI Cutout Tool. Automatically remove backgrounds from photos with one tap. Easily layer people, objects, or products over textured backdrops and collage elements.</li></ul></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/2h3iffd.png"
+    },
+    {
       "name": "Crunchyroll++",
       "bundleIdentifier": "com.crunchyroll.iphone",
       "developerName": "unlimapps",
@@ -3957,17 +3968,6 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
-      "name": "PewDiePie's Tuber Simulator",
-      "bundleIdentifier": "com.glehack.pewdiepiestubersimulator",
-      "developerName": "GLEHack",
-      "version": "2.66.0",
-      "versionDate": "2025-12-02T20:43:01.000Z",
-      "size": 198483742,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
-      "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
-      "iconURL": "https://i.imgur.com/39bbzsS.png"
-    },
-    {
       "name": "Photomath++",
       "bundleIdentifier": "com.microblink.PhotoMath",
       "developerName": "Strejda603",
@@ -6662,8 +6662,8 @@
       "name": "VEED - AI Captions and Shorts",
       "bundleIdentifier": "com.veed.veedaicaptionsandshorts",
       "developerName": "VEED",
-      "version": "7.6.0",
-      "versionDate": "2025-12-09T19:09:05.000Z",
+      "version": "8.1.0",
+      "versionDate": "2025-12-17T20:29:31.000Z",
       "size": 110418748,
       "downloadURL": "https://s3.flekstore.com/ipa-library/veed.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Enjoy stress-free video creation with AI captions, quick translations, and more editing tools in one app. VEED makes it easy to add engaging and accurate captions to your talking videos. With advanced AI technology that supports 100+ languages, this caption app is becoming the go-to short video editor and subtitle generator for businesses, educators, and content creators.",
