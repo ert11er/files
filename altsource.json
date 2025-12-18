@@ -1989,17 +1989,6 @@
       "appID": "app.ehpanda"
     },
     {
-      "name": "Elevate - Brain Training Games",
-      "bundleIdentifier": "com.blatant.elevatebraintraininggames",
-      "developerName": "Blatant",
-      "version": "5.220.0",
-      "versionDate": "2025-12-16T19:12:22.000Z",
-      "size": 393758474,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ElevateBrain.ipa",
-      "localizedDescription": "<b>Elevate is a \u201ccognitive pick-me-up\u201d with games that are \u201cgood for mental breaks throughout the workday.\u201d \u2013 Washington Post.\r</b><div><b>\r</b></div><div class=\"\"><b>FEATURES\r</b></div><div class=\"\"><br></div><div>\u2022 40+ Brain Training Games: Improve your critical cognitive skills like focus, memory, processing, math, precision, and comprehension with 40+ brain training games.\r</div><div>\u2022 Performance Tracking: Track your progress and compare your mind\u2019s performance over time with weekly reports and insights.\r</div><div>\u2022 Personalized Workouts: Customize your daily training focus and choose between 3 and 5 games. Get personalized daily workouts that include the skills you need most.\r</div><div>\u2022 Adaptive Progression: Train your brain with adaptive difficulty progression that ensures your experience is challenging.\r</div><div>\u2022 Workout Calendar: Stay motivated by tracking your training streaks and keeping your mind active daily.\r</div><div>\u2022 Elevate Dash on Apple Watch: Play 4 additional mini-games and review your performance on your Apple Watch with Elevate Dash.\r</div><div>\u2022 And more!</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/W4XZmfB.png"
-    },
-    {
       "name": "Emnity",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Emnity Team",
@@ -2377,12 +2366,12 @@
       "name": "Fortnite",
       "bundleIdentifier": "com.epicgames.fortnite",
       "developerName": "Epic Games",
-      "version": "39.10",
-      "versionDate": "2025-12-11T20:16:11.000Z",
+      "version": "39.11",
+      "versionDate": "2025-12-18T12:29:01.000Z",
       "size": 237086916,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
       "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
-      "iconURL": "https://i.imgur.com/unOhiCj.png"
+      "iconURL": "https://i.imgur.com/eCvGL65.png"
     },
     {
       "name": "Gardenscapes Hack",
