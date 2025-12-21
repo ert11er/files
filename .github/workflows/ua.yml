@@ -160,6 +160,20 @@ jobs:
                       parts = re.findall(r'\d+', str(v))
                       return tuple(int(x) for x in parts) if parts else (0,)
 
+                  # Blacklist of words to filter out apps based on their description
+                  blacklist_words = ["unlock premium"] # Add words here, e.g., ["jailbreak", "crack"]
+
+                  # Apply blacklist filtering
+                  if blacklist_words:
+                      filtered_apps = []
+                      for app in all_collected_apps:
+                          description = (app.get("localizedDescription") or "").lower()
+                          if not any(word.lower() in description for word in blacklist_words):
+                              filtered_apps.append(app)
+                          else:
+                              print(f"  Filtering out {app.get('name')} due to blacklisted word in description.")
+                      all_collected_apps = filtered_apps
+
                   # Group apps by bundleIdentifier
                   apps_by_bid = {}
                   for app in all_collected_apps:
