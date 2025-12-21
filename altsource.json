@@ -73,6 +73,17 @@
       ]
     },
     {
+      "name": "Adobe Scan",
+      "bundleIdentifier": "com.dangerouspixel.adobescan",
+      "developerName": "Dangerous Pixel",
+      "version": "25.12.18",
+      "versionDate": "2025-12-21T13:54:16.000Z",
+      "size": 137146254,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/adobescan.ipa",
+      "localizedDescription": "<div class=\"\"><i>To unlock premium buy and cancel subscription in settings.</i></div><div><br></div>Adobe Scan is free\u202fto download and turns your mobile device into a powerful scanner that recognizes text automatically (OCR) and allows you to\u202fcreate, save, and organize your paper documents as a digital file.<div><br></div><div>Scan anything \u2014 receipts, notes, ID cards, recipes, photos, business cards, whiteboards \u2014 and turn them into PDF or JPEG files you can work with on your smartphone, tablet, or computer.</div><div><br></div><div>HOW IT WORKS</div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">\u2022 Scan any document and convert to PDF or photo.</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">\u2022 Get perfect scans of book and magazine pages with Straighten in Book Mode.</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">\u2022 Quickly scan and save your important documents to Dropbox or Google Drive so you can access and share them wherever you are.</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">\u2022 Adjust the brightness and contrast of your scans in just a few taps.</span></div><div><br></div><div>CAPTURE</div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">\u2022 Scan anything with precision with this mobile PDF scanner.</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">\u2022 Advanced image technology automatically detects borders, sharpens scanned content, and recognizes text (OCR).</span></div><div><br></div><div>ENHANCE</div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">\u2022 NEW: Edit in Scan feature allows you to edit your scans.</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">\u2022 Preview, reorder, crop, rotate, resize, and adjust color in PDF or photo scans.</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">\u2022 Remove and edit imperfections, erase stains, marks, creases, even handwriting.</span></div>",
+      "iconURL": "https://i.imgur.com/ufypjIA.png"
+    },
+    {
       "name": "AI Calorie Tracker by Yazio",
       "bundleIdentifier": "com.blatant.aicalorietrackerbyyazio",
       "developerName": "Blatant",
@@ -617,17 +628,6 @@
       "iconURL": "https://i.imgur.com/cVK7tEc.png"
     },
     {
-      "name": "BH X",
-      "bundleIdentifier": "com.dangerouspixel.bhx",
-      "developerName": "Dangerous Pixel",
-      "version": "11.46",
-      "versionDate": "2025-12-08T18:30:11.000Z",
-      "size": 100174044,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/TwitterBHTwitter.ipa",
-      "localizedDescription": "BHTwitter<div>\u2022 Download Videos (even with private accounts).</div><div>\u2022 Download Videos from DM (hold the video cell).</div><div>\u2022 Unlock Undo Tweets for free.</div><div>\u2022 Hide promoted tweet from the timeline.</div><div>\u2022 Enable voice tweet and voice message in DM.</div><div>\u2022 Confirm alert when Like/Dislike.</div><div>\u2022 Lock Twitter with passcode.</div><div>\u2022 Enable Reader mode.</div><div>\u2022 Autoload photos in the highest quality.</div><div><br></div>",
-      "iconURL": "https://i.imgur.com/rpd1scd.png"
-    },
-    {
       "name": "BHTwitter (deprecated)",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "BandarHL",
@@ -867,6 +867,17 @@
       "appID": "com.google.ios.youtubecercubelegacy"
     },
     {
+      "name": "CHANI",
+      "bundleIdentifier": "com.chani.chani",
+      "developerName": "Chani",
+      "version": "2.7.0",
+      "versionDate": "2025-12-21T13:56:21.000Z",
+      "size": 22441837,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/chani.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>CHANI is your personalized guide through life\u2019s ups and downs. The app was designed to make astrology accessible and useful. Our mission is to help people live their life\u2019s purpose, and we believe that when you know your birth chart \u2014 aka your life\u2019s blueprint \u2014 you\u2019re better equipped to unlock your life\u2019s potential and your personal power.</div>",
+      "iconURL": "https://i.imgur.com/rYU2IHt.png"
+    },
+    {
       "name": "Channels",
       "bundleIdentifier": "com.channelsapp.channels",
       "developerName": "Furkan Simsir",
@@ -1049,8 +1060,8 @@
       "name": "Coconote - AI Note Taker",
       "bundleIdentifier": "com.blatant.coconoteainotetaker",
       "developerName": "Blatant",
-      "version": "2.30",
-      "versionDate": "2025-12-16T18:14:54.000Z",
+      "version": "2.32",
+      "versionDate": "2025-12-21T13:53:43.000Z",
       "size": 32974725,
       "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
@@ -1129,8 +1140,8 @@
       "name": "Dazz Cam - Vintage Camera",
       "bundleIdentifier": "com.blatant.dazzcamvintagecamera",
       "developerName": "Blatant",
-      "version": "2.13",
-      "versionDate": "2025-12-16T18:12:20.000Z",
+      "version": "2.13.1",
+      "versionDate": "2025-12-21T13:59:57.000Z",
       "size": 106980613,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Dazz.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Dazz Camera, Pro Photographer in your Pocket.\r</div><div>\r</div><div class=\"\"><br></div><div class=\"\">We believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\r</div><div class=\"\">\r</div><div><br></div><div>Dazz camera is inspired by classic film cameras from the 80s. We\u2019ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, half-frame cameras, instant camera, 3D film photography, disposable camera, and more.</div><div>\r</div>",
@@ -1166,6 +1177,17 @@
         }
       ],
       "appID": "com.deezer.Deezer"
+    },
+    {
+      "name": "Dehancer",
+      "bundleIdentifier": "com.ipalibrary.dehancer",
+      "developerName": "IPA Library",
+      "version": "5.3",
+      "versionDate": "2025-12-21T13:57:13.000Z",
+      "size": 46255037,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Dehancer.ipa",
+      "localizedDescription": "Elevate your photos and videos with our analog tools for a film-like aesthetic:<div><br></div><div>\u2022 Film Profiles: Choose from 60+ accurate film profiles, including classics like Kodak Vision, Kodak Portra 400, Cinestill 800T, and more. Explore vintage options like Ambrotype.</div><div>\u2022 Presets: Instantly recreate retro film vibes with handcrafted presets. Craft your own and share them effortlessly.</div><div>\u2022 Film Grain: Our unique algorithm creates customizable film-like grain, adding authenticity to your visuals.</div><div>\u2022 Print Tools: Combine films with print profiles for authentic analog images. Customize characteristics like contrast and photo latitude.</div><div>\u2022 Film Compression: Adjust highlights to mimic the compressed tonal range of film. Emulate the analog appearance and have editing flexibility.</div><div>\u2022 Halation: Reproduce the film's red-orange halo effect around light sources and edges, enhancing the appeal and natural tones.</div><div>\u2022 Bloom: Add warmth and vintage glow resembling optical filters. Dehancer accurately replicates the real physics of light and simulates the Bloom effect in the most analogous way.</div><div>\u2022 Vignette: Add depth and focus using vignetting.</div><div class=\"\">\u2022 Film Breath &amp; Gate Weave: Dynamic animated effects for video, simulating real film-like shifts between frames.</div>",
+      "iconURL": "https://i.imgur.com/EybJDKH.png"
     },
     {
       "name": "Delta",
@@ -2160,6 +2182,17 @@
       "iconURL": "https://i.imgur.com/hW3UutY.png"
     },
     {
+      "name": "Fall Guys",
+      "bundleIdentifier": "com.epicgames.fallguys",
+      "developerName": "Epic Games",
+      "version": "21.1.2",
+      "versionDate": "2025-12-21T13:44:42.000Z",
+      "size": 1835876907,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/fallguy.ipa",
+      "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.<div><br></div><div>Create your own Course: Fall Guys Creative is a level editor that allows you to create fiendish custom Rounds and share them with the wider community.</div><div><br></div><div>Competitive &amp; Cooperative: Tumble between competitive free-for-alls and cooperative challenges\u2014or take on the Blunderdome with up to 3 friends!</div><div><br></div><div>Play with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.</div><div><br></div><div>Ever-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play.</div>",
+      "iconURL": "https://i.imgur.com/XWmHtbr.png"
+    },
+    {
       "name": "Filmr Pro",
       "bundleIdentifier": "com.stey",
       "developerName": "Stei App",
@@ -2383,17 +2416,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
       "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
       "iconURL": "https://i.imgur.com/eCvGL65.png"
-    },
-    {
-      "name": "Gardenscapes Hack",
-      "bundleIdentifier": "com.glehack.gardenscapeshack",
-      "developerName": "GLEHack",
-      "version": "9.2.2",
-      "versionDate": "2025-12-02T20:46:48.000Z",
-      "size": 154434000,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Gardenscapes.ipa",
-      "localizedDescription": "<div class=\"\"><i class=\"\"><br></i></div><h3><span class=\"\">Features:<br>\n</span><span class=\"\">- Infinite Moves<br>\n</span><span class=\"\">- Infinite Boosters<br>\n</span><span class=\"\">- Infinite Lives<br>\n</span><span class=\"\">- Freeze Stars&nbsp;</span></h3><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><span class=\"\">Tap to slay hundreds of Titans with your sword as you journey through the land in this clicker RPG adventure. Upgrade your blade for new gear, gather pets, and enter multiplayer clan raids with users across the globe to leave your legacy as the Ultimate Sword Master.</span></div><div class=\"\"><span class=\"\"><br></span></div><div class=\"\"><br></div>",
-      "iconURL": "https://i.imgur.com/g7ejoUd.png"
     },
     {
       "name": "GBA4iOS",
@@ -3102,8 +3124,8 @@
       "name": "InShot",
       "bundleIdentifier": "com.kamohacks.inshot",
       "developerName": "Kamo Hacks",
-      "version": "1.92",
-      "versionDate": "2025-12-11T17:21:46.000Z",
+      "version": "1.92.1",
+      "versionDate": "2025-12-21T13:58:03.000Z",
       "size": 90921678,
       "downloadURL": "https://s3.flekstore.com/ipa-library/InShot.ipa",
       "localizedDescription": "<div class=\"\"><i>Premium Unlocked</i></div><div><br></div>InShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.",
@@ -3388,17 +3410,6 @@
       "appID": "com.google.ios.youtube.ivanced"
     },
     {
-      "name": "Jurassic World\u2122: The Game Hack",
-      "bundleIdentifier": "com.glehack.jurassicworldthegamehack",
-      "developerName": "GLEHack",
-      "version": "1.87.6",
-      "versionDate": "2025-12-02T20:47:34.000Z",
-      "size": 902139897,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/JurassicWorld.ipa",
-      "localizedDescription": "<h3><i>Features:</i></h3><div><ul><li>Freeze all Currencies\r</li><li>Unlimited Special Packs\r</li><li>Evolution Always Successful\r</li><li><span class=\"\">Feed Instant Max Level\r</span></li><li>Free Speed Up Cost\r</li><li class=\"\">VIP Enabled</li></ul></div><div class=\"\"><br></div>Return to Isla Nublar with the creators of the smash hit Jurassic Park\u2122 Builder for your next adventure: Jurassic World\u2122: The Game, the official mobile game based on this summer\u2019s epic action-adventure. Bring to life more than 300 colossal dinosaurs from the new film and challenge your opponents in earth-shaking battles. Construct the theme park of tomorrow in this unrivaled build-and-battle dinosaur experience.",
-      "iconURL": "https://i.imgur.com/ydQWqk0.png"
-    },
-    {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
@@ -3443,6 +3454,17 @@
         }
       ],
       "appID": "com.luma-touch.LumaFusion"
+    },
+    {
+      "name": "Luminar Mobile AI Photo Editor",
+      "bundleIdentifier": "com.blatant.luminarmobileaiphotoeditor",
+      "developerName": "Blatant",
+      "version": "3.1",
+      "versionDate": "2025-12-21T14:01:54.000Z",
+      "size": 373249461,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/luminar.ipa",
+      "localizedDescription": "Luminar Mobile \u2014 Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.",
+      "iconURL": "https://i.imgur.com/MLlSu1E.png"
     },
     {
       "name": "Lust Goddess",
@@ -3653,17 +3675,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "MyFitnessPal: Calorie Counter",
-      "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
-      "developerName": "MyFitnessPal",
-      "version": "25.47.0",
-      "versionDate": "2025-12-04T18:38:44.000Z",
-      "size": 80827557,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
-      "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
-      "iconURL": "https://i.imgur.com/fKnkIwE.png"
     },
     {
       "name": "NineAnimator",
@@ -4820,6 +4831,17 @@
       "appID": "org.provenance-emu.provenance"
     },
     {
+      "name": "PUSH Workout and Gym Tracker",
+      "bundleIdentifier": "com.blatant.pushworkoutandgymtracker",
+      "developerName": "Blatant",
+      "version": "3.9.1",
+      "versionDate": "2025-12-21T13:55:44.000Z",
+      "size": 32892620,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/push.ipa",
+      "localizedDescription": "PUSH is about building muscle as fast as possible - with science. We achieve this with an algorithm built based strictly on published peer-reviewed research. You don't have to take our word for it, you can tap the referenced articles throughout the app as you use it.<div><br>&nbsp;\n<div>\n</div><div>\n</div><div class=\"\">- Our workouts are based on scientific research and your training data over time. You can view exactly how everything works in the app and read the references for yourself.\n</div><div class=\"\"><br></div><div>- PUSH generates a program based on your experience, sleep, gender, stress and time available to train. We fine tune your volume, frequency, rep range and exercise selection based on published research relating to these factors.\n</div><div>- Exercises are selected based on resistance curve and rep range.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
+      "iconURL": "https://i.imgur.com/N2I9eHQ.png"
+    },
+    {
       "name": "Ready",
       "bundleIdentifier": "at.spiderlab.c64",
       "developerName": "T-Pau",
@@ -4987,8 +5009,8 @@
       "name": "Renovate AI : Home Design",
       "bundleIdentifier": "com.billymoore.renovateaihomedesign",
       "developerName": "BillyMoore",
-      "version": "4.4.67",
-      "versionDate": "2025-12-04T18:40:08.000Z",
+      "version": "4.4.68",
+      "versionDate": "2025-12-21T13:55:07.000Z",
       "size": 54117768,
       "downloadURL": "https://s3.flekstore.com/ipa-library/RenovateAI.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div><br></div><div>Transform your home effortlessly with Renovate AI! Redesign interiors, exteriors, and landscapes using AI tools for stunning, photorealistic results. Try it now!\r</div><div>Reimagine Your Space with Renovate AI!\r</div><div>Discover the future of architectural design and home renovation with Renovate AI, your go-to solution for creating stunning interiors and exteriors. Whether you're planning a full home design, room design, or landscape design, our cutting-edge technology simplifies every step in your design space.\r</div><div>With our powerful features as an AI room planner and home planner, Renovate AI empowers you to transform your home into the space you\u2019ve always envisioned. Everything you need, from exploring furniture options to perfecting your home decor, is at your fingertips.\r</div><div>With Renovate AI, you can explore endless design possibilities for both the interior design and exterior of your house. Experiment with different colors, furniture, and materials until you create the perfect look that reflects your style. Use our AI home design and AI interior design features to bring your ideas to life. Whether it's creating your dream bedroom or designing a home design 3D layout, we\u2019ve got you covered. Start your journey with Renovate AI today and realize your dream home design in no time!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -5231,17 +5253,6 @@
         }
       ],
       "appID": "org.scummvm.scummvm"
-    },
-    {
-      "name": "Shadow Fight 3",
-      "bundleIdentifier": "com.glesign.shadowfight3",
-      "developerName": "GLESign",
-      "version": "1.43",
-      "versionDate": "2025-12-02T20:44:10.000Z",
-      "size": 164015105,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ShadowFight3.ipa",
-      "localizedDescription": "<h3 class=\"\">Hack Features:\n</h3><div class=\"\"><ul><li class=\"\">High Damage&nbsp;</li><li>Freeze Enemies</li></ul></div>Keep your finger on the pulse of innovation! Learn all about the abilities of Raid bosses and how to defeat them!<div><br></div><div>Legend has it that a hero will come to end the fight for shadow energy. He will have to learn three fighting styles, collect the best weapons and challenge the strongest warriors.</div><div><br></div><div>The world is on the edge of an epic war. The mighty force unleashed by the Gates of Shadows many years ago has turned into a weapon, and now three war clans are fighting to decide the future of this force.</div><div><br></div><div>The Legion warriors want to destroy the dangerous energy. The people of the Dynasty want to use it for their own benefit. While the mysterious ninjas of the Heralds clan explore the darkest secrets of the shadow power.</div>",
-      "iconURL": "https://i.imgur.com/2bHlwkV.png"
     },
     {
       "name": "Sileo Demo",
@@ -6684,23 +6695,12 @@
       "name": "VSCO",
       "bundleIdentifier": "com.michaellema.vsco",
       "developerName": "Michael Lema",
-      "version": "453.0.0",
-      "versionDate": "2025-12-16T18:18:54.000Z",
+      "version": "453.0.1",
+      "versionDate": "2025-12-21T13:58:46.000Z",
       "size": 96977746,
       "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
       "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
       "iconURL": "https://i.imgur.com/Ke2ZsFC.png"
-    },
-    {
-      "name": "Warhammer 40000: Tacticus Hack",
-      "bundleIdentifier": "com.iosgods.warhammer40000tacticushack",
-      "developerName": "iOSGods",
-      "version": "1.34.30",
-      "versionDate": "2025-12-03T15:01:38.000Z",
-      "size": 170230586,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/WarhammerTacticus.ipa",
-      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods</a>&nbsp;and premium<div class=\"\"><br><a href=\"https://iosgods.com/\"></a><div class=\"\"><b>Hack Features:\n</b></div><div class=\"\"><ul><li class=\"\">Always Win [ even if all your characters die, you win ]\n</li><li class=\"\">Custom Ability Stats\n</li><li class=\"\">Ability Always Available\n</li><li class=\"\">Game Speed Multiplier\n</li></ul></div><div class=\"\"><b>Note:\n</b></div><div class=\"\"><ul class=\"\"><li class=\"\">Use characters that summon using their skills or do area damage to many.\n</li><li class=\"\">Make sure you have completed the tutorial and synced your account with GameCenter.\n</li><li class=\"\">If you start from the tutorial stage, you will be stuck in one of the stages. Restart your game, and you can sync your account to GameCenter to continue your progress.</li></ul><div><br></div><div class=\"\">Warhammer 40,000: Tacticus&nbsp; is a turn-based tactical strategy game set in the eternal conflict of Games Workshop's Warhammer 40,000 Universe. Experience the intense battles of the Space Marine, Imperial, Chaos, and Xenos on the go!</div></div><div class=\"\">\n</div></div>",
-      "iconURL": "https://i.imgur.com/QgdeJ51.jpeg"
     },
     {
       "beta": false,
@@ -6776,12 +6776,23 @@
       "name": "WhatsApp Business",
       "bundleIdentifier": "com.fouadraheb.whatsappbusiness",
       "developerName": "FouadRaheb",
-      "version": "25.35.72",
-      "versionDate": "2025-12-07T18:52:29.000Z",
+      "version": "25.37.76",
+      "versionDate": "2025-12-21T13:32:55.000Z",
       "size": 105049917,
       "downloadURL": "https://s3.flekstore.com/ipa-library/WatusiBusiness.ipa",
       "localizedDescription": "The all-in-one tweak for WhatsApp Business!<div><br></div><div>Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.</div>",
       "iconURL": "https://i.imgur.com/7uCL87n.png"
+    },
+    {
+      "name": "WhatsApp Watusi",
+      "bundleIdentifier": "com.fouadraheb.whatsappwatusi",
+      "developerName": "Fouad Raheb",
+      "version": "25.37.76",
+      "versionDate": "2025-12-21T13:48:44.000Z",
+      "size": 121430663,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Watusi.ipa",
+      "localizedDescription": "<p class=\"\"><br></p>\n\n<p class=\"\">Features:<br>\n- Stealth Mode<br>\n- Disable Read Receipts<br>\n- Selective Read Receipts<br>\n- Disable Delivery Receipts<br>\n- Custom Theme<br>\n- Custom Text Color<br>\n- Full Profile Pic<br>\n- Send Unlimited Media<br>\n- Share Music<br>\n- Record audio<br>\n- Passcode/TouchID</p>\n",
+      "iconURL": "https://i.imgur.com/5WRFBOk.png"
     },
     {
       "name": "WhatsApp++",
@@ -6894,17 +6905,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/youtubeOled.ipa",
       "localizedDescription": "<ul class=\"\"><li class=\"\">Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\r</li><li class=\"\">Copy video, comment, and post information\r</li><li class=\"\">Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only  mode\r</li><li class=\"\">Player settings: Gestures, default quality, preferred audio track\r</li><li class=\"\">Save, Load and Restore settings. Clear cache once or automatically on app startup\r</li><li class=\"\">Built-in SponsorBlock\r</li><li>And much, much more</li></ul>",
       "iconURL": "https://i.imgur.com/nOSbYff.png"
-    },
-    {
-      "name": "YouTube Plus (YTLite)",
-      "bundleIdentifier": "com.dayanch96.youtubeplusytlite",
-      "developerName": "dayanch96",
-      "version": "20.49.5 (5.2b4)",
-      "versionDate": "2025-12-08T18:58:29.000Z",
-      "size": 113340418,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/YTlite.ipa",
-      "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.<div class=\"\"><br></div><div class=\"\"><i>Features:</i></div><div class=\"\"><ul><li>Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures</li><li>Copy video, comment, and post information</li><li>Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode</li><li>Player settings: Gestures, default quality, preferred audio track</li><li>Save, Load and Restore settings. Clear cache once or automatically on app startup</li><li>Built-in SponsorBlock</li><li>And much, much more</li></ul></div>",
-      "iconURL": "https://i.imgur.com/rFABlyF.png"
     },
     {
       "name": "ZiniTevi++",
