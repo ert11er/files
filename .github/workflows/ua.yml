@@ -1,205 +1,205 @@
 name: Update AltSource
 
 on:
-  workflow_dispatch:
-  schedule:
-    # Runs at minute 0 of every hour
-    - cron: '0 * * * *' 
+    workflow_dispatch:
+    schedule:
+        # Runs at minute 0 of every hour
+        - cron: "0 * * * *"
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    build:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.10"
 
-    - name: Install dependencies
-      run: pip install requests
+            - name: Install dependencies
+              run: pip install requests
 
-    - name: Fetch app data
-      run: curl -sS "https://nestapi.flekstore.com/app?page=0&search=false&filter=updates" -o ids.txt
+            - name: Fetch app data
+              run: curl -sS "https://nestapi.flekstore.com/app?page=0&search=false&filter=updates" -o ids.txt
 
-    - name: Format app data (ids.txt to bids.json)
-      run: |
-        cat <<'EOF' > bids.py
-        import json, sys
-        try:
-            with open("ids.txt", "r", encoding="utf-8") as infile:
-                data = json.load(infile)
-            with open("bids.json", "w", encoding="utf-8") as outfile:
-                json.dump(data, outfile, indent=4, ensure_ascii=False)
-            print("Successfully converted ids.txt to beautified bids.json")
-        except FileNotFoundError:
-            print("Error: ids.txt not found.")
-            sys.exit(1)
-        except json.JSONDecodeError:
-            print("Error: Could not decode JSON from ids.txt. Check the file format.")
-            sys.exit(1)
-        EOF
-        python bids.py
+            - name: Format app data (ids.txt to bids.json)
+              run: |
+                  cat <<'EOF' > bids.py
+                  import json, sys
+                  try:
+                      with open("ids.txt", "r", encoding="utf-8") as infile:
+                          data = json.load(infile)
+                      with open("bids.json", "w", encoding="utf-8") as outfile:
+                          json.dump(data, outfile, indent=4, ensure_ascii=False)
+                      print("Successfully converted ids.txt to beautified bids.json")
+                  except FileNotFoundError:
+                      print("Error: ids.txt not found.")
+                      sys.exit(1)
+                  except json.JSONDecodeError:
+                      print("Error: Could not decode JSON from ids.txt. Check the file format.")
+                      sys.exit(1)
+                  EOF
+                  python bids.py
 
-    - name: Generate altsource.json (Deduplication Logic)
-      run: |
-        cat <<'EOF' > bids_sorter.py
-        import json, requests, sys, re
-        
-        other_sources = [
-            "https://ipa.cypwn.xyz/cypwn.json",
-            "https://bit.ly/Quantumsource",
-            "https://bit.ly/Quantumsource-plus",
-            "https://bit.ly/wuxuslibraryplus",
-            "https://bit.ly/Altstore-complete",
-            "https://altstore.oatmealdome.me/",
-            "https://flyinghead.github.io/flycast-builds/altstore.json",
-            "https://burritosoftware.github.io/altstore/channels/burritosource.json",
-            "https://alts.lao.sb",
-            "https://floridaman7588.me/altjb/altsource.json",
-            "https://pokemmo.com/altstore/",
-            "https://alt.getutm.app",
-            "https://theodyssey.dev/altstore/odysseysource.json",
-            "https://taurine.app/altstore/taurinestore.json",
-            "https://altstore.9ani.app",
-            "https://randomblock1.com/altstore/apps.json",
-            "https://provenance-emu.com/apps.json",
-            "https://bit.ly/40Isul6",
-            "https://ish.app/altstore.json",
-            "https://community-apps.sidestore.io/sidecommunity.json",
-            "https://repo.starfiles.co/public?gbox",
-            "https://repo.apptesters.org"
-        ]
+            - name: Generate altsource.json (Deduplication Logic)
+              run: |
+                  cat <<'EOF' > bids_sorter.py
+                  import json, requests, sys, re
 
-        altsource = {
-            "name": "Ert Source",
-            "identifier": "com.ert.source",
-            "sourceURL": "https://files-private.vercel.app/altsource.json",
-            "apps": [],
-            "news": []
-        }
-        
-        # Set to track bundle identifiers already added
-        processed_bundle_identifiers = set()
+                  other_sources = [
+                      "https://ipa.cypwn.xyz/cypwn.json",
+                      "https://bit.ly/Quantumsource",
+                      "https://bit.ly/Quantumsource-plus",
+                      "https://bit.ly/wuxuslibraryplus",
+                      "https://bit.ly/Altstore-complete",
+                      "https://altstore.oatmealdome.me/",
+                      "https://flyinghead.github.io/flycast-builds/altstore.json",
+                      "https://burritosoftware.github.io/altstore/channels/burritosource.json",
+                      "https://alts.lao.sb",
+                      "https://floridaman7588.me/altjb/altsource.json",
+                      "https://pokemmo.com/altstore/",
+                      "https://alt.getutm.app",
+                      "https://theodyssey.dev/altstore/odysseysource.json",
+                      "https://taurine.app/altstore/taurinestore.json",
+                      "https://altstore.9ani.app",
+                      "https://randomblock1.com/altstore/apps.json",
+                      "https://provenance-emu.com/apps.json",
+                      "https://bit.ly/40Isul6",
+                      "https://ish.app/altstore.json",
+                      "https://community-apps.sidestore.io/sidecommunity.json",
+                      "https://repo.starfiles.co/public?gbox",
+                      "https://repo.apptesters.org"
+                  ]
 
-        # Phase 1: Add apps from other sources
-        for source_url in other_sources:
-            try:
-                print(f"Fetching data from {source_url}")
-                response = requests.get(source_url, timeout=10)
-                response.raise_for_status()
-                source_data = response.json()
-                
-                if "apps" in source_data:
-                    new_apps_count = 0
-                    for app in source_data["apps"]:
-                        bundle_id = app.get("bundleIdentifier")
-                        # Only add if it's unique
-                        if bundle_id and bundle_id not in processed_bundle_identifiers:
-                            altsource["apps"].append(app)
-                            processed_bundle_identifiers.add(bundle_id)
-                            new_apps_count += 1
-                    print(f"  Successfully added {new_apps_count} unique apps from {source_data.get('name', source_url)}")
-            except requests.exceptions.RequestException as e:
-                print(f"  Error fetching data from {source_url}: {e}")
-            except json.JSONDecodeError:
-                print(f"  Error decoding JSON from {source_url}. Skipping.")
-        
-        try:
-            with open("bids.json", "r", encoding="utf-8") as f:
-                bids_data = json.load(f)
-        except FileNotFoundError:
-            print("Warning: bids.json not found. Proceeding without local apps.")
-            bids_data = []
-        except Exception as e:
-            print(f"Error reading bids.json: {e}")
-            sys.exit(1)
+                  altsource = {
+                      "name": "Ert Source",
+                      "identifier": "com.ert.source",
+                      "sourceURL": "https://files-private.vercel.app/altsource.json",
+                      "apps": [],
+                      "news": []
+                  }
 
-        # Phase 2: Add apps fetched from flekstore, renaming duplicates
-        for bid_item in bids_data:
-            app_id = bid_item.get("id")
-            if not app_id:
-                continue
-            url = f"https://nestapi.flekstore.com/app/{app_id}"
-            print(f"Fetching data for app ID: {app_id}")
-            try:
-                response = requests.get(url)
-                response.raise_for_status()
-                api_data = response.json()
+                  # Collect all potential apps
+                  all_collected_apps = []
 
-                # Generate bundleIdentifier
-                developer = api_data.get("developer")
-                name = api_data.get("name")
-                bundle_identifier = None
-                if developer and name:
-                    dev_part = developer.split('|')[0].strip()
-                    sanitized_dev = re.sub(r'[^a-zA-Z0-9]', '', dev_part).lower()
-                    sanitized_name = re.sub(r'[^a-zA-Z0-9]', '', name).lower()
-                    if sanitized_dev and sanitized_name:
-                        bundle_identifier = f"com.{sanitized_dev}.{sanitized_name}"
+                  # Phase 1: Collect apps from other sources
+                  for source_url in other_sources:
+                      try:
+                          print(f"Fetching data from {source_url}")
+                          response = requests.get(source_url, timeout=10)
+                          response.raise_for_status()
+                          source_data = response.json()
+                          
+                          if "apps" in source_data:
+                              count = 0
+                              for app in source_data["apps"]:
+                                  if app.get("bundleIdentifier"):
+                                      all_collected_apps.append(app)
+                                      count += 1
+                              print(f"  Collected {count} apps from {source_data.get('name', source_url)}")
+                      except Exception as e:
+                          print(f"  Error fetching data from {source_url}: {e}")
 
-                install_url = api_data.get('install_url')
-                download_url = f"https://s3.flekstore.com/ipa-library/{install_url}" if install_url else None
-                
-                app_entry = {
-                    "name": name,
-                    "bundleIdentifier": bundle_identifier,
-                    "developerName": developer,
-                    "version": api_data.get("version"),
-                    "versionDate": api_data.get("date"),
-                    "size": api_data.get("size"),
-                    "downloadURL": download_url,
-                    "localizedDescription": api_data.get("description"),
-                    "iconURL": api_data.get("icon")
-                }
+                  # Phase 2: Collect apps fetched from flekstore
+                  try:
+                      with open("bids.json", "r", encoding="utf-8") as f:
+                          bids_data = json.load(f)
+                  except Exception as e:
+                      print(f"Warning: Could not read bids.json: {e}")
+                      bids_data = []
 
-                if not app_entry.get("bundleIdentifier") or not app_entry.get("downloadURL"):
-                    print(f"  Skipping {app_entry.get('name')} due to missing bundleIdentifier or downloadURL.")
-                    continue
-                
-                # Check for duplication against items already added
-                if bundle_identifier not in processed_bundle_identifiers:
-                    # New App: Add normally
-                    altsource["apps"].append(app_entry)
-                    processed_bundle_identifiers.add(bundle_identifier)
-                    print(f"  Successfully processed {app_entry.get('name')} (New)")
-                else:
-                    # Duplicate App: Rename and use a new bundleIdentifier
-                    new_bundle_id = f"{bundle_identifier}.flekstore"
-                    new_name = f"{app_entry.get('name')} (API Variant)"
-                    
-                    # Safety check: Ensure the variant ID itself is unique
-                    if new_bundle_id in processed_bundle_identifiers:
-                         print(f"  Skipping {app_entry.get('name')} - Variant ID {new_bundle_id} already exists.")
-                         continue
+                  for bid_item in bids_data:
+                      app_id = bid_item.get("id")
+                      if not app_id:
+                          continue
+                      url = f"https://nestapi.flekstore.com/app/{app_id}"
+                      try:
+                          response = requests.get(url, timeout=10)
+                          response.raise_for_status()
+                          api_data = response.json()
 
-                    # Apply the new name and ID
-                    app_entry["bundleIdentifier"] = new_bundle_id
-                    app_entry["name"] = new_name
-                    
-                    altsource["apps"].append(app_entry)
-                    processed_bundle_identifiers.add(new_bundle_id)
-                    print(f"  Added duplicate as {new_name} with ID: {new_bundle_id}")
+                          developer = api_data.get("developer")
+                          name = api_data.get("name")
+                          bundle_identifier = None
+                          if developer and name:
+                              dev_part = developer.split('|')[0].strip()
+                              sanitized_dev = re.sub(r'[^a-zA-Z0-9]', '', dev_part).lower()
+                              sanitized_name = re.sub(r'[^a-zA-Z0-9]', '', name).lower()
+                              if sanitized_dev and sanitized_name:
+                                  bundle_identifier = f"com.{sanitized_dev}.{sanitized_name}"
 
-            except requests.exceptions.RequestException as e:
-                print(f"  Error fetching data for ID {app_id}: {e}")
-            except json.JSONDecodeError:
-                print(f"  Error decoding JSON for ID {app_id}. Skipping.")
-                
-        altsource["apps"].sort(key=lambda x: x.get('name', '').lower())
-        with open("altsource.json", "w", encoding="utf-8") as f:
-            json.dump(altsource, f, indent=2)
-        print("\nAltStore source file altsource.json created successfully, including renamed duplicates.")
-        EOF
-        python bids_sorter.py
+                          install_url = api_data.get('install_url')
+                          download_url = f"https://s3.flekstore.com/ipa-library/{install_url}" if install_url else None
+                          
+                          if bundle_identifier and download_url:
+                              app_entry = {
+                                  "name": name,
+                                  "bundleIdentifier": bundle_identifier,
+                                  "developerName": developer,
+                                  "version": api_data.get("version"),
+                                  "versionDate": api_data.get("date"),
+                                  "size": api_data.get("size"),
+                                  "downloadURL": download_url,
+                                  "localizedDescription": api_data.get("description"),
+                                  "iconURL": api_data.get("icon")
+                              }
+                              all_collected_apps.append(app_entry)
+                              print(f"  Collected {name} from Flekstore")
+                      except Exception as e:
+                          print(f"  Error fetching data for app ID {app_id}: {e}")
 
-    - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@v5
-      with:
-        commit_message: "Update altsource.json (including API duplicates)"
-        file_pattern: altsource.json
+                  # Helper to parse version string into a comparable tuple
+                  def get_version_tuple(v):
+                      if not v: return (0,)
+                      # Extract only digits and dots to try and handle versions like "1.2.3 (beta)"
+                      parts = re.findall(r'\d+', str(v))
+                      return tuple(int(x) for x in parts) if parts else (0,)
+
+                  # Group apps by bundleIdentifier
+                  apps_by_bid = {}
+                  for app in all_collected_apps:
+                      bid = app.get("bundleIdentifier")
+                      if bid not in apps_by_bid:
+                          apps_by_bid[bid] = []
+                      apps_by_bid[bid].append(app)
+
+                  final_apps = []
+                  for bid, group in apps_by_bid.items():
+                      # Sort group by version tuple (newest first)
+                      group.sort(key=lambda x: get_version_tuple(x.get("version")), reverse=True)
+                      
+                      if not group: continue
+                      
+                      # The newest version value
+                      newest_app = group[0]
+                      newest_version_tuple = get_version_tuple(newest_app.get("version"))
+                      
+                      # Find all apps that match this newest version
+                      candidates = [a for a in group if get_version_tuple(a.get("version")) == newest_version_tuple]
+                      
+                      # Add to final list with potential name/ID suffixes for duplicates of the SAME version
+                      for i, app in enumerate(candidates):
+                          if i > 0:
+                              app["name"] = f"{app.get('name')} -{i}"
+                              app["bundleIdentifier"] = f"{app.get('bundleIdentifier')}-{i}"
+                          final_apps.append(app)
+
+                  altsource["apps"] = final_apps
+                  altsource["apps"].sort(key=lambda x: x.get('name', '').lower())
+
+                  with open("altsource.json", "w", encoding="utf-8") as f:
+                      json.dump(altsource, f, indent=2)
+                  print(f"\nSuccessfully generated altsource.json with {len(final_apps)} apps.")
+                  EOF
+                  python bids_sorter.py
+
+            - name: Commit and push changes
+              uses: stefanzweifel/git-auto-commit-action@v5
+              with:
+                  commit_message: "Update altsource.json (including API duplicates)"
+                  file_pattern: altsource.json
