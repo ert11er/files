@@ -504,17 +504,6 @@
       "iconURL": "https://i.imgur.com/KMmt4Xu.png"
     },
     {
-      "name": "Ark Re:Code",
-      "bundleIdentifier": "com.erolabs.arkrecode",
-      "developerName": "ero-labs",
-      "version": "1.4.0.112351",
-      "versionDate": "2025-12-09T18:10:55.000Z",
-      "size": 323142270,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ArkRecode.ipa",
-      "localizedDescription": "In a world on the brink of destruction after a meteor strike, Your unique power shall be the key to saving the world.\n<div>\n</div><div>The girls you gather will eliminate the rampaging mutants; And you will need to use your special body fluids -\n</div><div class=\"\">To raise their abilities, cure their ailments, and bring them unimaginable pleasure!\n</div><div class=\"\"><br></div><div>Compose your own strategy through attributes, classes, set effects, and hundreds of skill combinations!\n</div><div class=\"\">Connect with the girl you admire and raise their abilities to earn the character-specific CG!\n</div><div class=\"\"><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://i.imgur.com/vFQBndH.jpeg"
-    },
-    {
       "name": "Balance: Meditation and Sleep",
       "bundleIdentifier": "com.blatant.balancemeditationandsleep",
       "developerName": "Blatant",
@@ -2269,6 +2258,17 @@
       ]
     },
     {
+      "name": "Flightradar24",
+      "bundleIdentifier": "com.blatant.flightradar24",
+      "developerName": "Blatant",
+      "version": "10.21.0",
+      "versionDate": "2025-12-22T17:31:19.000Z",
+      "size": 190043853,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Flightradar.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div><div>The world's best flight tracker app - #1 Travel app in over 150 countries.</div><div><br></div><div>Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it\u2019s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.</div>",
+      "iconURL": "https://i.imgur.com/VFFLcxL.png"
+    },
+    {
       "beta": false,
       "name": "Flycast",
       "bundleIdentifier": "com.flyinghead.Flycast",
@@ -3006,17 +3006,6 @@
       "appID": "com.firecore.infuse"
     },
     {
-      "name": "iNKillerPlus",
-      "bundleIdentifier": "com.ikarwan.inkillerplus",
-      "developerName": "iKarwan",
-      "version": "407.0.0",
-      "versionDate": "2025-12-08T21:25:26.000Z",
-      "size": 211551184,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/InKiller.ipa",
-      "localizedDescription": "<div><b class=\"\">A whole new Instagram Experience!&nbsp;</b></div><b class=\"\"><div><b class=\"\"><br></b></div>To get premium</b><div><ol><li class=\"\">Open settings</li><li class=\"\">Click on Settings icon&nbsp;</li><li class=\"\">Restore purchase with 1234@random.lol&nbsp;</li><li class=\"\">Turn off internet&nbsp;</li><li class=\"\">Click on Settings icon&nbsp;</li><li class=\"\">Turn on Internet</li></ol></div>",
-      "iconURL": "https://i.imgur.com/fiX8xN9.png"
-    },
-    {
       "name": "InShot",
       "bundleIdentifier": "com.kamohacks.inshot",
       "developerName": "Kamo Hacks",
@@ -3254,17 +3243,6 @@
       "iconURL": "https://i.imgur.com/MLlSu1E.png"
     },
     {
-      "name": "Lust Goddess",
-      "bundleIdentifier": "com.erolabs.lustgoddess",
-      "developerName": "ero-labs",
-      "version": "8.0.11",
-      "versionDate": "2025-12-09T18:12:36.000Z",
-      "size": 298989623,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/LustGoddes.ipa",
-      "localizedDescription": "\n<div>In a world teetering on the edge of chaos, you take on the role of the newly appointed Captain of an elite mercenary squad.</div><div class=\"\">Your primary objective is to free captives and restore justice. Using your tactical expertise and the steadfast loyalty of your diverse team, you must navigate intense turn-based battles and build strong bonds with your squad members.\n</div><div class=\"\"><br></div><div class=\"\">Each girl you rescue possesses unique abilities and a captivating backstory, immersing you in a world filled with danger, romance, and redemption.\n</div><div class=\"\"><br></div><div><br></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://i.imgur.com/hHXIezE.jpeg"
-    },
-    {
       "name": "MacroFactor - Macro Tracker",
       "bundleIdentifier": "com.blatant.macrofactormacrotracker",
       "developerName": "Blatant",
@@ -3368,8 +3346,8 @@
       "name": "Mimo: Learn Coding/Programming",
       "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
       "developerName": "Blatant",
-      "version": "9.36.0",
-      "versionDate": "2025-12-09T19:04:56.000Z",
+      "version": "10.0.0",
+      "versionDate": "2025-12-22T17:29:49.000Z",
       "size": 136645016,
       "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
       "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
@@ -3792,6 +3770,17 @@
         }
       ],
       "appID": "com.microblink.PhotoMath"
+    },
+    {
+      "name": "Photoshop Express Hack",
+      "bundleIdentifier": "com.adobe.photoshopexpresshack",
+      "developerName": "Adobe",
+      "version": "25.50.0",
+      "versionDate": "2025-12-22T17:40:04.000Z",
+      "size": 104508698,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoshop.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3>\n\n<p>ENHANCE, STYLIZE AND SHARE YOUR PHOTOS WITH EASE.</p>\n\n<p>Tap into your creativity on the go with Photoshop Express\u2013the fast and easy photo editor\u2013used by millions of creative individuals. Edit pictures like the pros with this easy-to-use digital studio full of photo editing features on your mobile device.</p>\n",
+      "iconURL": "https://i.imgur.com/smUWvBF.png"
     },
     {
       "name": "PicsArt Pro",
@@ -5038,6 +5027,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Truecaller: Caller ID Lookup ",
+      "bundleIdentifier": "com.blatant.truecallercalleridlookup",
+      "developerName": "Blatant",
+      "version": "14.48.6",
+      "versionDate": "2025-12-22T17:32:28.000Z",
+      "size": 74500784,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/truecaller.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\r</div><div class=\"\"><br></div><div class=\"\">#1 CALLER ID &amp; SPAM BLOCKING APP WORLDWIDE\r</div><div class=\"\"><br></div><div>\u2022 An all new Caller ID experience on iPhone with iOS 18.2 and above\r</div><div>\u2022 Automatically identify spam, fraud, and robocalls before you pick up\r</div><div>\u2022 View &amp; search previously identified calls in the Phone app\r</div><div>\u2022 Take advantage of the best spam call blocker for iPhone\r</div><div>\u2022 Enable spam identification and blocking by accessing Settings &gt; Apps &gt; Phone &gt; Call Blocking &amp; Identification\r</div><div>\u2022 A paid subscription is required to access this feature</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/At8g3WC.png"
     },
     {
       "name": "Twitch++",
