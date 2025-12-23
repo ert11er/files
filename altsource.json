@@ -4,6 +4,17 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
+      "name": " CollaNote: Notes and PDF Markup",
+      "bundleIdentifier": "com.blatant.collanotenotesandpdfmarkup",
+      "developerName": "Blatant",
+      "version": "4.0.3",
+      "versionDate": "2025-12-23T13:50:02.000Z",
+      "size": 130003270,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/CollaNote.ipa",
+      "localizedDescription": "<b>BUILT FOR APPLE PENCIL WITH AN ENHANCED WRITING EXPERIENCE:\r</b><div>- 25+ different pens and brushes to transform your notes into artwork.\r</div><div>- Handwriting stabilizer for beautiful, smooth writing.\r</div><div>- Enjoy a calming ASMR note-taking experience.\r</div><div class=\"\">- Infinite Arc Menu available for both Apple Pencil Pro and Apple Pencil Gen 2.\r</div><div class=\"\"><br></div><div class=\"\"><b>IMPORT, MARK-UP, AND EXPORT PDF:\r</b></div><div>- Import and mark up PDFs, PPTs, DOCs, and Images effortlessly.\r</div><div>- In-built scanner to digitize your physical documents.\r</div><div class=\"\">- Export notes to PDF and share with ease.\r</div><div class=\"\"><br></div><div class=\"\"><b>POWERFUL TOOLS:\r</b></div><div>- Translation tool to learn new languages, supporting over 90 languages.\r</div><div>- Create flashcards with audio and images, or use our extensive library.\r</div><div>- Beautiful Planners for tracking tasks, deadlines, and schedules.\r</div><div class=\"\">- Record and sync audio directly within your notes.\r</div><div class=\"\"><br></div><div class=\"\"><b>UNLIMITED PAPERS AND NOTEBOOKS:\r</b></div><div>- Unlimited paper with versatile grids/lines and 150+ colorful templates.\r</div><div>- Keep all your notes organized and easily accessible from anywhere.\r</div><div>- Automatically back up to iCloud and sync across iOS devices.\r</div><div>- Smart Dark Mode for optimal visibility in any lighting.\r</div><div>- Password protection for ultimate note security.\r</div><div><br></div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/okPkWGi.png"
+    },
+    {
       "name": " Kapi Cam - Vintage Camera",
       "bundleIdentifier": "com.blatant.kapicamvintagecamera",
       "developerName": "Blatant",
@@ -504,17 +515,6 @@
       "iconURL": "https://i.imgur.com/KMmt4Xu.png"
     },
     {
-      "name": "Balance: Meditation and Sleep",
-      "bundleIdentifier": "com.blatant.balancemeditationandsleep",
-      "developerName": "Blatant",
-      "version": "1.191.0",
-      "versionDate": "2025-12-09T19:01:04.000Z",
-      "size": 116712005,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BalanceMeditation.ipa",
-      "localizedDescription": "<b>Improve your stress, sleep, and more with Balance\u2019s personalized guided meditation program.</b><div><br><div></div><div></div><div>YOUR PERSONAL MEDITATION COACH\r</div><div>Balance is your personal meditation coach. Each day, you\u2019ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that\u2019s perfect for you. The more you share over time, the more personalized and effective your meditations become.</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/0CkQyeg.png"
-    },
-    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Yandevelop",
@@ -565,12 +565,23 @@
       "name": "BH Instagram",
       "bundleIdentifier": "com.banderhl.bhinstagram",
       "developerName": "BanderHL",
-      "version": "410.0.0",
-      "versionDate": "2025-12-16T16:30:31.000Z",
+      "version": "410.1.0",
+      "versionDate": "2025-12-23T13:36:16.000Z",
       "size": 250666471,
       "downloadURL": "https://s3.flekstore.com/ipa-library/BHInsta.ipa",
       "localizedDescription": "<ul><li>Hide Ads\r</li><li>No suggested post\r</li><li>Show Like count\r</li><li>Confirm like\r</li><li>Copy description\r</li><li>Download Videos\r</li><li>Save profile image\r</li><li>Keep deleted message\r</li><li>Remove last seen\r</li><li>Remove screenshot alert\r</li><li>Unlimited replay of once story\r</li><li>Disable Story Seen Receipt\r</li><li>Padlock</li></ul>",
       "iconURL": "https://i.imgur.com/cVK7tEc.png"
+    },
+    {
+      "name": "BH X",
+      "bundleIdentifier": "com.dangerouspixel.bhx",
+      "developerName": "Dangerous Pixel",
+      "version": "11.50",
+      "versionDate": "2025-12-23T13:33:05.000Z",
+      "size": 100174044,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/TwitterBHTwitter.ipa",
+      "localizedDescription": "BHTwitter<div>\u2022 Download Videos (even with private accounts).</div><div>\u2022 Download Videos from DM (hold the video cell).</div><div>\u2022 Unlock Undo Tweets for free.</div><div>\u2022 Hide promoted tweet from the timeline.</div><div>\u2022 Enable voice tweet and voice message in DM.</div><div>\u2022 Confirm alert when Like/Dislike.</div><div>\u2022 Lock Twitter with passcode.</div><div>\u2022 Enable Reader mode.</div><div>\u2022 Autoload photos in the highest quality.</div><div><br></div>",
+      "iconURL": "https://i.imgur.com/rpd1scd.png"
     },
     {
       "name": "blurt.blog",
@@ -2121,17 +2132,6 @@
       "beta": false
     },
     {
-      "name": "Facetune",
-      "bundleIdentifier": "com.omtk.facetune",
-      "developerName": "omtk",
-      "version": "3.114",
-      "versionDate": "2025-12-09T19:05:48.000Z",
-      "size": 50934299,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
-      "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
-      "iconURL": "https://i.imgur.com/hW3UutY.png"
-    },
-    {
       "name": "Fall Guys",
       "bundleIdentifier": "com.epicgames.fallguys",
       "developerName": "Epic Games",
@@ -3175,17 +3175,6 @@
       ]
     },
     {
-      "name": "iTranslate Translator",
-      "bundleIdentifier": "com.blatant.itranslatetranslator",
-      "developerName": "Blatant",
-      "version": "17.4.62",
-      "versionDate": "2025-12-09T19:08:19.000Z",
-      "size": 75306866,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/iTranslate.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>iTranslate is one of the leading translation and dictionary apps designed to help you break language barriers with ease. Seamlessly translate text, websites, objects, or start voice-to-voice conversations in over 100 languages. Our unique Custom Phrasebook feature allows you to learn new languages and create personalized collections of phrases for various life situations. And if you need to use iTranslate abroad, our Offline Mode allows you to forget about paying expensive roaming charges.</div>",
-      "iconURL": "https://i.imgur.com/8lmNCxG.png"
-    },
-    {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
@@ -3501,6 +3490,17 @@
       "appID": "com.marcuszhou.NineAnimator"
     },
     {
+      "name": "Notability: Smarter AI Notes",
+      "bundleIdentifier": "com.blatant.notabilitysmarterainotes",
+      "developerName": "Blatant",
+      "version": "15.3.1",
+      "versionDate": "2025-12-23T13:42:51.000Z",
+      "size": 216310194,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/NotabilityAI.ipa",
+      "localizedDescription": "<div><div class=\"\"><b>Whether you\u2019re studying for an exam, organizing a meeting, or sketching your next big idea\u2014Notability is the essential resource you can rely on to capture, organize, and share your thoughts with ease.\r</b></div><div class=\"\"><br></div><div>YOUR ALL-IN-ONE DIGITAL NOTEBOOK\r</div><div>\u2022 Write, type, or sketch with lifelike digital ink, highlighters, and text tools.\r</div><div>\u2022 Mark up anything: PDFs, textbooks, lecture slides, images, and more.\r</div><div>\u2022 Stay organized with customizable folders and subjects.\r</div><div>STUDY SMARTER WITH LEARN AI\r</div><div>\u2022 Live Smart Note instant summaries of your notes.\r</div><div>\u2022 Quizzes and flashcards tailored to you.\r</div><div>\u2022 Chat with your notes \u2013 your AI-powered assistant\r</div><div>RECORD, REVIEW AND REMEMBER \r</div><div>\u2022 Audio recording synced to your notes; perfect for lectures and meetings.\r</div><div>\u2022 Search for anything, including transcripts, text and handwriting.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/NYjFGOl.png"
+    },
+    {
       "name": "Odyssey",
       "bundleIdentifier": "org.coolstar.odyssey",
       "developerName": "Odyssey Team",
@@ -3736,6 +3736,17 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
+      "name": "Peachy Pro",
+      "bundleIdentifier": "com.dvntm.peachypro",
+      "developerName": "dvntm",
+      "version": "2.8.1",
+      "versionDate": "2025-12-23T13:46:24.000Z",
+      "size": 102963908,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PeachyPro.ipa",
+      "localizedDescription": "Aiming at perfection in everything, Peachy is a powerful &amp; handy pro photo editor, especially for selfie editing &amp; retouching, body shape editing.<div><br></div><div>Everybody is an excellent photographer with this simple retouch tool, it helps you meet the best version of you, smooth skin, whiten teeth, reshape face, fix blemishes, remove wrinkles, become taller, add makeup, tattoo, muscles &amp; filters and so on.</div><div><br></div><div>Peachy provides lots of portrait and selfie photo editing features. Download it and give a try!</div><div><br></div><div>RETOUCH</div><div>\u00b7Remove wrinkles and acne</div><div>\u00b7Smooth and brightened your skin</div><div>\u00b7Reduce dark circles under your eyes</div><div>\u00b7Whiten your teeth</div><div>\u00b7Add volume and darken your eyebrow</div><div><br></div><div>RESHAPE</div><div>\u00b7Reshape your body and facial structure</div><div>\u00b7Refine a specific area of the selfie, for example, arms or facial features</div><div>\u00b7Bloat your breast, enlarge muscles and facial features</div><div><br></div><div>HEIGHT CORRECTION</div><div>\u00b7Elongate your legs and become taller</div><div>\u00b7Enhance your body both laterally and longitudinally</div><div><br></div><div>ADD MUSCLES</div><div>\u00b7Add six pack abs muscles</div><div>\u00b7Add chest muscles</div><div><br></div><div>ADD TATTOO</div><div>\u00b7Add creative tattoos to your body</div><div><br></div><div>LIGHTING EFFECTS</div><div>\u00b7Improve lighting effects of the selfie or portrait</div><div><br></div><div>ACCESSORIES</div><div>\u00b7Decorate your selfie or portrait with stylish accessories</div><div><br></div><div>FILTERS</div><div>\u00b7High-fashion vintage filters, perfect for selfie</div><div><br></div><div>ADJUST</div><div>\u00b7Create custom filters by adjusting brightness, contrast etc.</div><div><br></div><div>Perfect your selfies or portraits in Peachy, and share with your friends online, it can be fun and inspiring!</div>",
+      "iconURL": "https://i.imgur.com/dpe4lNh.png"
+    },
+    {
       "name": "Photomath++",
       "bundleIdentifier": "com.microblink.PhotoMath",
       "developerName": "Strejda603",
@@ -3792,17 +3803,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
       "iconURL": "https://i.imgur.com/5tWdftH.png"
-    },
-    {
-      "name": "Place Guesser",
-      "bundleIdentifier": "com.mobivalley.placeguesser",
-      "developerName": "Mobivalley",
-      "version": "1.45.0",
-      "versionDate": "2025-12-09T19:04:41.000Z",
-      "size": 48929404,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PlaceGuesser.ipa",
-      "localizedDescription": "Explore curated locations with no repeats!<div><br><div></div><div>You are dropped somewhere in the world in and you have to find clues and guess your location on the world map.\r</div><div>Embark on a thrilling global adventure with our immersive travel game!\r</div><div>Explore the world like never before with our two exciting game modes: Quick Play and Country Streak.\r</div><div class=\"\">In Quick Play, test your observation skills and race against the clock to guess your location based on captivating 360\u00b0 panorama look around view images.\r</div><div class=\"\"><br></div><div>Want to challenge your geographical knowledge even further?\r</div><div>Dive into Country Streak and guess the correct country based on stunning street view scenes. \r</div><div>Immerse yourself in breathtaking landscapes, iconic landmarks, and vibrant city streets from around the world. Whether you're a casual explorer or a seasoned globetrotter, our app will keep you hooked with its addictive gameplay and captivating visuals.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/TohrZE2.png"
     },
     {
       "name": "Planta: Plant and Garden Care",
