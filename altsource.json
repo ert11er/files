@@ -15,17 +15,6 @@
       "iconURL": "https://i.imgur.com/okPkWGi.png"
     },
     {
-      "name": " Kapi Cam - Vintage Camera",
-      "bundleIdentifier": "com.blatant.kapicamvintagecamera",
-      "developerName": "Blatant",
-      "version": "3.27.0",
-      "versionDate": "2025-12-11T18:57:23.000Z",
-      "size": 172519271,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/KapiCam.ipa",
-      "localizedDescription": "KAPI is an application that allows you to shoot DV, CCD, and film. You can use it to record the beautiful moments in life and enjoy the retro-style picture texture and atmosphere.\r<div>\r</div><div>\u2022 Simulates real DV and CCD effects, taking you back to the millennium in one second.\r</div><div>\u2022 Provides a variety of retro-style filters and special effects, allowing you to create different visual effects as you like.\r</div><div>\u2022 Supports real-time preview of effects, allowing you to easily capture your favorite images.\r</div><div>\u2022 Simple and easy-to-use operation interface, making creation at your fingertips.</div>",
-      "iconURL": "https://i.imgur.com/2OGn0Jh.png"
-    },
-    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -1054,6 +1043,17 @@
       "appID": "com.crunchyroll.iphone"
     },
     {
+      "name": "Darkroom: Photo and Video Editor",
+      "bundleIdentifier": "com.blatant.darkroomphotoandvideoeditor",
+      "developerName": "Blatant",
+      "version": "7.0.10",
+      "versionDate": "2025-12-24T18:55:15.000Z",
+      "size": 159660645,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/darkroom.ipa",
+      "localizedDescription": "Optimize your creative workflow with Darkroom: Photo &amp; Video Editor, now available for macOS. Experience the pinnacle of desktop editing with Darkroom, designed to elevate your photo and video projects with its comprehensive, feature-rich editing suite.<div><br><div></div><div></div><div class=\"\">Dive into a world where AI powers precision editing, offering you the ability to meticulously sculpt your visuals. With advanced depth editing and object recognition, fine-tune the elements of your photos\u2014like skies, hair, and skin\u2014with unmatched accuracy. Darkroom rivals the functionality of industry giants such as Adobe Lightroom and Canva, providing a versatile toolkit for every creative need.\r</div><div class=\"\"><br></div><div>Unleash your creativity with intuitive tools like touch-responsive curves and selective color adjustments, making the editing process smoother and enabling the creation of distinctive presets. Explore the richness of RAW photography with full-resolution support and 16-bit color depth, ensuring every detail, shadow, and highlight is perfectly captured.</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/14KMgdg.png"
+    },
+    {
       "name": "Dazz Cam - Vintage Camera",
       "bundleIdentifier": "com.blatant.dazzcamvintagecamera",
       "developerName": "Blatant",
@@ -1602,17 +1602,6 @@
         }
       ],
       "appID": "com.rileytestut.Deltroid"
-    },
-    {
-      "name": "Documents: File Manager and Docs",
-      "bundleIdentifier": "com.blatant.documentsfilemanageranddocs",
-      "developerName": "Blatant",
-      "version": "8.17.17",
-      "versionDate": "2025-12-10T18:36:09.000Z",
-      "size": 310847717,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/DocumentsFileManager.ipa",
-      "localizedDescription": "Documents by Readdle is a super app for iPhone and iPad. It\u2019s your all-in-one solution for working with files at home, in the office, at university, or on the go. Whether you edit, annotate, convert, listen to, or read, Documents brings everything together in one seamless experience. From books, scans, and receipts to articles, PDFs, audio, and video files, and even ZIP &amp; RAR archives \u2014 every type of content finds its home in Documents. One app \u2013 infinite capabilities. \r<div>\r</div><div>\r</div><div><br></div><div class=\"\"><br></div><div class=\"\"><b>PDF EDITOR\r</b></div><div>\u2022 Edit or modify existing text directly in a PDF \u2013 just like in a Word document\r</div><div>\u2022 Highlight and annotate important info in books using colors, text, or stickers\r</div><div>\u2022 Sign PDF contracts on the go with e-signatures\r</div><div>\u2022 Merge and combine multiple PDFs into one\r</div><div class=\"\">\u2022 Add, delete, and rearrange pages with a thumbnail preview\r</div><div class=\"\">\u2022 Rotate and reorder pages in PDFs\r</div><div class=\"\"><br></div><div class=\"\"><b>PDF CONVERTER \r</b></div><div class=\"\">\u2022 Easily convert to PDF and vice versa \u2013 text, images, photos, etc.\r</div><div class=\"\"><br></div><div class=\"\"><b>MANAGE AND ARCHIVE FILES &amp; FOLDERS  \r</b></div><div class=\"\">\u2022 Organize your files and create folders to suit your needs\r</div><div>\u2022 Use Reminders by setting a date/time to be notified about a specific file\r</div><div>\u2022 Rename and color-tag files for quick access\r</div><div>\u2022 Use Smart Actions and get contextual recommendations for the most relevant next step\r</div><div>\u2022 Use Zip/Unzip and RAR extractor tools\r</div><div>\u2022 Open Office files and eBooks with ease</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/lcGCaj3.png"
     },
     {
       "name": "DolphiniOS",
@@ -2398,6 +2387,17 @@
       "beta": false
     },
     {
+      "name": "Home Workout - No Equipments",
+      "bundleIdentifier": "com.leaphealth.homeworkoutnoequipments",
+      "developerName": "Leap Health",
+      "version": "1.43.10",
+      "versionDate": "2025-12-24T18:49:49.000Z",
+      "size": 333427853,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Homeworkouts.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3>Looking to build muscle and lose weight? Home Workout has got you covered!\r<div>\r</div><div>Home workouts with no equipment, easy to follow.\r</div><div>Follow the tailored workout plans and expert guidance to meet a fitter, stronger you!\r</div><div>Home Workout app is an expertly crafted fitness app that offers a variety of workouts and workout plans suitable for everyone, from fitness beginners to experts.</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/M6LdnkW.png"
+    },
+    {
       "name": "iDOS",
       "bundleIdentifier": "com.litchie.idosgames",
       "developerName": "litchie",
@@ -3164,6 +3164,17 @@
       ]
     },
     {
+      "name": "iTranslate Translator",
+      "bundleIdentifier": "com.blatant.itranslatetranslator",
+      "developerName": "Blatant",
+      "version": "17.4.65",
+      "versionDate": "2025-12-24T18:50:45.000Z",
+      "size": 75306866,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/iTranslate.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>iTranslate is one of the leading translation and dictionary apps designed to help you break language barriers with ease. Seamlessly translate text, websites, objects, or start voice-to-voice conversations in over 100 languages. Our unique Custom Phrasebook feature allows you to learn new languages and create personalized collections of phrases for various life situations. And if you need to use iTranslate abroad, our Offline Mode allows you to forget about paying expensive roaming charges.</div>",
+      "iconURL": "https://i.imgur.com/8lmNCxG.png"
+    },
+    {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
@@ -3296,17 +3307,6 @@
           "absoluteVersion": "2022.3"
         }
       ]
-    },
-    {
-      "name": "Marvel Contest of Champions",
-      "bundleIdentifier": "com.iosgods.marvelcontestofchampions",
-      "developerName": "iOSGods",
-      "version": "54.0.0",
-      "versionDate": "2025-12-10T13:34:20.000Z",
-      "size": 1883492326,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MarvelContest.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><h3>Hack Features:\r</h3><div class=\"\"><ul><li class=\"\">X Player Damage\r</li><li>X Player Defense\r</li><li>X Player Mana\r</li><li>Enemy Mana\r</li><li class=\"\">Enemy/AI Doesn't Attack\r</li><li>Special Attack/Skill Always Available\r</li><li>No Knockbacks When Hit\r</li><li>No Knockdowns When Hit\r</li><li>Enemy Doesn't Block\r</li><li class=\"\">Auto Win\r</li><li class=\"\">One Hit Kill</li></ul></div><div class=\"\"><br></div>The biggest names from the Marvel Universe are ready to battle!\r<div>\r</div><div>\r</div><div>Prepare for epic versus-fighting action and battles with your favorite Marvel Super Heroes &amp; Super Villains in the ultimate cosmic showdown! Spider-Man, Iron Man, Deadpool, Wolverine &amp; more await your summons to battle! Assemble a team &amp; begin your quest to become the Ultimate Marvel Champion!</div>",
-      "iconURL": "https://i.imgur.com/ACMuUoz.png"
     },
     {
       "name": "Messenger++",
@@ -3879,7 +3879,7 @@
     {
       "bundleIdentifier": "eu.pokemmo.client",
       "developerName": "PokeMMO",
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=30989",
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=31230",
       "iconURL": "https://pokemmo.com/build/images/altstore.f5930b35.png",
       "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
       "name": "PokeMMO",
@@ -3890,10 +3890,10 @@
         "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
         "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
       ],
-      "size": 135806750,
+      "size": 135300124,
       "tintColor": "73ACE2",
-      "version": "30989",
-      "versionDate": "2025-12-02T02:03:33+00:00"
+      "version": "31230",
+      "versionDate": "2025-12-24T21:44:41+00:00"
     },
     {
       "name": "PokeMMO PTS",
@@ -4243,17 +4243,6 @@
         }
       ],
       "appID": "com.louisanslow.record"
-    },
-    {
-      "name": "Scanner Air",
-      "bundleIdentifier": "com.blatant.scannerair",
-      "developerName": "Blatant",
-      "version": "2025.11.6",
-      "versionDate": "2025-12-10T18:00:20.000Z",
-      "size": 95586495,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ScannerAir.ipa",
-      "localizedDescription": "Transform your smartphone into a document scanner and a mobile office. Easily scan, sign, edit, and convert documents from anywhere\u2014whether you're at home, in the office, or on the move. Enjoy the convenience of digitizing and sharing files with just a few taps. Say goodbye to bulky scanners and embrace simplicity.<div><br><div></div><div class=\"\">Key Features:\r</div><div class=\"\"><b>Fast Document Scanner\r</b></div><div class=\"\">Use the document scanner to scan anything\u2014contracts, receipts, notes, or IDs. Works as an ID scanner, receipt scanner, and even a business card scanner to keep your paperwork digital and organized.\r</div><div class=\"\"><br></div><div class=\"\"><b>Scan to PDF &amp; Convert to PDF\r</b></div><div class=\"\">Instantly convert or scan in high resolution. Whether it\u2019s photos to PDF, JPG to PDF, or an image to text conversion, get professional-quality scans in seconds.\r</div><div class=\"\"><br></div><div class=\"\"><b>Edit Documents with Ease\r</b></div><div class=\"\">Use the built-in document editor to edit documents, crop, rotate, and enhance scans before sharing. Perfect for contracts, notes, or any other paperwork.\r</div><div class=\"\"><br></div><div class=\"\"><b>Sign &amp; Send with eSign\r</b></div><div>Digitally sign with the document signer and send them instantly. Use the eSign feature for contracts, agreements, or any important document.\r</div><div><br></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/lb16FkC.png"
     },
     {
       "name": "ScummVM",
@@ -5027,6 +5016,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "TOR Browser Hack",
+      "bundleIdentifier": "com.syto203.torbrowserhack",
+      "developerName": "syto203",
+      "version": "3.9.11",
+      "versionDate": "2025-12-24T18:51:37.000Z",
+      "size": 28514277,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/OrnetPP.ipa",
+      "localizedDescription": "<i>Features:</i><div>- Hacked Premium&nbsp;</div>",
+      "iconURL": "https://i.imgur.com/xq8Pr7W.png"
     },
     {
       "name": "Truecaller: Caller ID Lookup ",
