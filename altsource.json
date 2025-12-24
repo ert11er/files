@@ -504,17 +504,6 @@
       ]
     },
     {
-      "name": "Archero Hack",
-      "bundleIdentifier": "com.iosgods.archerohack",
-      "developerName": "iOSGods",
-      "version": "7.4.5",
-      "versionDate": "2025-12-10T13:12:04.000Z",
-      "size": 183964928,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/archero.ipa",
-      "localizedDescription": "<p class=\"\">Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\">Hacked version of Archero!<br>\n<strong>Features:</strong><br>- Multiply Defense (Enter Any Amount and Enable The Switch)</p><p class=\"\">- Multiply Attack (Enter Any Amount and Enable The Switch)</p><p class=\"\">- God Mode</p><p class=\"\">- One Hit Kill (Must use with God Mode or use Multiply Attack instead)</p><p class=\"\">- Freeze Enemies</p>\n",
-      "iconURL": "https://i.imgur.com/KMmt4Xu.png"
-    },
-    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Yandevelop",
@@ -633,6 +622,17 @@
         }
       ],
       "appID": "blog.blurt.blurt"
+    },
+    {
+      "name": "Bridge Constructor+",
+      "bundleIdentifier": "com.headupgmbh.bridgeconstructor",
+      "developerName": "Headup GmbH",
+      "version": "13.0",
+      "versionDate": "2025-12-24T17:25:14.000Z",
+      "size": 66642691,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/BridgeConstr.ipa",
+      "localizedDescription": "<div class=\"\"><b>In Bridge Constructor+ you have to prove yourself as an accomplished master bridge builder.  Play 40 different levels, and build bridges over deep valleys, canals, and rivers. Stress tests reveal whether the bridge you build can withstand the daily stress of continual use from cars, trucks and, more recently, super-heavy tank trucks.</b></div><div class=\"\"><b><br></b></div><b>FEATURES:\r</b><div>\u2022             40 Levels on the island nation of Camatuga\r</div><div>\u2022             Free build mode and help system\r</div><div>\u2022             5 Settings: city, canyon, beach, mountains, hills\r</div><div>\u2022             Improved grid system  \r</div><div>\u2022             Map with unlocked worlds/levels\r</div><div>\u2022             4 different building materials: wood, steel, cables, concrete pillars\r</div><div>\u2022             Color coded load indicator for different building materials\r</div><div>\u2022             Three different load bearing levels: car, truck and tank truck\r</div><div class=\"\">\u2022             High score per level\r</div><div class=\"\"><br></div><div class=\"\"><b>FEATURES SlopeMania Add-On\r</b></div><div>\u2022             Completely new Tiltin Islands\r</div><div>\u2022             Option to build sloping roads \u2013 even for Camatuga\r</div><div>\u2022             Additional \"Grotto\" setting\r</div><div>\u2022             24 \"sloping\" levels inc. especially tricky \"Crazy Levels\"\r</div><div class=\"\">\u2022             Explosive tank truck as an exciting new vehicle\r</div><div class=\"\"><br></div><div class=\"\"><b>FEATURES Trains Add-On\r</b></div><div>\u2022             Open up 3 new islands with 18 new levels.\r</div><div>\u2022             Build bridges for modern commuter trains and heavy freight trains!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/E2ic2ac.png"
     },
     {
       "name": "Captions: For Talking Videos",
