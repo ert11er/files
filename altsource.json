@@ -3193,6 +3193,17 @@
       "iconURL": "https://i.imgur.com/vSdiCk0.png"
     },
     {
+      "name": "Lost in Play+",
+      "bundleIdentifier": "com.snapbreakgames.lostinplay",
+      "developerName": "Snapbreak games",
+      "version": "1.0.2053",
+      "versionDate": "2025-12-24T17:04:59.000Z",
+      "size": 631692356,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/LostInPlay.ipa",
+      "localizedDescription": "Help a brother and sister on an uplifting epic adventure to find their way home. Solving puzzles, escaping a horned beast and meeting quirky goblins are just part of the journey!<div><br><div></div><div class=\"\">Lost in Play is a journey through childhood imagination with thoughtfully crafted puzzles and colorful characters. Play as a brother and sister duo on an adventure to find their way back home. Between reality and fantasy, the siblings explore the enchanted forest of a horned beast, start a rebellion in a goblin village, and help a team of frogs free a sword from a stone.\r</div><div class=\"\"><br></div><div class=\"\"><b>PUZZLES &amp; MYSTERY\r</b></div><div class=\"\">The bizarre and dreamlike world of Lost in Play is filled with mystery, unique puzzles, and mini-games. Challenge a pirate seagull to a game of clicking crabs, serve magical tea to a royal toad, and collect pieces to build a flying machine. Be a part of this modern point &amp; click game that will reward your curiosity and leave you excited for the next piece of story.\r</div><div class=\"\"><br></div><div class=\"\"><b>IMAGINATION COMES TO LIFE\r</b></div><div class=\"\">From what seems like a normal morning at home to a typical afternoon at the park, you'll soon find yourself on a whirlwind quest as you sneak into a goblin castle, explore ancient ruins, and soar atop a giant stork. Lost in Play takes you on a nostalgic roller-coaster!\r</div><div class=\"\"><br></div><div class=\"\"><b>AN INTERACTIVE CARTOON\r</b></div><div>With a hand-crafted style similar to animated shows from childhood, Lost in Play is a story meant for all. Whether you\u2019re seeking wholesome delight or just a good time, the family can enjoy this story together.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/W7OB6dE.png"
+    },
+    {
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch, LLC",
@@ -4867,17 +4878,6 @@
         ]
       },
       "appID": "com.streamer.ios"
-    },
-    {
-      "name": "Subway Surfers Hack",
-      "bundleIdentifier": "com.iosgods.subwaysurfershack",
-      "developerName": "iOSGods",
-      "version": "3.56.0",
-      "versionDate": "2025-12-10T13:05:39.000Z",
-      "size": 142964570,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/subway.ipa",
-      "localizedDescription": "<p class=\"\"><span class=\"\"><i style=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></span></p><p class=\"\"><strong class=\"\">Hack Features:<br></strong></p><p class=\"\"><span class=\"\">- Free Store (not Free iAP)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free iAP (ViP Only)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock Characters Outfit<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Custom Jump Height<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)</span></p>\n",
-      "iconURL": "https://i.imgur.com/QScGnfP.jpeg"
     },
     {
       "name": "Swipewipe - Photo Cleaner",
