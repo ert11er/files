@@ -813,8 +813,8 @@
       "name": "Chat Smith",
       "bundleIdentifier": "com.dangerouspixel.chatsmith",
       "developerName": "Dangerous Pixel",
-      "version": "8.251215.2",
-      "versionDate": "2025-12-17T17:42:49.000Z",
+      "version": "8.251222.2",
+      "versionDate": "2025-12-25T15:16:49.000Z",
       "size": 59260010,
       "downloadURL": "https://s3.flekstore.com/ipa-library/chatsmith.ipa",
       "localizedDescription": "<div class=\"\">ChatGPT 3.5 and 4. iAP Hack (Press buy subscription and cancel).</div><div><br></div>Revolutionize your daily life with the power of AI, ChatGPT and GPT 4 with Chat Smith Chatbot<div><br></div><div>Chat Smith, powered by GPT-4 API delivers enhanced AI Chat app capabilities, voice interaction, write email and intelligent conversational experience for all your needs</div><div><br></div><div>As an iOS AI Chat app, Chat Smith uses advanced AI model to deliver any AI-powered search, conversation, text completion, and other advanced AI features.</div>",
@@ -3808,8 +3808,8 @@
       "name": "PicsArt Pro",
       "bundleIdentifier": "com.dangerouspixel.picsartpro",
       "developerName": "Dangerous Pixel",
-      "version": "29.0.2",
-      "versionDate": "2025-12-15T12:10:26.000Z",
+      "version": "29.1.2",
+      "versionDate": "2025-12-25T15:30:03.000Z",
       "size": 71112152,
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
@@ -4112,17 +4112,6 @@
       "version": "2023.50.1",
       "versionDate": "2024-01-05T12:00:00-01:00",
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
-    },
-    {
-      "name": "Regram for Instagram",
-      "bundleIdentifier": "com.fouadraheb.regramforinstagram",
-      "developerName": "Fouad Raheb",
-      "version": "408.1.0 (2.3)",
-      "versionDate": "2025-12-11T20:13:37.000Z",
-      "size": 204357512,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/regram.ipa",
-      "localizedDescription": "<span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Built-into Instagram</b></span><div>Runs inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features</div><div class=\"\"><b>Profile Analyzer</b></div><div>Scans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).</div><div class=\"\"><b>Stories Archive</b><br>Automatically download and store all your uploaded Stories including the full viewers and likers list and allow to view analytics of top viewers and likers.</div><div class=\"\"><b>Media Downloader</b></div><div class=\"\">Downloads any Instagram media, including posts, stories, reels, post audio, and direct messages.</div><div class=\"\"><b>Privacy</b></div><div class=\"\">View stories and read direct messages without sending seen receipts, send them manually with a single tap.</div><div class=\"\"><b>Messages</b></div><div class=\"\">Keep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.</div><div class=\"\"><b>Utilities &amp; Customization</b></div><div class=\"\">Confirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.<br><br></div>",
-      "iconURL": "https://i.imgur.com/Y5n6G8O.png"
     },
     {
       "name": "Renovate AI : Home Design",
@@ -4530,6 +4519,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Stick War: Legacy Hack",
+      "bundleIdentifier": "com.laxus.stickwarlegacyhack",
+      "developerName": "Laxus",
+      "version": "2025.1.208",
+      "versionDate": "2025-12-25T15:26:50.000Z",
+      "size": 92641892,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/stickWarLegacy.ipa",
+      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\"><b>Hack Features:</b></div><div><ul><li class=\"\">Infinite Gold\r</li><li class=\"\">Infinite Gem\r</li><li class=\"\">Fast Build</li></ul><div><br></div></div><div><br></div><div>One of the most popular and highest rated web games of all time now comes to mobile!\r</div><div>Play the game Stick War, one of the biggest, most fun, challenging and addicting stick figure games. Control your army in formations or play each unit, you have total control of every stickman. Build units, mine gold, learn the way of the Sword, Spear, Archer, Mage, and even Giant. Destroy the enemy statue, and capture all Territories!</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/zYi5o5N.png"
     },
     {
       "name": "StikNES",
