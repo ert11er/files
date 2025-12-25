@@ -493,6 +493,17 @@
       ]
     },
     {
+      "name": "Archero Hack",
+      "bundleIdentifier": "com.iosgods.archerohack",
+      "developerName": "iOSGods",
+      "version": "7.5.0",
+      "versionDate": "2025-12-25T16:25:14.000Z",
+      "size": 183964928,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/archero.ipa",
+      "localizedDescription": "<p class=\"\">Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\">Hacked version of Archero!<br>\n<strong>Features:</strong><br>- Multiply Defense (Enter Any Amount and Enable The Switch)</p><p class=\"\">- Multiply Attack (Enter Any Amount and Enable The Switch)</p><p class=\"\">- God Mode</p><p class=\"\">- One Hit Kill (Must use with God Mode or use Multiply Attack instead)</p><p class=\"\">- Freeze Enemies</p>\n",
+      "iconURL": "https://i.imgur.com/KMmt4Xu.png"
+    },
+    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Yandevelop",
@@ -2184,6 +2195,17 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
+      "name": "FL Studio Mobile",
+      "bundleIdentifier": "com.ipalibrary.flstudiomobile",
+      "developerName": "IPA Library",
+      "version": "4.9.1",
+      "versionDate": "2025-12-25T16:42:07.000Z",
+      "size": 254325775,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/flstudio.ipa",
+      "localizedDescription": "<div class=\"\"><span class=\"\"><b>Hacking for purchases! Press \u201cbuy\u201d what interests us and refuse to enter an Apple ID!</b></span></div><div class=\"\"><span class=\"\"><b><br></b></span></div><div class=\"\"><span class=\"\">$13.99 in AppStore</span></div><div class=\"\"><span class=\"\">Create and save complete multi-track music projects on your iPad, iPhone</span><span class=\"\" style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">. Record, sequence, edit, mix and render complete songs.</span></div><div class=\"\"><i><br></i></div><div class=\"\"><b>FEATURE HIGHLIGHTS</b></div><div class=\"\"><i>* Audio recording, track-length stem/wav import</i></div><div class=\"\"><i>* Browse sample and presets with preview</i></div><div class=\"\"><i>* Effects modules (see Included Content)</i></div><div class=\"\"><i>* Full-screen MacBook and iMac Trackpad and Mouse support.</i></div><div class=\"\"><i>* High quality synthesizers, sampler, drum kits &amp; sliced-loop beats</i></div><div class=\"\"><i>* Instrument modules (see Included Content)</i></div><div class=\"\"><i>* Load projects in the FL STUDIO** FREE Plugin version of this App</i></div><div class=\"\"><i>* MIDI controller support (class compliant). Automation support.</i></div><div class=\"\"><i>* MIDI file import and Export (Single-track or Multi-track)</i></div><div class=\"\"><i>* Mixer: Per-track mute, solo, effect bus, pan and volume adjustment</i></div><div class=\"\"><i>* Piano roll. Edit notes or capture recorded performances.</i></div><div class=\"\"><i>* Save and load WAV, MP3, AAC*, FLAC, MIDI</i></div><div class=\"\"><i>* Share your songs via Wi-Fi or Cloud to other Mobile 3 installations</i></div><div class=\"\"><i>* Step sequencer</i></div><div class=\"\"><i>* User interface configurable with all screen resolutions and sizes.</i></div><div class=\"\"><i>* Virtual piano-keyboard &amp; Drumpads#</i></div><div class=\"\"><i>* IAA App support (In/Out), Audiobus support (In/Out)</i></div><div class=\"\"><i>* Audio recording (external and internal sources)</i></div><div class=\"\"><i>* Share your songs via Sync to other Mobile 3 devices / installations</i></div><div class=\"\"><i>* Load your projects in the FL STUDIO* FREE 'Plugin' Version of this App#</i></div>",
+      "iconURL": "https://i.imgur.com/zeNh8wE.png"
+    },
+    {
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
@@ -3243,17 +3265,6 @@
       "iconURL": "https://i.imgur.com/MLlSu1E.png"
     },
     {
-      "name": "MacroFactor - Macro Tracker",
-      "bundleIdentifier": "com.blatant.macrofactormacrotracker",
-      "developerName": "Blatant",
-      "version": "5.7.1",
-      "versionDate": "2025-12-15T12:15:14.000Z",
-      "size": 90984369,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MacroFactor.ipa",
-      "localizedDescription": "<b class=\"\">DIET SMARTER\r</b><div>\r</div><div>Using a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \r</div><div>\u2022 The unique energy expenditure calculation detects changes in your metabolism\r</div><div>\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\r</div><div>\u2022 Weekly check-ins keep you on track toward your goals\r</div><div class=\"\">The result? You better understand your body\u2019s needs and can successfully reach and sustain your goals without stress.\r</div><div class=\"\"><br></div><div class=\"\"><b>THE BEST MACRO TRACKER TOOLS</b></div><div>\u2022 The fastest macro tracker on the market with tools like barcode scan and custom foods\r</div><div>\u2022 Verified food database, so you can trust the accuracy of the foods you log \r</div><div>\u2022 Custom macro programs and weekly check-ins based on your goals and preferences\r</div><div>\u2022 Detailed breakdowns of micronutrients, macros, and more\r</div><div>\u2022 Period tracker, habit tracker, unique data insights and visualization, integrations, dark mode, and more</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/sGSONJS.png"
-    },
-    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -3377,6 +3388,17 @@
           "absoluteVersion": "2.5"
         }
       ]
+    },
+    {
+      "name": "Mojo: AI Video and Reels Editor",
+      "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
+      "developerName": "Blatant",
+      "version": "1.253.1",
+      "versionDate": "2025-12-25T16:36:54.000Z",
+      "size": 189797587,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/q3iu7n4.png"
     },
     {
       "name": "MyFitnessPal++",
@@ -5525,17 +5547,6 @@
       "iconURL": "https://i.imgur.com/4kl0uWr.png"
     },
     {
-      "name": "VN Video Editor",
-      "bundleIdentifier": "com.blatant.vnvideoeditor",
-      "developerName": "Blatant",
-      "version": "2.0.1",
-      "versionDate": "2025-12-15T12:12:11.000Z",
-      "size": 316753263,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/YYfDChx.png"
-    },
-    {
       "name": "VSCO",
       "bundleIdentifier": "com.michaellema.vsco",
       "developerName": "Michael Lema",
@@ -5803,17 +5814,6 @@
         }
       ],
       "appID": "stream.yattee.app"
-    },
-    {
-      "name": "YouTube OLED",
-      "bundleIdentifier": "com.youtube.youtubeoled",
-      "developerName": "YouTube",
-      "version": "20.50.6",
-      "versionDate": "2025-12-15T12:16:17.000Z",
-      "size": 128245083,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/youtubeOled.ipa",
-      "localizedDescription": "<ul class=\"\"><li class=\"\">Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\r</li><li class=\"\">Copy video, comment, and post information\r</li><li class=\"\">Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only  mode\r</li><li class=\"\">Player settings: Gestures, default quality, preferred audio track\r</li><li class=\"\">Save, Load and Restore settings. Clear cache once or automatically on app startup\r</li><li class=\"\">Built-in SponsorBlock\r</li><li>And much, much more</li></ul>",
-      "iconURL": "https://i.imgur.com/nOSbYff.png"
     },
     {
       "name": "YouTube++",
