@@ -624,17 +624,6 @@
       "iconURL": "https://i.imgur.com/E2ic2ac.png"
     },
     {
-      "name": "Captions: For Talking Videos",
-      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
-      "developerName": "Blatant",
-      "version": "12.48.1",
-      "versionDate": "2025-12-15T12:03:10.000Z",
-      "size": 373335088,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
-      "iconURL": "https://i.imgur.com/zAg0CiN.png"
-    },
-    {
       "name": "CARROT Weather",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "developerName": "Grailr LLC",
@@ -1532,17 +1521,6 @@
       "appID": "com.rileytestut.Delta.Beta"
     },
     {
-      "name": "Delta Executor for Roblox",
-      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
-      "developerName": "Delta Executor",
-      "version": "2.702",
-      "versionDate": "2025-12-12T16:35:20.000Z",
-      "size": 140988698,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
-      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
-      "iconURL": "https://i.imgur.com/DSJyw6J.png"
-    },
-    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
@@ -2234,6 +2212,17 @@
           "absoluteVersion": "4.3"
         }
       ]
+    },
+    {
+      "name": "Flight Tracker +",
+      "bundleIdentifier": "com.blatant.flighttracker",
+      "developerName": "Blatant",
+      "version": "8.6.13",
+      "versionDate": "2025-12-25T15:34:18.000Z",
+      "size": 79972304,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/AGw1toj.png"
     },
     {
       "name": "Flightradar24",
@@ -4320,6 +4309,17 @@
         }
       ],
       "appID": "com.toyopagroup.picaboo"
+    },
+    {
+      "name": "Solo Knight",
+      "bundleIdentifier": "com.iosgods.soloknight",
+      "developerName": "iOSGods",
+      "version": "1.1.707",
+      "versionDate": "2025-12-25T16:16:03.000Z",
+      "size": 543676059,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SoloKnight.ipa",
+      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div><br></div><h3 class=\"\">Hack Features:<br>\r- Instant Skill<br>\r- Infinite MP<br>\r- God Mode</h3><div class=\"\"><br></div><div class=\"\">Solo Knight is a Diablo-like game designed for players who love to hack and slash. You are going to explore the hazardous underground world and fight against different monsters and strange creatures. You can use resources that you collect such as gold coins, equipment, and smelt stones to strengthen yourself. Try to create your own BD via a different combination of perks, runes, and affixes.\r</div><div class=\"\"><b class=\"\">Game Features:\r</b></div><div class=\"\"><ul class=\"\"><li class=\"\">&nbsp;200+ equipment\u2014\u2014 every equipment comes with an exclusive skill. You can collect more than 200 pieces of equipment. Each of them comes with a unique skill. You can change your equipment at any time you want. Let\u2019s try some different combinations and experience a wide variety of battles.</li><li class=\"\">90+ runes\u2014\u2014  DIY skills! It\u2018s all up to you! Besides a lot of equipment skills, you can also use different runes to change and strengthen the effects of your skills. For instance, runes can be used to increase the number, size, and speed of projectiles. It also allows your weapon to penetrate more enemies, or split up more projectiles when you hit your target. What's more, you can even summon a totem to fight for you.</li><li class=\"\">600+ perks\u2014\u2014create a growth route of your own. In this game, you will have two basic perks to represent offense and defense respectively. More than 600 perks provide you with countless options and possibilities. Try to plan your growth route with limited perk points, and find the best way out.</li></ul></div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
+      "iconURL": "https://i.imgur.com/zuOapXz.jpeg"
     },
     {
       "name": "SoundCloud++",
