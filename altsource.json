@@ -15,6 +15,17 @@
       "iconURL": "https://i.imgur.com/okPkWGi.png"
     },
     {
+      "name": " Kapi Cam - Vintage Camera",
+      "bundleIdentifier": "com.blatant.kapicamvintagecamera",
+      "developerName": "Blatant",
+      "version": "3.31.1",
+      "versionDate": "2025-12-28T17:19:46.000Z",
+      "size": 172519271,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/KapiCam.ipa",
+      "localizedDescription": "KAPI is an application that allows you to shoot DV, CCD, and film. You can use it to record the beautiful moments in life and enjoy the retro-style picture texture and atmosphere.\r<div>\r</div><div>\u2022 Simulates real DV and CCD effects, taking you back to the millennium in one second.\r</div><div>\u2022 Provides a variety of retro-style filters and special effects, allowing you to create different visual effects as you like.\r</div><div>\u2022 Supports real-time preview of effects, allowing you to easily capture your favorite images.\r</div><div>\u2022 Simple and easy-to-use operation interface, making creation at your fingertips.</div>",
+      "iconURL": "https://i.imgur.com/2OGn0Jh.png"
+    },
+    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -2034,17 +2045,6 @@
       "appID": "com.antique.emuThreeDS"
     },
     {
-      "name": "Endel: Focus and Sleep Sounds",
-      "bundleIdentifier": "com.blatant.endelfocusandsleepsounds",
-      "developerName": "Blatant",
-      "version": "4.48.436",
-      "versionDate": "2025-12-16T18:10:07.000Z",
-      "size": 217373705,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Endel.ipa",
-      "localizedDescription": "Focus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.\r<div>\r</div><div class=\"\">Endel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.\r</div><div class=\"\"><br></div><div>Get access to the following classic soundscapes at home, work, or on the move to relax, concentrate, and minimize distractions and brain fatigue:\r</div><div>\u2022 Focus \u2013 boosts your productivity by helping you concentrate for longer\r</div><div>\u2022 Sleep \u2013 soothes you into a deep sleep with soft, gentle sounds\r</div><div>\u2022 Relax \u2013 calms your mind to create feelings of comfort and safety\r</div><div>\u2022 Move \u2013 feel grounded and present while walking, hiking, or running</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/j3ijAh5.png"
-    },
-    {
       "name": "Facebook++",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
@@ -2313,17 +2313,6 @@
         }
       ],
       "appID": "com.rileytestut.GBA4iOS"
-    },
-    {
-      "name": "HabitKit",
-      "bundleIdentifier": "com.habitkit.habitkit",
-      "developerName": "HabitKit",
-      "version": "1.14.4",
-      "versionDate": "2025-12-15T12:18:33.000Z",
-      "size": 45844865,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/HabitKit.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div>HabitKit is the perfect app for anyone looking to form new habits or break old ones. With HabitKit, you can track your progress with beautiful tile-based grid charts. Whether you're trying to quit smoking, eat healthier, or exercise more, HabitKit can help you achieve your goals. You can customize your dashboard by adjusting colors, icons and descriptions. Draw motivation from growing the amount of colored tiles on your habit dashboard.</div>",
-      "iconURL": "https://i.imgur.com/7NBLTjF.png"
     },
     {
       "name": "HD Flix (No Ads)",
@@ -2943,6 +2932,17 @@
       "appID": "com.litritt.ignited"
     },
     {
+      "name": "ImgAI - AI Image Generator",
+      "bundleIdentifier": "com.imgai.imgaiaiimagegenerator",
+      "developerName": "ImgAI ",
+      "version": "5.90",
+      "versionDate": "2025-12-28T17:16:52.000Z",
+      "size": 262317344,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/imgAI.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Bring Your Ideas to Life With AI Image Generator ImgAI<div><br><div></div><div></div><div class=\"\">Got a cool idea in your head? Just type it out, pick a style, and ImgAI will transform it into stunning AI art in seconds. Whether you're feeling creative or just curious, ImgAI makes it super easy to generate unique, high-quality images. No design skills needed.\r</div><div class=\"\"><br></div><div class=\"\">What You Can Do With ImgAI:\r</div><div>\u2022 Turn words into digital artwork instantly\r</div><div>\u2022 Remix your photos into bold new styles\r</div><div>\u2022 Design custom logos and creative visuals\r</div><div>\u2022 Generate ultra-realistic portraits and images\r</div><div>\u2022 Convert sketches into detailed artwork\r</div><div>\u2022 Create AI selfies in different looks or moods\r</div><div>\u2022 Use Control Center widget or Shortcuts to generate fast (iOS 18 ready)\r</div><div>\u2022 Add Home &amp; Lock Screen widgets for instant image creation</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/K4jJe2y.png"
+    },
+    {
       "name": "iNDS",
       "bundleIdentifier": "net.nerd.iNDS",
       "developerName": "iNDS Team",
@@ -3347,6 +3347,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/luminar.ipa",
       "localizedDescription": "Luminar Mobile \u2014 Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.",
       "iconURL": "https://i.imgur.com/MLlSu1E.png"
+    },
+    {
+      "name": "Magic Eraser Background Editor",
+      "bundleIdentifier": "com.dangerouspixel.magiceraserbackgroundeditor",
+      "developerName": "Dangerous Pixel",
+      "version": "3.11.0",
+      "versionDate": "2025-12-28T17:11:49.000Z",
+      "size": 244413160,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MagicEraser.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Instantly remove the background or object of any picture, edit, arrange and save as PNG or JPG! Join 10 million Magic Background Eraser creators and take your images to the next level with AI powered high resolution editing.\r</div><div>Ideal for online sellers or photo enthusiasts, it is the most usable app for free without a watermark. Extra features are available for an affordable price.\r</div><div>Remove objects or cut out and save transparent images for use in Instagram, Poshmark, Shopify, Pinterest and many other apps. Add a white, colored or custom background to your photo cut-out and grow your brand with beautiful product posts and stories.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/2ria2r2.png"
     },
     {
       "name": "MAME4iOS",
@@ -4123,8 +4134,8 @@
       "name": "PUSH Workout and Gym Tracker",
       "bundleIdentifier": "com.blatant.pushworkoutandgymtracker",
       "developerName": "Blatant",
-      "version": "3.9.1",
-      "versionDate": "2025-12-21T13:55:44.000Z",
+      "version": "3.9.2",
+      "versionDate": "2025-12-28T17:14:24.000Z",
       "size": 32892620,
       "downloadURL": "https://s3.flekstore.com/ipa-library/push.ipa",
       "localizedDescription": "PUSH is about building muscle as fast as possible - with science. We achieve this with an algorithm built based strictly on published peer-reviewed research. You don't have to take our word for it, you can tap the referenced articles throughout the app as you use it.<div><br>&nbsp;\n<div>\n</div><div>\n</div><div class=\"\">- Our workouts are based on scientific research and your training data over time. You can view exactly how everything works in the app and read the references for yourself.\n</div><div class=\"\"><br></div><div>- PUSH generates a program based on your experience, sleep, gender, stress and time available to train. We fine tune your volume, frequency, rep range and exercise selection based on published research relating to these factors.\n</div><div>- Exercises are selected based on resistance curve and rep range.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
@@ -5221,17 +5232,6 @@
           "absoluteVersion": "8.0.2"
         }
       ]
-    },
-    {
-      "name": "Unfold: Story and Reels Maker",
-      "bundleIdentifier": "com.squarespace.unfoldstoryandreelsmaker",
-      "developerName": "Squarespace",
-      "version": "8.152.0",
-      "versionDate": "2025-12-15T12:19:15.000Z",
-      "size": 163485644,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Unfold.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div>\u2014 Stitch video clips together with Reels templates\r<div>\r</div><div>\u2014 Create with template collections like Film\r</div><div>\u2014 Plan and preview your Instagram Feed\r</div><div>\u2014 Remove any background with our AI editing tool\r</div><div>\u2014 Make a Bio Site for your new link in bio\r</div><div class=\"\">\u2014 Edit your content with filters and effects\r</div><div class=\"\"><br></div><div>Reels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\r</div><div>Story, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/zkLZ4N3.png"
     },
     {
       "name": "UTM",
