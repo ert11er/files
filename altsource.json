@@ -89,6 +89,17 @@
       ]
     },
     {
+      "name": "AI Marvels - AI Photo Editor",
+      "bundleIdentifier": "com.blatant.aimarvelsaiphotoeditor",
+      "developerName": "Blatant",
+      "version": "1.94.0",
+      "versionDate": "2025-12-29T13:18:20.000Z",
+      "size": 165089354,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/AIMarvels.ipa",
+      "localizedDescription": "AI Marvels is an advanced, powerful, all-in-one AI photo editor and video generation tool. With dozens of creative templates, you can transform your photos into anime characters, action figures, sketches, and other trending AI styles with just one tap. Our exclusive \"Image-to-Video\" feature allows you to turn a single picture into the trendiest videos of the moment. Simply upload your photo, enter your idea or choose a ready-made template, and generate stunning, trending AI videos in seconds. AI Marvels also offers a full suite of intelligent AI tools to unleash your creativity, and we update the latest AI features weekly to ensure you always stay ahead of social media trends.<div class=\"\"><br>&nbsp;\n<div>\n</div><div class=\"\"><b>&nbsp;Create Viral AI Videos \u2014 Instantly &amp; Effortlessly&nbsp;</b></div><div class=\"\"><ul><li class=\"\">&nbsp;Trending AI Videos: Create the hottest AI videos inspired by today\u2019s viral trends \u2014 from fun Sora-style clips to Hollywood-level visual effects and other ultra-realistic AI video styles. With just one tap, you can generate stunning, trend-ready AI videos effortlessly.\n</li><li>&nbsp;Banana Pro: An upgraded Magic Brush experience. Edit images with natural language\u2014no tapping or brushing required\u2014powered by Nano Banana AI.\n</li><li>&nbsp;Live Photo: Powered by cutting-edge image-to-video technology, bring your still photos to life with natural motion, emotion, and detail.\n</li><li>&nbsp;AI Dance: Turn any photo \u2014 people or pets \u2014 into a dancing character with one tap. Our constantly updated algorithms and trending dance styles keep your videos fresh and ahead of social media trends.</li></ul></div></div>",
+      "iconURL": "https://i.imgur.com/PDbi0rW.jpeg"
+    },
+    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -3204,6 +3215,17 @@
       "iconURL": "https://i.imgur.com/vSdiCk0.png"
     },
     {
+      "name": "Lifesum: AI Calorie Counter",
+      "bundleIdentifier": "com.blatant.lifesumaicaloriecounter",
+      "developerName": "Blatant",
+      "version": "23.3.1",
+      "versionDate": "2025-12-29T13:06:43.000Z",
+      "size": 130997524,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/LifeSum.ipa",
+      "localizedDescription": "A revolutionary way to track your meals, enhanced by AI.\r<div>\r</div><div>Welcome to a new era of nutrition tracking, tailored to your style. With the new Lifesum experience, you can choose to log your meals by snapping a photo, using your voice, typing a text, or scanning a barcode.\r</div><div><br></div><div>Health isn\u2019t about perfection\u2014it\u2019s about progress. Lifesum encourages small, manageable changes that add up to lasting results.\r</div><div class=\"\">Whether it\u2019s drinking more water, adding more fruits and veggies to your plate, or choosing healthier snacks, Lifesum celebrates every win, no matter how small.\r</div><div class=\"\"><br></div><div class=\"\"><b>SMARTER, SIMPLER MEAL TRACKING\r</b></div><div class=\"\">Track your meals your way:\r</div><div>\u2022 Snap a photo to get instant nutrition details.\r</div><div>\u2022 Speak for easy, hands-free logging.\r</div><div>\u2022 Type for more detailed tracking.\r</div><div>\u2022 Scan barcodes for fast info.\r</div><div class=\"\">\u2022 Use quick tracking for simple entries.\r</div><div class=\"\"><br></div><div class=\"\"><b>TOP LIFESUM FEATURES\r</b></div><div>\u2022 Calorie counter\r</div><div>\u2022 Macro tracker and food rating\r</div><div>\u2022 Nutrition plans for weight management and body composition\r</div><div>\u2022 Water tracker\r</div><div>\u2022 Fruit, vegetable, and fish tracker\r</div><div>\u2022 Meal plans with grocery lists included\r</div><div>\u2022 Integration with fitness trackers for in-depth health monitoring\r</div><div>\u2022 Life Score test for personalized nutrition recommendations</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/PNdUdJd.png"
+    },
+    {
       "beta": false,
       "name": "LiveContainer (nightly)",
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -3909,17 +3931,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
       "iconURL": "https://i.imgur.com/5tWdftH.png"
-    },
-    {
-      "name": "Planta: Plant and Garden Care",
-      "bundleIdentifier": "com.planta.plantaplantandgardencare",
-      "developerName": "Planta",
-      "version": "3.103",
-      "versionDate": "2025-12-17T17:35:36.000Z",
-      "size": 124014203,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Planta.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Individual care schedule and reminders for your plants, recommendations, step by step guides, identification, light meter and more. Keep your plants alive with Planta!\r</div><div><br></div><div>INTELLIGENT CARE REMINDERS \u2013 Powered by Planta\u2019s advanced AI!\r</div><div class=\"\">Never forget to water, fertilize, mist, repot, clean, prune, or overwintering your plants again! Just add them to the app, and Planta will send you perfectly timed care reminders and always adapt the schedule, tailored to each plant\u2019s needs.\r</div><div class=\"\"><br></div><div>DR. PLANTA \u2013 Your Personal Plant Doctor and In-House Plant Expert Team!\r</div><div>Yellow leaves? Brown spots? Unwanted pests? Weak growth? Dr. Planta and our in-house plant expert team will diagnose</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/UZCIWjW.png"
     },
     {
       "name": "Play!",
@@ -4973,17 +4984,6 @@
         ]
       },
       "appID": "com.streamer.ios"
-    },
-    {
-      "name": "Swipewipe - Photo Cleaner",
-      "bundleIdentifier": "com.blatant.swipewipephotocleaner",
-      "developerName": "Blatant",
-      "version": "3.2.40",
-      "versionDate": "2025-12-17T17:34:42.000Z",
-      "size": 78727663,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/swipewipe1.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Swipewipe is the app that will (finally) help you clean up your camera roll. And you\u2019ll enjoy reminiscing while you do it.\r</div><div>We'll save you the time: Yes, there are other apps that can help you quickly delete photos on your phone. But none of them worked for us!\r</div><div class=\"\">We wanted a simple, fun, elegant solution that let us go month-by-month, work our way through all our photos, videos, screenshots, and everything else in our camera roll, and decide - one by one - what to keep and what to get rid of. That\u2019s Swipewipe.\r</div><div class=\"\"><br></div><div>Here\u2019s how it works: swipe right to keep a photo, and left to delete it. If you make a mistake or change your mind, just tap the current photo to go back. Hold down on a picture to see its metadata. After you\u2019re done reviewing that month\u2019s photos, take one last look at the photos you chose to keep and the ones you chose to delete, make any tweaks you need to, and then\u2026you\u2019re done!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/XCukJTH.png"
     },
     {
       "name": "Taurine",
