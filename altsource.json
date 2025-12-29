@@ -3507,6 +3507,17 @@
       "iconURL": "https://i.imgur.com/q3iu7n4.png"
     },
     {
+      "name": "Moonly: Moon Phases and Calendar",
+      "bundleIdentifier": "com.blatant.moonlymoonphasesandcalendar",
+      "developerName": "Blatant",
+      "version": "2.5.8",
+      "versionDate": "2025-12-29T14:18:16.000Z",
+      "size": 168242606,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
+      "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/nZ0zpxP.jpeg"
+    },
+    {
       "name": "MyFitnessPal++",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "Strejda603",
@@ -5618,17 +5629,6 @@
         "entitlements": [],
         "privacy": []
       }
-    },
-    {
-      "name": "VEED - AI Captions and Shorts",
-      "bundleIdentifier": "com.veed.veedaicaptionsandshorts",
-      "developerName": "VEED",
-      "version": "8.1.0",
-      "versionDate": "2025-12-17T20:29:31.000Z",
-      "size": 110418748,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/veed.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Enjoy stress-free video creation with AI captions, quick translations, and more editing tools in one app. VEED makes it easy to add engaging and accurate captions to your talking videos. With advanced AI technology that supports 100+ languages, this caption app is becoming the go-to short video editor and subtitle generator for businesses, educators, and content creators.",
-      "iconURL": "https://i.imgur.com/4kl0uWr.png"
     },
     {
       "name": "VSCO",
