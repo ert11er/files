@@ -657,6 +657,17 @@
       "iconURL": "https://i.imgur.com/E2ic2ac.png"
     },
     {
+      "name": "Captions: For Talking Videos",
+      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
+      "developerName": "Blatant",
+      "version": "12.49.1",
+      "versionDate": "2025-12-29T18:00:43.000Z",
+      "size": 373335088,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
+      "iconURL": "https://i.imgur.com/zAg0CiN.png"
+    },
+    {
       "name": "CARROT Weather",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "developerName": "Grailr LLC",
@@ -1025,17 +1036,6 @@
           "absoluteVersion": "1.6"
         }
       ]
-    },
-    {
-      "name": "Crsel: Carousel and Story Maker",
-      "bundleIdentifier": "com.blatant.crselcarouselandstorymaker",
-      "developerName": "Blatant",
-      "version": "1.2.11",
-      "versionDate": "2025-12-17T20:39:57.000Z",
-      "size": 144457400,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/crsel.ipa",
-      "localizedDescription": "<b>Crsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.</b><div><br><div></div><div class=\"\"><ul><li>Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\r</li><li>From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to design posts that feel intentional, premium, and uniquely yours.\r</li><li>Trendy Collage Templates. Choose from layered, editorial-style templates made for storytelling! Combine multiple photos, add text, and guide your audience through a visual journey.\r</li><li>Story Templates That Match Your Feed. Create IG stories and Reels covers using the same style as your carousels. Maintain a cohesive aesthetic across all your content, from feed to story highlights.\r</li><li>Reels Cover Designer. Design eye-catching Reels thumbnails that match your feed. Crsel helps you maintain a polished and branded look across all formats\r</li><li>AI Cutout Tool. Automatically remove backgrounds from photos with one tap. Easily layer people, objects, or products over textured backdrops and collage elements.</li></ul></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/2h3iffd.png"
     },
     {
       "name": "Crunchyroll++",
@@ -1552,6 +1552,17 @@
       },
       "beta": false,
       "appID": "com.rileytestut.Delta.Beta"
+    },
+    {
+      "name": "Delta Executor for Roblox",
+      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
+      "developerName": "Delta Executor",
+      "version": "2.703",
+      "versionDate": "2025-12-29T17:50:14.000Z",
+      "size": 140988698,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
+      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
+      "iconURL": "https://i.imgur.com/DSJyw6J.png"
     },
     {
       "name": "Delta iPac Edition",
@@ -2276,17 +2287,6 @@
         "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
         "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
       ]
-    },
-    {
-      "name": "Fortnite",
-      "bundleIdentifier": "com.epicgames.fortnite",
-      "developerName": "Epic Games",
-      "version": "39.11",
-      "versionDate": "2025-12-18T12:29:01.000Z",
-      "size": 237086916,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
-      "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
-      "iconURL": "https://i.imgur.com/eCvGL65.png"
     },
     {
       "name": "GBA4iOS",
@@ -3085,17 +3085,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "iPoGo ",
-      "bundleIdentifier": "com.ipogo.ipogo",
-      "developerName": "iPoGo",
-      "version": "4.1.0 (0.391.1)",
-      "versionDate": "2025-12-20T04:53:31.000Z",
-      "size": 115162453,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ipogo.ipa",
-      "localizedDescription": "<p><strong>If you use in LiveContainer: Set Allow location access for LiveContainer app in iPhone settings to always and set Precise Location to ON&nbsp;</strong></p><p><strong>Uninstall other versions of Pokemon Go before downloading iPoGo.</strong></p>\n\n<p class=\"\"><u><i>iPoGo is a hack for Pokemon GO.</i></u></p><p class=\"\">The account may be blocked due to the use of cheats. We have no influence on this and are not responsible in case of blocking.</p><p class=\"\"><b><i>FREE FEATURES :</i></b></p><p class=\"\"><i>\u2022 Teleport Anywhere in the world<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Global list of Pokemon/Raids<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Ability to always throw Excellent Curveballs<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Autowalk random or specific routes<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Shiny Scanner<br>\u2022 Freeze Pokemon<br>\u2022 Incognito Mode<br>\u2022 Tap on screen to walk there<br>\u2022 Nearby feeds overlay<br>\u2022 Nest/Pokemon/Pokestop/Raid feeds<br>\u2022 Maping and S2 Overlay<br>\u2022 Custom Routes / Hotspots<br>\u2022 Show stats for all saved Pokemon<br>\u2022 Joystick for walking emulation<br>\u2022 Enhanced throw / Remember last ball<br>\u2022 Ability to preview the IV of a pokemon before you catch it<br>\u2022 Ability to see which gyms have empty slots<br>\u2022 Journal to help keep track of your cooldown<br>\u2022 Autowalk random or specific routes</span></i></p><p class=\"\"><b><i class=\"\">V.I.P FEATURES (Purchased on the site of the developer of the hack - ipogo.app) :</i></b></p><p class=\"\">\u2022<i> All Free Features are Included<br>\u2022 Built in Virtual GoPlus (Auto catching)<br>\u2022 Auto reconnect GoPlus<br>\u2022 One click item bag cleaner<br>\u2022 Global feeds overlay / Custom feeds<br>\u2022 Faster map loading<br>\u2022 Block non shiny encounters<br>\u2022 Block non 100iv encounters<br>\u2022 Skip animation screens<br>\u2022 Auto transfer pokemon ability<br>\u2022 One hit Team Rocket<br>\u2022 Fast Catch<br>\u2022 Instant Training Battles<br>\u2022 Spawn Booster + Radius Booster<br>\u2022 The warm and fuzzy feeling of supporting iPogo</i></p>\n",
-      "iconURL": "https://i.imgur.com/uswAJZq.jpg"
     },
     {
       "bundleIdentifier": "app.ish.iSH",
@@ -3920,6 +3909,17 @@
         }
       ],
       "appID": "com.microblink.PhotoMath"
+    },
+    {
+      "name": "Photoroom: AI Photo Editor",
+      "bundleIdentifier": "com.blatant.photoroomaiphotoeditor",
+      "developerName": "Blatant",
+      "version": "2025.52.01",
+      "versionDate": "2025-12-29T17:59:46.000Z",
+      "size": 133527206,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
+      "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/a3jEO3b.png"
     },
     {
       "name": "Photoshop Express Hack",
