@@ -515,6 +515,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/792/archero_icon.png"
     },
     {
+      "name": "Bazaart: AI Photo Video Editor",
+      "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
+      "developerName": "Dangerous Pixel",
+      "version": "26.0.8",
+      "versionDate": "2025-12-30T16:49:22.000Z",
+      "size": 47437417,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Bazaart1.ipa",
+      "localizedDescription": "POWERFUL DESIGN &amp; EDITING TOOLS<div>\u2022 Create mind-blowing AI avatars of you, your cat or dog</div><div>\u2022 Magically remove the background from any photo with the magic background eraser</div><div>\u2022 Remove unwanted objects and people from any photo with surgical precision using the remove tool</div><div>\u2022 Create fantastic images using a powerful AI art tool and magically turn your text to image</div><div>\u2022 Cut out photos and videos like a pro with a selection of handy crop, scissors, eraser and shape cut-out tools</div><div>\u2022 Enhance, adjust, and customize photos and videos: Change exposure, contrast, saturation, vibrance, warmth, tint, shadows, highlights, fade, sharpness and blur</div><div>\u2022 Add up to 100 photo layers and 5 video layers: each layer is independently editable and all changes reversible</div><div>\u2022 Apply fabulous filters on photos and videos to add a \u201cwow\u201d effect</div><div>\u2022 Create custom edge styles for photos and videos with the outline and shadow tools</div><div>\u2022 Blend photos and videos for mind-blowing effects</div><div>\u2022 Sketch and draw freely with the drawing tool</div><div>\u2022 Curve your text to match an arc or a circle</div><div>\u2022 Edit and modify text with alignment, letter and line spacing</div><div>\u2022 Perfectly align photos, videos, text, and any element with auto-snapping</div><div>\u2022 Position elements precisely with the nudge tool</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1028/Bazaart1_icon.png"
+    },
+    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Yandevelop",
@@ -1079,8 +1090,8 @@
       "name": "Dazz Cam - Vintage Camera",
       "bundleIdentifier": "com.blatant.dazzcamvintagecamera",
       "developerName": "Blatant",
-      "version": "2.13.1",
-      "versionDate": "2025-12-21T13:59:57.000Z",
+      "version": "2.13.2",
+      "versionDate": "2025-12-30T16:39:09.000Z",
       "size": 106980613,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Dazz.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Dazz Camera, Pro Photographer in your Pocket.\r</div><div>\r</div><div class=\"\"><br></div><div class=\"\">We believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\r</div><div class=\"\">\r</div><div><br></div><div>Dazz camera is inspired by classic film cameras from the 80s. We\u2019ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, half-frame cameras, instant camera, 3D film photography, disposable camera, and more.</div><div>\r</div>",
@@ -2097,17 +2108,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "Fall Guys",
-      "bundleIdentifier": "com.epicgames.fallguys",
-      "developerName": "Epic Games",
-      "version": "21.1.2",
-      "versionDate": "2025-12-21T13:44:42.000Z",
-      "size": 1835876907,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/fallguy.ipa",
-      "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.<div><br></div><div>Create your own Course: Fall Guys Creative is a level editor that allows you to create fiendish custom Rounds and share them with the wider community.</div><div><br></div><div>Competitive &amp; Cooperative: Tumble between competitive free-for-alls and cooperative challenges\u2014or take on the Blunderdome with up to 3 friends!</div><div><br></div><div>Play with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.</div><div><br></div><div>Ever-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1223/fallguy_icon.png"
     },
     {
       "name": "Fallout Shelter",
@@ -4231,6 +4231,17 @@
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
     },
     {
+      "name": "Regram for Instagram",
+      "bundleIdentifier": "com.fouadraheb.regramforinstagram",
+      "developerName": "Fouad Raheb",
+      "version": "410.1 (2.4)",
+      "versionDate": "2025-12-30T16:41:11.000Z",
+      "size": 204357512,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/regram.ipa",
+      "localizedDescription": "<span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Built-into Instagram</b></span><div>Runs inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features</div><div class=\"\"><b>Profile Analyzer</b></div><div>Scans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).</div><div class=\"\"><b>Stories Archive</b><br>Automatically download and store all your uploaded Stories including the full viewers and likers list and allow to view analytics of top viewers and likers.</div><div class=\"\"><b>Media Downloader</b></div><div class=\"\">Downloads any Instagram media, including posts, stories, reels, post audio, and direct messages.</div><div class=\"\"><b>Privacy</b></div><div class=\"\">View stories and read direct messages without sending seen receipts, send them manually with a single tap.</div><div class=\"\"><b>Messages</b></div><div class=\"\">Keep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.</div><div class=\"\"><b>Utilities &amp; Customization</b></div><div class=\"\">Confirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.<br><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1239/regram_icon.png"
+    },
+    {
       "name": "Renovate AI : Home Design",
       "bundleIdentifier": "com.billymoore.renovateaihomedesign",
       "developerName": "BillyMoore",
@@ -5710,17 +5721,6 @@
           "maxOSVersion": "16.1.2"
         }
       ]
-    },
-    {
-      "name": "WhatsApp Business",
-      "bundleIdentifier": "com.fouadraheb.whatsappbusiness",
-      "developerName": "FouadRaheb",
-      "version": "25.37.76",
-      "versionDate": "2025-12-21T13:32:55.000Z",
-      "size": 105049917,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/WatusiBusiness.ipa",
-      "localizedDescription": "The all-in-one tweak for WhatsApp Business!<div><br></div><div>Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1211/WatusiBusiness_icon.png"
     },
     {
       "name": "WhatsApp Watusi",
