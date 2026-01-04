@@ -1007,17 +1007,6 @@
       "appID": "com.rileytestut.Clip.Beta"
     },
     {
-      "name": "Coconote - AI Note Taker",
-      "bundleIdentifier": "com.blatant.coconoteainotetaker",
-      "developerName": "Blatant",
-      "version": "2.32",
-      "versionDate": "2025-12-21T13:53:43.000Z",
-      "size": 32974725,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1345/coconote_icon.png"
-    },
-    {
       "name": "Countdown",
       "bundleIdentifier": "com.neo.countdown",
       "developerName": "neoarz",
@@ -3505,6 +3494,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
       "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
+    },
+    {
+      "name": "Movie Box Pro",
+      "bundleIdentifier": "com.senumy.movieboxpro",
+      "developerName": "Senumy",
+      "version": "15.2.1",
+      "versionDate": "2026-01-04T20:09:38.000Z",
+      "size": 146451154,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MovieBoxPro.ipa",
+      "localizedDescription": "\r<div><br></div><div>Extended app features list:\r</div><div>- Discover Movies: now playing, upcoming, search...\r</div><div>- Movie information: ratings, description, cast, budget, actors, release...\r</div><div>- Watch: trailers &amp; related video contents\r</div><div>- Buy or Rent: direct link to the iTunes Store to watch the Full Movie (rates apply)\r</div><div>- Lists: Browse Curated Movie lists, Organize your own movie database with a watchlist...\r</div><div>- Download: add your own videos &amp; movies &amp; TV-shows via Dropbox to the app library so you can watch them offline anywhere...\r</div><div>- Video player: fully featured HD video player\r</div><div>- Explore: Search to discover, watch and stream video content related to your favorite movies...\r</div><div>- Available on iPhone and Ipad\r</div><div class=\"\">- No login or authentification needed (except when you want to add your own content to the app through the Dropbox functionality)\r</div><div><br></div><div class=\"\"><i><b>Please note:\r</b></i></div><h3 class=\"\"><span style=\"font-weight: normal;\"><i>Our app is not a full movie streaming service. Full-length movies are not available within the app.<br></i><i>You need to download your own movies and videos to your device with the app (via Dropbox) to watch them offline anywhere.<br></i><i>Otherwise, we make it easy for you. For a wide catalog of movies (not playing now in theaters), you will find a direct link to buy in iTunes Store (button is below in the movie information page, rates apply).</i></span></h3><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/851/MovieBoxPro_icon.png"
     },
     {
       "name": "MyFitnessPal++",
