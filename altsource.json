@@ -4,17 +4,6 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
-      "name": " CollaNote: Notes and PDF Markup",
-      "bundleIdentifier": "com.blatant.collanotenotesandpdfmarkup",
-      "developerName": "Blatant",
-      "version": "4.0.3",
-      "versionDate": "2025-12-23T13:50:02.000Z",
-      "size": 130003270,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CollaNote.ipa",
-      "localizedDescription": "<b>BUILT FOR APPLE PENCIL WITH AN ENHANCED WRITING EXPERIENCE:\r</b><div>- 25+ different pens and brushes to transform your notes into artwork.\r</div><div>- Handwriting stabilizer for beautiful, smooth writing.\r</div><div>- Enjoy a calming ASMR note-taking experience.\r</div><div class=\"\">- Infinite Arc Menu available for both Apple Pencil Pro and Apple Pencil Gen 2.\r</div><div class=\"\"><br></div><div class=\"\"><b>IMPORT, MARK-UP, AND EXPORT PDF:\r</b></div><div>- Import and mark up PDFs, PPTs, DOCs, and Images effortlessly.\r</div><div>- In-built scanner to digitize your physical documents.\r</div><div class=\"\">- Export notes to PDF and share with ease.\r</div><div class=\"\"><br></div><div class=\"\"><b>POWERFUL TOOLS:\r</b></div><div>- Translation tool to learn new languages, supporting over 90 languages.\r</div><div>- Create flashcards with audio and images, or use our extensive library.\r</div><div>- Beautiful Planners for tracking tasks, deadlines, and schedules.\r</div><div class=\"\">- Record and sync audio directly within your notes.\r</div><div class=\"\"><br></div><div class=\"\"><b>UNLIMITED PAPERS AND NOTEBOOKS:\r</b></div><div>- Unlimited paper with versatile grids/lines and 150+ colorful templates.\r</div><div>- Keep all your notes organized and easily accessible from anywhere.\r</div><div>- Automatically back up to iCloud and sync across iOS devices.\r</div><div>- Smart Dark Mode for optimal visibility in any lighting.\r</div><div>- Password protection for ultimate note security.\r</div><div><br></div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1463/CollaNote_icon.png"
-    },
-    {
       "name": " Kapi Cam - Vintage Camera",
       "bundleIdentifier": "com.blatant.kapicamvintagecamera",
       "developerName": "Blatant",
@@ -98,6 +87,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/AIMarvels.ipa",
       "localizedDescription": "AI Marvels is an advanced, powerful, all-in-one AI photo editor and video generation tool. With dozens of creative templates, you can transform your photos into anime characters, action figures, sketches, and other trending AI styles with just one tap. Our exclusive \"Image-to-Video\" feature allows you to turn a single picture into the trendiest videos of the moment. Simply upload your photo, enter your idea or choose a ready-made template, and generate stunning, trending AI videos in seconds. AI Marvels also offers a full suite of intelligent AI tools to unleash your creativity, and we update the latest AI features weekly to ensure you always stay ahead of social media trends.<div class=\"\"><br>&nbsp;\n<div>\n</div><div class=\"\"><b>&nbsp;Create Viral AI Videos \u2014 Instantly &amp; Effortlessly&nbsp;</b></div><div class=\"\"><ul><li class=\"\">&nbsp;Trending AI Videos: Create the hottest AI videos inspired by today\u2019s viral trends \u2014 from fun Sora-style clips to Hollywood-level visual effects and other ultra-realistic AI video styles. With just one tap, you can generate stunning, trend-ready AI videos effortlessly.\n</li><li>&nbsp;Banana Pro: An upgraded Magic Brush experience. Edit images with natural language\u2014no tapping or brushing required\u2014powered by Nano Banana AI.\n</li><li>&nbsp;Live Photo: Powered by cutting-edge image-to-video technology, bring your still photos to life with natural motion, emotion, and detail.\n</li><li>&nbsp;AI Dance: Turn any photo \u2014 people or pets \u2014 into a dancing character with one tap. Our constantly updated algorithms and trending dance styles keep your videos fresh and ahead of social media trends.</li></ul></div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1466/AIMarvels_icon.jpeg"
+    },
+    {
+      "name": "Aloha Browser - Private VPN",
+      "bundleIdentifier": "com.blatant.alohabrowserprivatevpn",
+      "developerName": "Blatant",
+      "version": "7.14.1",
+      "versionDate": "2026-01-12T13:24:34.000Z",
+      "size": 15635988,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/AlohaVPN.ipa",
+      "localizedDescription": "Premium unlocked<div><br></div><div>Aloha Browser is the ultimate private browser, providing unparalleled privacy and security for all your browsing needs.\r</div><div>With hundreds of millions of users around the world, Aloha has earned a 5-star rating in many countries, thanks to its clean interface, ease of use, and awesome features.</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1357/AlohaVPN_icon.png"
     },
     {
       "name": "AltStore",
@@ -515,6 +515,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/792/archero_icon.png"
     },
     {
+      "name": "B612 - AI Photo and Video Editor",
+      "bundleIdentifier": "com.blatant.b612aiphotoandvideoeditor",
+      "developerName": "Blatant",
+      "version": "14.7.10",
+      "versionDate": "2026-01-12T13:11:39.000Z",
+      "size": 132121404,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/b612.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>B612 is the best all-in-one camera &amp; photo/video editing app. We offer various free features and tools to make every moment more special.\r<div>\r</div><div>Meet trendy effects, filters, and stickers that are updated every day!\r</div><div>=== Main features ===\r</div><div>*Create your own filters*\r</div><div>- Create a one-of-a-kind filter and share it with friends\r</div><div>- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\r</div><div>- Meet the creative and diverse filters of B612 creators.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1347/b612_icon.png"
+    },
+    {
       "name": "Bazaart: AI Photo Video Editor",
       "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
       "developerName": "Dangerous Pixel",
@@ -571,28 +582,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "BH Instagram",
-      "bundleIdentifier": "com.banderhl.bhinstagram",
-      "developerName": "BanderHL",
-      "version": "410.1.0",
-      "versionDate": "2025-12-23T13:36:16.000Z",
-      "size": 250666471,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BHInsta.ipa",
-      "localizedDescription": "<ul><li>Hide Ads\r</li><li>No suggested post\r</li><li>Show Like count\r</li><li>Confirm like\r</li><li>Copy description\r</li><li>Download Videos\r</li><li>Save profile image\r</li><li>Keep deleted message\r</li><li>Remove last seen\r</li><li>Remove screenshot alert\r</li><li>Unlimited replay of once story\r</li><li>Disable Story Seen Receipt\r</li><li>Padlock</li></ul>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1392/BHInsta_icon.png"
-    },
-    {
-      "name": "BH X",
-      "bundleIdentifier": "com.dangerouspixel.bhx",
-      "developerName": "Dangerous Pixel",
-      "version": "11.50",
-      "versionDate": "2025-12-23T13:33:05.000Z",
-      "size": 100174044,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/TwitterBHTwitter.ipa",
-      "localizedDescription": "BHTwitter<div>\u2022 Download Videos (even with private accounts).</div><div>\u2022 Download Videos from DM (hold the video cell).</div><div>\u2022 Unlock Undo Tweets for free.</div><div>\u2022 Hide promoted tweet from the timeline.</div><div>\u2022 Enable voice tweet and voice message in DM.</div><div>\u2022 Confirm alert when Like/Dislike.</div><div>\u2022 Lock Twitter with passcode.</div><div>\u2022 Enable Reader mode.</div><div>\u2022 Autoload photos in the highest quality.</div><div><br></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/963/TwitterBHTwitter_icon.png"
     },
     {
       "name": "Bloons TD 6",
@@ -996,6 +985,17 @@
       "appID": "com.rileytestut.Clip.Beta"
     },
     {
+      "name": "Coconote - AI Note Taker",
+      "bundleIdentifier": "com.blatant.coconoteainotetaker",
+      "developerName": "Blatant",
+      "version": "2.33",
+      "versionDate": "2026-01-12T13:26:58.000Z",
+      "size": 32974725,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1345/coconote_icon.png"
+    },
+    {
       "name": "Countdown",
       "bundleIdentifier": "com.neo.countdown",
       "developerName": "neoarz",
@@ -1025,6 +1025,17 @@
           "absoluteVersion": "1.6"
         }
       ]
+    },
+    {
+      "name": "Crsel: Carousel and Story Maker",
+      "bundleIdentifier": "com.blatant.crselcarouselandstorymaker",
+      "developerName": "Blatant",
+      "version": "1.3.1",
+      "versionDate": "2026-01-12T13:14:30.000Z",
+      "size": 144457400,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/crsel.ipa",
+      "localizedDescription": "<b>Crsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.</b><div><br><div></div><div class=\"\"><ul><li>Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\r</li><li>From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to design posts that feel intentional, premium, and uniquely yours.\r</li><li>Trendy Collage Templates. Choose from layered, editorial-style templates made for storytelling! Combine multiple photos, add text, and guide your audience through a visual journey.\r</li><li>Story Templates That Match Your Feed. Create IG stories and Reels covers using the same style as your carousels. Maintain a cohesive aesthetic across all your content, from feed to story highlights.\r</li><li>Reels Cover Designer. Design eye-catching Reels thumbnails that match your feed. Crsel helps you maintain a polished and branded look across all formats\r</li><li>AI Cutout Tool. Automatically remove backgrounds from photos with one tap. Easily layer people, objects, or products over textured backdrops and collage elements.</li></ul></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1461/crsel_icon.png"
     },
     {
       "name": "Crunchyroll++",
@@ -1057,8 +1068,8 @@
       "name": "Darkroom: Photo and Video Editor",
       "bundleIdentifier": "com.blatant.darkroomphotoandvideoeditor",
       "developerName": "Blatant",
-      "version": "7.0.10",
-      "versionDate": "2025-12-24T18:55:15.000Z",
+      "version": "7.0.14",
+      "versionDate": "2026-01-12T13:17:23.000Z",
       "size": 159660645,
       "downloadURL": "https://s3.flekstore.com/ipa-library/darkroom.ipa",
       "localizedDescription": "Optimize your creative workflow with Darkroom: Photo &amp; Video Editor, now available for macOS. Experience the pinnacle of desktop editing with Darkroom, designed to elevate your photo and video projects with its comprehensive, feature-rich editing suite.<div><br><div></div><div></div><div class=\"\">Dive into a world where AI powers precision editing, offering you the ability to meticulously sculpt your visuals. With advanced depth editing and object recognition, fine-tune the elements of your photos\u2014like skies, hair, and skin\u2014with unmatched accuracy. Darkroom rivals the functionality of industry giants such as Adobe Lightroom and Canva, providing a versatile toolkit for every creative need.\r</div><div class=\"\"><br></div><div>Unleash your creativity with intuitive tools like touch-responsive curves and selective color adjustments, making the editing process smoother and enabling the creation of distinctive presets. Explore the richness of RAW photography with full-resolution support and 16-bit color depth, ensuring every detail, shadow, and highlight is perfectly captured.</div><div>\r</div><div>\r</div></div>",
@@ -2034,6 +2045,17 @@
       "appID": "com.antique.emuThreeDS"
     },
     {
+      "name": "Endel: Focus and Sleep Sounds",
+      "bundleIdentifier": "com.blatant.endelfocusandsleepsounds",
+      "developerName": "Blatant",
+      "version": "4.49.5",
+      "versionDate": "2026-01-12T13:22:38.000Z",
+      "size": 217373705,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Endel.ipa",
+      "localizedDescription": "Focus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.\r<div>\r</div><div class=\"\">Endel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.\r</div><div class=\"\"><br></div><div>Get access to the following classic soundscapes at home, work, or on the move to relax, concentrate, and minimize distractions and brain fatigue:\r</div><div>\u2022 Focus \u2013 boosts your productivity by helping you concentrate for longer\r</div><div>\u2022 Sleep \u2013 soothes you into a deep sleep with soft, gentle sounds\r</div><div>\u2022 Relax \u2013 calms your mind to create feelings of comfort and safety\r</div><div>\u2022 Move \u2013 feel grounded and present while walking, hiking, or running</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1458/Endel_icon.png"
+    },
+    {
       "name": "Facebook++",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
@@ -2086,6 +2108,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Facetune",
+      "bundleIdentifier": "com.omtk.facetune",
+      "developerName": "omtk",
+      "version": "3.115.1",
+      "versionDate": "2026-01-12T13:04:42.000Z",
+      "size": 50934299,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
+      "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/599/Facetune_icon.png"
     },
     {
       "name": "Fallout Shelter",
@@ -2228,23 +2261,12 @@
       "name": "Flight Tracker +",
       "bundleIdentifier": "com.blatant.flighttracker",
       "developerName": "Blatant",
-      "version": "8.6.13",
-      "versionDate": "2025-12-25T15:34:18.000Z",
+      "version": "8.7.0",
+      "versionDate": "2026-01-12T13:06:08.000Z",
       "size": 79972304,
       "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
-    },
-    {
-      "name": "Flightradar24",
-      "bundleIdentifier": "com.blatant.flightradar24",
-      "developerName": "Blatant",
-      "version": "10.21.0",
-      "versionDate": "2025-12-22T17:31:19.000Z",
-      "size": 190043853,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Flightradar.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div><div>The world's best flight tracker app - #1 Travel app in over 150 countries.</div><div><br></div><div>Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it\u2019s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1291/Flightradar_icon.png"
     },
     {
       "beta": false,
@@ -2995,17 +3017,6 @@
       "appID": "com.firecore.infuse"
     },
     {
-      "name": "InShot",
-      "bundleIdentifier": "com.kamohacks.inshot",
-      "developerName": "Kamo Hacks",
-      "version": "1.92.1",
-      "versionDate": "2025-12-21T13:58:03.000Z",
-      "size": 90921678,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/InShot.ipa",
-      "localizedDescription": "<div class=\"\"><i>Premium Unlocked</i></div><div><br></div>InShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1094/InShot_icon.png"
-    },
-    {
       "name": "Instagram Rhino",
       "bundleIdentifier": "com.Lema.Michael.InstagramApp",
       "developerName": "Michael Lema",
@@ -3167,8 +3178,8 @@
       "name": "iTranslate Translator",
       "bundleIdentifier": "com.blatant.itranslatetranslator",
       "developerName": "Blatant",
-      "version": "17.4.65",
-      "versionDate": "2025-12-24T18:50:45.000Z",
+      "version": "17.4.67",
+      "versionDate": "2026-01-12T13:10:51.000Z",
       "size": 75306866,
       "downloadURL": "https://s3.flekstore.com/ipa-library/iTranslate.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>iTranslate is one of the leading translation and dictionary apps designed to help you break language barriers with ease. Seamlessly translate text, websites, objects, or start voice-to-voice conversations in over 100 languages. Our unique Custom Phrasebook feature allows you to learn new languages and create personalized collections of phrases for various life situations. And if you need to use iTranslate abroad, our Offline Mode allows you to forget about paying expensive roaming charges.</div>",
@@ -3191,17 +3202,6 @@
       "version": "19.4",
       "versionDate": "2022-03-05T12:00:00-06:00",
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
-    },
-    {
-      "name": "Last Day On Earth Hack",
-      "bundleIdentifier": "com.iosgods.lastdayonearthhack",
-      "developerName": "iOSGods",
-      "version": "1.43.0",
-      "versionDate": "2025-12-23T15:17:07.000Z",
-      "size": 499878426,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/lastday.ipa",
-      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p><strong>Hack Features:</strong><br />\r\n&bull; Anti-Cheat -&gt; Disable Cheat detection.<br />\r\n&bull; Item Duplication -&gt; Split an Item to get more.<br />\r\n&bull; Can Duplicate/Split Any Item -&gt; Duplicate any item in your inventory!<br />\r\n&bull; Free Crafting -&gt; Craft without required items. Do not craft unreleased items or your game will stop loading! See the Club to find out which ones you shouldn&#39;t craft.<br />\r\n&bull; Free Building -&gt; Build without required items.<br />\r\n&bull; Free Upgrading -&gt; Upgrade without required items.<br />\r\n&bull; Building hack -&gt; Thanks to the features above<br />\r\n&bull; Infinite Weapon/Item Durability<br />\r\n&bull; Infinite All Armor Durability&nbsp;<br />\r\n&bull; Unlimited Skill Points -&gt; Use skill points to increase them.<br />\r\n&bull; No Level Requirement for Crafting<br />\r\n&bull; Loot Boxes Hack! -&gt; Open 1 loot box and gain 10,000! If IAP/Free Store is patched, use this to gain a lot of loot boxes when opening one.<br />\r\n&bull; Item Increase Hack -&gt; When taking an item from your inbox, it will take it and still keep it in your inbox. If you have a lot of the same item, you can increase said item as much as you want!<br />\r\n&bull; Unlock All Items -&gt; All blueprints unlocked!<br />\r\n&bull; Unlimited Consumables -&gt; Unlimited Food, Water, etc.<br />\r\n&bull; High Rate of Fire -&gt; One Hit Kill. Works well on Shotguns.<br />\r\n&bull; Unlimited Weapon Blueprints - Using the Recycler / Weapon Specialist in Bunker Alfa and the Unlimited Consumable Items Hack, you can get every Weapon Blueprints in the game.<br />\r\n&bull; Bow Instant Charge for Shot -&gt; Tap on the shoot icon to instantly shoot your bow without having to charge it.</p>\r\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/777/lastday_icon.png"
     },
     {
       "name": "Lifesum: AI Calorie Counter",
@@ -3299,17 +3299,6 @@
       "headline": "Fix cookies regression (#888)"
     },
     {
-      "name": "Lost in Play+",
-      "bundleIdentifier": "com.snapbreakgames.lostinplay",
-      "developerName": "Snapbreak games",
-      "version": "1.0.2053",
-      "versionDate": "2025-12-24T17:04:59.000Z",
-      "size": 631692356,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/LostInPlay.ipa",
-      "localizedDescription": "Help a brother and sister on an uplifting epic adventure to find their way home. Solving puzzles, escaping a horned beast and meeting quirky goblins are just part of the journey!<div><br><div></div><div class=\"\">Lost in Play is a journey through childhood imagination with thoughtfully crafted puzzles and colorful characters. Play as a brother and sister duo on an adventure to find their way back home. Between reality and fantasy, the siblings explore the enchanted forest of a horned beast, start a rebellion in a goblin village, and help a team of frogs free a sword from a stone.\r</div><div class=\"\"><br></div><div class=\"\"><b>PUZZLES &amp; MYSTERY\r</b></div><div class=\"\">The bizarre and dreamlike world of Lost in Play is filled with mystery, unique puzzles, and mini-games. Challenge a pirate seagull to a game of clicking crabs, serve magical tea to a royal toad, and collect pieces to build a flying machine. Be a part of this modern point &amp; click game that will reward your curiosity and leave you excited for the next piece of story.\r</div><div class=\"\"><br></div><div class=\"\"><b>IMAGINATION COMES TO LIFE\r</b></div><div class=\"\">From what seems like a normal morning at home to a typical afternoon at the park, you'll soon find yourself on a whirlwind quest as you sneak into a goblin castle, explore ancient ruins, and soar atop a giant stork. Lost in Play takes you on a nostalgic roller-coaster!\r</div><div class=\"\"><br></div><div class=\"\"><b>AN INTERACTIVE CARTOON\r</b></div><div>With a hand-crafted style similar to animated shows from childhood, Lost in Play is a story meant for all. Whether you\u2019re seeking wholesome delight or just a good time, the family can enjoy this story together.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1464/LostInPlay_icon.png"
-    },
-    {
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch, LLC",
@@ -3341,8 +3330,8 @@
       "name": "Luminar Mobile AI Photo Editor",
       "bundleIdentifier": "com.blatant.luminarmobileaiphotoeditor",
       "developerName": "Blatant",
-      "version": "3.1",
-      "versionDate": "2025-12-21T14:01:54.000Z",
+      "version": "3.1.2",
+      "versionDate": "2026-01-12T13:12:12.000Z",
       "size": 373249461,
       "downloadURL": "https://s3.flekstore.com/ipa-library/luminar.ipa",
       "localizedDescription": "Luminar Mobile \u2014 Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.",
@@ -3441,8 +3430,8 @@
       "name": "Mimo: Learn Coding/Programming",
       "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
       "developerName": "Blatant",
-      "version": "10.0.0",
-      "versionDate": "2025-12-22T17:29:49.000Z",
+      "version": "10.2.0",
+      "versionDate": "2026-01-12T13:04:05.000Z",
       "size": 136645016,
       "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
       "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
@@ -3488,8 +3477,8 @@
       "name": "Mojo: AI Video and Reels Editor",
       "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
       "developerName": "Blatant",
-      "version": "1.253.1",
-      "versionDate": "2025-12-25T16:36:54.000Z",
+      "version": "1.255",
+      "versionDate": "2026-01-12T13:06:57.000Z",
       "size": 189797587,
       "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -3499,8 +3488,8 @@
       "name": "Moonly: Moon Phases and Calendar",
       "bundleIdentifier": "com.blatant.moonlymoonphasesandcalendar",
       "developerName": "Blatant",
-      "version": "2.5.8",
-      "versionDate": "2025-12-29T14:18:16.000Z",
+      "version": "2.6.3",
+      "versionDate": "2026-01-12T13:23:57.000Z",
       "size": 168242606,
       "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
       "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
@@ -3627,17 +3616,6 @@
         ]
       },
       "appID": "com.marcuszhou.NineAnimator"
-    },
-    {
-      "name": "Notability: Smarter AI Notes",
-      "bundleIdentifier": "com.blatant.notabilitysmarterainotes",
-      "developerName": "Blatant",
-      "version": "15.3.1",
-      "versionDate": "2025-12-23T13:42:51.000Z",
-      "size": 216310194,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/NotabilityAI.ipa",
-      "localizedDescription": "<div><div class=\"\"><b>Whether you\u2019re studying for an exam, organizing a meeting, or sketching your next big idea\u2014Notability is the essential resource you can rely on to capture, organize, and share your thoughts with ease.\r</b></div><div class=\"\"><br></div><div>YOUR ALL-IN-ONE DIGITAL NOTEBOOK\r</div><div>\u2022 Write, type, or sketch with lifelike digital ink, highlighters, and text tools.\r</div><div>\u2022 Mark up anything: PDFs, textbooks, lecture slides, images, and more.\r</div><div>\u2022 Stay organized with customizable folders and subjects.\r</div><div>STUDY SMARTER WITH LEARN AI\r</div><div>\u2022 Live Smart Note instant summaries of your notes.\r</div><div>\u2022 Quizzes and flashcards tailored to you.\r</div><div>\u2022 Chat with your notes \u2013 your AI-powered assistant\r</div><div>RECORD, REVIEW AND REMEMBER \r</div><div>\u2022 Audio recording synced to your notes; perfect for lectures and meetings.\r</div><div>\u2022 Search for anything, including transcripts, text and handwriting.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1462/NotabilityAI_icon.png"
     },
     {
       "name": "Nulls Brawl",
@@ -3889,8 +3867,8 @@
       "name": "Peachy Pro",
       "bundleIdentifier": "com.dvntm.peachypro",
       "developerName": "dvntm",
-      "version": "2.8.1",
-      "versionDate": "2025-12-23T13:46:24.000Z",
+      "version": "2.9.0",
+      "versionDate": "2026-01-12T13:08:12.000Z",
       "size": 102963908,
       "downloadURL": "https://s3.flekstore.com/ipa-library/PeachyPro.ipa",
       "localizedDescription": "Aiming at perfection in everything, Peachy is a powerful &amp; handy pro photo editor, especially for selfie editing &amp; retouching, body shape editing.<div><br></div><div>Everybody is an excellent photographer with this simple retouch tool, it helps you meet the best version of you, smooth skin, whiten teeth, reshape face, fix blemishes, remove wrinkles, become taller, add makeup, tattoo, muscles &amp; filters and so on.</div><div><br></div><div>Peachy provides lots of portrait and selfie photo editing features. Download it and give a try!</div><div><br></div><div>RETOUCH</div><div>\u00b7Remove wrinkles and acne</div><div>\u00b7Smooth and brightened your skin</div><div>\u00b7Reduce dark circles under your eyes</div><div>\u00b7Whiten your teeth</div><div>\u00b7Add volume and darken your eyebrow</div><div><br></div><div>RESHAPE</div><div>\u00b7Reshape your body and facial structure</div><div>\u00b7Refine a specific area of the selfie, for example, arms or facial features</div><div>\u00b7Bloat your breast, enlarge muscles and facial features</div><div><br></div><div>HEIGHT CORRECTION</div><div>\u00b7Elongate your legs and become taller</div><div>\u00b7Enhance your body both laterally and longitudinally</div><div><br></div><div>ADD MUSCLES</div><div>\u00b7Add six pack abs muscles</div><div>\u00b7Add chest muscles</div><div><br></div><div>ADD TATTOO</div><div>\u00b7Add creative tattoos to your body</div><div><br></div><div>LIGHTING EFFECTS</div><div>\u00b7Improve lighting effects of the selfie or portrait</div><div><br></div><div>ACCESSORIES</div><div>\u00b7Decorate your selfie or portrait with stylish accessories</div><div><br></div><div>FILTERS</div><div>\u00b7High-fashion vintage filters, perfect for selfie</div><div><br></div><div>ADJUST</div><div>\u00b7Create custom filters by adjusting brightness, contrast etc.</div><div><br></div><div>Perfect your selfies or portraits in Peachy, and share with your friends online, it can be fun and inspiring!</div>",
@@ -3944,17 +3922,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
     },
     {
-      "name": "Photoshop Express Hack",
-      "bundleIdentifier": "com.adobe.photoshopexpresshack",
-      "developerName": "Adobe",
-      "version": "25.50.0",
-      "versionDate": "2025-12-22T17:40:04.000Z",
-      "size": 104508698,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoshop.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3>\n\n<p>ENHANCE, STYLIZE AND SHARE YOUR PHOTOS WITH EASE.</p>\n\n<p>Tap into your creativity on the go with Photoshop Express\u2013the fast and easy photo editor\u2013used by millions of creative individuals. Edit pictures like the pros with this easy-to-use digital studio full of photo editing features on your mobile device.</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/725/Photoshop_icon.png"
-    },
-    {
       "name": "PicsArt Pro",
       "bundleIdentifier": "com.dangerouspixel.picsartpro",
       "developerName": "Dangerous Pixel",
@@ -3964,6 +3931,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/966/picsart_icon.png"
+    },
+    {
+      "name": "Place Guesser",
+      "bundleIdentifier": "com.mobivalley.placeguesser",
+      "developerName": "Mobivalley",
+      "version": "1.48.0",
+      "versionDate": "2026-01-12T13:21:27.000Z",
+      "size": 48929404,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PlaceGuesser.ipa",
+      "localizedDescription": "Explore curated locations with no repeats!<div><br><div></div><div>You are dropped somewhere in the world in and you have to find clues and guess your location on the world map.\r</div><div>Embark on a thrilling global adventure with our immersive travel game!\r</div><div>Explore the world like never before with our two exciting game modes: Quick Play and Country Streak.\r</div><div class=\"\">In Quick Play, test your observation skills and race against the clock to guess your location based on captivating 360\u00b0 panorama look around view images.\r</div><div class=\"\"><br></div><div>Want to challenge your geographical knowledge even further?\r</div><div>Dive into Country Streak and guess the correct country based on stunning street view scenes. \r</div><div>Immerse yourself in breathtaking landscapes, iconic landmarks, and vibrant city streets from around the world. Whether you're a casual explorer or a seasoned globetrotter, our app will keep you hooked with its addictive gameplay and captivating visuals.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1430/PlaceGuesser_icon.png"
     },
     {
       "name": "Play!",
@@ -4167,12 +4145,23 @@
       "name": "PUSH Workout and Gym Tracker",
       "bundleIdentifier": "com.blatant.pushworkoutandgymtracker",
       "developerName": "Blatant",
-      "version": "3.9.2",
-      "versionDate": "2025-12-28T17:14:24.000Z",
+      "version": "3.9.7",
+      "versionDate": "2026-01-12T13:21:53.000Z",
       "size": 32892620,
       "downloadURL": "https://s3.flekstore.com/ipa-library/push.ipa",
       "localizedDescription": "PUSH is about building muscle as fast as possible - with science. We achieve this with an algorithm built based strictly on published peer-reviewed research. You don't have to take our word for it, you can tap the referenced articles throughout the app as you use it.<div><br>&nbsp;\n<div>\n</div><div>\n</div><div class=\"\">- Our workouts are based on scientific research and your training data over time. You can view exactly how everything works in the app and read the references for yourself.\n</div><div class=\"\"><br></div><div>- PUSH generates a program based on your experience, sleep, gender, stress and time available to train. We fine tune your volume, frequency, rep range and exercise selection based on published research relating to these factors.\n</div><div>- Exercises are selected based on resistance curve and rep range.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1410/push_icon.png"
+    },
+    {
+      "name": "Radarbot Pro",
+      "bundleIdentifier": "com.dangerouspixel.radarbotpro",
+      "developerName": "Dangerous Pixel",
+      "version": "9.33",
+      "versionDate": "2026-01-12T13:16:23.000Z",
+      "size": 198604937,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/RadarBotPro.ipa",
+      "localizedDescription": "<div class=\"\"><i>Premium version of Radarbot: Speed Cameras &amp; GPS.&nbsp;</i></div><div class=\"\"><i><br></i></div>Radarbot is your GPS navigator specialized in radars. Drive protected and forget about fines forever. Enjoy driving!<div class=\"\"><br><div class=\"\"><b>Features:</b></div><div>- It works in any country.</div><div>- It is compatible with other apps. You can use Radarbot simultaneously with other GPS navigators or your favorite music app. You will continue to receive alerts in the background or while the screen is turned off.</div><div>- Alerts only in the direction you are driving. The app automatically ignores radars in the opposite direction or off route.</div><div>- Voice alerts.</div><div>- Sound alerts when approaching a radar or going over the speed limit.</div><div>- Vibration mode for motorists.</div><div>- Completely configurable warning distances and parameters.</div><div>- Automatic Bluetooth connection and startup.</div><div>- Compatible with Apple Watch.</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1018/RadarBotPro_icon.png"
     },
     {
       "name": "Ready",
@@ -4429,6 +4418,17 @@
       ]
     },
     {
+      "name": "Six Pack in 30 Days",
+      "bundleIdentifier": "com.sixpack.sixpackin30days",
+      "developerName": "Six Pack",
+      "version": "1.44.0",
+      "versionDate": "2026-01-12T13:19:28.000Z",
+      "size": 416684600,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/sixpack.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Want to lose belly fat and get six pack abs for the summer? Start sculpting your abs with this super effective abs workout app. Workouts are suitable for all levels, and you can easily do them at home or anywhere, anytime. Just a few minutes a day to get the sexy abs you have been dreaming of!\r<div>\r</div><div>\r</div><div>Workout Plan with Different Levels\r</div><div>Lose Belly Fat, Rock Hard Abs and Six Pack Abs - these 3 levels of workout plans help you lose belly fat and build abdominal muscles step by step. Whether you are a beginner or a pro, you can find workouts that are suitable for you. Different exercises are prepared every day to keep it fresh and exciting.</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1365/sixpack_icon.png"
+    },
+    {
       "name": "Snapchat++",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Kanji",
@@ -4459,6 +4459,17 @@
         }
       ],
       "appID": "com.toyopagroup.picaboo"
+    },
+    {
+      "name": "SNOW - AI Profile",
+      "bundleIdentifier": "com.blatant.snowaiprofile",
+      "developerName": "Blatant",
+      "version": "14.7.10",
+      "versionDate": "2026-01-12T13:10:11.000Z",
+      "size": 133730441,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SnowAI.ipa",
+      "localizedDescription": "SNOW is a camera app used by over 200 million people around the world.\r<div>\r</div><div>\r</div><div>- Find your favorite version of yourself by creating and saving custom beauty effects.\r</div><div>- Take profile-worthy selfies with stylish AR makeup features.\r</div><div>- Explore thousands of stickers with updates every day.\r</div><div>- Don't miss exclusive seasonal filters that add color to your daily life.\r</div><div>- Professional photo edits with just a few taps.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1398/SnowAI_icon.png"
     },
     {
       "name": "Solo Knight",
@@ -5179,17 +5190,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/875/OrnetPP_icon.png"
     },
     {
-      "name": "Truecaller: Caller ID Lookup ",
-      "bundleIdentifier": "com.blatant.truecallercalleridlookup",
-      "developerName": "Blatant",
-      "version": "14.48.6",
-      "versionDate": "2025-12-22T17:32:28.000Z",
-      "size": 74500784,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/truecaller.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\r</div><div class=\"\"><br></div><div class=\"\">#1 CALLER ID &amp; SPAM BLOCKING APP WORLDWIDE\r</div><div class=\"\"><br></div><div>\u2022 An all new Caller ID experience on iPhone with iOS 18.2 and above\r</div><div>\u2022 Automatically identify spam, fraud, and robocalls before you pick up\r</div><div>\u2022 View &amp; search previously identified calls in the Phone app\r</div><div>\u2022 Take advantage of the best spam call blocker for iPhone\r</div><div>\u2022 Enable spam identification and blocking by accessing Settings &gt; Apps &gt; Phone &gt; Call Blocking &amp; Identification\r</div><div>\u2022 A paid subscription is required to access this feature</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1371/truecaller_icon.png"
-    },
-    {
       "name": "Twitch++",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Michael Lema",
@@ -5653,17 +5653,6 @@
       }
     },
     {
-      "name": "VSCO",
-      "bundleIdentifier": "com.michaellema.vsco",
-      "developerName": "Michael Lema",
-      "version": "453.0.1",
-      "versionDate": "2025-12-21T13:58:46.000Z",
-      "size": 96977746,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
-      "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/821/vsco1_icon.png"
-    },
-    {
       "beta": false,
       "bundleIdentifier": "sb.lao.Wayfurther",
       "developerName": "Shibo Lyu",
@@ -5898,6 +5887,17 @@
         }
       ],
       "appID": "stream.yattee.app"
+    },
+    {
+      "name": "YouTube Music Ultimate",
+      "bundleIdentifier": "com.dangerouspixel.youtubemusicultimate",
+      "developerName": "Dangerous Pixel",
+      "version": "8.51.1",
+      "versionDate": "2026-01-12T13:27:48.000Z",
+      "size": 60000000,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
+      "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/605/YTmusic1_icon.png"
     },
     {
       "name": "YouTube OLED",
