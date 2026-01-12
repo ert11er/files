@@ -817,17 +817,6 @@
       "appID": "com.google.ios.youtubecercubelegacy"
     },
     {
-      "name": "CHANI",
-      "bundleIdentifier": "com.chani.chani",
-      "developerName": "Chani",
-      "version": "2.7.0",
-      "versionDate": "2025-12-21T13:56:21.000Z",
-      "size": 22441837,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/chani.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>CHANI is your personalized guide through life\u2019s ups and downs. The app was designed to make astrology accessible and useful. Our mission is to help people live their life\u2019s purpose, and we believe that when you know your birth chart \u2014 aka your life\u2019s blueprint \u2014 you\u2019re better equipped to unlock your life\u2019s potential and your personal power.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1299/chani_icon.png"
-    },
-    {
       "name": "Channels",
       "bundleIdentifier": "com.channelsapp.channels",
       "developerName": "Furkan Simsir",
@@ -1742,6 +1731,17 @@
       "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943
+    },
+    {
+      "name": "Duolingo Hacked",
+      "bundleIdentifier": "com.blatant.duolingohacked",
+      "developerName": "Blatant",
+      "version": "7.104.1",
+      "versionDate": "2026-01-12T09:49:37.000Z",
+      "size": 182898277,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
+      "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1395/duolingo_icon.png"
     },
     {
       "name": "Duolingo++",
