@@ -1112,17 +1112,6 @@
       "beta": false
     },
     {
-      "name": "Dehancer",
-      "bundleIdentifier": "com.ipalibrary.dehancer",
-      "developerName": "IPA Library",
-      "version": "5.3",
-      "versionDate": "2025-12-21T13:57:13.000Z",
-      "size": 46255037,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Dehancer.ipa",
-      "localizedDescription": "Elevate your photos and videos with our analog tools for a film-like aesthetic:<div><br></div><div>\u2022 Film Profiles: Choose from 60+ accurate film profiles, including classics like Kodak Vision, Kodak Portra 400, Cinestill 800T, and more. Explore vintage options like Ambrotype.</div><div>\u2022 Presets: Instantly recreate retro film vibes with handcrafted presets. Craft your own and share them effortlessly.</div><div>\u2022 Film Grain: Our unique algorithm creates customizable film-like grain, adding authenticity to your visuals.</div><div>\u2022 Print Tools: Combine films with print profiles for authentic analog images. Customize characteristics like contrast and photo latitude.</div><div>\u2022 Film Compression: Adjust highlights to mimic the compressed tonal range of film. Emulate the analog appearance and have editing flexibility.</div><div>\u2022 Halation: Reproduce the film's red-orange halo effect around light sources and edges, enhancing the appeal and natural tones.</div><div>\u2022 Bloom: Add warmth and vintage glow resembling optical filters. Dehancer accurately replicates the real physics of light and simulates the Bloom effect in the most analogous way.</div><div>\u2022 Vignette: Add depth and focus using vignetting.</div><div class=\"\">\u2022 Film Breath &amp; Gate Weave: Dynamic animated effects for video, simulating real film-like shifts between frames.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1181/Dehancer_icon.png"
-    },
-    {
       "name": "Delta",
       "bundleIdentifier": "com.rileytestut.Delta",
       "developerName": "Riley Testut",
@@ -5909,6 +5898,17 @@
         }
       ],
       "appID": "stream.yattee.app"
+    },
+    {
+      "name": "YouTube OLED",
+      "bundleIdentifier": "com.youtube.youtubeoled",
+      "developerName": "YouTube",
+      "version": "20.50.10",
+      "versionDate": "2026-01-12T12:01:18.000Z",
+      "size": 128245083,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/youtubeOled.ipa",
+      "localizedDescription": "<ul class=\"\"><li class=\"\">Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\r</li><li class=\"\">Copy video, comment, and post information\r</li><li class=\"\">Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only  mode\r</li><li class=\"\">Player settings: Gestures, default quality, preferred audio track\r</li><li class=\"\">Save, Load and Restore settings. Clear cache once or automatically on app startup\r</li><li class=\"\">Built-in SponsorBlock\r</li><li>And much, much more</li></ul>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1442/youtubeOled_icon.png"
     },
     {
       "name": "YouTube++",
