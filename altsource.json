@@ -646,17 +646,6 @@
       "appID": "blog.blurt.blurt"
     },
     {
-      "name": "Bridge Constructor+",
-      "bundleIdentifier": "com.headupgmbh.bridgeconstructor",
-      "developerName": "Headup GmbH",
-      "version": "13.0",
-      "versionDate": "2025-12-24T17:25:14.000Z",
-      "size": 66642691,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BridgeConstr.ipa",
-      "localizedDescription": "<div class=\"\"><b>In Bridge Constructor+ you have to prove yourself as an accomplished master bridge builder.  Play 40 different levels, and build bridges over deep valleys, canals, and rivers. Stress tests reveal whether the bridge you build can withstand the daily stress of continual use from cars, trucks and, more recently, super-heavy tank trucks.</b></div><div class=\"\"><b><br></b></div><b>FEATURES:\r</b><div>\u2022             40 Levels on the island nation of Camatuga\r</div><div>\u2022             Free build mode and help system\r</div><div>\u2022             5 Settings: city, canyon, beach, mountains, hills\r</div><div>\u2022             Improved grid system  \r</div><div>\u2022             Map with unlocked worlds/levels\r</div><div>\u2022             4 different building materials: wood, steel, cables, concrete pillars\r</div><div>\u2022             Color coded load indicator for different building materials\r</div><div>\u2022             Three different load bearing levels: car, truck and tank truck\r</div><div class=\"\">\u2022             High score per level\r</div><div class=\"\"><br></div><div class=\"\"><b>FEATURES SlopeMania Add-On\r</b></div><div>\u2022             Completely new Tiltin Islands\r</div><div>\u2022             Option to build sloping roads \u2013 even for Camatuga\r</div><div>\u2022             Additional \"Grotto\" setting\r</div><div>\u2022             24 \"sloping\" levels inc. especially tricky \"Crazy Levels\"\r</div><div class=\"\">\u2022             Explosive tank truck as an exciting new vehicle\r</div><div class=\"\"><br></div><div class=\"\"><b>FEATURES Trains Add-On\r</b></div><div>\u2022             Open up 3 new islands with 18 new levels.\r</div><div>\u2022             Build bridges for modern commuter trains and heavy freight trains!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/986/BridgeConstr_icon.png"
-    },
-    {
       "name": "Captions: For Talking Videos",
       "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
       "developerName": "Blatant",
@@ -2398,17 +2387,6 @@
       "beta": false
     },
     {
-      "name": "Home Workout - No Equipments",
-      "bundleIdentifier": "com.leaphealth.homeworkoutnoequipments",
-      "developerName": "Leap Health",
-      "version": "1.43.10",
-      "versionDate": "2025-12-24T18:49:49.000Z",
-      "size": 333427853,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Homeworkouts.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3>Looking to build muscle and lose weight? Home Workout has got you covered!\r<div>\r</div><div>Home workouts with no equipment, easy to follow.\r</div><div>Follow the tailored workout plans and expert guidance to meet a fitter, stronger you!\r</div><div>Home Workout app is an expertly crafted fitness app that offers a variety of workouts and workout plans suitable for everyone, from fitness beginners to experts.</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1280/Homeworkouts_icon.png"
-    },
-    {
       "name": "iDOS",
       "bundleIdentifier": "com.litchie.idosgames",
       "developerName": "litchie",
@@ -3494,6 +3472,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
       "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
+    },
+    {
+      "name": "Mortal Kombat Hack",
+      "bundleIdentifier": "com.iosgods.mortalkombathack",
+      "developerName": "iOSGods",
+      "version": "7.0.1",
+      "versionDate": "2026-01-12T14:01:02.000Z",
+      "size": 1301680687,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MortalKombat.ipa",
+      "localizedDescription": "<div class=\"\"><i class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\n</a></span></i></div><div class=\"\"><i class=\"\"><b class=\"\"><br></b></i></div><div class=\"\"><i class=\"\"><b class=\"\">Features:</b></i></div><div class=\"\"><i class=\"\"><b class=\"\">- Instantly Kill individual Enemy Characters</b></i></div><div class=\"\"><i class=\"\"><b>- Force Swap Enemy Characters*</b></i></div><div class=\"\"><i class=\"\"><b>- Easy Enemy* (1 hit KO)</b></i></div><div class=\"\"><i><b>- Resurrect and Heal all players*</b></i></div><div class=\"\"><i class=\"\"><b>- Heal All Players*</b></i></div><div class=\"\"><i class=\"\"><b>- Swap Hack - can swap without finishing time</b></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Get over here and immerse yourself in the iconic and visceral action of MORTAL KOMBAT MOBILE anytime, anywhere. Kollect legendary fighters like Scorpion, Sub-Zero, Raiden, and Kitana and fight in epic 3v3 battles set in the Mortal Kombat universe. This visually stunning fighting and card collection game has multiple modes and re-introduces characters and lore from Mortal Kombat\u2019s 30-Year fighting game legacy. Launch into the action today and prove yourself in the greatest fighting tournament in all of the realms!</i></div><div class=\"\"></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1160/MortalKombat_icon.png"
     },
     {
       "name": "Movie Box Pro",
@@ -5030,6 +5019,17 @@
       "appID": "com.streamer.ios"
     },
     {
+      "name": "Swipewipe - Photo Cleaner",
+      "bundleIdentifier": "com.blatant.swipewipephotocleaner",
+      "developerName": "Blatant",
+      "version": "3.2.43",
+      "versionDate": "2026-01-12T13:33:00.000Z",
+      "size": 78727663,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/swipewipe1.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Swipewipe is the app that will (finally) help you clean up your camera roll. And you\u2019ll enjoy reminiscing while you do it.\r</div><div>We'll save you the time: Yes, there are other apps that can help you quickly delete photos on your phone. But none of them worked for us!\r</div><div class=\"\">We wanted a simple, fun, elegant solution that let us go month-by-month, work our way through all our photos, videos, screenshots, and everything else in our camera roll, and decide - one by one - what to keep and what to get rid of. That\u2019s Swipewipe.\r</div><div class=\"\"><br></div><div>Here\u2019s how it works: swipe right to keep a photo, and left to delete it. If you make a mistake or change your mind, just tap the current photo to go back. Hold down on a picture to see its metadata. After you\u2019re done reviewing that month\u2019s photos, take one last look at the photos you chose to keep and the ones you chose to delete, make any tweaks you need to, and then\u2026you\u2019re done!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1350/swipewipe1_icon.png"
+    },
+    {
       "name": "Taurine",
       "bundleIdentifier": "org.coolstar.taurine",
       "developerName": "Odyssey Team",
@@ -5179,15 +5179,15 @@
       "beta": false
     },
     {
-      "name": "TOR Browser Hack",
-      "bundleIdentifier": "com.syto203.torbrowserhack",
-      "developerName": "syto203",
-      "version": "3.9.11",
-      "versionDate": "2025-12-24T18:51:37.000Z",
-      "size": 28514277,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/OrnetPP.ipa",
-      "localizedDescription": "<i>Features:</i><div>- Hacked Premium&nbsp;</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/875/OrnetPP_icon.png"
+      "name": "Truecaller: Caller ID Lookup ",
+      "bundleIdentifier": "com.blatant.truecallercalleridlookup",
+      "developerName": "Blatant",
+      "version": "26.1.5",
+      "versionDate": "2026-01-12T13:29:26.000Z",
+      "size": 74500784,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/truecaller.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\r</div><div class=\"\"><br></div><div class=\"\">#1 CALLER ID &amp; SPAM BLOCKING APP WORLDWIDE\r</div><div class=\"\"><br></div><div>\u2022 An all new Caller ID experience on iPhone with iOS 18.2 and above\r</div><div>\u2022 Automatically identify spam, fraud, and robocalls before you pick up\r</div><div>\u2022 View &amp; search previously identified calls in the Phone app\r</div><div>\u2022 Take advantage of the best spam call blocker for iPhone\r</div><div>\u2022 Enable spam identification and blocking by accessing Settings &gt; Apps &gt; Phone &gt; Call Blocking &amp; Identification\r</div><div>\u2022 A paid subscription is required to access this feature</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1371/truecaller_icon.png"
     },
     {
       "name": "Twitch++",
