@@ -100,6 +100,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1357/AlohaVPN_icon.png"
     },
     {
+      "name": "AltMarket",
+      "bundleIdentifier": "com.altmarketteam.altmarket",
+      "developerName": "AltMarket Team",
+      "version": "1.0",
+      "versionDate": "2026-01-13T10:25:58.000Z",
+      "size": 3073771,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/AltMarket.ipa",
+      "localizedDescription": "<i>Access bypassing invite codes is open.</i><div class=\"\"><i><br></i></div><div class=\"\"><span class=\"\">Games and software store for different platforms: PC, PS, Xbox, Nintendo.</span></div><div class=\"\"><span class=\"\">Simple and clear interface, instant receipt of paid goods, discounts up to 95% on new game releases, Windows, Microsoft Office, SpooferPro etc.</span></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1385/AltMarket_icon.png"
+    },
+    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -507,8 +518,8 @@
       "name": "Archero Hack",
       "bundleIdentifier": "com.iosgods.archerohack",
       "developerName": "iOSGods",
-      "version": "7.5.0",
-      "versionDate": "2025-12-25T16:25:14.000Z",
+      "version": "7.5.1",
+      "versionDate": "2026-01-13T16:06:43.000Z",
       "size": 183964928,
       "downloadURL": "https://s3.flekstore.com/ipa-library/archero.ipa",
       "localizedDescription": "<p class=\"\">Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\">Hacked version of Archero!<br>\n<strong>Features:</strong><br>- Multiply Defense (Enter Any Amount and Enable The Switch)</p><p class=\"\">- Multiply Attack (Enter Any Amount and Enable The Switch)</p><p class=\"\">- God Mode</p><p class=\"\">- One Hit Kill (Must use with God Mode or use Multiply Attack instead)</p><p class=\"\">- Freeze Enemies</p>\n",
@@ -524,6 +535,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/b612.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>B612 is the best all-in-one camera &amp; photo/video editing app. We offer various free features and tools to make every moment more special.\r<div>\r</div><div>Meet trendy effects, filters, and stickers that are updated every day!\r</div><div>=== Main features ===\r</div><div>*Create your own filters*\r</div><div>- Create a one-of-a-kind filter and share it with friends\r</div><div>- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\r</div><div>- Meet the creative and diverse filters of B612 creators.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1347/b612_icon.png"
+    },
+    {
+      "name": "Balance: Meditation and Sleep",
+      "bundleIdentifier": "com.blatant.balancemeditationandsleep",
+      "developerName": "Blatant",
+      "version": "1.192.0",
+      "versionDate": "2026-01-13T15:47:57.000Z",
+      "size": 116712005,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/BalanceMeditation.ipa",
+      "localizedDescription": "<b>Improve your stress, sleep, and more with Balance\u2019s personalized guided meditation program.</b><div><br><div></div><div></div><div>YOUR PERSONAL MEDITATION COACH\r</div><div>Balance is your personal meditation coach. Each day, you\u2019ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that\u2019s perfect for you. The more you share over time, the more personalized and effective your meditations become.</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1402/BalanceMeditation_icon.png"
     },
     {
       "name": "Bazaart: AI Photo Video Editor",
@@ -644,6 +666,17 @@
         }
       ],
       "appID": "blog.blurt.blurt"
+    },
+    {
+      "name": "Busuu: Language Learning",
+      "bundleIdentifier": "com.blatant.busuulanguagelearning",
+      "developerName": "Blatant",
+      "version": "29.28",
+      "versionDate": "2026-01-13T15:50:30.000Z",
+      "size": 41323858,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
+      "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
     },
     {
       "name": "Captions: For Talking Videos",
@@ -2195,17 +2228,6 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
-      "name": "FL Studio Mobile",
-      "bundleIdentifier": "com.ipalibrary.flstudiomobile",
-      "developerName": "IPA Library",
-      "version": "4.9.1",
-      "versionDate": "2025-12-25T16:42:07.000Z",
-      "size": 254325775,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/flstudio.ipa",
-      "localizedDescription": "<div class=\"\"><span class=\"\"><b>Hacking for purchases! Press \u201cbuy\u201d what interests us and refuse to enter an Apple ID!</b></span></div><div class=\"\"><span class=\"\"><b><br></b></span></div><div class=\"\"><span class=\"\">$13.99 in AppStore</span></div><div class=\"\"><span class=\"\">Create and save complete multi-track music projects on your iPad, iPhone</span><span class=\"\" style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">. Record, sequence, edit, mix and render complete songs.</span></div><div class=\"\"><i><br></i></div><div class=\"\"><b>FEATURE HIGHLIGHTS</b></div><div class=\"\"><i>* Audio recording, track-length stem/wav import</i></div><div class=\"\"><i>* Browse sample and presets with preview</i></div><div class=\"\"><i>* Effects modules (see Included Content)</i></div><div class=\"\"><i>* Full-screen MacBook and iMac Trackpad and Mouse support.</i></div><div class=\"\"><i>* High quality synthesizers, sampler, drum kits &amp; sliced-loop beats</i></div><div class=\"\"><i>* Instrument modules (see Included Content)</i></div><div class=\"\"><i>* Load projects in the FL STUDIO** FREE Plugin version of this App</i></div><div class=\"\"><i>* MIDI controller support (class compliant). Automation support.</i></div><div class=\"\"><i>* MIDI file import and Export (Single-track or Multi-track)</i></div><div class=\"\"><i>* Mixer: Per-track mute, solo, effect bus, pan and volume adjustment</i></div><div class=\"\"><i>* Piano roll. Edit notes or capture recorded performances.</i></div><div class=\"\"><i>* Save and load WAV, MP3, AAC*, FLAC, MIDI</i></div><div class=\"\"><i>* Share your songs via Wi-Fi or Cloud to other Mobile 3 installations</i></div><div class=\"\"><i>* Step sequencer</i></div><div class=\"\"><i>* User interface configurable with all screen resolutions and sizes.</i></div><div class=\"\"><i>* Virtual piano-keyboard &amp; Drumpads#</i></div><div class=\"\"><i>* IAA App support (In/Out), Audiobus support (In/Out)</i></div><div class=\"\"><i>* Audio recording (external and internal sources)</i></div><div class=\"\"><i>* Share your songs via Sync to other Mobile 3 devices / installations</i></div><div class=\"\"><i>* Load your projects in the FL STUDIO* FREE 'Plugin' Version of this App#</i></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/889/flstudio_icon.png"
-    },
-    {
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
@@ -2910,17 +2932,6 @@
       "appID": "com.litritt.ignited"
     },
     {
-      "name": "ImgAI - AI Image Generator",
-      "bundleIdentifier": "com.imgai.imgaiaiimagegenerator",
-      "developerName": "ImgAI ",
-      "version": "5.90",
-      "versionDate": "2025-12-28T17:16:52.000Z",
-      "size": 262317344,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/imgAI.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Bring Your Ideas to Life With AI Image Generator ImgAI<div><br><div></div><div></div><div class=\"\">Got a cool idea in your head? Just type it out, pick a style, and ImgAI will transform it into stunning AI art in seconds. Whether you're feeling creative or just curious, ImgAI makes it super easy to generate unique, high-quality images. No design skills needed.\r</div><div class=\"\"><br></div><div class=\"\">What You Can Do With ImgAI:\r</div><div>\u2022 Turn words into digital artwork instantly\r</div><div>\u2022 Remix your photos into bold new styles\r</div><div>\u2022 Design custom logos and creative visuals\r</div><div>\u2022 Generate ultra-realistic portraits and images\r</div><div>\u2022 Convert sketches into detailed artwork\r</div><div>\u2022 Create AI selfies in different looks or moods\r</div><div>\u2022 Use Control Center widget or Shortcuts to generate fast (iOS 18 ready)\r</div><div>\u2022 Add Home &amp; Lock Screen widgets for instant image creation</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1344/imgAI_icon.png"
-    },
-    {
       "name": "iNDS",
       "bundleIdentifier": "net.nerd.iNDS",
       "developerName": "iNDS Team",
@@ -3305,17 +3316,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1411/luminar_icon.png"
     },
     {
-      "name": "Magic Eraser Background Editor",
-      "bundleIdentifier": "com.dangerouspixel.magiceraserbackgroundeditor",
-      "developerName": "Dangerous Pixel",
-      "version": "3.11.0",
-      "versionDate": "2025-12-28T17:11:49.000Z",
-      "size": 244413160,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MagicEraser.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Instantly remove the background or object of any picture, edit, arrange and save as PNG or JPG! Join 10 million Magic Background Eraser creators and take your images to the next level with AI powered high resolution editing.\r</div><div>Ideal for online sellers or photo enthusiasts, it is the most usable app for free without a watermark. Extra features are available for an affordable price.\r</div><div>Remove objects or cut out and save transparent images for use in Instagram, Poshmark, Shopify, Pinterest and many other apps. Add a white, colored or custom background to your photo cut-out and grow your brand with beautiful product posts and stories.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1303/MagicEraser_icon.png"
-    },
-    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -3463,6 +3463,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
     },
     {
+      "name": "Mortal Kombat Hack",
+      "bundleIdentifier": "com.iosgods.mortalkombathack",
+      "developerName": "iOSGods",
+      "version": "7.0.1",
+      "versionDate": "2026-01-12T14:01:02.000Z",
+      "size": 1301680687,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MortalKombat.ipa",
+      "localizedDescription": "<div class=\"\"><i class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\n</a></span></i></div><div class=\"\"><i class=\"\"><b class=\"\"><br></b></i></div><div class=\"\"><i class=\"\"><b class=\"\">Features:</b></i></div><div class=\"\"><i class=\"\"><b class=\"\">- Instantly Kill individual Enemy Characters</b></i></div><div class=\"\"><i class=\"\"><b>- Force Swap Enemy Characters*</b></i></div><div class=\"\"><i class=\"\"><b>- Easy Enemy* (1 hit KO)</b></i></div><div class=\"\"><i><b>- Resurrect and Heal all players*</b></i></div><div class=\"\"><i class=\"\"><b>- Heal All Players*</b></i></div><div class=\"\"><i class=\"\"><b>- Swap Hack - can swap without finishing time</b></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Get over here and immerse yourself in the iconic and visceral action of MORTAL KOMBAT MOBILE anytime, anywhere. Kollect legendary fighters like Scorpion, Sub-Zero, Raiden, and Kitana and fight in epic 3v3 battles set in the Mortal Kombat universe. This visually stunning fighting and card collection game has multiple modes and re-introduces characters and lore from Mortal Kombat\u2019s 30-Year fighting game legacy. Launch into the action today and prove yourself in the greatest fighting tournament in all of the realms!</i></div><div class=\"\"></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1160/MortalKombat_icon.png"
+    },
+    {
       "name": "Movie Box Pro",
       "bundleIdentifier": "com.senumy.movieboxpro",
       "developerName": "Senumy",
@@ -3583,6 +3594,17 @@
         ]
       },
       "appID": "com.marcuszhou.NineAnimator"
+    },
+    {
+      "name": "Notability: Smarter AI Notes",
+      "bundleIdentifier": "com.blatant.notabilitysmarterainotes",
+      "developerName": "Blatant",
+      "version": "15.3.2",
+      "versionDate": "2026-01-13T15:46:17.000Z",
+      "size": 216310194,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/NotabilityAI.ipa",
+      "localizedDescription": "<div><div class=\"\"><b>Whether you\u2019re studying for an exam, organizing a meeting, or sketching your next big idea\u2014Notability is the essential resource you can rely on to capture, organize, and share your thoughts with ease.\r</b></div><div class=\"\"><br></div><div>YOUR ALL-IN-ONE DIGITAL NOTEBOOK\r</div><div>\u2022 Write, type, or sketch with lifelike digital ink, highlighters, and text tools.\r</div><div>\u2022 Mark up anything: PDFs, textbooks, lecture slides, images, and more.\r</div><div>\u2022 Stay organized with customizable folders and subjects.\r</div><div>STUDY SMARTER WITH LEARN AI\r</div><div>\u2022 Live Smart Note instant summaries of your notes.\r</div><div>\u2022 Quizzes and flashcards tailored to you.\r</div><div>\u2022 Chat with your notes \u2013 your AI-powered assistant\r</div><div>RECORD, REVIEW AND REMEMBER \r</div><div>\u2022 Audio recording synced to your notes; perfect for lectures and meetings.\r</div><div>\u2022 Search for anything, including transcripts, text and handwriting.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1462/NotabilityAI_icon.png"
     },
     {
       "name": "Nulls Brawl",
@@ -3831,6 +3853,17 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
+      "name": "Peachy Pro",
+      "bundleIdentifier": "com.dvntm.peachypro",
+      "developerName": "dvntm",
+      "version": "2.9.0",
+      "versionDate": "2026-01-12T13:08:12.000Z",
+      "size": 102963908,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PeachyPro.ipa",
+      "localizedDescription": "Aiming at perfection in everything, Peachy is a powerful &amp; handy pro photo editor, especially for selfie editing &amp; retouching, body shape editing.<div><br></div><div>Everybody is an excellent photographer with this simple retouch tool, it helps you meet the best version of you, smooth skin, whiten teeth, reshape face, fix blemishes, remove wrinkles, become taller, add makeup, tattoo, muscles &amp; filters and so on.</div><div><br></div><div>Peachy provides lots of portrait and selfie photo editing features. Download it and give a try!</div><div><br></div><div>RETOUCH</div><div>\u00b7Remove wrinkles and acne</div><div>\u00b7Smooth and brightened your skin</div><div>\u00b7Reduce dark circles under your eyes</div><div>\u00b7Whiten your teeth</div><div>\u00b7Add volume and darken your eyebrow</div><div><br></div><div>RESHAPE</div><div>\u00b7Reshape your body and facial structure</div><div>\u00b7Refine a specific area of the selfie, for example, arms or facial features</div><div>\u00b7Bloat your breast, enlarge muscles and facial features</div><div><br></div><div>HEIGHT CORRECTION</div><div>\u00b7Elongate your legs and become taller</div><div>\u00b7Enhance your body both laterally and longitudinally</div><div><br></div><div>ADD MUSCLES</div><div>\u00b7Add six pack abs muscles</div><div>\u00b7Add chest muscles</div><div><br></div><div>ADD TATTOO</div><div>\u00b7Add creative tattoos to your body</div><div><br></div><div>LIGHTING EFFECTS</div><div>\u00b7Improve lighting effects of the selfie or portrait</div><div><br></div><div>ACCESSORIES</div><div>\u00b7Decorate your selfie or portrait with stylish accessories</div><div><br></div><div>FILTERS</div><div>\u00b7High-fashion vintage filters, perfect for selfie</div><div><br></div><div>ADJUST</div><div>\u00b7Create custom filters by adjusting brightness, contrast etc.</div><div><br></div><div>Perfect your selfies or portraits in Peachy, and share with your friends online, it can be fun and inspiring!</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/876/PeachyPro_icon.png"
+    },
+    {
       "name": "Photomath++",
       "bundleIdentifier": "com.microblink.PhotoMath",
       "developerName": "Strejda603",
@@ -3876,17 +3909,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
       "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
-    },
-    {
-      "name": "PicsArt Pro",
-      "bundleIdentifier": "com.dangerouspixel.picsartpro",
-      "developerName": "Dangerous Pixel",
-      "version": "29.1.2",
-      "versionDate": "2025-12-25T15:30:03.000Z",
-      "size": 71112152,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
-      "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/966/picsart_icon.png"
     },
     {
       "name": "Place Guesser",
@@ -4428,17 +4450,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1398/SnowAI_icon.png"
     },
     {
-      "name": "Solo Knight",
-      "bundleIdentifier": "com.iosgods.soloknight",
-      "developerName": "iOSGods",
-      "version": "1.1.707",
-      "versionDate": "2025-12-25T16:16:03.000Z",
-      "size": 543676059,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SoloKnight.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div><br></div><h3 class=\"\">Hack Features:<br>\r- Instant Skill<br>\r- Infinite MP<br>\r- God Mode</h3><div class=\"\"><br></div><div class=\"\">Solo Knight is a Diablo-like game designed for players who love to hack and slash. You are going to explore the hazardous underground world and fight against different monsters and strange creatures. You can use resources that you collect such as gold coins, equipment, and smelt stones to strengthen yourself. Try to create your own BD via a different combination of perks, runes, and affixes.\r</div><div class=\"\"><b class=\"\">Game Features:\r</b></div><div class=\"\"><ul class=\"\"><li class=\"\">&nbsp;200+ equipment\u2014\u2014 every equipment comes with an exclusive skill. You can collect more than 200 pieces of equipment. Each of them comes with a unique skill. You can change your equipment at any time you want. Let\u2019s try some different combinations and experience a wide variety of battles.</li><li class=\"\">90+ runes\u2014\u2014  DIY skills! It\u2018s all up to you! Besides a lot of equipment skills, you can also use different runes to change and strengthen the effects of your skills. For instance, runes can be used to increase the number, size, and speed of projectiles. It also allows your weapon to penetrate more enemies, or split up more projectiles when you hit your target. What's more, you can even summon a totem to fight for you.</li><li class=\"\">600+ perks\u2014\u2014create a growth route of your own. In this game, you will have two basic perks to represent offense and defense respectively. More than 600 perks provide you with countless options and possibilities. Try to plan your growth route with limited perk points, and find the best way out.</li></ul></div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1465/SoloKnight_icon.jpeg"
-    },
-    {
       "name": "SoundCloud++",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "Rov3r",
@@ -4636,17 +4647,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "Stick War: Legacy Hack",
-      "bundleIdentifier": "com.laxus.stickwarlegacyhack",
-      "developerName": "Laxus",
-      "version": "2025.1.208",
-      "versionDate": "2025-12-25T15:26:50.000Z",
-      "size": 92641892,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/stickWarLegacy.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\"><b>Hack Features:</b></div><div><ul><li class=\"\">Infinite Gold\r</li><li class=\"\">Infinite Gem\r</li><li class=\"\">Fast Build</li></ul><div><br></div></div><div><br></div><div>One of the most popular and highest rated web games of all time now comes to mobile!\r</div><div>Play the game Stick War, one of the biggest, most fun, challenging and addicting stick figure games. Control your army in formations or play each unit, you have total control of every stickman. Build units, mine gold, learn the way of the Sword, Spear, Archer, Mage, and even Giant. Destroy the enemy statue, and capture all Territories!</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1366/stickWarLegacy_icon.png"
     },
     {
       "name": "StikNES",
@@ -4986,6 +4986,17 @@
       "appID": "com.streamer.ios"
     },
     {
+      "name": "Subway Surfers Hack",
+      "bundleIdentifier": "com.iosgods.subwaysurfershack",
+      "developerName": "iOSGods",
+      "version": "3.57.0",
+      "versionDate": "2026-01-13T15:56:47.000Z",
+      "size": 142964570,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/subway.ipa",
+      "localizedDescription": "<p class=\"\"><span class=\"\"><i style=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></span></p><p class=\"\"><strong class=\"\">Hack Features:<br></strong></p><p class=\"\"><span class=\"\">- Free Store (not Free iAP)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free iAP (ViP Only)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock Characters Outfit<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Custom Jump Height<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)</span></p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/825/subway_icon.jpeg"
+    },
+    {
       "name": "Swipewipe - Photo Cleaner",
       "bundleIdentifier": "com.blatant.swipewipephotocleaner",
       "developerName": "Blatant",
@@ -5144,6 +5155,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "TOR Browser Hack",
+      "bundleIdentifier": "com.syto203.torbrowserhack",
+      "developerName": "syto203",
+      "version": "3.9.14",
+      "versionDate": "2026-01-13T15:48:34.000Z",
+      "size": 28514277,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/OrnetPP.ipa",
+      "localizedDescription": "<i>Features:</i><div>- Hacked Premium&nbsp;</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/875/OrnetPP_icon.png"
     },
     {
       "name": "Truecaller: Caller ID Lookup ",
@@ -5618,6 +5640,17 @@
         "entitlements": [],
         "privacy": []
       }
+    },
+    {
+      "name": "VSCO",
+      "bundleIdentifier": "com.michaellema.vsco",
+      "developerName": "Michael Lema",
+      "version": "454.0.0",
+      "versionDate": "2026-01-13T15:45:17.000Z",
+      "size": 96977746,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
+      "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/821/vsco1_icon.png"
     },
     {
       "beta": false,
