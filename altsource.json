@@ -89,6 +89,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1466/AIMarvels_icon.jpeg"
     },
     {
+      "name": "Aloha Browser - Private VPN",
+      "bundleIdentifier": "com.blatant.alohabrowserprivatevpn",
+      "developerName": "Blatant",
+      "version": "7.14.1",
+      "versionDate": "2026-01-12T13:24:34.000Z",
+      "size": 15635988,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/AlohaVPN.ipa",
+      "localizedDescription": "Premium unlocked<div><br></div><div>Aloha Browser is the ultimate private browser, providing unparalleled privacy and security for all your browsing needs.\r</div><div>With hundreds of millions of users around the world, Aloha has earned a 5-star rating in many countries, thanks to its clean interface, ease of use, and awesome features.</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1357/AlohaVPN_icon.png"
+    },
+    {
       "name": "AltMarket",
       "bundleIdentifier": "com.altmarketteam.altmarket",
       "developerName": "AltMarket Team",
@@ -3472,17 +3483,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MortalKombat.ipa",
       "localizedDescription": "<div class=\"\"><i class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\n</a></span></i></div><div class=\"\"><i class=\"\"><b class=\"\"><br></b></i></div><div class=\"\"><i class=\"\"><b class=\"\">Features:</b></i></div><div class=\"\"><i class=\"\"><b class=\"\">- Instantly Kill individual Enemy Characters</b></i></div><div class=\"\"><i class=\"\"><b>- Force Swap Enemy Characters*</b></i></div><div class=\"\"><i class=\"\"><b>- Easy Enemy* (1 hit KO)</b></i></div><div class=\"\"><i><b>- Resurrect and Heal all players*</b></i></div><div class=\"\"><i class=\"\"><b>- Heal All Players*</b></i></div><div class=\"\"><i class=\"\"><b>- Swap Hack - can swap without finishing time</b></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Get over here and immerse yourself in the iconic and visceral action of MORTAL KOMBAT MOBILE anytime, anywhere. Kollect legendary fighters like Scorpion, Sub-Zero, Raiden, and Kitana and fight in epic 3v3 battles set in the Mortal Kombat universe. This visually stunning fighting and card collection game has multiple modes and re-introduces characters and lore from Mortal Kombat\u2019s 30-Year fighting game legacy. Launch into the action today and prove yourself in the greatest fighting tournament in all of the realms!</i></div><div class=\"\"></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1160/MortalKombat_icon.png"
-    },
-    {
-      "name": "Movie Box Pro",
-      "bundleIdentifier": "com.senumy.movieboxpro",
-      "developerName": "Senumy",
-      "version": "15.2.1",
-      "versionDate": "2026-01-04T20:09:38.000Z",
-      "size": 146451154,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MovieBoxPro.ipa",
-      "localizedDescription": "\r<div><br></div><div>Extended app features list:\r</div><div>- Discover Movies: now playing, upcoming, search...\r</div><div>- Movie information: ratings, description, cast, budget, actors, release...\r</div><div>- Watch: trailers &amp; related video contents\r</div><div>- Buy or Rent: direct link to the iTunes Store to watch the Full Movie (rates apply)\r</div><div>- Lists: Browse Curated Movie lists, Organize your own movie database with a watchlist...\r</div><div>- Download: add your own videos &amp; movies &amp; TV-shows via Dropbox to the app library so you can watch them offline anywhere...\r</div><div>- Video player: fully featured HD video player\r</div><div>- Explore: Search to discover, watch and stream video content related to your favorite movies...\r</div><div>- Available on iPhone and Ipad\r</div><div class=\"\">- No login or authentification needed (except when you want to add your own content to the app through the Dropbox functionality)\r</div><div><br></div><div class=\"\"><i><b>Please note:\r</b></i></div><h3 class=\"\"><span style=\"font-weight: normal;\"><i>Our app is not a full movie streaming service. Full-length movies are not available within the app.<br></i><i>You need to download your own movies and videos to your device with the app (via Dropbox) to watch them offline anywhere.<br></i><i>Otherwise, we make it easy for you. For a wide catalog of movies (not playing now in theaters), you will find a direct link to buy in iTunes Store (button is below in the movie information page, rates apply).</i></span></h3><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/851/MovieBoxPro_icon.png"
     },
     {
       "name": "MyFitnessPal++",
