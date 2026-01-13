@@ -89,17 +89,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1466/AIMarvels_icon.jpeg"
     },
     {
-      "name": "Aloha Browser - Private VPN",
-      "bundleIdentifier": "com.blatant.alohabrowserprivatevpn",
-      "developerName": "Blatant",
-      "version": "7.14.1",
-      "versionDate": "2026-01-12T13:24:34.000Z",
-      "size": 15635988,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AlohaVPN.ipa",
-      "localizedDescription": "Premium unlocked<div><br></div><div>Aloha Browser is the ultimate private browser, providing unparalleled privacy and security for all your browsing needs.\r</div><div>With hundreds of millions of users around the world, Aloha has earned a 5-star rating in many countries, thanks to its clean interface, ease of use, and awesome features.</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1357/AlohaVPN_icon.png"
-    },
-    {
       "name": "AltMarket",
       "bundleIdentifier": "com.altmarketteam.altmarket",
       "developerName": "AltMarket Team",
