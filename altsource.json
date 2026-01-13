@@ -100,6 +100,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1357/AlohaVPN_icon.png"
     },
     {
+      "name": "AltMarket",
+      "bundleIdentifier": "com.altmarketteam.altmarket",
+      "developerName": "AltMarket Team",
+      "version": "1.0",
+      "versionDate": "2026-01-13T10:25:58.000Z",
+      "size": 3073771,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/AltMarket.ipa",
+      "localizedDescription": "<i>Access bypassing invite codes is open.</i><div class=\"\"><i><br></i></div><div class=\"\"><span class=\"\">Games and software store for different platforms: PC, PS, Xbox, Nintendo.</span></div><div class=\"\"><span class=\"\">Simple and clear interface, instant receipt of paid goods, discounts up to 95% on new game releases, Windows, Microsoft Office, SpooferPro etc.</span></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1385/AltMarket_icon.png"
+    },
+    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -819,17 +830,6 @@
         }
       ],
       "appID": "com.channelsapp.channels"
-    },
-    {
-      "name": "Chat Smith",
-      "bundleIdentifier": "com.dangerouspixel.chatsmith",
-      "developerName": "Dangerous Pixel",
-      "version": "8.251222.2",
-      "versionDate": "2025-12-25T15:16:49.000Z",
-      "size": 59260010,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/chatsmith.ipa",
-      "localizedDescription": "<div class=\"\">ChatGPT 3.5 and 4. iAP Hack (Press buy subscription and cancel).</div><div><br></div>Revolutionize your daily life with the power of AI, ChatGPT and GPT 4 with Chat Smith Chatbot<div><br></div><div>Chat Smith, powered by GPT-4 API delivers enhanced AI Chat app capabilities, voice interaction, write email and intelligent conversational experience for all your needs</div><div><br></div><div>As an iOS AI Chat app, Chat Smith uses advanced AI model to deliver any AI-powered search, conversation, text completion, and other advanced AI features.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1146/chatsmith_icon.png"
     },
     {
       "bundleIdentifier": "com.electrateam.chimera",
