@@ -67,15 +67,26 @@
       ]
     },
     {
-      "name": "AI Marvels - AI Photo Editor",
-      "bundleIdentifier": "com.blatant.aimarvelsaiphotoeditor",
+      "name": "Adobe Photoshop: Image Editor",
+      "bundleIdentifier": "com.adobe.adobephotoshopimageeditor",
+      "developerName": "Adobe ",
+      "version": "7.3.0",
+      "versionDate": "2026-01-14T17:47:33.000Z",
+      "size": 281746590,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PhotoshopFull.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Unleash your creative potential with Adobe Photoshop. Whether you're new, curious, or already familiar with Photoshop, we\u2019ve made it easier than ever to learn and grow your creative skills. This advanced mobile image editing application gives you more power and precision to transform any image into something that stands out from the crowd. Create collages, album cover art, perfect your passion projects, and develop unique digital art\u2014all in one place.\r</div><div>Photoshop on mobile includes a wide selection of free features to accomplish the core editing capabilities of the desktop application. Add new objects, refine and perfect your content with targeted adjustments, replace backgrounds, remove unwanted objects, combine multiple images to create high-quality compositions, and explore helpful AI tools powered by Adobe Firefly. There is no limit to what you can create.</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1341/PhotoshopFull_icon.png"
+    },
+    {
+      "name": "Adobe Premiere: Video Editor",
+      "bundleIdentifier": "com.blatant.adobepremierevideoeditor",
       "developerName": "Blatant",
-      "version": "1.94.0",
-      "versionDate": "2025-12-29T13:18:20.000Z",
-      "size": 165089354,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AIMarvels.ipa",
-      "localizedDescription": "AI Marvels is an advanced, powerful, all-in-one AI photo editor and video generation tool. With dozens of creative templates, you can transform your photos into anime characters, action figures, sketches, and other trending AI styles with just one tap. Our exclusive \"Image-to-Video\" feature allows you to turn a single picture into the trendiest videos of the moment. Simply upload your photo, enter your idea or choose a ready-made template, and generate stunning, trending AI videos in seconds. AI Marvels also offers a full suite of intelligent AI tools to unleash your creativity, and we update the latest AI features weekly to ensure you always stay ahead of social media trends.<div class=\"\"><br>&nbsp;\n<div>\n</div><div class=\"\"><b>&nbsp;Create Viral AI Videos \u2014 Instantly &amp; Effortlessly&nbsp;</b></div><div class=\"\"><ul><li class=\"\">&nbsp;Trending AI Videos: Create the hottest AI videos inspired by today\u2019s viral trends \u2014 from fun Sora-style clips to Hollywood-level visual effects and other ultra-realistic AI video styles. With just one tap, you can generate stunning, trend-ready AI videos effortlessly.\n</li><li>&nbsp;Banana Pro: An upgraded Magic Brush experience. Edit images with natural language\u2014no tapping or brushing required\u2014powered by Nano Banana AI.\n</li><li>&nbsp;Live Photo: Powered by cutting-edge image-to-video technology, bring your still photos to life with natural motion, emotion, and detail.\n</li><li>&nbsp;AI Dance: Turn any photo \u2014 people or pets \u2014 into a dancing character with one tap. Our constantly updated algorithms and trending dance styles keep your videos fresh and ahead of social media trends.</li></ul></div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1466/AIMarvels_icon.jpeg"
+      "version": "26.1.0",
+      "versionDate": "2026-01-14T17:44:13.000Z",
+      "size": 97895549,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/premierAdobe.ipa",
+      "localizedDescription": "Effortless editing. Total control. Meet the fast, free, and focused mobile video editing app that's powerful enough for any idea, yet simple enough for anyone to use. Edit videos from wherever you are, with no ads or watermarks. Premiere offers unmatched speed on a precise multi-track timeline and studio-quality audio featuring crystal clear voice recordings and perfectly timed AI sound effects -- plus Firefly-powered visuals to create stand out videos.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1412/premierAdobe_icon.png"
     },
     {
       "name": "Aloha Browser - Private VPN",
@@ -595,17 +606,6 @@
       "beta": false
     },
     {
-      "name": "Bloons TD 6",
-      "bundleIdentifier": "com.iosgods.bloonstd6",
-      "developerName": "iOSGods",
-      "version": "52.2",
-      "versionDate": "2025-12-28T18:08:49.000Z",
-      "size": 121579900,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BloonsTD6.ipa",
-      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on</span><i class=\"\"> <a href=\"https://iosgods.com/\">iOSGods</a></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Feauteres:</i></div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- God Mode</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Money&nbsp;</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Monkey Money</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Consumes</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Unlocked All Towers</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Unlocked All Heroes</span><br><div><div class=\"\"><b><i><br></i></b><div class=\"\">&nbsp; &nbsp; Five-star tower defense with unrivaled depth and replayability. Now with rewarded leaderboards for even more fun and challenge!\n</div><div class=\"\">The Bloons are back and this time they mean business! Build awesome towers, choose your favorite upgrades, hire cool new Special Agents, and pop every last invading Bloon!\n</div><div class=\"\">&nbsp; &nbsp; Featuring 2 brand new Towers, cool Special Agents, glorious retina graphics, original Tracks and Special Missions, a whole new tier of Specialty Building upgrades, and the powerful Monkey Lab to further upgrade your towers, Bloons TD 5 delivers hours and hours of fun, challenging play to fans and new players alike.\n</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; Hours and Hours of Awesome Gameplay:\n</div><div class=\"\">\u2022 21 powerful towers with Activated Abilities and 2 upgrade paths\n</div><div class=\"\">\u2022 10 Special Agents\n</div><div class=\"\">\u2022 50+ Tracks\n</div><div class=\"\">\u2022 10 Special Missions\n</div><div class=\"\">\u2022 250+ Random Missions\n</div><div class=\"\">\u2022 New Bloon enemies - tougher Camos, Regrower Bloons, and the fearsome ZOMG\n</div><div class=\"\">\u2022 50+ Game Center Achievements and Challenges\n</div><div class=\"\">\u2022 iCloud Support\n</div><div class=\"\">\u2022 3 different game modes\n</div><div class=\"\">\u2022 Freeplay mode after mastering a track\n</div><div class=\"\">\u2022 4 difficulty settings and family-friendly theme so anyone can play\n</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; And that's just the beginning - regular planned updates will keep Bloons TD 5 fresh, fun, and challenging for many months to come. Now it's time to pop some Bloons!\n</div><div class=\"\">&nbsp; &nbsp; Remember to save to iCloud after each victory or purchase to save your progress.\n</div><div class=\"\">iPad and iPad mini version also available - check out Bloons TD 5 HD for full screen UI awesomeness!</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div></div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/841/BloonsTD6_icon.png"
-    },
-    {
       "name": "blurt.blog",
       "bundleIdentifier": "blog.blurt.blurt",
       "developerName": "sagarkothari88",
@@ -988,8 +988,8 @@
       "name": "Coconote - AI Note Taker",
       "bundleIdentifier": "com.blatant.coconoteainotetaker",
       "developerName": "Blatant",
-      "version": "2.33",
-      "versionDate": "2026-01-12T13:26:58.000Z",
+      "version": "2.34",
+      "versionDate": "2026-01-14T17:35:54.000Z",
       "size": 32974725,
       "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
@@ -1541,17 +1541,6 @@
       },
       "beta": false,
       "appID": "com.rileytestut.Delta.Beta"
-    },
-    {
-      "name": "Delta Executor for Roblox",
-      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
-      "developerName": "Delta Executor",
-      "version": "2.703",
-      "versionDate": "2025-12-29T17:50:14.000Z",
-      "size": 140988698,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
-      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1113/roblox_icon.png"
     },
     {
       "name": "Delta iPac Edition",
@@ -2119,17 +2108,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
       "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/599/Facetune_icon.png"
-    },
-    {
-      "name": "Fallout Shelter",
-      "bundleIdentifier": "com.iosgods.falloutshelter",
-      "developerName": "iOSGods",
-      "version": "2.0.2",
-      "versionDate": "2025-12-28T17:54:53.000Z",
-      "size": 304262553,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/fallout.ipa",
-      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\"><strong class=\"\">(DO NOT COLLECT FROM BUILDINGS WILL CAUSE CRASH GET YOU DESIRED AMOUNT THEN TURN THE HACK OFF AND ENABLE FREEZE)</strong></p><p class=\"\"><strong class=\"\">Features:</strong><br>- Dwellers instant level up<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Freeze All Currencies<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- One Hit Kill<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Add Stuff Instead of removing<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Dwellers Never Die / God Mode<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- FREEZE  FOOD/WATER/POWER/CAPS/NUKABOTTLE/MEDIKITS/STIMPEX<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock all rooms etc and auto complete objectives / unlimited lunch boxes cola caps etc&nbsp;</span></p><p class=\"\">\nThis hack only supports x64 or ARM64 iDevices: iPhone 5s, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X, SE, iPod Touch 6G, iPad Air, Air 2, Pro &amp; iPad Mini 2, 3, 4 and later.</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/797/fallout_icon.png"
     },
     {
       "name": "Filmr Pro",
@@ -3182,17 +3160,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/37/Kodi_icon.jpg"
     },
     {
-      "name": "Lifesum: AI Calorie Counter",
-      "bundleIdentifier": "com.blatant.lifesumaicaloriecounter",
-      "developerName": "Blatant",
-      "version": "23.3.1",
-      "versionDate": "2025-12-29T13:06:43.000Z",
-      "size": 130997524,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/LifeSum.ipa",
-      "localizedDescription": "A revolutionary way to track your meals, enhanced by AI.\r<div>\r</div><div>Welcome to a new era of nutrition tracking, tailored to your style. With the new Lifesum experience, you can choose to log your meals by snapping a photo, using your voice, typing a text, or scanning a barcode.\r</div><div><br></div><div>Health isn\u2019t about perfection\u2014it\u2019s about progress. Lifesum encourages small, manageable changes that add up to lasting results.\r</div><div class=\"\">Whether it\u2019s drinking more water, adding more fruits and veggies to your plate, or choosing healthier snacks, Lifesum celebrates every win, no matter how small.\r</div><div class=\"\"><br></div><div class=\"\"><b>SMARTER, SIMPLER MEAL TRACKING\r</b></div><div class=\"\">Track your meals your way:\r</div><div>\u2022 Snap a photo to get instant nutrition details.\r</div><div>\u2022 Speak for easy, hands-free logging.\r</div><div>\u2022 Type for more detailed tracking.\r</div><div>\u2022 Scan barcodes for fast info.\r</div><div class=\"\">\u2022 Use quick tracking for simple entries.\r</div><div class=\"\"><br></div><div class=\"\"><b>TOP LIFESUM FEATURES\r</b></div><div>\u2022 Calorie counter\r</div><div>\u2022 Macro tracker and food rating\r</div><div>\u2022 Nutrition plans for weight management and body composition\r</div><div>\u2022 Water tracker\r</div><div>\u2022 Fruit, vegetable, and fish tracker\r</div><div>\u2022 Meal plans with grocery lists included\r</div><div>\u2022 Integration with fitness trackers for in-depth health monitoring\r</div><div>\u2022 Life Score test for personalized nutrition recommendations</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1422/LifeSum_icon.png"
-    },
-    {
       "beta": false,
       "name": "LiveContainer (nightly)",
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -3358,6 +3325,17 @@
           "absoluteVersion": "2022.3"
         }
       ]
+    },
+    {
+      "name": "Merge Cooking",
+      "bundleIdentifier": "com.mergecooking.mergecooking",
+      "developerName": "Merge Cooking",
+      "version": "1.25.0",
+      "versionDate": "2026-01-14T17:52:59.000Z",
+      "size": 290198480,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MergeCooking.ipa",
+      "localizedDescription": "<h3>In app purchases are free</h3><div><br></div><div><br></div>Do you know you can enjoy the food around the world without traveling?\r<div>\r</div><div>Do you know you can master the secret of cooking with just a few simple steps?\r</div><div>Tie your apron and put your chef hat on!\r</div><div>In Merge Cooking, you can cook anything!\r</div><div>- Welcome, Chef!\r</div><div>Your assistant Lea is waiting for you to start the adventure of opening restaurants and serving customers around the world. Merge Cooking not only allows you to cook as a star chef and master the world cuisine but also helps you realize your designer dream and renovate Michelin star restaurants!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1362/MergeCooking_icon.png"
     },
     {
       "name": "Messenger++",
@@ -4034,6 +4012,17 @@
       "appID": "eu.pokemmo.client.pts"
     },
     {
+      "name": "Polarr",
+      "bundleIdentifier": "com.dangerouspixel.polarr",
+      "developerName": "Dangerous Pixel",
+      "version": "6.11.8",
+      "versionDate": "2026-01-14T17:40:50.000Z",
+      "size": 23769477,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Polarr.ipa",
+      "localizedDescription": "&nbsp; &nbsp; Use Polarr to easily create your own filters and styles, or share with others and discover millions of fresh aesthetics made by the Polarr community.<div><br><div></div><div></div><div>\u2022 Weekly updated styles for new looks\r</div><div>\u2022 Create and share your own styles as QR codes\r</div><div>\u2022 Backup and synchronize all your styles with Polarr account\r</div><div>\u2022 Advanced overlay, A.I. segmentation tools to create any effects you want\r</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; <i>Included effects and functionalities:\r</i></div><div>\u2022 Selective objects: Sky, Person, Background, Vegetation, Building, Ground, Animal, etc\r</div><div>\u2022 Selective masks: Brush, Radial, Gradient, Color, Luminance.\r</div><div>\u2022 Overlays: Gradient, Duotone, Weather, Texture, Backdrops, Custom Overlay, etc.\r</div><div>\u2022 Retouch: Skin, Liquify, Face shapes (mouth, teeth, nose, chin, etc).\r</div><div>\u2022 Global adjustments: Light, Color, HSL, Toning, Effects, Fringing, Details, Curves, Vignette, Grain, LUT\r</div><div>\u2022 Productivity: Batch photo exports, Face detection, A.I. object segmentation.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/858/Polarr_icon.png"
+    },
+    {
       "name": "PPSSPP",
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "Henrik Rydg\u00e5rd",
@@ -4396,6 +4385,17 @@
       ]
     },
     {
+      "name": "Simply Piano Hacked",
+      "bundleIdentifier": "com.laxus.simplypianohacked",
+      "developerName": "Laxus",
+      "version": "9.10.51",
+      "versionDate": "2026-01-14T17:41:49.000Z",
+      "size": 195483304,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SimplyPiano.ipa",
+      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\" style=\"\">iOSGods\r</a></span></div><div><b class=\"\"><br></b></div><b class=\"\">Hack Features:</b><div class=\"\"><b class=\"\">- Unlocked All Courses (Turn on from Mod Menu first)</b></div><div class=\"\"><br></div><div class=\"\">A fast and fun way to learn piano - works with any piano or keyboard. Learn to play the songs you love with Simply Piano!</div><div class=\"\"><br></div><div class=\"\">Simply Piano is a fast and fun way to learn piano, from beginner to pro. Works with any piano or keyboard. Chosen as one of the best iPhone apps.</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">- Tons of fun songs like Imagine, Chandelier, All Of Me and Counting Stars, also J.S. Bach</div><div class=\"\"><br></div><div class=\"\">- Includes courses for different musical tastes and playing levels</div><div class=\"\"><br></div><div class=\"\">- Learn the basics step-by-step from reading sheet music to playing with both hands</div><div class=\"\"><br></div><div class=\"\">- Slow down library songs to choose your own pace for easy learning</div><div class=\"\"><br></div><div class=\"\">- Personalized 5-Min Workouts ensuring you progress fast and always succeed</div><div class=\"\"><br></div><div class=\"\">- Suitable for all ages, no previous knowledge required to learn piano</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">No Piano? Try the Touch Courses with 3D Touch to turn your device into an on-screen keyboard!</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1269/SimplyPiano_icon.png"
+    },
+    {
       "name": "Six Pack in 30 Days",
       "bundleIdentifier": "com.sixpack.sixpackin30days",
       "developerName": "Six Pack",
@@ -4496,6 +4496,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Splice - Video Editor and Maker",
+      "bundleIdentifier": "com.blatant.splicevideoeditorandmaker",
+      "developerName": "Blatant",
+      "version": "4.28.57",
+      "versionDate": "2026-01-14T17:28:01.000Z",
+      "size": 115599959,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Splice.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Simple yet powerful, Splice makes it easy to create fully customized, professional-looking videos on your iPhone or iPad. Imagine the performance of a desktop editor, optimized for your mobile device. Just tap to trim clips, add slow motion effects, and overlay multiple clips to create beautiful videos you\u2019ll love to share. It\u2019s never been easier to edit like a pro on the go.\r<div>\r</div><div><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1369/Splice_icon.png"
     },
     {
       "name": "SpooferPro",
@@ -5090,17 +5101,6 @@
       ]
     },
     {
-      "name": "The Battle Cats",
-      "bundleIdentifier": "com.iosgods.thebattlecats",
-      "developerName": "iOSGods",
-      "version": "15.0.1",
-      "versionDate": "2025-12-28T18:06:44.000Z",
-      "size": 171065627,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/battleCats.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div><br></div><div><br></div><h3>Hack Features:<br>\r- Infinite Cash<br>\r- One hit kill<br>- Infinite Cat Foods &amp; EXP (requires IOSGods vip)</h3><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">-= Weirdly Cute Cats rampage across the world! =-\r</div><div class=\"\">Command your Cats with simple controls in a battle through space and time! No need to register to develop your own Cat Army! BATTLE WITH ALL THE CATS!!\r</div><div class=\"\"><br></div><div class=\"\">=Super Simple Battle System=\r</div><div class=\"\">Just tap on the Cat you want to fight for you!\r</div><div class=\"\">Fire the Cat Cannon to blast baddies getting too close to your base! Overcome weird enemies with the right Cat squad and take down the enemy base!\r</div><div class=\"\"><br></div><div class=\"\">=Super Simple Leveling System=\r</div><div class=\"\">Clear stages to get XP and items to level up the Cats! What will they evolve to at level 10? Can you unlock their True Form?</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1378/battleCats_icon.jpeg"
-    },
-    {
       "name": "Thermometer",
       "bundleIdentifier": "com.growpixel.blackbox.store.Thermometer",
       "developerName": "Ryan McLeod",
@@ -5645,8 +5645,8 @@
       "name": "VSCO",
       "bundleIdentifier": "com.michaellema.vsco",
       "developerName": "Michael Lema",
-      "version": "454.0.0",
-      "versionDate": "2026-01-13T15:45:17.000Z",
+      "version": "454.0.1",
+      "versionDate": "2026-01-14T17:34:43.000Z",
       "size": 96977746,
       "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
       "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
