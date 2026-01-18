@@ -606,6 +606,17 @@
       "beta": false
     },
     {
+      "name": "BH X",
+      "bundleIdentifier": "com.dangerouspixel.bhx",
+      "developerName": "Dangerous Pixel",
+      "version": "11.54",
+      "versionDate": "2026-01-18T15:21:01.000Z",
+      "size": 100174044,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/TwitterBHTwitter.ipa",
+      "localizedDescription": "BHTwitter<div>\u2022 Download Videos (even with private accounts).</div><div>\u2022 Download Videos from DM (hold the video cell).</div><div>\u2022 Unlock Undo Tweets for free.</div><div>\u2022 Hide promoted tweet from the timeline.</div><div>\u2022 Enable voice tweet and voice message in DM.</div><div>\u2022 Confirm alert when Like/Dislike.</div><div>\u2022 Lock Twitter with passcode.</div><div>\u2022 Enable Reader mode.</div><div>\u2022 Autoload photos in the highest quality.</div><div><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/963/TwitterBHTwitter_icon.png"
+    },
+    {
       "name": "blurt.blog",
       "bundleIdentifier": "blog.blurt.blurt",
       "developerName": "sagarkothari88",
@@ -3043,17 +3054,6 @@
       "beta": false
     },
     {
-      "name": "iPoGo ",
-      "bundleIdentifier": "com.ipogo.ipogo",
-      "developerName": "iPoGo",
-      "version": "4.1.1 (0.393.0)",
-      "versionDate": "2026-01-09T06:58:54.000Z",
-      "size": 115162453,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ipogo.ipa",
-      "localizedDescription": "<p><strong>If you use in LiveContainer: Set Allow location access for LiveContainer app in iPhone settings to always and set Precise Location to ON&nbsp;</strong></p><p><strong>Uninstall other versions of Pokemon Go before downloading iPoGo.</strong></p>\n\n<p class=\"\"><u><i>iPoGo is a hack for Pokemon GO.</i></u></p><p class=\"\">The account may be blocked due to the use of cheats. We have no influence on this and are not responsible in case of blocking.</p><p class=\"\"><b><i>FREE FEATURES :</i></b></p><p class=\"\"><i>\u2022 Teleport Anywhere in the world<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Global list of Pokemon/Raids<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Ability to always throw Excellent Curveballs<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Autowalk random or specific routes<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Shiny Scanner<br>\u2022 Freeze Pokemon<br>\u2022 Incognito Mode<br>\u2022 Tap on screen to walk there<br>\u2022 Nearby feeds overlay<br>\u2022 Nest/Pokemon/Pokestop/Raid feeds<br>\u2022 Maping and S2 Overlay<br>\u2022 Custom Routes / Hotspots<br>\u2022 Show stats for all saved Pokemon<br>\u2022 Joystick for walking emulation<br>\u2022 Enhanced throw / Remember last ball<br>\u2022 Ability to preview the IV of a pokemon before you catch it<br>\u2022 Ability to see which gyms have empty slots<br>\u2022 Journal to help keep track of your cooldown<br>\u2022 Autowalk random or specific routes</span></i></p><p class=\"\"><b><i class=\"\">V.I.P FEATURES (Purchased on the site of the developer of the hack - ipogo.app) :</i></b></p><p class=\"\">\u2022<i> All Free Features are Included<br>\u2022 Built in Virtual GoPlus (Auto catching)<br>\u2022 Auto reconnect GoPlus<br>\u2022 One click item bag cleaner<br>\u2022 Global feeds overlay / Custom feeds<br>\u2022 Faster map loading<br>\u2022 Block non shiny encounters<br>\u2022 Block non 100iv encounters<br>\u2022 Skip animation screens<br>\u2022 Auto transfer pokemon ability<br>\u2022 One hit Team Rocket<br>\u2022 Fast Catch<br>\u2022 Instant Training Battles<br>\u2022 Spawn Booster + Radius Booster<br>\u2022 The warm and fuzzy feeling of supporting iPogo</i></p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/717/ipogo_icon.jpg"
-    },
-    {
       "bundleIdentifier": "app.ish.iSH",
       "name": "iSH",
       "developerName": "Theodore Dubois and contributors",
@@ -3461,17 +3461,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MortalKombat.ipa",
       "localizedDescription": "<div class=\"\"><i class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\n</a></span></i></div><div class=\"\"><i class=\"\"><b class=\"\"><br></b></i></div><div class=\"\"><i class=\"\"><b class=\"\">Features:</b></i></div><div class=\"\"><i class=\"\"><b class=\"\">- Instantly Kill individual Enemy Characters</b></i></div><div class=\"\"><i class=\"\"><b>- Force Swap Enemy Characters*</b></i></div><div class=\"\"><i class=\"\"><b>- Easy Enemy* (1 hit KO)</b></i></div><div class=\"\"><i><b>- Resurrect and Heal all players*</b></i></div><div class=\"\"><i class=\"\"><b>- Heal All Players*</b></i></div><div class=\"\"><i class=\"\"><b>- Swap Hack - can swap without finishing time</b></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Get over here and immerse yourself in the iconic and visceral action of MORTAL KOMBAT MOBILE anytime, anywhere. Kollect legendary fighters like Scorpion, Sub-Zero, Raiden, and Kitana and fight in epic 3v3 battles set in the Mortal Kombat universe. This visually stunning fighting and card collection game has multiple modes and re-introduces characters and lore from Mortal Kombat\u2019s 30-Year fighting game legacy. Launch into the action today and prove yourself in the greatest fighting tournament in all of the realms!</i></div><div class=\"\"></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1160/MortalKombat_icon.png"
-    },
-    {
-      "name": "Movie Box Pro",
-      "bundleIdentifier": "com.senumy.movieboxpro",
-      "developerName": "Senumy",
-      "version": "15.2.1",
-      "versionDate": "2026-01-04T20:09:38.000Z",
-      "size": 146451154,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MovieBoxPro.ipa",
-      "localizedDescription": "\r<div><br></div><div>Extended app features list:\r</div><div>- Discover Movies: now playing, upcoming, search...\r</div><div>- Movie information: ratings, description, cast, budget, actors, release...\r</div><div>- Watch: trailers &amp; related video contents\r</div><div>- Buy or Rent: direct link to the iTunes Store to watch the Full Movie (rates apply)\r</div><div>- Lists: Browse Curated Movie lists, Organize your own movie database with a watchlist...\r</div><div>- Download: add your own videos &amp; movies &amp; TV-shows via Dropbox to the app library so you can watch them offline anywhere...\r</div><div>- Video player: fully featured HD video player\r</div><div>- Explore: Search to discover, watch and stream video content related to your favorite movies...\r</div><div>- Available on iPhone and Ipad\r</div><div class=\"\">- No login or authentification needed (except when you want to add your own content to the app through the Dropbox functionality)\r</div><div><br></div><div class=\"\"><i><b>Please note:\r</b></i></div><h3 class=\"\"><span style=\"font-weight: normal;\"><i>Our app is not a full movie streaming service. Full-length movies are not available within the app.<br></i><i>You need to download your own movies and videos to your device with the app (via Dropbox) to watch them offline anywhere.<br></i><i>Otherwise, we make it easy for you. For a wide catalog of movies (not playing now in theaters), you will find a direct link to buy in iTunes Store (button is below in the movie information page, rates apply).</i></span></h3><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/851/MovieBoxPro_icon.png"
     },
     {
       "name": "MyFitnessPal++",
@@ -5909,6 +5898,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/youtubeOled.ipa",
       "localizedDescription": "<ul class=\"\"><li class=\"\">Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\r</li><li class=\"\">Copy video, comment, and post information\r</li><li class=\"\">Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only  mode\r</li><li class=\"\">Player settings: Gestures, default quality, preferred audio track\r</li><li class=\"\">Save, Load and Restore settings. Clear cache once or automatically on app startup\r</li><li class=\"\">Built-in SponsorBlock\r</li><li>And much, much more</li></ul>",
       "iconURL": "https://flekstore.com/img-storage/apps/1442/youtubeOled_icon.png"
+    },
+    {
+      "name": "YouTube Plus (YTLite)",
+      "bundleIdentifier": "com.dayanch96.youtubeplusytlite",
+      "developerName": "dayanch96",
+      "version": "21.02.3 (5.2b4)",
+      "versionDate": "2026-01-18T15:20:02.000Z",
+      "size": 113340418,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YTlite.ipa",
+      "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.<div class=\"\"><br></div><div class=\"\"><i>Features:</i></div><div class=\"\"><ul><li>Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures</li><li>Copy video, comment, and post information</li><li>Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode</li><li>Player settings: Gestures, default quality, preferred audio track</li><li>Save, Load and Restore settings. Clear cache once or automatically on app startup</li><li>Built-in SponsorBlock</li><li>And much, much more</li></ul></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1232/YTlite_icon.png"
     },
     {
       "name": "YouTube++",
