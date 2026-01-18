@@ -679,17 +679,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
     },
     {
-      "name": "Captions: For Talking Videos",
-      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
-      "developerName": "Blatant",
-      "version": "13.0.0",
-      "versionDate": "2026-01-12T10:43:40.000Z",
-      "size": 373335088,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
-      "localizedDescription": "<h3 class=\"\"><br></h3><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1300/Captions_icon.png"
-    },
-    {
       "name": "CARROT Weather",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "developerName": "Grailr LLC",
@@ -1720,17 +1709,6 @@
       "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943
-    },
-    {
-      "name": "Duolingo Hacked",
-      "bundleIdentifier": "com.blatant.duolingohacked",
-      "developerName": "Blatant",
-      "version": "7.105",
-      "versionDate": "2026-01-12T11:25:23.000Z",
-      "size": 182898277,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
-      "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1395/duolingo_icon.png"
     },
     {
       "name": "Duolingo++",
@@ -3169,6 +3147,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Kodi.ipa",
       "localizedDescription": "<p>Only for 64 arm.</p>\r\n\r\n<p>Kodi (formerly known as XBMC) is an award-winning software media center for playing videos, music, pictures, games, and more. Kodi runs on Linux, OS X, Windows, iOS, and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.</p>\r\n",
       "iconURL": "https://flekstore.com/img-storage/apps/37/Kodi_icon.jpg"
+    },
+    {
+      "name": "Lightleap ",
+      "bundleIdentifier": "com.blatant.lightleap",
+      "developerName": "Blatant",
+      "version": "1.19.25",
+      "versionDate": "2026-01-18T15:24:05.000Z",
+      "size": 243891371,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/LightLeap.ipa",
+      "localizedDescription": "<b>App user favourite features from Lightleap include:</b><div><b><br></b><div></div><div class=\"\"><b>Sky\r</b></div><div>Replace the background in your photos with a brand-new sky!\r</div><div>- With one tap, you can change the background with a new sky.\r</div><div>- Select from 60+ high-quality sky backgrounds.\r</div><div class=\"\">- Choose from sunny, dusk, sunset, storm, and even fantasy skies!\r</div><div class=\"\"><br></div><div class=\"\"><b>Heal\r</b></div><div>Remove unwanted people, background smudges, and easily retouch your image with the heal function, like a true editor.\r</div><div>- Select and erase items in the forefront and background of your image.\r</div><div>- Smooth over bumps and quickly correct photo mistakes.\r</div><div class=\"\">- Undo retouches with a single tap to restore your image!\r</div><div class=\"\"><br></div><div class=\"\"><b>Filters\r</b></div><div>No photo is complete without one of Lightleap's gorgeous filters - one of our top features.\r</div><div>- Find filters by theme, whether you\u2019re looking for warm, black and white, urban, fade and many other filters.\r</div><div>- Easily adjust the intensity of your filters over your image.\r</div><div class=\"\">- Achieve the effects you desire in moments!\r</div><div class=\"\"><br></div><div class=\"\"><b>Looks\r</b></div><div>Change the vibe of your photo like a true editor in one tap.\r</div><div>- Choose a predefined look as filters for your image.\r</div><div>- Create a signature style for your Instagram feed with our designer editor looks.\r</div><div>- Give your images a golden hour glow, or set the mood with dusk, black and white, shadows and fantasy looks.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/QNPdTfE.png"
     },
     {
       "beta": false,
