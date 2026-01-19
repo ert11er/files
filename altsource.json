@@ -537,17 +537,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/792/archero_icon.png"
     },
     {
-      "name": "B612 - AI Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.b612aiphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "14.7.10",
-      "versionDate": "2026-01-12T13:11:39.000Z",
-      "size": 132121404,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/b612.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>B612 is the best all-in-one camera &amp; photo/video editing app. We offer various free features and tools to make every moment more special.\r<div>\r</div><div>Meet trendy effects, filters, and stickers that are updated every day!\r</div><div>=== Main features ===\r</div><div>*Create your own filters*\r</div><div>- Create a one-of-a-kind filter and share it with friends\r</div><div>- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\r</div><div>- Meet the creative and diverse filters of B612 creators.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1347/b612_icon.png"
-    },
-    {
       "name": "Balance: Meditation and Sleep",
       "bundleIdentifier": "com.blatant.balancemeditationandsleep",
       "developerName": "Blatant",
@@ -3131,17 +3120,6 @@
       ]
     },
     {
-      "name": "iTranslate Translator",
-      "bundleIdentifier": "com.blatant.itranslatetranslator",
-      "developerName": "Blatant",
-      "version": "17.4.67",
-      "versionDate": "2026-01-12T13:10:51.000Z",
-      "size": 75306866,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/iTranslate.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>iTranslate is one of the leading translation and dictionary apps designed to help you break language barriers with ease. Seamlessly translate text, websites, objects, or start voice-to-voice conversations in over 100 languages. Our unique Custom Phrasebook feature allows you to learn new languages and create personalized collections of phrases for various life situations. And if you need to use iTranslate abroad, our Offline Mode allows you to forget about paying expensive roaming charges.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1355/iTranslate_icon.png"
-    },
-    {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
@@ -3294,17 +3272,6 @@
       "appID": "com.luma-touch.LumaFusion"
     },
     {
-      "name": "Luminar Mobile AI Photo Editor",
-      "bundleIdentifier": "com.blatant.luminarmobileaiphotoeditor",
-      "developerName": "Blatant",
-      "version": "3.1.2",
-      "versionDate": "2026-01-12T13:12:12.000Z",
-      "size": 373249461,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/luminar.ipa",
-      "localizedDescription": "Luminar Mobile \u2014 Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1411/luminar_icon.png"
-    },
-    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -3347,6 +3314,17 @@
           "absoluteVersion": "2022.3"
         }
       ]
+    },
+    {
+      "name": "Marvel Contest of Champions",
+      "bundleIdentifier": "com.iosgods.marvelcontestofchampions",
+      "developerName": "iOSGods",
+      "version": "54.1.0",
+      "versionDate": "2026-01-19T14:43:37.000Z",
+      "size": 1883492326,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MarvelContest.ipa",
+      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><h3>Hack Features:\r</h3><div class=\"\"><ul><li class=\"\">X Player Damage\r</li><li>X Player Defense\r</li><li>X Player Mana\r</li><li>Enemy Mana\r</li><li class=\"\">Enemy/AI Doesn't Attack\r</li><li>Special Attack/Skill Always Available\r</li><li>No Knockbacks When Hit\r</li><li>No Knockdowns When Hit\r</li><li>Enemy Doesn't Block\r</li><li class=\"\">Auto Win\r</li><li class=\"\">One Hit Kill</li></ul></div><div class=\"\"><br></div>The biggest names from the Marvel Universe are ready to battle!\r<div>\r</div><div>\r</div><div>Prepare for epic versus-fighting action and battles with your favorite Marvel Super Heroes &amp; Super Villains in the ultimate cosmic showdown! Spider-Man, Iron Man, Deadpool, Wolverine &amp; more await your summons to battle! Assemble a team &amp; begin your quest to become the Ultimate Marvel Champion!</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1305/MarvelContest_icon.png"
     },
     {
       "name": "Merge Cooking",
@@ -3392,6 +3370,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Mimo: Learn Coding/Programming",
+      "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
+      "developerName": "Blatant",
+      "version": "11.0.0",
+      "versionDate": "2026-01-19T14:24:44.000Z",
+      "size": 136645016,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
+      "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1409/mimo_icon.png"
     },
     {
       "name": "Mini vMac",
@@ -3887,6 +3876,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/PlaceGuesser.ipa",
       "localizedDescription": "Explore curated locations with no repeats!<div><br><div></div><div>You are dropped somewhere in the world in and you have to find clues and guess your location on the world map.\r</div><div>Embark on a thrilling global adventure with our immersive travel game!\r</div><div>Explore the world like never before with our two exciting game modes: Quick Play and Country Streak.\r</div><div class=\"\">In Quick Play, test your observation skills and race against the clock to guess your location based on captivating 360\u00b0 panorama look around view images.\r</div><div class=\"\"><br></div><div>Want to challenge your geographical knowledge even further?\r</div><div>Dive into Country Streak and guess the correct country based on stunning street view scenes. \r</div><div>Immerse yourself in breathtaking landscapes, iconic landmarks, and vibrant city streets from around the world. Whether you're a casual explorer or a seasoned globetrotter, our app will keep you hooked with its addictive gameplay and captivating visuals.</div><div>\r</div><div>\r</div><div>\r</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1430/PlaceGuesser_icon.png"
+    },
+    {
+      "name": "Plants vs. Zombies 2",
+      "bundleIdentifier": "com.glehack.plantsvszombies2",
+      "developerName": "GLEHack",
+      "version": "12.8.1",
+      "versionDate": "2026-01-19T14:28:53.000Z",
+      "size": 88706864,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/pvz2.ipa",
+      "localizedDescription": "<p class=\"\">Hacked version of Plants vs. Zombies 2</p><p>\n<strong>Features:</strong><br>\n\u2022 Unlimited Coins<br>\n\u2022 Unlimited Gems<br>\n\u2022 Unlimited Mints</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/793/pvz2_icon.png"
     },
     {
       "name": "Play!",
