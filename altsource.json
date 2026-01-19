@@ -1760,11 +1760,11 @@
       "beta": false
     },
     {
-      "name": "Eevee Spotify Revived",
-      "bundleIdentifier": "com.whoeevee.eeveespotifyrevived",
+      "name": "Eevee Spotify",
+      "bundleIdentifier": "com.whoeevee.eeveespotify",
       "developerName": "whoeevee",
-      "version": "9.1.12 (6.5.0)",
-      "versionDate": "2026-01-18T15:33:03.000Z",
+      "version": "9.1.0 (6.2.2)",
+      "versionDate": "2026-01-19T09:53:44.000Z",
       "size": 75026367,
       "downloadURL": "https://s3.flekstore.com/ipa-library/EeveeSpotify.ipa",
       "localizedDescription": "<div><b style=\"\">Unable to Play Songs</b></div><div class=\"\"><b><br></b></div><div><b class=\"\">If all tracks are skipped, a song stops as soon as you play it, songs play in a random order, you see the \"You discovered a Premium feature\" popup when trying to play a song, or encounter other restrictions,</b></div><div class=\"\"><span class=\"\"><b style=\"\">You can only use Spotify abroad for 14 days. Connect to a VPN server in any country, change your region at <a href=\"accounts.spotify.com\" style=\"\">accounts.spotify.com</a>, then sign out and log back into Spotify with the VPN enabled.</b></span></div><div><br></div><div class=\"\"><br></div>This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.<div><br></div><div class=\"\"><b>This futures from premium didn't exist:</b></div><div class=\"\"><ul><li>Very High audio quality</li><li class=\"\">Native playlist downloading (you can download podcast episodes though)</li><li>Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)</li></ul></div><div><br></div>",
@@ -4283,6 +4283,17 @@
         }
       ],
       "appID": "com.louisanslow.record"
+    },
+    {
+      "name": "SCRL: Photo Collage Maker",
+      "bundleIdentifier": "com.blatant.scrlphotocollagemaker",
+      "developerName": "Blatant",
+      "version": "9.25.1",
+      "versionDate": "2026-01-18T16:35:07.000Z",
+      "size": 70840129,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SCRL.ipa",
+      "localizedDescription": "<b>Unleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.</b><div><br><div></div><div>\u2022 Exceptional Collage Maker with Hundreds of Hand-Picked Templates\r</div><div>Start your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style. \r</div><div class=\"\">Our design experts hand-pick each template to ensure the highest quality and versatility. Plus, new collage templates are added regularly, so you\u2019ll always have fresh options to choose from.\r</div><div class=\"\"><br></div><div>\u2022 Seamless Swipe-Through Carousel Posts\r</div><div class=\"\">Easily create stunning swipe-through carousel posts that captivate your audience. Our intuitive design tools make it effortless to merge photos into panoramic carousel posts or create scroll-through collage layouts that flow seamlessly. \r</div><div class=\"\"><br></div><div>\u2022 Premade Grid Layouts for Collages\r</div><div class=\"\">Now you can create beautiful, cohesive photo grids and Instagram layouts that span multiple photos, giving your feed a stunning, unified look. Combine grids with our photo collage templates, swipe-through carousel posts, and freeform canvas for endless possibilities.\r</div><div class=\"\"><br></div><div>\u2022 Add More Than 10 Photos to a Single Post\r</div><div>Break the limitations of traditional posts &amp; Instagram layouts. With SCRL, you can add more than 10 photos in a single post, providing more room for your creativity and storytelling.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/rLkcUhw.jpeg"
     },
     {
       "name": "ScummVM",
