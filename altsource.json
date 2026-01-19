@@ -679,6 +679,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
     },
     {
+      "name": "Calm: Sleep Meditation",
+      "bundleIdentifier": "com.ipalibrary.calmsleepmeditation",
+      "developerName": "IPA Library",
+      "version": "6.87",
+      "versionDate": "2026-01-19T14:23:14.000Z",
+      "size": 88181827,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Calm.ipa",
+      "localizedDescription": "Calm is the #1 app for Sleep, Meditation and Relaxation. Join the millions experiencing better sleep, lower stress, and less anxiety with our guided meditations, Sleep Stories, breathing programs, stretching exercises, and relaxing music. Calm is recommended by top psychologists, therapists, and mental health experts.<div><br></div><div>Calm is the perfect mindfulness app for beginners, but also includes hundreds of programs for intermediate and advanced users. Guided meditation sessions are available in lengths of 3, 5, 10, 15, 20 or 25 minutes so you can choose the perfect length to fit with your schedule.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/938/Calm_icon.png"
+    },
+    {
       "name": "CARROT Weather",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "developerName": "Grailr LLC",
@@ -2102,8 +2113,8 @@
       "name": "Facetune",
       "bundleIdentifier": "com.omtk.facetune",
       "developerName": "omtk",
-      "version": "3.115.1",
-      "versionDate": "2026-01-12T13:04:42.000Z",
+      "version": "3.116",
+      "versionDate": "2026-01-19T14:21:15.000Z",
       "size": 50934299,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
       "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
@@ -2236,15 +2247,15 @@
       ]
     },
     {
-      "name": "Flight Tracker +",
-      "bundleIdentifier": "com.blatant.flighttracker",
+      "name": "Flightradar24",
+      "bundleIdentifier": "com.blatant.flightradar24",
       "developerName": "Blatant",
-      "version": "8.7.0",
-      "versionDate": "2026-01-12T13:06:08.000Z",
-      "size": 79972304,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
+      "version": "10.22.0",
+      "versionDate": "2026-01-19T14:20:12.000Z",
+      "size": 190043853,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Flightradar.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div><div>The world's best flight tracker app - #1 Travel app in over 150 countries.</div><div><br></div><div>Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it\u2019s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1291/Flightradar_icon.png"
     },
     {
       "beta": false,
@@ -3383,17 +3394,6 @@
       "beta": false
     },
     {
-      "name": "Mimo: Learn Coding/Programming",
-      "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
-      "developerName": "Blatant",
-      "version": "10.2.0",
-      "versionDate": "2026-01-12T13:04:05.000Z",
-      "size": 136645016,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
-      "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1409/mimo_icon.png"
-    },
-    {
       "name": "Mini vMac",
       "bundleIdentifier": "net.namedfork.minivmac",
       "developerName": "Gryphel Project & zydeco",
@@ -3433,8 +3433,8 @@
       "name": "Mojo: AI Video and Reels Editor",
       "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
       "developerName": "Blatant",
-      "version": "1.255",
-      "versionDate": "2026-01-12T13:06:57.000Z",
+      "version": "1.256",
+      "versionDate": "2026-01-19T14:19:11.000Z",
       "size": 189797587,
       "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -3820,15 +3820,15 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
-      "name": "Peachy Pro",
-      "bundleIdentifier": "com.dvntm.peachypro",
-      "developerName": "dvntm",
-      "version": "2.9.0",
-      "versionDate": "2026-01-12T13:08:12.000Z",
-      "size": 102963908,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PeachyPro.ipa",
-      "localizedDescription": "Aiming at perfection in everything, Peachy is a powerful &amp; handy pro photo editor, especially for selfie editing &amp; retouching, body shape editing.<div><br></div><div>Everybody is an excellent photographer with this simple retouch tool, it helps you meet the best version of you, smooth skin, whiten teeth, reshape face, fix blemishes, remove wrinkles, become taller, add makeup, tattoo, muscles &amp; filters and so on.</div><div><br></div><div>Peachy provides lots of portrait and selfie photo editing features. Download it and give a try!</div><div><br></div><div>RETOUCH</div><div>\u00b7Remove wrinkles and acne</div><div>\u00b7Smooth and brightened your skin</div><div>\u00b7Reduce dark circles under your eyes</div><div>\u00b7Whiten your teeth</div><div>\u00b7Add volume and darken your eyebrow</div><div><br></div><div>RESHAPE</div><div>\u00b7Reshape your body and facial structure</div><div>\u00b7Refine a specific area of the selfie, for example, arms or facial features</div><div>\u00b7Bloat your breast, enlarge muscles and facial features</div><div><br></div><div>HEIGHT CORRECTION</div><div>\u00b7Elongate your legs and become taller</div><div>\u00b7Enhance your body both laterally and longitudinally</div><div><br></div><div>ADD MUSCLES</div><div>\u00b7Add six pack abs muscles</div><div>\u00b7Add chest muscles</div><div><br></div><div>ADD TATTOO</div><div>\u00b7Add creative tattoos to your body</div><div><br></div><div>LIGHTING EFFECTS</div><div>\u00b7Improve lighting effects of the selfie or portrait</div><div><br></div><div>ACCESSORIES</div><div>\u00b7Decorate your selfie or portrait with stylish accessories</div><div><br></div><div>FILTERS</div><div>\u00b7High-fashion vintage filters, perfect for selfie</div><div><br></div><div>ADJUST</div><div>\u00b7Create custom filters by adjusting brightness, contrast etc.</div><div><br></div><div>Perfect your selfies or portraits in Peachy, and share with your friends online, it can be fun and inspiring!</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/876/PeachyPro_icon.png"
+      "name": "Persona",
+      "bundleIdentifier": "com.tickettothemoon.persona",
+      "developerName": "Ticket To The Moon",
+      "version": "1.15.0",
+      "versionDate": "2026-01-19T14:22:37.000Z",
+      "size": 153483973,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/persona.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Master your look with Persona \u2014 a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\r</div><div>MAIN FEATURES:\r</div><div>\u2022 Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally \u2014 instant with one click, for photos and videos.\r</div><div>\u2022 Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\r</div><div>\u2022 Body Tuning: Shape your figure a bit for a sharp, real result in stills or clips.\r</div><div>\u2022 Skin Improvement: Get a tan, fix texture, or remove shine in one tap, for any shot.\r</div><div>\u2022 Editing Controls: Change brightness, contrast, or sharpness like a pro, for both photos and videos.\r</div><div>\u2022 Face Refining: Improve eyes, nose, lips, or jawline easily, anytime.\r</div><div>\u2022 Color Boost: Add bold, stylish tones to your photos or videos.\r</div><div>\u2022 Unique Details: Add freckles, dimples, or small touches to both photos and videos.\r</div><div>\u2022 Quick Fix: Erase spots or extras fast, no matter what you\u2019re editing.\r</div><div class=\"\">\u2022 Exclusive AI Tools: Retake shots with better angles, generate new photo sessions from your selfies, and more.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1343/persona_icon.png"
     },
     {
       "name": "Photomath++",
@@ -3865,6 +3865,17 @@
         }
       ],
       "appID": "com.microblink.PhotoMath"
+    },
+    {
+      "name": "Photoroom: AI Photo Editor",
+      "bundleIdentifier": "com.blatant.photoroomaiphotoeditor",
+      "developerName": "Blatant",
+      "version": "2026.03.01",
+      "versionDate": "2026-01-19T14:18:25.000Z",
+      "size": 133527206,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
+      "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
     },
     {
       "name": "Place Guesser",
@@ -4415,17 +4426,6 @@
         }
       ],
       "appID": "com.toyopagroup.picaboo"
-    },
-    {
-      "name": "SNOW - AI Profile",
-      "bundleIdentifier": "com.blatant.snowaiprofile",
-      "developerName": "Blatant",
-      "version": "14.7.10",
-      "versionDate": "2026-01-12T13:10:11.000Z",
-      "size": 133730441,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SnowAI.ipa",
-      "localizedDescription": "SNOW is a camera app used by over 200 million people around the world.\r<div>\r</div><div>\r</div><div>- Find your favorite version of yourself by creating and saving custom beauty effects.\r</div><div>- Take profile-worthy selfies with stylish AR makeup features.\r</div><div>- Explore thousands of stickers with updates every day.\r</div><div>- Don't miss exclusive seasonal filters that add color to your daily life.\r</div><div>- Professional photo edits with just a few taps.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1398/SnowAI_icon.png"
     },
     {
       "name": "SoundCloud++",
@@ -5149,8 +5149,8 @@
       "name": "Truecaller: Caller ID Lookup ",
       "bundleIdentifier": "com.blatant.truecallercalleridlookup",
       "developerName": "Blatant",
-      "version": "26.1.5",
-      "versionDate": "2026-01-12T13:29:26.000Z",
+      "version": "26.2.5",
+      "versionDate": "2026-01-19T14:17:49.000Z",
       "size": 74500784,
       "downloadURL": "https://s3.flekstore.com/ipa-library/truecaller.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\r</div><div class=\"\"><br></div><div class=\"\">#1 CALLER ID &amp; SPAM BLOCKING APP WORLDWIDE\r</div><div class=\"\"><br></div><div>\u2022 An all new Caller ID experience on iPhone with iOS 18.2 and above\r</div><div>\u2022 Automatically identify spam, fraud, and robocalls before you pick up\r</div><div>\u2022 View &amp; search previously identified calls in the Phone app\r</div><div>\u2022 Take advantage of the best spam call blocker for iPhone\r</div><div>\u2022 Enable spam identification and blocking by accessing Settings &gt; Apps &gt; Phone &gt; Call Blocking &amp; Identification\r</div><div>\u2022 A paid subscription is required to access this feature</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
