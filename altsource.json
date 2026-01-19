@@ -1771,6 +1771,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1222/EeveeSpotify_icon.png"
     },
     {
+      "name": "Eevee Spotify Revived",
+      "bundleIdentifier": "com.meeep1.eeveespotifyrevived",
+      "developerName": "Meeep1",
+      "version": "9.1.12 (v6.5.0)",
+      "versionDate": "2026-01-19T10:00:59.000Z",
+      "size": 94101596,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/EeveeSpotifyRevived.ipa",
+      "localizedDescription": "<b>Unable to Play Songs problem:</b><div><br></div><div>If all tracks are skipped, a song stops as soon as you play it, songs play in a random order, you see the \"You discovered a Premium feature\" popup when trying to play a song, or encounter other restrictions,</div><div>You can only use Spotify abroad for 14 days. Connect to a VPN server in any country, change your region at accounts.spotify.com, then sign out and log back into Spotify with the VPN enabled.</div><div><br></div><div><br></div><div>This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.</div><div><br></div><div>This futures from premium didn't exist:</div><div>Very High audio quality</div><div>Native playlist downloading (you can download podcast episodes though)</div><div>Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)</div><div><br></div>",
+      "iconURL": "https://i.imgur.com/vcvzhx4.jpeg"
+    },
+    {
       "name": "EhPanda",
       "bundleIdentifier": "app.ehpanda",
       "developerName": "Araki Tatsuzou",
@@ -5887,17 +5898,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
       "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/605/YTmusic1_icon.png"
-    },
-    {
-      "name": "YouTube OLED",
-      "bundleIdentifier": "com.youtube.youtubeoled",
-      "developerName": "YouTube",
-      "version": "20.50.10",
-      "versionDate": "2026-01-12T12:01:18.000Z",
-      "size": 128245083,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/youtubeOled.ipa",
-      "localizedDescription": "<ul class=\"\"><li class=\"\">Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\r</li><li class=\"\">Copy video, comment, and post information\r</li><li class=\"\">Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only  mode\r</li><li class=\"\">Player settings: Gestures, default quality, preferred audio track\r</li><li class=\"\">Save, Load and Restore settings. Clear cache once or automatically on app startup\r</li><li class=\"\">Built-in SponsorBlock\r</li><li>And much, much more</li></ul>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1442/youtubeOled_icon.png"
     },
     {
       "name": "YouTube Plus (YTLite)",
