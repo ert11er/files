@@ -660,8 +660,8 @@
       "name": "Busuu: Language Learning",
       "bundleIdentifier": "com.blatant.busuulanguagelearning",
       "developerName": "Blatant",
-      "version": "29.28",
-      "versionDate": "2026-01-13T15:50:30.000Z",
+      "version": "29.29",
+      "versionDate": "2026-01-20T19:08:15.000Z",
       "size": 41323858,
       "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
       "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
@@ -1027,17 +1027,6 @@
       ]
     },
     {
-      "name": "Crsel: Carousel and Story Maker",
-      "bundleIdentifier": "com.blatant.crselcarouselandstorymaker",
-      "developerName": "Blatant",
-      "version": "1.3.1",
-      "versionDate": "2026-01-12T13:14:30.000Z",
-      "size": 144457400,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/crsel.ipa",
-      "localizedDescription": "<b>Crsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.</b><div><br><div></div><div class=\"\"><ul><li>Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\r</li><li>From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to design posts that feel intentional, premium, and uniquely yours.\r</li><li>Trendy Collage Templates. Choose from layered, editorial-style templates made for storytelling! Combine multiple photos, add text, and guide your audience through a visual journey.\r</li><li>Story Templates That Match Your Feed. Create IG stories and Reels covers using the same style as your carousels. Maintain a cohesive aesthetic across all your content, from feed to story highlights.\r</li><li>Reels Cover Designer. Design eye-catching Reels thumbnails that match your feed. Crsel helps you maintain a polished and branded look across all formats\r</li><li>AI Cutout Tool. Automatically remove backgrounds from photos with one tap. Easily layer people, objects, or products over textured backdrops and collage elements.</li></ul></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1461/crsel_icon.png"
-    },
-    {
       "name": "Crunchyroll++",
       "bundleIdentifier": "com.crunchyroll.iphone",
       "developerName": "unlimapps",
@@ -1065,15 +1054,15 @@
       "appID": "com.crunchyroll.iphone"
     },
     {
-      "name": "Darkroom: Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.darkroomphotoandvideoeditor",
+      "name": "Dazz Cam - Vintage Camera",
+      "bundleIdentifier": "com.blatant.dazzcamvintagecamera",
       "developerName": "Blatant",
-      "version": "7.0.14",
-      "versionDate": "2026-01-12T13:17:23.000Z",
-      "size": 159660645,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/darkroom.ipa",
-      "localizedDescription": "Optimize your creative workflow with Darkroom: Photo &amp; Video Editor, now available for macOS. Experience the pinnacle of desktop editing with Darkroom, designed to elevate your photo and video projects with its comprehensive, feature-rich editing suite.<div><br><div></div><div></div><div class=\"\">Dive into a world where AI powers precision editing, offering you the ability to meticulously sculpt your visuals. With advanced depth editing and object recognition, fine-tune the elements of your photos\u2014like skies, hair, and skin\u2014with unmatched accuracy. Darkroom rivals the functionality of industry giants such as Adobe Lightroom and Canva, providing a versatile toolkit for every creative need.\r</div><div class=\"\"><br></div><div>Unleash your creativity with intuitive tools like touch-responsive curves and selective color adjustments, making the editing process smoother and enabling the creation of distinctive presets. Explore the richness of RAW photography with full-resolution support and 16-bit color depth, ensuring every detail, shadow, and highlight is perfectly captured.</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1423/darkroom_icon.png"
+      "version": "2.14",
+      "versionDate": "2026-01-20T19:07:32.000Z",
+      "size": 106980613,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Dazz.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Dazz Camera, Pro Photographer in your Pocket.\r</div><div>\r</div><div class=\"\"><br></div><div class=\"\">We believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\r</div><div class=\"\">\r</div><div><br></div><div>Dazz camera is inspired by classic film cameras from the 80s. We\u2019ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, half-frame cameras, instant camera, 3D film photography, disposable camera, and more.</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1297/Dazz_icon.png"
     },
     {
       "name": "Deezer++",
@@ -3160,6 +3149,17 @@
       "iconURL": "https://i.imgur.com/QNPdTfE.png"
     },
     {
+      "name": "Lightroom Hacked",
+      "bundleIdentifier": "com.laxus.lightroomhacked",
+      "developerName": "Laxus",
+      "version": "11.1.1",
+      "versionDate": "2026-01-20T19:10:55.000Z",
+      "size": 192623012,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Lightroom.ipa",
+      "localizedDescription": "<div class=\"\"><br></div><div class=\"\"><b>Hack Features:&nbsp;</b></div><div class=\"\"><ul><li class=\"\"><b>&nbsp;PREMIUM&nbsp;</b></li></ul></div><div class=\"\">Edit raw and videos, and all other premium features unlocked.</div>Lightroom for iOS is a photo and video editing app. It provides powerful editing features like sliders, color grading, and a video editor, all accessible on your mobile device. You can also upgrade for premium features that include RAW capture, HDR, and more, with seamless access across all your devices.&nbsp;",
+      "iconURL": "https://i.imgur.com/tnhEQsx.png"
+    },
+    {
       "beta": false,
       "name": "LiveContainer (nightly)",
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -3508,6 +3508,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "MyFitnessPal: Calorie Counter",
+      "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
+      "developerName": "MyFitnessPal",
+      "version": "26.2.0",
+      "versionDate": "2026-01-20T19:11:20.000Z",
+      "size": 80827557,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
+      "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1191/MyFitnessPal_icon.png"
     },
     {
       "name": "NineAnimator",
@@ -4107,17 +4118,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/push.ipa",
       "localizedDescription": "PUSH is about building muscle as fast as possible - with science. We achieve this with an algorithm built based strictly on published peer-reviewed research. You don't have to take our word for it, you can tap the referenced articles throughout the app as you use it.<div><br>&nbsp;\n<div>\n</div><div>\n</div><div class=\"\">- Our workouts are based on scientific research and your training data over time. You can view exactly how everything works in the app and read the references for yourself.\n</div><div class=\"\"><br></div><div>- PUSH generates a program based on your experience, sleep, gender, stress and time available to train. We fine tune your volume, frequency, rep range and exercise selection based on published research relating to these factors.\n</div><div>- Exercises are selected based on resistance curve and rep range.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1410/push_icon.png"
-    },
-    {
-      "name": "Radarbot Pro",
-      "bundleIdentifier": "com.dangerouspixel.radarbotpro",
-      "developerName": "Dangerous Pixel",
-      "version": "9.33",
-      "versionDate": "2026-01-12T13:16:23.000Z",
-      "size": 198604937,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/RadarBotPro.ipa",
-      "localizedDescription": "<div class=\"\"><i>Premium version of Radarbot: Speed Cameras &amp; GPS.&nbsp;</i></div><div class=\"\"><i><br></i></div>Radarbot is your GPS navigator specialized in radars. Drive protected and forget about fines forever. Enjoy driving!<div class=\"\"><br><div class=\"\"><b>Features:</b></div><div>- It works in any country.</div><div>- It is compatible with other apps. You can use Radarbot simultaneously with other GPS navigators or your favorite music app. You will continue to receive alerts in the background or while the screen is turned off.</div><div>- Alerts only in the direction you are driving. The app automatically ignores radars in the opposite direction or off route.</div><div>- Voice alerts.</div><div>- Sound alerts when approaching a radar or going over the speed limit.</div><div>- Vibration mode for motorists.</div><div>- Completely configurable warning distances and parameters.</div><div>- Automatic Bluetooth connection and startup.</div><div>- Compatible with Apple Watch.</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1018/RadarBotPro_icon.png"
     },
     {
       "name": "Ready",
