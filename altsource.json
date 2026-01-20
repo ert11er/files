@@ -89,17 +89,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1341/PhotoshopFull_icon.png"
     },
     {
-      "name": "Adobe Premiere: Video Editor",
-      "bundleIdentifier": "com.blatant.adobepremierevideoeditor",
-      "developerName": "Blatant",
-      "version": "26.1.0",
-      "versionDate": "2026-01-14T17:44:13.000Z",
-      "size": 97895549,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/premierAdobe.ipa",
-      "localizedDescription": "Effortless editing. Total control. Meet the fast, free, and focused mobile video editing app that's powerful enough for any idea, yet simple enough for anyone to use. Edit videos from wherever you are, with no ads or watermarks. Premiere offers unmatched speed on a precise multi-track timeline and studio-quality audio featuring crystal clear voice recordings and perfectly timed AI sound effects -- plus Firefly-powered visuals to create stand out videos.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1412/premierAdobe_icon.png"
-    },
-    {
       "name": "Aloha Browser - Private VPN",
       "bundleIdentifier": "com.blatant.alohabrowserprivatevpn",
       "developerName": "Blatant",
