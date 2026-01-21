@@ -3127,17 +3127,6 @@
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
     },
     {
-      "name": "Kodi Omega",
-      "bundleIdentifier": "com.koditv.kodiomega",
-      "developerName": "kodi.tv",
-      "version": "21.3",
-      "versionDate": "2026-01-14T15:13:14.000Z",
-      "size": 117918057,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Kodi.ipa",
-      "localizedDescription": "<p>Only for 64 arm.</p>\r\n\r\n<p>Kodi (formerly known as XBMC) is an award-winning software media center for playing videos, music, pictures, games, and more. Kodi runs on Linux, OS X, Windows, iOS, and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.</p>\r\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/37/Kodi_icon.jpg"
-    },
-    {
       "name": "Lightleap ",
       "bundleIdentifier": "com.blatant.lightleap",
       "developerName": "Blatant",
@@ -3428,17 +3417,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1335/mojo_icon.png"
-    },
-    {
-      "name": "Moonly: Moon Phases and Calendar",
-      "bundleIdentifier": "com.blatant.moonlymoonphasesandcalendar",
-      "developerName": "Blatant",
-      "version": "2.6.3",
-      "versionDate": "2026-01-12T13:23:57.000Z",
-      "size": 168242606,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
-      "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
     },
     {
       "name": "Mortal Kombat Hack",
@@ -3867,17 +3845,6 @@
       "appID": "com.microblink.PhotoMath"
     },
     {
-      "name": "Photoroom: AI Photo Editor",
-      "bundleIdentifier": "com.blatant.photoroomaiphotoeditor",
-      "developerName": "Blatant",
-      "version": "2026.03.01",
-      "versionDate": "2026-01-19T14:18:25.000Z",
-      "size": 133527206,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
-      "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
-    },
-    {
       "name": "Place Guesser",
       "bundleIdentifier": "com.mobivalley.placeguesser",
       "developerName": "Mobivalley",
@@ -4084,20 +4051,9 @@
       "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Joe Mattiello",
       "subtitle": "Multi-emulator frontend for iOS & tvOS",
-      "version": "2.2.1",
-      "versionDate": "2022-12-30T00:01:00-05:00",
-      "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
-      "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
-      "localizedDescription": "Multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
+      "localizedDescription": "Provenance is a multi-system emulator frontend for a plethora of retro gaming systems. You can keep all your games in one place, display them with cover art, and play to your heart's content.\n\nSystems Supported:\n\n\u2022 Atari\n  - 2600\n  - 5200\n  - 7800\n  - Lynx\n  - Jaguar\n\u2022 Bandai\n  - WonderSwan / WonderSwan Color\n\u2022 NEC\n  - PC Engine / TurboGrafx-16 (PCE/TG16)\n  - PC Engine Super CD-ROM\u00b2 System / TurboGrafx-CD\n  - PC Engine SuperGrafx\n  - PC-FX\n\u2022 Nintendo\n  - Nintendo Entertainment System / Famicom (NES/FC)\n  - Famicom Disk System\n  - Super Nintendo Entertainment System / Super Famicom (SNES/SFC)\n  - Game Boy / Game Boy Color (GB/GBC)\n  - Virtual Boy\n  - Game Boy Advance (GBA)\n  - Pok\u00e9mon mini\n\u2022 Sega\n  - SG-1000\n  - Master System\n  - Genesis / Mega Drive\n  - Game Gear\n  - CD / MegaCD\n  - 32X\n\u2022 SNK\n  - Neo Geo Pocket / Neo Geo Pocket Color\n\u2022 Sony\n  - PlayStation (PSX/PS1)",
       "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
-      "tintColor": "#162434",
-      "size": 77010038,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Allows Provenance to use images from your Photo Library as game artwork."
-        }
-      ],
+      "tintColor": "#1c7cf3",
       "screenshotURLs": [
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2306.jpg",
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
@@ -4106,7 +4062,39 @@
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2310.jpg",
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
-      ]
+      ],
+      "versions": [
+        {
+          "version": "2.2.1",
+          "date": "2022-12-30T00:01:00-05:00",
+          "localizedDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
+          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
+          "size": 77010038,
+          "sha256": "48b834e58724a07b16a8f951ff8983c6ca7088f85d5f480c3dfe04530c915f9c"
+        },
+        {
+          "version": "2.2.1.beta.1",
+          "date": "2022-12-30T00:01:00-05:00",
+          "localizedDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
+          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
+          "size": 33978209
+        },
+        {
+          "version": "2.2.0",
+          "date": "2022-12-09T00:01:00-05:00",
+          "localizedDescription": "Many bug fixes, SwiftUI additions, new cores, new features and more. See GitHub changelog for more info.",
+          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.0/Provenance.ipa",
+          "size": 33978209
+        },
+        {
+          "version": "2.1.1",
+          "date": "2022-06-15T12:00:00-05:00",
+          "localizedDescription": "PSX controller fixes, fceux update, SwiftUI updates.",
+          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.1.1/Provenance-iOS.ipa",
+          "size": 36120321
+        }
+      ],
+      "appID": "org.provenance-emu.provenance"
     },
     {
       "name": "PUSH Workout and Gym Tracker",
@@ -4984,17 +4972,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/subway.ipa",
       "localizedDescription": "<p class=\"\"><span class=\"\"><i style=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></span></p><p class=\"\"><strong class=\"\">Hack Features:<br></strong></p><p class=\"\"><span class=\"\">- Free Store (not Free iAP)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free iAP (ViP Only)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock Characters Outfit<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Custom Jump Height<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)</span></p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/825/subway_icon.jpeg"
-    },
-    {
-      "name": "Swipewipe - Photo Cleaner",
-      "bundleIdentifier": "com.blatant.swipewipephotocleaner",
-      "developerName": "Blatant",
-      "version": "3.2.43",
-      "versionDate": "2026-01-12T13:33:00.000Z",
-      "size": 78727663,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/swipewipe1.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Swipewipe is the app that will (finally) help you clean up your camera roll. And you\u2019ll enjoy reminiscing while you do it.\r</div><div>We'll save you the time: Yes, there are other apps that can help you quickly delete photos on your phone. But none of them worked for us!\r</div><div class=\"\">We wanted a simple, fun, elegant solution that let us go month-by-month, work our way through all our photos, videos, screenshots, and everything else in our camera roll, and decide - one by one - what to keep and what to get rid of. That\u2019s Swipewipe.\r</div><div class=\"\"><br></div><div>Here\u2019s how it works: swipe right to keep a photo, and left to delete it. If you make a mistake or change your mind, just tap the current photo to go back. Hold down on a picture to see its metadata. After you\u2019re done reviewing that month\u2019s photos, take one last look at the photos you chose to keep and the ones you chose to delete, make any tweaks you need to, and then\u2026you\u2019re done!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1350/swipewipe1_icon.png"
     },
     {
       "name": "Taurine",
