@@ -111,17 +111,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1412/premierAdobe_icon.png"
     },
     {
-      "name": "Aloha Browser - Private VPN",
-      "bundleIdentifier": "com.blatant.alohabrowserprivatevpn",
-      "developerName": "Blatant",
-      "version": "7.14.1",
-      "versionDate": "2026-01-12T13:24:34.000Z",
-      "size": 15635988,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AlohaVPN.ipa",
-      "localizedDescription": "Premium unlocked<div><br></div><div>Aloha Browser is the ultimate private browser, providing unparalleled privacy and security for all your browsing needs.\r</div><div>With hundreds of millions of users around the world, Aloha has earned a 5-star rating in many countries, thanks to its clean interface, ease of use, and awesome features.</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1357/AlohaVPN_icon.png"
-    },
-    {
       "name": "AltMarket",
       "bundleIdentifier": "com.altmarketteam.altmarket",
       "developerName": "AltMarket Team",
@@ -540,8 +529,8 @@
       "name": "Archero Hack",
       "bundleIdentifier": "com.iosgods.archerohack",
       "developerName": "iOSGods",
-      "version": "7.5.1",
-      "versionDate": "2026-01-13T16:06:43.000Z",
+      "version": "7.6",
+      "versionDate": "2026-01-21T15:57:59.000Z",
       "size": 183964928,
       "downloadURL": "https://s3.flekstore.com/ipa-library/archero.ipa",
       "localizedDescription": "<p class=\"\">Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\">Hacked version of Archero!<br>\n<strong>Features:</strong><br>- Multiply Defense (Enter Any Amount and Enable The Switch)</p><p class=\"\">- Multiply Attack (Enter Any Amount and Enable The Switch)</p><p class=\"\">- God Mode</p><p class=\"\">- One Hit Kill (Must use with God Mode or use Multiply Attack instead)</p><p class=\"\">- Freeze Enemies</p>\n",
@@ -557,6 +546,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/BalanceMeditation.ipa",
       "localizedDescription": "<b>Improve your stress, sleep, and more with Balance\u2019s personalized guided meditation program.</b><div><br><div></div><div></div><div>YOUR PERSONAL MEDITATION COACH\r</div><div>Balance is your personal meditation coach. Each day, you\u2019ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that\u2019s perfect for you. The more you share over time, the more personalized and effective your meditations become.</div><div>\r</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1402/BalanceMeditation_icon.png"
+    },
+    {
+      "name": "BASEBALL 9",
+      "bundleIdentifier": "com.iosgods.baseball9",
+      "developerName": "iOSGods",
+      "version": "3.8.7",
+      "versionDate": "2026-01-21T16:04:25.000Z",
+      "size": 206553554,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/BASEBALL9.ipa",
+      "localizedDescription": "<div><i class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a></i></div><div><br></div><i class=\"\">Features:</i><div><div>- Unlimited Coins</div><div>- Unlimited Stamina</div><div>- Unlimited Gems</div><div>- Unlimited Recruit Tickets</div><div>- Unlimited Gold Badges</div><div>- Unlimited Silver Badges</div><div>- Unlimited Platinum Badges</div><div>- Unlimited XP Drinks</div><div class=\"\">- Unlimited Condition Drinks</div></div><div class=\"\"><br></div><div class=\"\">Enjoy fast-paced, realistic baseball game, featuring compact gameplay and informative stats.</div><div class=\"\"><br></div><div class=\"\">Play BASEBALL NINE to become the Legend League Champion!</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1090/BASEBALL9_icon.png"
     },
     {
       "name": "BeReal++",
@@ -3463,17 +3463,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1335/mojo_icon.png"
     },
     {
-      "name": "Moonly: Moon Phases and Calendar",
-      "bundleIdentifier": "com.blatant.moonlymoonphasesandcalendar",
-      "developerName": "Blatant",
-      "version": "2.6.3",
-      "versionDate": "2026-01-12T13:23:57.000Z",
-      "size": 168242606,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
-      "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
-    },
-    {
       "name": "Mortal Kombat Hack",
       "bundleIdentifier": "com.iosgods.mortalkombathack",
       "developerName": "iOSGods",
@@ -3483,6 +3472,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MortalKombat.ipa",
       "localizedDescription": "<div class=\"\"><i class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\n</a></span></i></div><div class=\"\"><i class=\"\"><b class=\"\"><br></b></i></div><div class=\"\"><i class=\"\"><b class=\"\">Features:</b></i></div><div class=\"\"><i class=\"\"><b class=\"\">- Instantly Kill individual Enemy Characters</b></i></div><div class=\"\"><i class=\"\"><b>- Force Swap Enemy Characters*</b></i></div><div class=\"\"><i class=\"\"><b>- Easy Enemy* (1 hit KO)</b></i></div><div class=\"\"><i><b>- Resurrect and Heal all players*</b></i></div><div class=\"\"><i class=\"\"><b>- Heal All Players*</b></i></div><div class=\"\"><i class=\"\"><b>- Swap Hack - can swap without finishing time</b></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Get over here and immerse yourself in the iconic and visceral action of MORTAL KOMBAT MOBILE anytime, anywhere. Kollect legendary fighters like Scorpion, Sub-Zero, Raiden, and Kitana and fight in epic 3v3 battles set in the Mortal Kombat universe. This visually stunning fighting and card collection game has multiple modes and re-introduces characters and lore from Mortal Kombat\u2019s 30-Year fighting game legacy. Launch into the action today and prove yourself in the greatest fighting tournament in all of the realms!</i></div><div class=\"\"></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1160/MortalKombat_icon.png"
+    },
+    {
+      "name": "My Hot Pot Story Hack",
+      "bundleIdentifier": "com.iosgods.myhotpotstoryhack",
+      "developerName": "iOSGods",
+      "version": "5.3.2",
+      "versionDate": "2026-01-21T15:48:06.000Z",
+      "size": 517994657,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/HotPot.ipa",
+      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods</a><div><br><h3 class=\"\">Hack Features:<br><ul><li>&nbsp;Infinite Currencies</li></ul>\n</h3><div class=\"\">My Hot Pot Story&nbsp; is Restaurant Management game. In this game you will play the role of a hot pot restaurant owner, developing various hot pot dishes, making daily purchase plans, serving customers, training chefs and waiters, purchasing restaurant stuffs, opening a chain of stores, etc. Game features 1\u3001Multiple ways to run the business freely. 2\u3001Feel the fun of running a hot pot restaurant and enjoy all kinds of delicious food,Especially Chinese ingredients. 3\u3001Decorate the store to have your own hot pot restaurant</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1312/HotPot_icon.jpeg"
     },
     {
       "name": "MyFitnessPal++",
