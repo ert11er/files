@@ -89,6 +89,17 @@
       ]
     },
     {
+      "name": "Adobe Fresco",
+      "bundleIdentifier": "com.adobe.adobefresco",
+      "developerName": "Adobe ",
+      "version": "7.1.1",
+      "versionDate": "2026-01-22T12:34:01.000Z",
+      "size": 666730702,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/fresco.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Adobe Fresco is a free drawing and painting app designed for digital artists. Built for iPad and iPhone with Apple Pencil Pro compatibility, Fresco offers a wide variety of brushes and features to help you create your next masterpiece.<div><br><div></div><div></div><div>Take your artwork to the next level by adding motion with Fresco\u2019s suite of animation and motion path tools. Explore frame-by-frame animation and revolutionary motion paths. Draw and paint with rotational and reflective symmetry guides. Paste photos from your clipboard or your camera roll to practice your form. Show off your process by exporting a time-lapse video of your process. Explore hundreds of tutorials and inspiration pieces from the Fresco Community. Plus, brushes and projects follow you across devices so you can work wherever and whenever inspiration strikes.</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1336/fresco_icon.png"
+    },
+    {
       "name": "Adobe Photoshop: Image Editor",
       "bundleIdentifier": "com.adobe.adobephotoshopimageeditor",
       "developerName": "Adobe ",
@@ -109,17 +120,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/premierAdobe.ipa",
       "localizedDescription": "Effortless editing. Total control. Meet the fast, free, and focused mobile video editing app that's powerful enough for any idea, yet simple enough for anyone to use. Edit videos from wherever you are, with no ads or watermarks. Premiere offers unmatched speed on a precise multi-track timeline and studio-quality audio featuring crystal clear voice recordings and perfectly timed AI sound effects -- plus Firefly-powered visuals to create stand out videos.",
       "iconURL": "https://flekstore.com/img-storage/apps/1412/premierAdobe_icon.png"
-    },
-    {
-      "name": "AltMarket",
-      "bundleIdentifier": "com.altmarketteam.altmarket",
-      "developerName": "AltMarket Team",
-      "version": "1.0",
-      "versionDate": "2026-01-13T10:25:58.000Z",
-      "size": 3073771,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AltMarket.ipa",
-      "localizedDescription": "<i>Access bypassing invite codes is open.</i><div class=\"\"><i><br></i></div><div class=\"\"><span class=\"\">Games and software store for different platforms: PC, PS, Xbox, Nintendo.</span></div><div class=\"\"><span class=\"\">Simple and clear interface, instant receipt of paid goods, discounts up to 95% on new game releases, Windows, Microsoft Office, SpooferPro etc.</span></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1385/AltMarket_icon.png"
     },
     {
       "name": "AltStore",
@@ -535,17 +535,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/archero.ipa",
       "localizedDescription": "<p class=\"\">Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\">Hacked version of Archero!<br>\n<strong>Features:</strong><br>- Multiply Defense (Enter Any Amount and Enable The Switch)</p><p class=\"\">- Multiply Attack (Enter Any Amount and Enable The Switch)</p><p class=\"\">- God Mode</p><p class=\"\">- One Hit Kill (Must use with God Mode or use Multiply Attack instead)</p><p class=\"\">- Freeze Enemies</p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/792/archero_icon.png"
-    },
-    {
-      "name": "Balance: Meditation and Sleep",
-      "bundleIdentifier": "com.blatant.balancemeditationandsleep",
-      "developerName": "Blatant",
-      "version": "1.192.0",
-      "versionDate": "2026-01-13T15:47:57.000Z",
-      "size": 116712005,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BalanceMeditation.ipa",
-      "localizedDescription": "<b>Improve your stress, sleep, and more with Balance\u2019s personalized guided meditation program.</b><div><br><div></div><div></div><div>YOUR PERSONAL MEDITATION COACH\r</div><div>Balance is your personal meditation coach. Each day, you\u2019ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that\u2019s perfect for you. The more you share over time, the more personalized and effective your meditations become.</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1402/BalanceMeditation_icon.png"
     },
     {
       "name": "BASEBALL 9",
@@ -1731,6 +1720,17 @@
       "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943
+    },
+    {
+      "name": "Dragons: Rise of Berk Hack",
+      "bundleIdentifier": "com.iosgods.dragonsriseofberkhack",
+      "developerName": "iOSGods",
+      "version": "1.103.11",
+      "versionDate": "2026-01-22T12:53:58.000Z",
+      "size": 647870730,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/DragonsRise.ipa",
+      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods</a><div><br></div><h3><b>Hack Features:</b></h3><div class=\"\">- Freeze Currencies</div><div class=\"\"><br></div><div class=\"\"><b>** ViP Only ** :</b></div><div class=\"\">- Free Store / Free Purchase (Not Free iAP) -- use with Freeze Currencies for best experience</div><div class=\"\">- Free Odin's Market Shopping</div><div class=\"\">- Odin's Market Packs Never Reduce</div><div class=\"\">- Enable Rider Club / Free Subscription</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Build your OWN Berk! Rescue, hatch and train your favorite DreamWorks Dragons! Explore uncharted lands in a vast Viking world!</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Join Hiccup, Toothless and the gang to protect your village from the mysterious strangers that threaten peace on Berk. Who are they, and what do they want from your harmonious homeland? Train your DreamWorks Dragons successfully and they\u2019ll reveal new powers that will help to ensure the future of your island.</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Remember\u2026it takes a village...and DRAGONS!<br><a href=\"https://iosgods.com/\"></a><div class=\"\"><br></div></div>",
+      "iconURL": "https://i.imgur.com/cnPqk9h.jpeg"
     },
     {
       "name": "Duolingo Hacked",
@@ -4649,6 +4649,17 @@
       "beta": false
     },
     {
+      "name": "Stick War: Legacy Hack",
+      "bundleIdentifier": "com.laxus.stickwarlegacyhack",
+      "developerName": "Laxus",
+      "version": "2026.1.250",
+      "versionDate": "2026-01-22T12:48:52.000Z",
+      "size": 92641892,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/stickWarLegacy.ipa",
+      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\"><b>Hack Features:</b></div><div><ul><li class=\"\">Infinite Gold\r</li><li class=\"\">Infinite Gem\r</li><li class=\"\">Fast Build</li></ul><div><br></div></div><div><br></div><div>One of the most popular and highest rated web games of all time now comes to mobile!\r</div><div>Play the game Stick War, one of the biggest, most fun, challenging and addicting stick figure games. Control your army in formations or play each unit, you have total control of every stickman. Build units, mine gold, learn the way of the Sword, Spear, Archer, Mage, and even Giant. Destroy the enemy statue, and capture all Territories!</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1366/stickWarLegacy_icon.png"
+    },
+    {
       "name": "StikNES",
       "bundleIdentifier": "com.stik.StikNES",
       "developerName": "StikNES Team",
@@ -4986,15 +4997,15 @@
       "appID": "com.streamer.ios"
     },
     {
-      "name": "Subway Surfers Hack",
-      "bundleIdentifier": "com.iosgods.subwaysurfershack",
+      "name": "Tap Titans 2 Hack",
+      "bundleIdentifier": "com.iosgods.taptitans2hack",
       "developerName": "iOSGods",
-      "version": "3.57.0",
-      "versionDate": "2026-01-13T15:56:47.000Z",
-      "size": 142964570,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/subway.ipa",
-      "localizedDescription": "<p class=\"\"><span class=\"\"><i style=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></span></p><p class=\"\"><strong class=\"\">Hack Features:<br></strong></p><p class=\"\"><span class=\"\">- Free Store (not Free iAP)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free iAP (ViP Only)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock Characters Outfit<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Custom Jump Height<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)</span></p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/825/subway_icon.jpeg"
+      "version": "7.18.1",
+      "versionDate": "2026-01-22T12:57:54.000Z",
+      "size": 144786755,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/taptitans.ipa",
+      "localizedDescription": "<i class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a>.</i><div><i class=\"\"><br></i></div><div class=\"\"><span class=\"\">Tap to slay hundreds of Titans with your sword as you journey through the land in this clicker RPG adventure. Upgrade your blade for new gear, gather pets, and enter multiplayer clan raids with users across the globe to leave your legacy as the Ultimate Sword Master.</span></div><div class=\"\"><span class=\"\"><br></span></div><div class=\"\"><span class=\"\"><i>Features:</i></span></div><div class=\"\"><span class=\"\">- Free Level Up</span></div><div class=\"\"><span class=\"\">- Free Hired Heroes Upgrades</span></div><div class=\"\"><span class=\"\">- Skills Cost 0 Mana To Use</span></div><div class=\"\"><span class=\"\">- No Skill Cooldown</span></div><div class=\"\"><span class=\"\">- Skip Waves - Each Kill acts like the boss so it takes you to next stage instantly no need for waves to move on to next stage</span></div><div class=\"\"><span class=\"\">- Monsters Have Low HP - kill faster</span></div><div class=\"\"><span class=\"\">- Collect Ad Rewards Without Having to Watch Videos</span></div><div class=\"\"><span class=\"\">- Gold adds when spending</span></div><div class=\"\"><span class=\"\">- Damage Multiplier - Multiply your current damage as you prefer</span></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/969/taptitans_icon.png"
     },
     {
       "name": "Taurine",
@@ -5133,17 +5144,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "TOR Browser Hack",
-      "bundleIdentifier": "com.syto203.torbrowserhack",
-      "developerName": "syto203",
-      "version": "3.9.14",
-      "versionDate": "2026-01-13T15:48:34.000Z",
-      "size": 28514277,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/OrnetPP.ipa",
-      "localizedDescription": "<i>Features:</i><div>- Hacked Premium&nbsp;</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/875/OrnetPP_icon.png"
     },
     {
       "name": "Truecaller: Caller ID Lookup ",
