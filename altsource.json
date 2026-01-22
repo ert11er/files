@@ -2289,6 +2289,17 @@
       ]
     },
     {
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.fortnite",
+      "developerName": "Epic Games",
+      "version": "39.30",
+      "versionDate": "2026-01-22T18:01:13.000Z",
+      "size": 237086916,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
+      "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
+      "iconURL": "https://i.imgur.com/Y8NkWTf.jpeg"
+    },
+    {
       "name": "GBA4iOS",
       "bundleIdentifier": "com.rileytestut.GBA4iOS",
       "developerName": "Riley Testut",
@@ -3158,17 +3169,6 @@
       "version": "19.4",
       "versionDate": "2022-03-05T12:00:00-06:00",
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
-    },
-    {
-      "name": "Kodi Omega",
-      "bundleIdentifier": "com.koditv.kodiomega",
-      "developerName": "kodi.tv",
-      "version": "21.3",
-      "versionDate": "2026-01-14T15:13:14.000Z",
-      "size": 117918057,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Kodi.ipa",
-      "localizedDescription": "<p>Only for 64 arm.</p>\r\n\r\n<p>Kodi (formerly known as XBMC) is an award-winning software media center for playing videos, music, pictures, games, and more. Kodi runs on Linux, OS X, Windows, iOS, and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.</p>\r\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/37/Kodi_icon.jpg"
     },
     {
       "name": "Lightleap ",
