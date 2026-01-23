@@ -4,17 +4,6 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
-      "name": " Kapi Cam - Vintage Camera",
-      "bundleIdentifier": "com.blatant.kapicamvintagecamera",
-      "developerName": "Blatant",
-      "version": "3.36",
-      "versionDate": "2026-01-21T15:34:05.000Z",
-      "size": 172519271,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/KapiCam.ipa",
-      "localizedDescription": "KAPI is an application that allows you to shoot DV, CCD, and film. You can use it to record the beautiful moments in life and enjoy the retro-style picture texture and atmosphere.\r<div>\r</div><div>\u2022 Simulates real DV and CCD effects, taking you back to the millennium in one second.\r</div><div>\u2022 Provides a variety of retro-style filters and special effects, allowing you to create different visual effects as you like.\r</div><div>\u2022 Supports real-time preview of effects, allowing you to easily capture your favorite images.\r</div><div>\u2022 Simple and easy-to-use operation interface, making creation at your fingertips.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1454/KapiCam_icon.png"
-    },
-    {
       "name": " Uplens: Photo and Video Editor",
       "bundleIdentifier": "com.blatant.uplensphotoandvideoeditor",
       "developerName": "Blatant",
