@@ -3200,13 +3200,13 @@
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.6.62",
       "versionDate": "2026-01-23",
-      "versionDescription": "Nightly build from [3a6c97b](https://github.com/LiveContainer/LiveContainer/commit/3a6c97b): Automatically switch to running apps\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21277676792/attempts/1).\n",
+      "versionDescription": "Nightly build from [98a05a7](https://github.com/LiveContainer/LiveContainer/commit/98a05a7): Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21278505551/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4469955,
+      "size": 4470733,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3266,15 +3266,15 @@
         {
           "version": "3.6.62",
           "date": "2026-01-23",
-          "localizedDescription": "Nightly build from [3a6c97b](https://github.com/LiveContainer/LiveContainer/commit/3a6c97b): Automatically switch to running apps\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21277676792/attempts/1).\n",
+          "localizedDescription": "Nightly build from [98a05a7](https://github.com/LiveContainer/LiveContainer/commit/98a05a7): Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21278505551/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4469955,
-          "commit": "3a6c97b",
-          "headline": "Automatically switch to running apps"
+          "size": 4470733,
+          "commit": "98a05a7",
+          "headline": "Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle"
         }
       ],
-      "commit": "3a6c97b",
-      "headline": "Automatically switch to running apps"
+      "commit": "98a05a7",
+      "headline": "Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle"
     },
     {
       "name": "LumaFusion",
