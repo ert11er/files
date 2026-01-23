@@ -2217,17 +2217,6 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
-      "name": "Flacbox: Hi-Res Music Player",
-      "bundleIdentifier": "com.blatant.flacboxhiresmusicplayer",
-      "developerName": "Blatant",
-      "version": "7.2",
-      "versionDate": "2026-01-15T14:11:46.000Z",
-      "size": 60344013,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Flacbox.ipa",
-      "localizedDescription": "<b>Flacbox - Hi-Res Music Player and Streamer with Equalizer and Bass Booster.</b><div><b><br></b><div></div><div class=\"\">Open almost any audio file on your device and enjoy lossless sound quality. Free up space by moving your music to personal NAS storage or cloud services, and then stream or download your favorite songs for offline playback. Sync your music library automatically, with all audio files grouped by categories. Create custom playlists, change song order, and manage your music collection with the built-in file manager. The built-in audio equalizer includes presets for popular genres, manual controls, preset import and export, and a preamplifier for louder sound. Quickly find your favorite albums and songs with the smart search feature.\r</div><div class=\"\"><br></div><div class=\"\"><b>Main Features:\r</b></div><div>\u2022 Supported Audio Formats: AAC, AC3, AIFF, ALAC, DSF, FLAC, M4A, M4V, MKV, MOV, MP3, MP4, MPEG, OGG, OPUS, PCM, WAV, WMA, and others.\r</div><div>\u2022 Supported Cloud Services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Cloud Mail.ru, \u767e\u5ea6\u7f51\u76d8, InfiniCLOUD, Yandex.Disk, WD MyCloud Home, Put.io, MediaFire, MyDrive, pCloud, HiDrive, OpenDrive.\r</div><div>\u2022 Network Protocols: WebDAV, SMB, DLNA.\r</div><div>\u2022 Playlist Formats: M3U, M3U8, CUE.\r</div><div>\u2022 Audio Equalizer: custom presets, level indicators, preamplifier.\r</div><div>\u2022 External Streaming: AirPlay, AirPlay2, Google Chromecast.\r</div><div>\u2022 Apple CarPlay.</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/qKA3LF6.jpeg"
-    },
-    {
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
