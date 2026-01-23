@@ -3076,6 +3076,17 @@
       "beta": false
     },
     {
+      "name": "iPoGo ",
+      "bundleIdentifier": "com.ipogo.ipogo",
+      "developerName": "iPoGo",
+      "version": "4.1.2 (0.395.0)",
+      "versionDate": "2026-01-23T09:02:23.000Z",
+      "size": 115162453,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ipogo.ipa",
+      "localizedDescription": "<p><strong>If you use in LiveContainer: Set Allow location access for LiveContainer app in iPhone settings to always and set Precise Location to ON&nbsp;</strong></p><p><strong>Uninstall other versions of Pokemon Go before downloading iPoGo.</strong></p>\n\n<p class=\"\"><u><i>iPoGo is a hack for Pokemon GO.</i></u></p><p class=\"\">The account may be blocked due to the use of cheats. We have no influence on this and are not responsible in case of blocking.</p><p class=\"\"><b><i>FREE FEATURES :</i></b></p><p class=\"\"><i>\u2022 Teleport Anywhere in the world<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Global list of Pokemon/Raids<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Ability to always throw Excellent Curveballs<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Autowalk random or specific routes<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Shiny Scanner<br>\u2022 Freeze Pokemon<br>\u2022 Incognito Mode<br>\u2022 Tap on screen to walk there<br>\u2022 Nearby feeds overlay<br>\u2022 Nest/Pokemon/Pokestop/Raid feeds<br>\u2022 Maping and S2 Overlay<br>\u2022 Custom Routes / Hotspots<br>\u2022 Show stats for all saved Pokemon<br>\u2022 Joystick for walking emulation<br>\u2022 Enhanced throw / Remember last ball<br>\u2022 Ability to preview the IV of a pokemon before you catch it<br>\u2022 Ability to see which gyms have empty slots<br>\u2022 Journal to help keep track of your cooldown<br>\u2022 Autowalk random or specific routes</span></i></p><p class=\"\"><b><i class=\"\">V.I.P FEATURES (Purchased on the site of the developer of the hack - ipogo.app) :</i></b></p><p class=\"\">\u2022<i> All Free Features are Included<br>\u2022 Built in Virtual GoPlus (Auto catching)<br>\u2022 Auto reconnect GoPlus<br>\u2022 One click item bag cleaner<br>\u2022 Global feeds overlay / Custom feeds<br>\u2022 Faster map loading<br>\u2022 Block non shiny encounters<br>\u2022 Block non 100iv encounters<br>\u2022 Skip animation screens<br>\u2022 Auto transfer pokemon ability<br>\u2022 One hit Team Rocket<br>\u2022 Fast Catch<br>\u2022 Instant Training Battles<br>\u2022 Spawn Booster + Radius Booster<br>\u2022 The warm and fuzzy feeling of supporting iPogo</i></p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/717/ipogo_icon.jpg"
+    },
+    {
       "bundleIdentifier": "app.ish.iSH",
       "name": "iSH",
       "developerName": "Theodore Dubois and contributors",
@@ -4485,17 +4496,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "Splice - Video Editor and Maker",
-      "bundleIdentifier": "com.blatant.splicevideoeditorandmaker",
-      "developerName": "Blatant",
-      "version": "4.28.57",
-      "versionDate": "2026-01-14T17:28:01.000Z",
-      "size": 115599959,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Splice.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Simple yet powerful, Splice makes it easy to create fully customized, professional-looking videos on your iPhone or iPad. Imagine the performance of a desktop editor, optimized for your mobile device. Just tap to trim clips, add slow motion effects, and overlay multiple clips to create beautiful videos you\u2019ll love to share. It\u2019s never been easier to edit like a pro on the go.\r<div>\r</div><div><br></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1369/Splice_icon.png"
     },
     {
       "name": "SpooferPro",
