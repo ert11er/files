@@ -3198,15 +3198,15 @@
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
-      "version": "3.6.61",
-      "versionDate": "2026-01-16",
-      "versionDescription": "Nightly build from [89b1aa0](https://github.com/LiveContainer/LiveContainer/commit/89b1aa0): Throw error when LiveProcess is not installed\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21107268725/attempts/1).\n",
+      "version": "3.6.62",
+      "versionDate": "2026-01-23",
+      "versionDescription": "Nightly build from [c730d9c](https://github.com/LiveContainer/LiveContainer/commit/c730d9c): Fix signing issues\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21276605637/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4444776,
+      "size": 4470770,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3264,17 +3264,17 @@
       },
       "versions": [
         {
-          "version": "3.6.61",
-          "date": "2026-01-16",
-          "localizedDescription": "Nightly build from [89b1aa0](https://github.com/LiveContainer/LiveContainer/commit/89b1aa0): Throw error when LiveProcess is not installed\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21107268725/attempts/1).\n",
+          "version": "3.6.62",
+          "date": "2026-01-23",
+          "localizedDescription": "Nightly build from [c730d9c](https://github.com/LiveContainer/LiveContainer/commit/c730d9c): Fix signing issues\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21276605637/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4444776,
-          "commit": "89b1aa0",
-          "headline": "Throw error when LiveProcess is not installed"
+          "size": 4470770,
+          "commit": "c730d9c",
+          "headline": "Fix signing issues"
         }
       ],
-      "commit": "89b1aa0",
-      "headline": "Throw error when LiveProcess is not installed"
+      "commit": "c730d9c",
+      "headline": "Fix signing issues"
     },
     {
       "name": "LumaFusion",
