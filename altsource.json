@@ -1543,6 +1543,17 @@
       "appID": "com.rileytestut.Delta.Beta"
     },
     {
+      "name": "Delta Executor for Roblox",
+      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
+      "developerName": "Delta Executor",
+      "version": "2.705",
+      "versionDate": "2026-01-25T08:47:57.000Z",
+      "size": 140988698,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
+      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1113/roblox_icon.png"
+    },
+    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
@@ -4043,17 +4054,6 @@
         "privacy": []
       },
       "appID": "eu.pokemmo.client.pts"
-    },
-    {
-      "name": "Polarr",
-      "bundleIdentifier": "com.dangerouspixel.polarr",
-      "developerName": "Dangerous Pixel",
-      "version": "6.11.8",
-      "versionDate": "2026-01-14T17:40:50.000Z",
-      "size": 23769477,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Polarr.ipa",
-      "localizedDescription": "&nbsp; &nbsp; Use Polarr to easily create your own filters and styles, or share with others and discover millions of fresh aesthetics made by the Polarr community.<div><br><div></div><div></div><div>\u2022 Weekly updated styles for new looks\r</div><div>\u2022 Create and share your own styles as QR codes\r</div><div>\u2022 Backup and synchronize all your styles with Polarr account\r</div><div>\u2022 Advanced overlay, A.I. segmentation tools to create any effects you want\r</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; <i>Included effects and functionalities:\r</i></div><div>\u2022 Selective objects: Sky, Person, Background, Vegetation, Building, Ground, Animal, etc\r</div><div>\u2022 Selective masks: Brush, Radial, Gradient, Color, Luminance.\r</div><div>\u2022 Overlays: Gradient, Duotone, Weather, Texture, Backdrops, Custom Overlay, etc.\r</div><div>\u2022 Retouch: Skin, Liquify, Face shapes (mouth, teeth, nose, chin, etc).\r</div><div>\u2022 Global adjustments: Light, Color, HSL, Toning, Effects, Fringing, Details, Curves, Vignette, Grain, LUT\r</div><div>\u2022 Productivity: Batch photo exports, Face detection, A.I. object segmentation.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/858/Polarr_icon.png"
     },
     {
       "name": "PPSSPP",
