@@ -15,17 +15,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1454/KapiCam_icon.png"
     },
     {
-      "name": " Uplens: Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.uplensphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "3.4.6",
-      "versionDate": "2026-01-15T13:25:23.000Z",
-      "size": 179070044,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/uplens.ipa",
-      "localizedDescription": "Uplens is the ultimate mobile photo and video editor, powered by AI and designed to help you take perfect selfies and create stunning visuals in just a few taps. With our advanced retouching tools and a full range of professional-grade editing features, Uplens gives you everything you need to make your photos and videos look their best.<div><br><div></div><div class=\"\">Use the Magic AI Retouch function to get flawless skin and natural color correction. Our vintage presets give your visuals a unique, nostalgic vibe, and with our easy-to-use editing tools, you can customize each preset to create your own signature style.\r</div><div class=\"\"><br></div><div>In addition to our powerful retouching tools, video editing features, and vintage presets, Uplens also offers a full suite of professional-grade editing tools, including contrast, saturation, noise, and more. Whether you're a professional photographer or just want to take your Instagram profile to the next level, Uplens is the perfect tool for all your photo and video editing needs.</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1426/uplens_icon.png"
-    },
-    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -98,17 +87,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/fresco.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Adobe Fresco is a free drawing and painting app designed for digital artists. Built for iPad and iPhone with Apple Pencil Pro compatibility, Fresco offers a wide variety of brushes and features to help you create your next masterpiece.<div><br><div></div><div></div><div>Take your artwork to the next level by adding motion with Fresco\u2019s suite of animation and motion path tools. Explore frame-by-frame animation and revolutionary motion paths. Draw and paint with rotational and reflective symmetry guides. Paste photos from your clipboard or your camera roll to practice your form. Show off your process by exporting a time-lapse video of your process. Explore hundreds of tutorials and inspiration pieces from the Fresco Community. Plus, brushes and projects follow you across devices so you can work wherever and whenever inspiration strikes.</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1336/fresco_icon.png"
-    },
-    {
-      "name": "Adobe Photoshop: Image Editor",
-      "bundleIdentifier": "com.adobe.adobephotoshopimageeditor",
-      "developerName": "Adobe ",
-      "version": "7.3.0",
-      "versionDate": "2026-01-14T17:47:33.000Z",
-      "size": 281746590,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PhotoshopFull.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Unleash your creative potential with Adobe Photoshop. Whether you're new, curious, or already familiar with Photoshop, we\u2019ve made it easier than ever to learn and grow your creative skills. This advanced mobile image editing application gives you more power and precision to transform any image into something that stands out from the crowd. Create collages, album cover art, perfect your passion projects, and develop unique digital art\u2014all in one place.\r</div><div>Photoshop on mobile includes a wide selection of free features to accomplish the core editing capabilities of the desktop application. Add new objects, refine and perfect your content with targeted adjustments, replace backgrounds, remove unwanted objects, combine multiple images to create high-quality compositions, and explore helpful AI tools powered by Adobe Firefly. There is no limit to what you can create.</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1341/PhotoshopFull_icon.png"
     },
     {
       "name": "Adobe Premiere: Video Editor",
@@ -677,6 +655,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Calm.ipa",
       "localizedDescription": "Calm is the #1 app for Sleep, Meditation and Relaxation. Join the millions experiencing better sleep, lower stress, and less anxiety with our guided meditations, Sleep Stories, breathing programs, stretching exercises, and relaxing music. Calm is recommended by top psychologists, therapists, and mental health experts.<div><br></div><div>Calm is the perfect mindfulness app for beginners, but also includes hundreds of programs for intermediate and advanced users. Guided meditation sessions are available in lengths of 3, 5, 10, 15, 20 or 25 minutes so you can choose the perfect length to fit with your schedule.</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/938/Calm_icon.png"
+    },
+    {
+      "name": "Captions: For Talking Videos",
+      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
+      "developerName": "Blatant",
+      "version": "13.2.0",
+      "versionDate": "2026-01-25T13:50:54.000Z",
+      "size": 373335088,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
+      "localizedDescription": "<h3 class=\"\"><br></h3><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1300/Captions_icon.png"
     },
     {
       "name": "CARROT Weather",
@@ -2143,6 +2132,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/599/Facetune_icon.png"
     },
     {
+      "name": "Fallout Shelter",
+      "bundleIdentifier": "com.iosgods.falloutshelter",
+      "developerName": "iOSGods",
+      "version": "2.1.0",
+      "versionDate": "2026-01-25T14:15:47.000Z",
+      "size": 304262553,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/fallout.ipa",
+      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\"><strong class=\"\">(DO NOT COLLECT FROM BUILDINGS WILL CAUSE CRASH GET YOU DESIRED AMOUNT THEN TURN THE HACK OFF AND ENABLE FREEZE)</strong></p><p class=\"\"><strong class=\"\">Features:</strong><br>- Dwellers instant level up<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Freeze All Currencies<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- One Hit Kill<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Add Stuff Instead of removing<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Dwellers Never Die / God Mode<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- FREEZE  FOOD/WATER/POWER/CAPS/NUKABOTTLE/MEDIKITS/STIMPEX<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock all rooms etc and auto complete objectives / unlimited lunch boxes cola caps etc&nbsp;</span></p><p class=\"\">\nThis hack only supports x64 or ARM64 iDevices: iPhone 5s, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X, SE, iPod Touch 6G, iPad Air, Air 2, Pro &amp; iPad Mini 2, 3, 4 and later.</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/797/fallout_icon.png"
+    },
+    {
       "name": "Filmr Pro",
       "bundleIdentifier": "com.stey",
       "developerName": "Stei App",
@@ -2226,17 +2226,6 @@
         }
       ],
       "appID": "com.firebird.firebird-emu"
-    },
-    {
-      "name": "Flacbox: Hi-Res Music Player",
-      "bundleIdentifier": "com.blatant.flacboxhiresmusicplayer",
-      "developerName": "Blatant",
-      "version": "7.2",
-      "versionDate": "2026-01-15T14:11:46.000Z",
-      "size": 60344013,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Flacbox.ipa",
-      "localizedDescription": "<b>Flacbox - Hi-Res Music Player and Streamer with Equalizer and Bass Booster.</b><div><b><br></b><div></div><div class=\"\">Open almost any audio file on your device and enjoy lossless sound quality. Free up space by moving your music to personal NAS storage or cloud services, and then stream or download your favorite songs for offline playback. Sync your music library automatically, with all audio files grouped by categories. Create custom playlists, change song order, and manage your music collection with the built-in file manager. The built-in audio equalizer includes presets for popular genres, manual controls, preset import and export, and a preamplifier for louder sound. Quickly find your favorite albums and songs with the smart search feature.\r</div><div class=\"\"><br></div><div class=\"\"><b>Main Features:\r</b></div><div>\u2022 Supported Audio Formats: AAC, AC3, AIFF, ALAC, DSF, FLAC, M4A, M4V, MKV, MOV, MP3, MP4, MPEG, OGG, OPUS, PCM, WAV, WMA, and others.\r</div><div>\u2022 Supported Cloud Services: iCloud Drive, Google Drive, Dropbox, OneDrive, Box, MEGA, Cloud Mail.ru, \u767e\u5ea6\u7f51\u76d8, InfiniCLOUD, Yandex.Disk, WD MyCloud Home, Put.io, MediaFire, MyDrive, pCloud, HiDrive, OpenDrive.\r</div><div>\u2022 Network Protocols: WebDAV, SMB, DLNA.\r</div><div>\u2022 Playlist Formats: M3U, M3U8, CUE.\r</div><div>\u2022 Audio Equalizer: custom presets, level indicators, preamplifier.\r</div><div>\u2022 External Streaming: AirPlay, AirPlay2, Google Chromecast.\r</div><div>\u2022 Apple CarPlay.</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/qKA3LF6.jpeg"
     },
     {
       "name": "Flappy Bird",
@@ -2407,17 +2396,6 @@
         }
       },
       "beta": false
-    },
-    {
-      "name": "Hevy - Workout Tracker Gym Log",
-      "bundleIdentifier": "com.blatant.hevyworkouttrackergymlog",
-      "developerName": "Blatant",
-      "version": "2.5.7",
-      "versionDate": "2026-01-15T13:42:46.000Z",
-      "size": 117216203,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/HevyWorkout.ipa",
-      "localizedDescription": "\r<div><br></div><div class=\"\"><b>FEATURES\r</b></div><div>\u2022  Track your lifts with an intuitive, simple to use interface.\r</div><div>\u2022  Use the calendar to stay on top of your training schedule\r</div><div>\u2022  Hundreds of exercises with free high-quality videos for you to focus on your form\r</div><div>\u2022  Follow your friend's progress by following their lifts and copying their routines\r</div><div>\u2022  Create your own custom exercises for your workouts\r</div><div>\u2022  Set up your profile as a private profile or a public one\r</div><div>\u2022  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets\r</div><div>\u2022  Customize automatic rest timers for each exercise\r</div><div>\u2022  Analyze your workout sessions in detail with muscle group graphs\r</div><div>\u2022  Calculation of One Rep Max for all strength exercises\r</div><div>\u2022  Create an unlimited amount of routines\r</div><div>\u2022  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight &amp; total reps\r</div><div>\u2022  Copy your friends' workouts\r</div><div>\u2022  Dark Mode\r</div><div>\u2022  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.</div>",
-      "iconURL": "https://i.imgur.com/dEM3E2c.jpeg"
     },
     {
       "name": "iDOS",
@@ -3393,17 +3371,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1305/MarvelContest_icon.png"
     },
     {
-      "name": "Merge Cooking",
-      "bundleIdentifier": "com.mergecooking.mergecooking",
-      "developerName": "Merge Cooking",
-      "version": "1.25.0",
-      "versionDate": "2026-01-14T17:52:59.000Z",
-      "size": 290198480,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MergeCooking.ipa",
-      "localizedDescription": "<h3>In app purchases are free</h3><div><br></div><div><br></div>Do you know you can enjoy the food around the world without traveling?\r<div>\r</div><div>Do you know you can master the secret of cooking with just a few simple steps?\r</div><div>Tie your apron and put your chef hat on!\r</div><div>In Merge Cooking, you can cook anything!\r</div><div>- Welcome, Chef!\r</div><div>Your assistant Lea is waiting for you to start the adventure of opening restaurants and serving customers around the world. Merge Cooking not only allows you to cook as a star chef and master the world cuisine but also helps you realize your designer dream and renovate Michelin star restaurants!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1362/MergeCooking_icon.png"
-    },
-    {
       "name": "Messenger++",
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "Michael Lema",
@@ -3447,6 +3414,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
       "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1409/mimo_icon.png"
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.glesign.minecraft",
+      "developerName": "GLESign",
+      "version": "1.21.132",
+      "versionDate": "2026-01-25T14:10:03.000Z",
+      "size": 139311431,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Minecraft.ipa",
+      "localizedDescription": "<p class=\"\"><em class=\"\">Price in Appstore $7.99</em></p>\n\n<p>Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or play with friends on all different devices.&nbsp;</p>\n\n<p>EXPAND YOUR GAME:</p>\n\n<p>Marketplace - Discover the latest community creations in the marketplace! Get unique maps, skins, and texture packs from your favorite creators.</p>\n\n<p>Slash commands - Tweak how the game plays: you can give items away, summon mobs, change the time of day, and more.&nbsp;</p>\n\n<p>Add-Ons - Customize your experience even further with free Add-Ons! If you're more tech-inclined, you can modify data-driven behaviors in the game to create new resource packs.</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/688/Minecraft_icon.png"
     },
     {
       "name": "Mini vMac",
@@ -3933,6 +3911,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
     },
     {
+      "name": "Photoshop Express Hack",
+      "bundleIdentifier": "com.adobe.photoshopexpresshack",
+      "developerName": "Adobe",
+      "version": "26.3.0",
+      "versionDate": "2026-01-25T13:50:06.000Z",
+      "size": 104508698,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoshop.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3>\n\n<p>ENHANCE, STYLIZE AND SHARE YOUR PHOTOS WITH EASE.</p>\n\n<p>Tap into your creativity on the go with Photoshop Express\u2013the fast and easy photo editor\u2013used by millions of creative individuals. Edit pictures like the pros with this easy-to-use digital studio full of photo editing features on your mobile device.</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/725/Photoshop_icon.png"
+    },
+    {
       "name": "Plants vs. Zombies 2",
       "bundleIdentifier": "com.glehack.plantsvszombies2",
       "developerName": "GLEHack",
@@ -4231,6 +4220,28 @@
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
     },
     {
+      "name": "Reface",
+      "bundleIdentifier": "com.reface.reface",
+      "developerName": "Reface",
+      "version": "6.1.0",
+      "versionDate": "2026-01-25T13:58:44.000Z",
+      "size": 41665553,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Reface.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">Create professional business photos and revamp your style with the Hair Style and Hair Color tool!\r</div><div>Try Face Swap on Photos and Videos &amp; Generate Stunning AI Headshots Easily. Join the Reface community of over 150 million creators around the world. Enhance your photo collection with stunningly realistic AI baby and headshot generator using the innovation of AI-powered editing features, quickly swap faces on photos, change your hairstyles or social media headshots with templates, create AI content from your favorite moments, choose from tons of stylized photo filters, and more. Reface is your all-in-one AI Face Swap photo &amp; video editor with all the tools you need to create your personal content.</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1006/Reface_icon.png"
+    },
+    {
+      "name": "Renovate AI : Home Design",
+      "bundleIdentifier": "com.billymoore.renovateaihomedesign",
+      "developerName": "BillyMoore",
+      "version": "4.4.71",
+      "versionDate": "2026-01-25T13:50:35.000Z",
+      "size": 54117768,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/RenovateAI.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div><br></div><div>Transform your home effortlessly with Renovate AI! Redesign interiors, exteriors, and landscapes using AI tools for stunning, photorealistic results. Try it now!\r</div><div>Reimagine Your Space with Renovate AI!\r</div><div>Discover the future of architectural design and home renovation with Renovate AI, your go-to solution for creating stunning interiors and exteriors. Whether you're planning a full home design, room design, or landscape design, our cutting-edge technology simplifies every step in your design space.\r</div><div>With our powerful features as an AI room planner and home planner, Renovate AI empowers you to transform your home into the space you\u2019ve always envisioned. Everything you need, from exploring furniture options to perfecting your home decor, is at your fingertips.\r</div><div>With Renovate AI, you can explore endless design possibilities for both the interior design and exterior of your house. Experiment with different colors, furniture, and materials until you create the perfect look that reflects your style. Use our AI home design and AI interior design features to bring your ideas to life. Whether it's creating your dream bedroom or designing a home design 3D layout, we\u2019ve got you covered. Start your journey with Renovate AI today and realize your dream home design in no time!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1307/RenovateAI_icon.png"
+    },
+    {
       "name": "RetroArch",
       "bundleIdentifier": "com.libretro.RetroArchiOS11",
       "developerName": "libretro",
@@ -4407,17 +4418,6 @@
       ]
     },
     {
-      "name": "Simply Piano Hacked",
-      "bundleIdentifier": "com.laxus.simplypianohacked",
-      "developerName": "Laxus",
-      "version": "9.10.51",
-      "versionDate": "2026-01-14T17:41:49.000Z",
-      "size": 195483304,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SimplyPiano.ipa",
-      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\" style=\"\">iOSGods\r</a></span></div><div><b class=\"\"><br></b></div><b class=\"\">Hack Features:</b><div class=\"\"><b class=\"\">- Unlocked All Courses (Turn on from Mod Menu first)</b></div><div class=\"\"><br></div><div class=\"\">A fast and fun way to learn piano - works with any piano or keyboard. Learn to play the songs you love with Simply Piano!</div><div class=\"\"><br></div><div class=\"\">Simply Piano is a fast and fun way to learn piano, from beginner to pro. Works with any piano or keyboard. Chosen as one of the best iPhone apps.</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">- Tons of fun songs like Imagine, Chandelier, All Of Me and Counting Stars, also J.S. Bach</div><div class=\"\"><br></div><div class=\"\">- Includes courses for different musical tastes and playing levels</div><div class=\"\"><br></div><div class=\"\">- Learn the basics step-by-step from reading sheet music to playing with both hands</div><div class=\"\"><br></div><div class=\"\">- Slow down library songs to choose your own pace for easy learning</div><div class=\"\"><br></div><div class=\"\">- Personalized 5-Min Workouts ensuring you progress fast and always succeed</div><div class=\"\"><br></div><div class=\"\">- Suitable for all ages, no previous knowledge required to learn piano</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">No Piano? Try the Touch Courses with 3D Touch to turn your device into an on-screen keyboard!</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1269/SimplyPiano_icon.png"
-    },
-    {
       "name": "Snapchat++",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Kanji",
@@ -4448,6 +4448,17 @@
         }
       ],
       "appID": "com.toyopagroup.picaboo"
+    },
+    {
+      "name": "SnapEdit: Photo Editor AI",
+      "bundleIdentifier": "com.blatant.snapeditphotoeditorai",
+      "developerName": "Blatant",
+      "version": "6.3.13",
+      "versionDate": "2026-01-25T13:49:32.000Z",
+      "size": 128387746,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SnapEdit.ipa",
+      "localizedDescription": "<h3>Meet AI Expand in SnapEdit: the power to extend your images beyond the original frame. Fix awkward cropping. Create sweeping landscapes from tighter shots.\r</h3><div>\r</div><div>SnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\r</div><div class=\"\">Transform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\r</div><div class=\"\"><br></div><div class=\"\"><b>KEY FEATURES:\r</b></div><div class=\"\">ONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objects in your pictures. With just a single touch, SnapEdit intelligently analyzes your photo and seamlessly removes any undesired elements, leaving behind a clean and polished image.\r</div><div class=\"\">SUPER ERASE (PRO required): Specialized model designed to remove larger distractions. Makes them vanish in a flash, leaving your photos sleek, clean, and distraction-free.\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">IMAGE ENHANCEMENT: </b>Elevate your photo quality with SnapEdit\u2019s powerful image enhancement tools. Adjust brightness, contrast, saturation, and more to bring out the hidden details and make your images truly captivating. Enhance colors, sharpen edges, and create a professional finish with ease.\r</div><div>AI Expand: Let you fix your limited framing in one tap. AI Expand will widen backgrounds, fill missing areas, or adjust photo sizes for social media. Create perfectly balanced images that look natural and complete every time.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/vLy4luI.png"
     },
     {
       "name": "SoundCloud++",
@@ -5232,17 +5243,6 @@
           "absoluteVersion": "8.0.2"
         }
       ]
-    },
-    {
-      "name": "Unfold: Story and Reels Maker",
-      "bundleIdentifier": "com.squarespace.unfoldstoryandreelsmaker",
-      "developerName": "Squarespace",
-      "version": "8.153.0",
-      "versionDate": "2026-01-15T13:26:11.000Z",
-      "size": 163485644,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Unfold.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div>\u2014 Stitch video clips together with Reels templates\r<div>\r</div><div>\u2014 Create with template collections like Film\r</div><div>\u2014 Plan and preview your Instagram Feed\r</div><div>\u2014 Remove any background with our AI editing tool\r</div><div>\u2014 Make a Bio Site for your new link in bio\r</div><div class=\"\">\u2014 Edit your content with filters and effects\r</div><div class=\"\"><br></div><div>Reels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\r</div><div>Story, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1281/Unfold_icon.png"
     },
     {
       "name": "UTM",
