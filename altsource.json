@@ -1617,25 +1617,23 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "beta": false,
       "versions": [
         {
           "version": "3.2.1",
-          "date": "2022-09-11T18:00:00-04:00",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-Universal-3.2.1-213.ipa",
+          "date": "2022-09-11T22:00:00.0000000Z",
+          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
           "size": 80253902,
-          "sha256": "dcae6e6053d6e4e3f3f44ab9e0d2f709f77f2405243e66184d7864796d80de5c"
-        },
-        {
-          "version": "3.2.0",
-          "date": "2022-05-22T18:00:00-04:00",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixes crashing when starting a game\n- Fixes graphical problems caused by an Apple silicon GPU driver bug\n- Integrates support for AltJIT and JitStreamer\n- Adds rumble when using the Touchscreen controller on iPhones\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.0/DolphiniOS-NJB-Universal-3.2.0-211.ipa",
-          "size": 80253902
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
         }
       ],
-      "beta": false,
-      "appID": "me.oatmealdome.dolphinios-njb"
+      "version": "3.2.1",
+      "versionDate": "2022-09-11T22:00:00.0000000Z",
+      "versionDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+      "size": 80253902
     },
     {
       "name": "DolphiniOS (Public Beta)",
@@ -1651,6 +1649,7 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "beta": false,
       "versions": [
         {
           "version": "5.0.0b4",
@@ -1658,17 +1657,15 @@
           "localizedDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
         {
           "version": "5.0.0b3",
           "date": "2025-10-18T00:00:00.0000000Z",
-          "localizedDescription": "Adds support for emulating Skylander Portal of Power, and fixes JIT on some devices running iOS 17 and 18.",
+          "localizedDescription": "Adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1678,7 +1675,6 @@
           "localizedDescription": "Adds support for JIT on iOS 26 using StikDebug.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1688,7 +1684,6 @@
           "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1698,7 +1693,6 @@
           "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
           "size": 15830129,
-          "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1708,30 +1702,24 @@
           "localizedDescription": "This is the first build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
           "size": 13775833,
-          "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
         {
           "version": "3.2.1b1",
-          "date": "2022-07-05T18:00:00-04:00",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-Universal-3.2.1b1-213.ipa",
+          "date": "2022-07-05T22:00:00.0000000Z",
+          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa",
           "size": 80291610,
-          "sha256": "302438ec452636ff0b033ac1561f35f95ec42c644263d318978ef6fb83fc09d8"
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
-      "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
+      "version": "5.0.0b4",
+      "versionDate": "2025-10-23T02:30:00.0000000Z",
+      "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
+      "size": 17958943
     },
     {
       "name": "Dragons: Rise of Berk Hack",
