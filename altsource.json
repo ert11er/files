@@ -5157,6 +5157,17 @@
       "beta": false
     },
     {
+      "name": "Travel Town - Merge Adventure Hack",
+      "bundleIdentifier": "com.iosgods.traveltownmergeadventurehack",
+      "developerName": "iOSGods",
+      "version": "2.12.1402",
+      "versionDate": "2026-01-25T14:24:06.000Z",
+      "size": 164772973,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/TravelTown.ipa",
+      "localizedDescription": "\r<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><h3>Hack Features:\r</h3><div><ul class=\"\"><li class=\"\">&nbsp;Energy Adds When Spending\r</li><li>&nbsp;Can Merge Any Item to Level Up Other Items\r</li><li>&nbsp;Always Drops bubbles + a Coin\r</li><li>1 Diamond to Unlcok Any Chests\r</li><li>1 Diamond to Unlock Bubbles\r</li></ul></div><div>&nbsp;</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1290/TravelTown_icon.png"
+    },
+    {
       "name": "Truecaller: Caller ID Lookup ",
       "bundleIdentifier": "com.blatant.truecallercalleridlookup",
       "developerName": "Blatant",
@@ -5898,17 +5909,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
       "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/605/YTmusic1_icon.png"
-    },
-    {
-      "name": "YouTube Plus (YTLite)",
-      "bundleIdentifier": "com.dayanch96.youtubeplusytlite",
-      "developerName": "dayanch96",
-      "version": "21.02.3 (5.2b4)",
-      "versionDate": "2026-01-18T15:20:02.000Z",
-      "size": 113340418,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/YTlite.ipa",
-      "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.<div class=\"\"><br></div><div class=\"\"><i>Features:</i></div><div class=\"\"><ul><li>Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures</li><li>Copy video, comment, and post information</li><li>Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode</li><li>Player settings: Gestures, default quality, preferred audio track</li><li>Save, Load and Restore settings. Clear cache once or automatically on app startup</li><li>Built-in SponsorBlock</li><li>And much, much more</li></ul></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1232/YTlite_icon.png"
     },
     {
       "name": "YouTube++",
