@@ -1793,17 +1793,6 @@
       "beta": false
     },
     {
-      "name": "Eevee Spotify",
-      "bundleIdentifier": "com.whoeevee.eeveespotify",
-      "developerName": "whoeevee",
-      "version": "9.1.0 (6.2.2)",
-      "versionDate": "2026-01-19T09:53:44.000Z",
-      "size": 75026367,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/EeveeSpotify.ipa",
-      "localizedDescription": "<div><b style=\"\">Unable to Play Songs</b></div><div class=\"\"><b><br></b></div><div><b class=\"\">If all tracks are skipped, a song stops as soon as you play it, songs play in a random order, you see the \"You discovered a Premium feature\" popup when trying to play a song, or encounter other restrictions,</b></div><div class=\"\"><span class=\"\"><b style=\"\">You can only use Spotify abroad for 14 days. Connect to a VPN server in any country, change your region at <a href=\"accounts.spotify.com\" style=\"\">accounts.spotify.com</a>, then sign out and log back into Spotify with the VPN enabled.</b></span></div><div><br></div><div class=\"\"><br></div>This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.<div><br></div><div class=\"\"><b>This futures from premium didn't exist:</b></div><div class=\"\"><ul><li>Very High audio quality</li><li class=\"\">Native playlist downloading (you can download podcast episodes though)</li><li>Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)</li></ul></div><div><br></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1222/EeveeSpotify_icon.png"
-    },
-    {
       "name": "Eevee Spotify Revived",
       "bundleIdentifier": "com.meeep1.eeveespotifyrevived",
       "developerName": "Meeep1",
@@ -4416,6 +4405,17 @@
         "https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
         "https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
       ]
+    },
+    {
+      "name": "Simply Guitar - Learn Guitar",
+      "bundleIdentifier": "com.simplyltd.simplyguitarlearnguitar",
+      "developerName": "Simply Ltd",
+      "version": "10.14",
+      "versionDate": "2026-01-26T11:44:25.000Z",
+      "size": 151621471,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SimplyGuitar.ipa",
+      "localizedDescription": "Learn to play the guitar at your own pace with step-by-step tutorials, made by world-class music teachers, and receive feedback from the app while you learn to play your favorite songs!<div><br><div></div><div class=\"\">No experience needed  | For all ages | Works with any guitar\r</div><div class=\"\"><br></div><div class=\"\"><b>--- Make your musical dreams come true ---\r</b></div><div>\u2022 Play chords &amp; songs straight away!\r</div><div>\u2022 Learn step by step with high-quality video lessons\r</div><div>\u2022 Receive feedback from the app and know when you are playing correctly or need guidance\r</div><div>\u2022 Learn all the necessary techniques to play the songs you love:       \r</div><div>&nbsp; &nbsp; &nbsp; - Guitar fundamentals\r</div><div>&nbsp; &nbsp; &nbsp; - Read and play tabs\r</div><div>&nbsp; &nbsp; &nbsp; - Playing chords\r</div><div>&nbsp; &nbsp; &nbsp; - Chord switching\r</div><div>&nbsp; &nbsp; &nbsp; - Strumming techniques \r</div><div>&nbsp; &nbsp; &nbsp; - Invaluable tips and tricks for playing correctly\r</div><div>&nbsp; &nbsp; &nbsp; - Technique boosting exercises\r</div><div>\u2022 Track your progress \r</div><div>\u2022 Learn to tune your guitar (professional tuner included!)\r</div><div>\u2022 Receive fast support from our musicians \r</div><div>\u2022 Have fun and quickly improve your skills</div><div> \r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/pzTOFJ4.jpeg"
     },
     {
       "name": "Snapchat++",
