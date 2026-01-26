@@ -526,6 +526,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1090/BASEBALL9_icon.png"
     },
     {
+      "name": "Bazaart: AI Photo Video Editor",
+      "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
+      "developerName": "Dangerous Pixel",
+      "version": "26.0.9",
+      "versionDate": "2026-01-26T11:18:15.000Z",
+      "size": 47437417,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Bazaart1.ipa",
+      "localizedDescription": "POWERFUL DESIGN &amp; EDITING TOOLS<div>\u2022 Create mind-blowing AI avatars of you, your cat or dog</div><div>\u2022 Magically remove the background from any photo with the magic background eraser</div><div>\u2022 Remove unwanted objects and people from any photo with surgical precision using the remove tool</div><div>\u2022 Create fantastic images using a powerful AI art tool and magically turn your text to image</div><div>\u2022 Cut out photos and videos like a pro with a selection of handy crop, scissors, eraser and shape cut-out tools</div><div>\u2022 Enhance, adjust, and customize photos and videos: Change exposure, contrast, saturation, vibrance, warmth, tint, shadows, highlights, fade, sharpness and blur</div><div>\u2022 Add up to 100 photo layers and 5 video layers: each layer is independently editable and all changes reversible</div><div>\u2022 Apply fabulous filters on photos and videos to add a \u201cwow\u201d effect</div><div>\u2022 Create custom edge styles for photos and videos with the outline and shadow tools</div><div>\u2022 Blend photos and videos for mind-blowing effects</div><div>\u2022 Sketch and draw freely with the drawing tool</div><div>\u2022 Curve your text to match an arc or a circle</div><div>\u2022 Edit and modify text with alignment, letter and line spacing</div><div>\u2022 Perfectly align photos, videos, text, and any element with auto-snapping</div><div>\u2022 Position elements precisely with the nudge tool</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1028/Bazaart1_icon.png"
+    },
+    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Yandevelop",
@@ -571,17 +582,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "BH X",
-      "bundleIdentifier": "com.dangerouspixel.bhx",
-      "developerName": "Dangerous Pixel",
-      "version": "11.54",
-      "versionDate": "2026-01-18T15:21:01.000Z",
-      "size": 100174044,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/TwitterBHTwitter.ipa",
-      "localizedDescription": "BHTwitter<div>\u2022 Download Videos (even with private accounts).</div><div>\u2022 Download Videos from DM (hold the video cell).</div><div>\u2022 Unlock Undo Tweets for free.</div><div>\u2022 Hide promoted tweet from the timeline.</div><div>\u2022 Enable voice tweet and voice message in DM.</div><div>\u2022 Confirm alert when Like/Dislike.</div><div>\u2022 Lock Twitter with passcode.</div><div>\u2022 Enable Reader mode.</div><div>\u2022 Autoload photos in the highest quality.</div><div><br></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/963/TwitterBHTwitter_icon.png"
     },
     {
       "name": "blurt.blog",
@@ -3171,17 +3171,6 @@
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
     },
     {
-      "name": "Lightleap ",
-      "bundleIdentifier": "com.blatant.lightleap",
-      "developerName": "Blatant",
-      "version": "1.19.25",
-      "versionDate": "2026-01-18T15:24:05.000Z",
-      "size": 243891371,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/LightLeap.ipa",
-      "localizedDescription": "<b>App user favourite features from Lightleap include:</b><div><b><br></b><div></div><div class=\"\"><b>Sky\r</b></div><div>Replace the background in your photos with a brand-new sky!\r</div><div>- With one tap, you can change the background with a new sky.\r</div><div>- Select from 60+ high-quality sky backgrounds.\r</div><div class=\"\">- Choose from sunny, dusk, sunset, storm, and even fantasy skies!\r</div><div class=\"\"><br></div><div class=\"\"><b>Heal\r</b></div><div>Remove unwanted people, background smudges, and easily retouch your image with the heal function, like a true editor.\r</div><div>- Select and erase items in the forefront and background of your image.\r</div><div>- Smooth over bumps and quickly correct photo mistakes.\r</div><div class=\"\">- Undo retouches with a single tap to restore your image!\r</div><div class=\"\"><br></div><div class=\"\"><b>Filters\r</b></div><div>No photo is complete without one of Lightleap's gorgeous filters - one of our top features.\r</div><div>- Find filters by theme, whether you\u2019re looking for warm, black and white, urban, fade and many other filters.\r</div><div>- Easily adjust the intensity of your filters over your image.\r</div><div class=\"\">- Achieve the effects you desire in moments!\r</div><div class=\"\"><br></div><div class=\"\"><b>Looks\r</b></div><div>Change the vibe of your photo like a true editor in one tap.\r</div><div>- Choose a predefined look as filters for your image.\r</div><div>- Create a signature style for your Instagram feed with our designer editor looks.\r</div><div>- Give your images a golden hour glow, or set the mood with dusk, black and white, shadows and fantasy looks.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/QNPdTfE.png"
-    },
-    {
       "name": "Lightroom Hacked",
       "bundleIdentifier": "com.laxus.lightroomhacked",
       "developerName": "Laxus",
@@ -3408,8 +3397,8 @@
       "name": "Mimo: Learn Coding/Programming",
       "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
       "developerName": "Blatant",
-      "version": "11.0.0",
-      "versionDate": "2026-01-19T14:24:44.000Z",
+      "version": "11.1.0",
+      "versionDate": "2026-01-26T11:19:52.000Z",
       "size": 136645016,
       "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
       "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
@@ -3472,6 +3461,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1335/mojo_icon.png"
+    },
+    {
+      "name": "Moonly: Moon Phases and Calendar",
+      "bundleIdentifier": "com.blatant.moonlymoonphasesandcalendar",
+      "developerName": "Blatant",
+      "version": "2.6.4",
+      "versionDate": "2026-01-26T11:20:31.000Z",
+      "size": 168242606,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
+      "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
     },
     {
       "name": "My Hot Pot Story Hack",
@@ -3864,6 +3864,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1343/persona_icon.png"
     },
     {
+      "name": "Phocus: Portrait Mode Editor",
+      "bundleIdentifier": "com.blatant.phocusportraitmodeeditor",
+      "developerName": "Blatant",
+      "version": "3.0.9",
+      "versionDate": "2026-01-26T11:16:41.000Z",
+      "size": 208681769,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Phocus.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div><br></div><div>Phocus is a portrait editor and DSLR-style camera powered by AI, giving you full control over depth, background blur, aperture, bokeh, and focal length. Whether you're capturing cinematic portraits or editing precise lens details, Phocus delivers pro-level photography tools in a fast, intuitive interface built for creators.\r</div><div>Inspired by real optical systems, Phocus lets you emulate DSLR lens behavior\u2014without external gear. Control blur shape and depth radius with real aperture modeling. Adjust lens type, depth dynamics, and recreate unique bokeh styles from vintage and high-end lenses. Apply subtle distortions and optical characteristics for expressive storytelling. Phocus doesn\u2019t just blur the background\u2014it understands the physics of photography.</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1356/Phocus_icon.png"
+    },
+    {
       "name": "Photomath++",
       "bundleIdentifier": "com.microblink.PhotoMath",
       "developerName": "Strejda603",
@@ -3903,8 +3914,8 @@
       "name": "Photoroom: AI Photo Editor",
       "bundleIdentifier": "com.blatant.photoroomaiphotoeditor",
       "developerName": "Blatant",
-      "version": "2026.03.01",
-      "versionDate": "2026-01-19T14:18:25.000Z",
+      "version": "2026.04.01",
+      "versionDate": "2026-01-26T11:23:14.000Z",
       "size": 133527206,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
       "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -4349,17 +4360,6 @@
         }
       ],
       "appID": "com.louisanslow.record"
-    },
-    {
-      "name": "SCRL: Photo Collage Maker",
-      "bundleIdentifier": "com.blatant.scrlphotocollagemaker",
-      "developerName": "Blatant",
-      "version": "9.25.1",
-      "versionDate": "2026-01-18T16:35:07.000Z",
-      "size": 70840129,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SCRL.ipa",
-      "localizedDescription": "<b>Unleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.</b><div><br><div></div><div>\u2022 Exceptional Collage Maker with Hundreds of Hand-Picked Templates\r</div><div>Start your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style. \r</div><div class=\"\">Our design experts hand-pick each template to ensure the highest quality and versatility. Plus, new collage templates are added regularly, so you\u2019ll always have fresh options to choose from.\r</div><div class=\"\"><br></div><div>\u2022 Seamless Swipe-Through Carousel Posts\r</div><div class=\"\">Easily create stunning swipe-through carousel posts that captivate your audience. Our intuitive design tools make it effortless to merge photos into panoramic carousel posts or create scroll-through collage layouts that flow seamlessly. \r</div><div class=\"\"><br></div><div>\u2022 Premade Grid Layouts for Collages\r</div><div class=\"\">Now you can create beautiful, cohesive photo grids and Instagram layouts that span multiple photos, giving your feed a stunning, unified look. Combine grids with our photo collage templates, swipe-through carousel posts, and freeform canvas for endless possibilities.\r</div><div class=\"\"><br></div><div>\u2022 Add More Than 10 Photos to a Single Post\r</div><div>Break the limitations of traditional posts &amp; Instagram layouts. With SCRL, you can add more than 10 photos in a single post, providing more room for your creativity and storytelling.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/rLkcUhw.jpeg"
     },
     {
       "name": "ScummVM",
