@@ -2258,17 +2258,6 @@
       ]
     },
     {
-      "name": "Flightradar24",
-      "bundleIdentifier": "com.blatant.flightradar24",
-      "developerName": "Blatant",
-      "version": "10.22.0",
-      "versionDate": "2026-01-19T14:20:12.000Z",
-      "size": 190043853,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Flightradar.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div><div>The world's best flight tracker app - #1 Travel app in over 150 countries.</div><div><br></div><div>Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it\u2019s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1291/Flightradar_icon.png"
-    },
-    {
       "beta": false,
       "name": "Flycast",
       "bundleIdentifier": "com.flyinghead.Flycast",
@@ -3450,17 +3439,6 @@
           "absoluteVersion": "2.5"
         }
       ]
-    },
-    {
-      "name": "Mojo: AI Video and Reels Editor",
-      "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
-      "developerName": "Blatant",
-      "version": "1.256",
-      "versionDate": "2026-01-19T14:19:11.000Z",
-      "size": 189797587,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1335/mojo_icon.png"
     },
     {
       "name": "Moonly: Moon Phases and Calendar",
@@ -5732,6 +5710,28 @@
           "maxOSVersion": "16.1.2"
         }
       ]
+    },
+    {
+      "name": "WhatsApp Business",
+      "bundleIdentifier": "com.fouadraheb.whatsappbusiness",
+      "developerName": "FouadRaheb",
+      "version": "26.2.74",
+      "versionDate": "2026-01-27T08:49:07.000Z",
+      "size": 105049917,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/WatusiBusiness.ipa",
+      "localizedDescription": "The all-in-one tweak for WhatsApp Business!<div><br></div><div>Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1211/WatusiBusiness_icon.png"
+    },
+    {
+      "name": "WhatsApp Watusi",
+      "bundleIdentifier": "com.fouadraheb.whatsappwatusi",
+      "developerName": "Fouad Raheb",
+      "version": "25.37.76",
+      "versionDate": "2026-01-27T08:49:23.000Z",
+      "size": 121430663,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Watusi.ipa",
+      "localizedDescription": "<p class=\"\"><br></p>\n\n<p class=\"\">Features:<br>\n- Stealth Mode<br>\n- Disable Read Receipts<br>\n- Selective Read Receipts<br>\n- Disable Delivery Receipts<br>\n- Custom Theme<br>\n- Custom Text Color<br>\n- Full Profile Pic<br>\n- Send Unlimited Media<br>\n- Share Music<br>\n- Record audio<br>\n- Passcode/TouchID</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/82/Watusi_icon.png"
     },
     {
       "name": "WhatsApp++",
