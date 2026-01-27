@@ -1087,17 +1087,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1423/darkroom_icon.png"
     },
     {
-      "name": "Dazz Cam - Vintage Camera",
-      "bundleIdentifier": "com.blatant.dazzcamvintagecamera",
-      "developerName": "Blatant",
-      "version": "2.14",
-      "versionDate": "2026-01-20T19:07:32.000Z",
-      "size": 106980613,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Dazz.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Dazz Camera, Pro Photographer in your Pocket.\r</div><div>\r</div><div class=\"\"><br></div><div class=\"\">We believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\r</div><div class=\"\">\r</div><div><br></div><div>Dazz camera is inspired by classic film cameras from the 80s. We\u2019ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, half-frame cameras, instant camera, 3D film photography, disposable camera, and more.</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1297/Dazz_icon.png"
-    },
-    {
       "name": "Deezer++",
       "bundleIdentifier": "com.deezer.Deezer",
       "developerName": "iJulioVerne",
@@ -2387,6 +2376,17 @@
       "beta": false
     },
     {
+      "name": "Hevy - Workout Tracker Gym Log",
+      "bundleIdentifier": "com.blatant.hevyworkouttrackergymlog",
+      "developerName": "Blatant",
+      "version": "2.5.10",
+      "versionDate": "2026-01-27T11:51:23.000Z",
+      "size": 117216203,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/HevyWorkout.ipa",
+      "localizedDescription": "\r<div><br></div><div class=\"\"><b>FEATURES\r</b></div><div>\u2022  Track your lifts with an intuitive, simple to use interface.\r</div><div>\u2022  Use the calendar to stay on top of your training schedule\r</div><div>\u2022  Hundreds of exercises with free high-quality videos for you to focus on your form\r</div><div>\u2022  Follow your friend's progress by following their lifts and copying their routines\r</div><div>\u2022  Create your own custom exercises for your workouts\r</div><div>\u2022  Set up your profile as a private profile or a public one\r</div><div>\u2022  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets\r</div><div>\u2022  Customize automatic rest timers for each exercise\r</div><div>\u2022  Analyze your workout sessions in detail with muscle group graphs\r</div><div>\u2022  Calculation of One Rep Max for all strength exercises\r</div><div>\u2022  Create an unlimited amount of routines\r</div><div>\u2022  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight &amp; total reps\r</div><div>\u2022  Copy your friends' workouts\r</div><div>\u2022  Dark Mode\r</div><div>\u2022  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.</div>",
+      "iconURL": "https://i.imgur.com/dEM3E2c.jpeg"
+    },
+    {
       "name": "iDOS",
       "bundleIdentifier": "com.litchie.idosgames",
       "developerName": "litchie",
@@ -3336,17 +3336,6 @@
           "absoluteVersion": "2022.3"
         }
       ]
-    },
-    {
-      "name": "Marvel Contest of Champions",
-      "bundleIdentifier": "com.iosgods.marvelcontestofchampions",
-      "developerName": "iOSGods",
-      "version": "54.1.0",
-      "versionDate": "2026-01-19T14:43:37.000Z",
-      "size": 1883492326,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MarvelContest.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><h3>Hack Features:\r</h3><div class=\"\"><ul><li class=\"\">X Player Damage\r</li><li>X Player Defense\r</li><li>X Player Mana\r</li><li>Enemy Mana\r</li><li class=\"\">Enemy/AI Doesn't Attack\r</li><li>Special Attack/Skill Always Available\r</li><li>No Knockbacks When Hit\r</li><li>No Knockdowns When Hit\r</li><li>Enemy Doesn't Block\r</li><li class=\"\">Auto Win\r</li><li class=\"\">One Hit Kill</li></ul></div><div class=\"\"><br></div>The biggest names from the Marvel Universe are ready to battle!\r<div>\r</div><div>\r</div><div>Prepare for epic versus-fighting action and battles with your favorite Marvel Super Heroes &amp; Super Villains in the ultimate cosmic showdown! Spider-Man, Iron Man, Deadpool, Wolverine &amp; more await your summons to battle! Assemble a team &amp; begin your quest to become the Ultimate Marvel Champion!</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1305/MarvelContest_icon.png"
     },
     {
       "name": "Messenger++",
@@ -4448,6 +4437,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/SnapEdit.ipa",
       "localizedDescription": "<h3>Meet AI Expand in SnapEdit: the power to extend your images beyond the original frame. Fix awkward cropping. Create sweeping landscapes from tighter shots.\r</h3><div>\r</div><div>SnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\r</div><div class=\"\">Transform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\r</div><div class=\"\"><br></div><div class=\"\"><b>KEY FEATURES:\r</b></div><div class=\"\">ONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objects in your pictures. With just a single touch, SnapEdit intelligently analyzes your photo and seamlessly removes any undesired elements, leaving behind a clean and polished image.\r</div><div class=\"\">SUPER ERASE (PRO required): Specialized model designed to remove larger distractions. Makes them vanish in a flash, leaving your photos sleek, clean, and distraction-free.\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">IMAGE ENHANCEMENT: </b>Elevate your photo quality with SnapEdit\u2019s powerful image enhancement tools. Adjust brightness, contrast, saturation, and more to bring out the hidden details and make your images truly captivating. Enhance colors, sharpen edges, and create a professional finish with ease.\r</div><div>AI Expand: Let you fix your limited framing in one tap. AI Expand will widen backgrounds, fill missing areas, or adjust photo sizes for social media. Create perfectly balanced images that look natural and complete every time.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/vLy4luI.png"
+    },
+    {
+      "name": "SNOW - AI Profile",
+      "bundleIdentifier": "com.blatant.snowaiprofile",
+      "developerName": "Blatant",
+      "version": "14.7.20",
+      "versionDate": "2026-01-27T11:50:32.000Z",
+      "size": 133730441,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SnowAI.ipa",
+      "localizedDescription": "SNOW is a camera app used by over 200 million people around the world.\r<div>\r</div><div>\r</div><div>- Find your favorite version of yourself by creating and saving custom beauty effects.\r</div><div>- Take profile-worthy selfies with stylish AR makeup features.\r</div><div>- Explore thousands of stickers with updates every day.\r</div><div>- Don't miss exclusive seasonal filters that add color to your daily life.\r</div><div>- Professional photo edits with just a few taps.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1398/SnowAI_icon.png"
     },
     {
       "name": "SoundCloud++",
