@@ -111,17 +111,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1336/fresco_icon.png"
     },
     {
-      "name": "Adobe Premiere: Video Editor",
-      "bundleIdentifier": "com.blatant.adobepremierevideoeditor",
-      "developerName": "Blatant",
-      "version": "26.2.0",
-      "versionDate": "2026-01-21T15:31:14.000Z",
-      "size": 97895549,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/premierAdobe.ipa",
-      "localizedDescription": "Effortless editing. Total control. Meet the fast, free, and focused mobile video editing app that's powerful enough for any idea, yet simple enough for anyone to use. Edit videos from wherever you are, with no ads or watermarks. Premiere offers unmatched speed on a precise multi-track timeline and studio-quality audio featuring crystal clear voice recordings and perfectly timed AI sound effects -- plus Firefly-powered visuals to create stand out videos.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1412/premierAdobe_icon.png"
-    },
-    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -551,8 +540,8 @@
       "name": "Bazaart: AI Photo Video Editor",
       "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
       "developerName": "Dangerous Pixel",
-      "version": "26.0.9",
-      "versionDate": "2026-01-26T11:18:15.000Z",
+      "version": "26.1.0",
+      "versionDate": "2026-01-28T14:06:10.000Z",
       "size": 47437417,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Bazaart1.ipa",
       "localizedDescription": "POWERFUL DESIGN &amp; EDITING TOOLS<div>\u2022 Create mind-blowing AI avatars of you, your cat or dog</div><div>\u2022 Magically remove the background from any photo with the magic background eraser</div><div>\u2022 Remove unwanted objects and people from any photo with surgical precision using the remove tool</div><div>\u2022 Create fantastic images using a powerful AI art tool and magically turn your text to image</div><div>\u2022 Cut out photos and videos like a pro with a selection of handy crop, scissors, eraser and shape cut-out tools</div><div>\u2022 Enhance, adjust, and customize photos and videos: Change exposure, contrast, saturation, vibrance, warmth, tint, shadows, highlights, fade, sharpness and blur</div><div>\u2022 Add up to 100 photo layers and 5 video layers: each layer is independently editable and all changes reversible</div><div>\u2022 Apply fabulous filters on photos and videos to add a \u201cwow\u201d effect</div><div>\u2022 Create custom edge styles for photos and videos with the outline and shadow tools</div><div>\u2022 Blend photos and videos for mind-blowing effects</div><div>\u2022 Sketch and draw freely with the drawing tool</div><div>\u2022 Curve your text to match an arc or a circle</div><div>\u2022 Edit and modify text with alignment, letter and line spacing</div><div>\u2022 Perfectly align photos, videos, text, and any element with auto-snapping</div><div>\u2022 Position elements precisely with the nudge tool</div>",
@@ -886,17 +875,6 @@
         "privacy": []
       },
       "appID": "net.rinsuki.slapps.citra"
-    },
-    {
-      "name": "CleanMyPhone: Storage Cleaner",
-      "bundleIdentifier": "com.blatant.cleanmyphonestoragecleaner",
-      "developerName": "Blatant",
-      "version": "2.11.1",
-      "versionDate": "2026-01-21T15:32:56.000Z",
-      "size": 103343903,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CleanMyPhone.ipa",
-      "localizedDescription": "What can CleanMyPhone cleaner do?<div><br><div></div><div></div><div class=\"\"><b>CLEAN UP YOUR IPHONE STORAGE\r</b></div><div class=\"\">If you love snapping photos, it\u2019s easy to clog up your phone with blurred images, old screenshots, large videos, and multiple pictures of the same thing. CleanMyPhone will scan your entire library for photo clutter and optimize your storage.\r</div><div class=\"\"><br></div><div class=\"\"><b>DELETE DUPLICATES AND SIMILAR PHOTOS\r</b></div><div class=\"\">We all end up with too many photos in an attempt to get the perfect shot. But do we need all those identical images? CleanMyPhone looks for photo duplicates and similar shots, helping you pick the best picture and remove not-so-good copies.\r</div><div class=\"\"><br></div><div class=\"\"><b>COMPRESS VIDEOS\r</b></div><div class=\"\">CleanMyPhone lets you compress any video with minimal loss of quality. Free up space instantly and keep more of what you love on your iPhone.\r</div><div class=\"\"><br></div><div class=\"\"><b>TURN LIVE PHOTOS TO STILL IMAGES\r</b></div><div>How many Live Photos do you have? Our cleaner app helps you convert Live Photos to still images to free up some space for new ones.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1405/CleanMyPhone_icon.png"
     },
     {
       "name": "Clip",
@@ -1736,8 +1714,8 @@
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
-      "version": "7.106",
-      "versionDate": "2026-01-21T15:34:54.000Z",
+      "version": "7.107.2",
+      "versionDate": "2026-01-28T14:09:39.000Z",
       "size": 182898277,
       "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
       "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
@@ -2045,6 +2023,17 @@
       "appID": "com.antique.emuThreeDS"
     },
     {
+      "name": "Endel: Focus and Sleep Sounds",
+      "bundleIdentifier": "com.blatant.endelfocusandsleepsounds",
+      "developerName": "Blatant",
+      "version": "4.49.27",
+      "versionDate": "2026-01-28T14:07:57.000Z",
+      "size": 217373705,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Endel.ipa",
+      "localizedDescription": "Focus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.\r<div>\r</div><div class=\"\">Endel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.\r</div><div class=\"\"><br></div><div>Get access to the following classic soundscapes at home, work, or on the move to relax, concentrate, and minimize distractions and brain fatigue:\r</div><div>\u2022 Focus \u2013 boosts your productivity by helping you concentrate for longer\r</div><div>\u2022 Sleep \u2013 soothes you into a deep sleep with soft, gentle sounds\r</div><div>\u2022 Relax \u2013 calms your mind to create feelings of comfort and safety\r</div><div>\u2022 Move \u2013 feel grounded and present while walking, hiking, or running</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1458/Endel_icon.png"
+    },
+    {
       "name": "Enki: Learn Coding/Programming",
       "bundleIdentifier": "com.blatant.enkilearncodingprogramming",
       "developerName": "Blatant",
@@ -2245,6 +2234,17 @@
           "absoluteVersion": "4.3"
         }
       ]
+    },
+    {
+      "name": "Flight Tracker +",
+      "bundleIdentifier": "com.blatant.flighttracker",
+      "developerName": "Blatant",
+      "version": "8.7.1",
+      "versionDate": "2026-01-28T14:08:37.000Z",
+      "size": 79972304,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
     },
     {
       "beta": false,
@@ -3283,17 +3283,6 @@
       "appID": "com.luma-touch.LumaFusion"
     },
     {
-      "name": "Luminar Mobile AI Photo Editor",
-      "bundleIdentifier": "com.blatant.luminarmobileaiphotoeditor",
-      "developerName": "Blatant",
-      "version": "3.1.3",
-      "versionDate": "2026-01-21T15:32:37.000Z",
-      "size": 373249461,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/luminar.ipa",
-      "localizedDescription": "Luminar Mobile \u2014 Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1411/luminar_icon.png"
-    },
-    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -3513,8 +3502,8 @@
       "name": "MyFitnessPal: Calorie Counter",
       "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
       "developerName": "MyFitnessPal",
-      "version": "26.2.0",
-      "versionDate": "2026-01-20T19:11:20.000Z",
+      "version": "26.4.0",
+      "versionDate": "2026-01-28T14:09:07.000Z",
       "size": 80827557,
       "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
       "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
@@ -5090,6 +5079,17 @@
       ]
     },
     {
+      "name": "The Battle Cats",
+      "bundleIdentifier": "com.iosgods.thebattlecats",
+      "developerName": "iOSGods",
+      "version": "15.1.0",
+      "versionDate": "2026-01-28T13:43:49.000Z",
+      "size": 171065627,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/battleCats.ipa",
+      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div><br></div><div><br></div><h3>Hack Features:<br>\r- Infinite Cash<br>\r- One hit kill<br>- Infinite Cat Foods &amp; EXP (requires IOSGods vip)</h3><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">-= Weirdly Cute Cats rampage across the world! =-\r</div><div class=\"\">Command your Cats with simple controls in a battle through space and time! No need to register to develop your own Cat Army! BATTLE WITH ALL THE CATS!!\r</div><div class=\"\"><br></div><div class=\"\">=Super Simple Battle System=\r</div><div class=\"\">Just tap on the Cat you want to fight for you!\r</div><div class=\"\">Fire the Cat Cannon to blast baddies getting too close to your base! Overcome weird enemies with the right Cat squad and take down the enemy base!\r</div><div class=\"\"><br></div><div class=\"\">=Super Simple Leveling System=\r</div><div class=\"\">Clear stages to get XP and items to level up the Cats! What will they evolve to at level 10? Can you unlock their True Form?</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1378/battleCats_icon.jpeg"
+    },
+    {
       "name": "Thermometer",
       "bundleIdentifier": "com.growpixel.blackbox.store.Thermometer",
       "developerName": "Ryan McLeod",
@@ -5620,15 +5620,15 @@
       }
     },
     {
-      "name": "VEED - AI Captions and Shorts",
-      "bundleIdentifier": "com.veed.veedaicaptionsandshorts",
-      "developerName": "VEED",
-      "version": "8.3.0",
-      "versionDate": "2026-01-21T15:30:12.000Z",
-      "size": 110418748,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/veed.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Enjoy stress-free video creation with AI captions, quick translations, and more editing tools in one app. VEED makes it easy to add engaging and accurate captions to your talking videos. With advanced AI technology that supports 100+ languages, this caption app is becoming the go-to short video editor and subtitle generator for businesses, educators, and content creators.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1337/veed_icon.png"
+      "name": "VN Video Editor",
+      "bundleIdentifier": "com.blatant.vnvideoeditor",
+      "developerName": "Blatant",
+      "version": "2.1.0",
+      "versionDate": "2026-01-28T14:10:20.000Z",
+      "size": 316753263,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1284/VlogNow_icon.png"
     },
     {
       "name": "VSCO",
