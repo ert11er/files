@@ -1007,6 +1007,17 @@
       "appID": "com.rileytestut.Clip.Beta"
     },
     {
+      "name": "Coconote - AI Note Taker",
+      "bundleIdentifier": "com.blatant.coconoteainotetaker",
+      "developerName": "Blatant",
+      "version": "2.35",
+      "versionDate": "2026-01-22T12:26:34.000Z",
+      "size": 32974725,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1345/coconote_icon.png"
+    },
+    {
       "name": "Countdown",
       "bundleIdentifier": "com.neo.countdown",
       "developerName": "neoarz",
@@ -5887,6 +5898,17 @@
         }
       ],
       "appID": "stream.yattee.app"
+    },
+    {
+      "name": "YouTube Music Ultimate",
+      "bundleIdentifier": "com.dangerouspixel.youtubemusicultimate",
+      "developerName": "Dangerous Pixel",
+      "version": "9.04.1",
+      "versionDate": "2026-01-27T10:32:01.000Z",
+      "size": 60000000,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
+      "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/605/YTmusic1_icon.png"
     },
     {
       "name": "YouTube++",
