@@ -668,17 +668,6 @@
       "appID": "blog.blurt.blurt"
     },
     {
-      "name": "Busuu: Language Learning",
-      "bundleIdentifier": "com.blatant.busuulanguagelearning",
-      "developerName": "Blatant",
-      "version": "29.29",
-      "versionDate": "2026-01-20T19:08:15.000Z",
-      "size": 41323858,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
-      "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
-    },
-    {
       "name": "Captions: For Talking Videos",
       "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
       "developerName": "Blatant",
@@ -2056,6 +2045,17 @@
       "appID": "com.antique.emuThreeDS"
     },
     {
+      "name": "Enki: Learn Coding/Programming",
+      "bundleIdentifier": "com.blatant.enkilearncodingprogramming",
+      "developerName": "Blatant",
+      "version": "2.40.7",
+      "versionDate": "2026-01-28T13:27:36.000Z",
+      "size": 18483696,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Enki.ipa",
+      "localizedDescription": "<b>Enki is your AI-powered skills coach!\r</b><div>\r</div><div>Use it to learn coding, productivity tools, data skills, and generative AI tools. \r</div><div>Tailored to fit your unique profile and goals, Enki is an AI-powered mentor in your pocket that can:\r</div><div>* Explain any concept in simple language\r</div><div>* Help with hints anytime you're stuck\r</div><div>* Summarize lessons into key points\r</div><div>* Review your code and provide feedback\r</div><div>* Provide real-world examples\r</div><div>* Translate content and converse in any language\r</div><div>* Recommend resources based on your needs\r</div><div class=\"\">* Give career advice more generally</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/Vh044EC.jpeg"
+    },
+    {
       "name": "Facebook++",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
@@ -2302,6 +2302,17 @@
         }
       ],
       "appID": "com.rileytestut.GBA4iOS"
+    },
+    {
+      "name": "GlowUp - Photo Editor",
+      "bundleIdentifier": "com.blatant.glowupphotoeditor",
+      "developerName": "Blatant",
+      "version": "4.0.0",
+      "versionDate": "2026-01-28T13:14:43.000Z",
+      "size": 181554084,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/GlowUp.ipa",
+      "localizedDescription": "Master your selfie game with GlowUp, the ultimate AI-powered photo editor designed to bring out your natural beauty with flawless, effortless edits. Whether you want subtle retouching or a full makeup transformation, GlowUp puts the power of professional beauty tools right at your fingertips.<div><br><div></div><div class=\"\"><b>[Retouch Selfies]\r</b></div><div>- Airbrush skin with AI-powered retouch tools\r</div><div>- Smooth wrinkles and even out skin tone\r</div><div>- Whiten teeth with a simple swipe\r</div><div class=\"\">- Highlight or soften your best features\r</div><div class=\"\"><br></div><div class=\"\"><b>[Exclusive Makeup Looks]\r</b></div><div>- Choose from natural to bold styles\r</div><div>- Explore dozens of color choices\r</div><div class=\"\">- Customize makeup to perfectly fit your face\r</div><div class=\"\"><br></div><div class=\"\"><b>[AI-Powered Tools]\r</b></div><div>- Instantly transform your hair color and style\r</div><div>- Remove unwanted objects or backgrounds seamlessly\r</div><div>- Enhance photo quality with AI resolution boost</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/HZNsAEv.jpeg"
     },
     {
       "name": "HD Flix (No Ads)",
@@ -3158,17 +3169,6 @@
       "version": "19.4",
       "versionDate": "2022-03-05T12:00:00-06:00",
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
-    },
-    {
-      "name": "Lightroom Hacked",
-      "bundleIdentifier": "com.laxus.lightroomhacked",
-      "developerName": "Laxus",
-      "version": "11.1.1",
-      "versionDate": "2026-01-20T19:10:55.000Z",
-      "size": 192623012,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Lightroom.ipa",
-      "localizedDescription": "<div class=\"\"><br></div><div class=\"\"><b>Hack Features:&nbsp;</b></div><div class=\"\"><ul><li class=\"\"><b>&nbsp;PREMIUM&nbsp;</b></li></ul></div><div class=\"\">Edit raw and videos, and all other premium features unlocked.</div>Lightroom for iOS is a photo and video editing app. It provides powerful editing features like sliders, color grading, and a video editor, all accessible on your mobile device. You can also upgrade for premium features that include RAW capture, HDR, and more, with seamless access across all your devices.&nbsp;",
-      "iconURL": "https://i.imgur.com/tnhEQsx.png"
     },
     {
       "beta": false,
