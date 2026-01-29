@@ -7,8 +7,8 @@
       "name": " Kapi Cam - Vintage Camera",
       "bundleIdentifier": "com.blatant.kapicamvintagecamera",
       "developerName": "Blatant",
-      "version": "3.36",
-      "versionDate": "2026-01-21T15:34:05.000Z",
+      "version": "3.36.2",
+      "versionDate": "2026-01-29T13:13:29.000Z",
       "size": 172519271,
       "downloadURL": "https://s3.flekstore.com/ipa-library/KapiCam.ipa",
       "localizedDescription": "KAPI is an application that allows you to shoot DV, CCD, and film. You can use it to record the beautiful moments in life and enjoy the retro-style picture texture and atmosphere.\r<div>\r</div><div>\u2022 Simulates real DV and CCD effects, taking you back to the millennium in one second.\r</div><div>\u2022 Provides a variety of retro-style filters and special effects, allowing you to create different visual effects as you like.\r</div><div>\u2022 Supports real-time preview of effects, allowing you to easily capture your favorite images.\r</div><div>\u2022 Simple and easy-to-use operation interface, making creation at your fingertips.</div>",
@@ -515,28 +515,6 @@
       ]
     },
     {
-      "name": "Archero Hack",
-      "bundleIdentifier": "com.iosgods.archerohack",
-      "developerName": "iOSGods",
-      "version": "7.6",
-      "versionDate": "2026-01-21T15:57:59.000Z",
-      "size": 183964928,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/archero.ipa",
-      "localizedDescription": "<p class=\"\">Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\">Hacked version of Archero!<br>\n<strong>Features:</strong><br>- Multiply Defense (Enter Any Amount and Enable The Switch)</p><p class=\"\">- Multiply Attack (Enter Any Amount and Enable The Switch)</p><p class=\"\">- God Mode</p><p class=\"\">- One Hit Kill (Must use with God Mode or use Multiply Attack instead)</p><p class=\"\">- Freeze Enemies</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/792/archero_icon.png"
-    },
-    {
-      "name": "BASEBALL 9",
-      "bundleIdentifier": "com.iosgods.baseball9",
-      "developerName": "iOSGods",
-      "version": "3.8.7",
-      "versionDate": "2026-01-21T16:04:25.000Z",
-      "size": 206553554,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BASEBALL9.ipa",
-      "localizedDescription": "<div><i class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a></i></div><div><br></div><i class=\"\">Features:</i><div><div>- Unlimited Coins</div><div>- Unlimited Stamina</div><div>- Unlimited Gems</div><div>- Unlimited Recruit Tickets</div><div>- Unlimited Gold Badges</div><div>- Unlimited Silver Badges</div><div>- Unlimited Platinum Badges</div><div>- Unlimited XP Drinks</div><div class=\"\">- Unlimited Condition Drinks</div></div><div class=\"\"><br></div><div class=\"\">Enjoy fast-paced, realistic baseball game, featuring compact gameplay and informative stats.</div><div class=\"\"><br></div><div class=\"\">Play BASEBALL NINE to become the Legend League Champion!</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1090/BASEBALL9_icon.png"
-    },
-    {
       "name": "Bazaart: AI Photo Video Editor",
       "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
       "developerName": "Dangerous Pixel",
@@ -660,8 +638,8 @@
       "name": "Captions: For Talking Videos",
       "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
       "developerName": "Blatant",
-      "version": "13.2.0",
-      "versionDate": "2026-01-25T13:50:54.000Z",
+      "version": "13.3.0",
+      "versionDate": "2026-01-29T13:14:07.000Z",
       "size": 373335088,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
       "localizedDescription": "<h3 class=\"\"><br></h3><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
@@ -877,6 +855,17 @@
       "appID": "net.rinsuki.slapps.citra"
     },
     {
+      "name": "CleanMyPhone: Storage Cleaner",
+      "bundleIdentifier": "com.blatant.cleanmyphonestoragecleaner",
+      "developerName": "Blatant",
+      "version": "2.12",
+      "versionDate": "2026-01-29T13:12:40.000Z",
+      "size": 103343903,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/CleanMyPhone.ipa",
+      "localizedDescription": "What can CleanMyPhone cleaner do?<div><br><div></div><div></div><div class=\"\"><b>CLEAN UP YOUR IPHONE STORAGE\r</b></div><div class=\"\">If you love snapping photos, it\u2019s easy to clog up your phone with blurred images, old screenshots, large videos, and multiple pictures of the same thing. CleanMyPhone will scan your entire library for photo clutter and optimize your storage.\r</div><div class=\"\"><br></div><div class=\"\"><b>DELETE DUPLICATES AND SIMILAR PHOTOS\r</b></div><div class=\"\">We all end up with too many photos in an attempt to get the perfect shot. But do we need all those identical images? CleanMyPhone looks for photo duplicates and similar shots, helping you pick the best picture and remove not-so-good copies.\r</div><div class=\"\"><br></div><div class=\"\"><b>COMPRESS VIDEOS\r</b></div><div class=\"\">CleanMyPhone lets you compress any video with minimal loss of quality. Free up space instantly and keep more of what you love on your iPhone.\r</div><div class=\"\"><br></div><div class=\"\"><b>TURN LIVE PHOTOS TO STILL IMAGES\r</b></div><div>How many Live Photos do you have? Our cleaner app helps you convert Live Photos to still images to free up some space for new ones.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1405/CleanMyPhone_icon.png"
+    },
+    {
       "name": "Clip",
       "bundleIdentifier": "com.rileytestut.Clip",
       "developerName": "Riley Testut",
@@ -972,17 +961,6 @@
       },
       "beta": false,
       "appID": "com.rileytestut.Clip.Beta"
-    },
-    {
-      "name": "Coconote - AI Note Taker",
-      "bundleIdentifier": "com.blatant.coconoteainotetaker",
-      "developerName": "Blatant",
-      "version": "2.35",
-      "versionDate": "2026-01-22T12:26:34.000Z",
-      "size": 32974725,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1345/coconote_icon.png"
     },
     {
       "name": "Countdown",
@@ -2270,8 +2248,8 @@
       "name": "Fortnite",
       "bundleIdentifier": "com.epicgames.fortnite",
       "developerName": "Epic Games",
-      "version": "39.30",
-      "versionDate": "2026-01-22T18:01:13.000Z",
+      "version": "39.30.1",
+      "versionDate": "2026-01-29T13:27:22.000Z",
       "size": 237086916,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
       "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
@@ -3327,6 +3305,17 @@
       ]
     },
     {
+      "name": "Merge Cooking",
+      "bundleIdentifier": "com.mergecooking.mergecooking",
+      "developerName": "Merge Cooking",
+      "version": "1.28.0",
+      "versionDate": "2026-01-29T13:16:56.000Z",
+      "size": 290198480,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MergeCooking.ipa",
+      "localizedDescription": "<h3>In app purchases are free</h3><div><br></div><div><br></div>Do you know you can enjoy the food around the world without traveling?\r<div>\r</div><div>Do you know you can master the secret of cooking with just a few simple steps?\r</div><div>Tie your apron and put your chef hat on!\r</div><div>In Merge Cooking, you can cook anything!\r</div><div>- Welcome, Chef!\r</div><div>Your assistant Lea is waiting for you to start the adventure of opening restaurants and serving customers around the world. Merge Cooking not only allows you to cook as a star chef and master the world cuisine but also helps you realize your designer dream and renovate Michelin star restaurants!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1362/MergeCooking_icon.png"
+    },
+    {
       "name": "Messenger++",
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "Michael Lema",
@@ -3419,6 +3408,17 @@
       ]
     },
     {
+      "name": "Mojo: AI Video and Reels Editor",
+      "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
+      "developerName": "Blatant",
+      "version": "1.257",
+      "versionDate": "2026-01-29T13:15:21.000Z",
+      "size": 189797587,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1335/mojo_icon.png"
+    },
+    {
       "name": "Moonly: Moon Phases and Calendar",
       "bundleIdentifier": "com.blatant.moonlymoonphasesandcalendar",
       "developerName": "Blatant",
@@ -3428,17 +3428,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
       "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
-    },
-    {
-      "name": "My Hot Pot Story Hack",
-      "bundleIdentifier": "com.iosgods.myhotpotstoryhack",
-      "developerName": "iOSGods",
-      "version": "5.3.2",
-      "versionDate": "2026-01-21T15:48:06.000Z",
-      "size": 517994657,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/HotPot.ipa",
-      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods</a><div><br><h3 class=\"\">Hack Features:<br><ul><li>&nbsp;Infinite Currencies</li></ul>\n</h3><div class=\"\">My Hot Pot Story&nbsp; is Restaurant Management game. In this game you will play the role of a hot pot restaurant owner, developing various hot pot dishes, making daily purchase plans, serving customers, training chefs and waiters, purchasing restaurant stuffs, opening a chain of stores, etc. Game features 1\u3001Multiple ways to run the business freely. 2\u3001Feel the fun of running a hot pot restaurant and enjoy all kinds of delicious food,Especially Chinese ingredients. 3\u3001Decorate the store to have your own hot pot restaurant</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1312/HotPot_icon.jpeg"
     },
     {
       "name": "MyFitnessPal++",
@@ -3561,17 +3550,6 @@
         ]
       },
       "appID": "com.marcuszhou.NineAnimator"
-    },
-    {
-      "name": "Notability: Smarter AI Notes",
-      "bundleIdentifier": "com.blatant.notabilitysmarterainotes",
-      "developerName": "Blatant",
-      "version": "15.3.4",
-      "versionDate": "2026-01-22T12:23:23.000Z",
-      "size": 216310194,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/NotabilityAI.ipa",
-      "localizedDescription": "<div><div class=\"\"><b>Whether you\u2019re studying for an exam, organizing a meeting, or sketching your next big idea\u2014Notability is the essential resource you can rely on to capture, organize, and share your thoughts with ease.\r</b></div><div class=\"\"><br></div><div>YOUR ALL-IN-ONE DIGITAL NOTEBOOK\r</div><div>\u2022 Write, type, or sketch with lifelike digital ink, highlighters, and text tools.\r</div><div>\u2022 Mark up anything: PDFs, textbooks, lecture slides, images, and more.\r</div><div>\u2022 Stay organized with customizable folders and subjects.\r</div><div>STUDY SMARTER WITH LEARN AI\r</div><div>\u2022 Live Smart Note instant summaries of your notes.\r</div><div>\u2022 Quizzes and flashcards tailored to you.\r</div><div>\u2022 Chat with your notes \u2013 your AI-powered assistant\r</div><div>RECORD, REVIEW AND REMEMBER \r</div><div>\u2022 Audio recording synced to your notes; perfect for lectures and meetings.\r</div><div>\u2022 Search for anything, including transcripts, text and handwriting.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1462/NotabilityAI_icon.png"
     },
     {
       "name": "Odyssey",
@@ -3876,6 +3854,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Photoshop.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3>\n\n<p>ENHANCE, STYLIZE AND SHARE YOUR PHOTOS WITH EASE.</p>\n\n<p>Tap into your creativity on the go with Photoshop Express\u2013the fast and easy photo editor\u2013used by millions of creative individuals. Edit pictures like the pros with this easy-to-use digital studio full of photo editing features on your mobile device.</p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/725/Photoshop_icon.png"
+    },
+    {
+      "name": "PicsArt Pro",
+      "bundleIdentifier": "com.dangerouspixel.picsartpro",
+      "developerName": "Dangerous Pixel",
+      "version": "29.2.2",
+      "versionDate": "2026-01-29T13:16:16.000Z",
+      "size": 71112152,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
+      "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/966/picsart_icon.png"
     },
     {
       "name": "Play!",
@@ -4385,6 +4374,17 @@
       "iconURL": "https://i.imgur.com/pzTOFJ4.jpeg"
     },
     {
+      "name": "Six Pack in 30 Days",
+      "bundleIdentifier": "com.sixpack.sixpackin30days",
+      "developerName": "Six Pack",
+      "version": "1.45.0",
+      "versionDate": "2026-01-29T13:17:51.000Z",
+      "size": 416684600,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/sixpack.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Want to lose belly fat and get six pack abs for the summer? Start sculpting your abs with this super effective abs workout app. Workouts are suitable for all levels, and you can easily do them at home or anywhere, anytime. Just a few minutes a day to get the sexy abs you have been dreaming of!\r<div>\r</div><div>\r</div><div>Workout Plan with Different Levels\r</div><div>Lose Belly Fat, Rock Hard Abs and Six Pack Abs - these 3 levels of workout plans help you lose belly fat and build abdominal muscles step by step. Whether you are a beginner or a pro, you can find workouts that are suitable for you. Different exercises are prepared every day to keep it fresh and exciting.</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1365/sixpack_icon.png"
+    },
+    {
       "name": "Snapchat++",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Kanji",
@@ -4420,8 +4420,8 @@
       "name": "SnapEdit: Photo Editor AI",
       "bundleIdentifier": "com.blatant.snapeditphotoeditorai",
       "developerName": "Blatant",
-      "version": "6.3.13",
-      "versionDate": "2026-01-25T13:49:32.000Z",
+      "version": "6.3.14",
+      "versionDate": "2026-01-29T13:27:59.000Z",
       "size": 128387746,
       "downloadURL": "https://s3.flekstore.com/ipa-library/SnapEdit.ipa",
       "localizedDescription": "<h3>Meet AI Expand in SnapEdit: the power to extend your images beyond the original frame. Fix awkward cropping. Create sweeping landscapes from tighter shots.\r</h3><div>\r</div><div>SnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\r</div><div class=\"\">Transform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\r</div><div class=\"\"><br></div><div class=\"\"><b>KEY FEATURES:\r</b></div><div class=\"\">ONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objects in your pictures. With just a single touch, SnapEdit intelligently analyzes your photo and seamlessly removes any undesired elements, leaving behind a clean and polished image.\r</div><div class=\"\">SUPER ERASE (PRO required): Specialized model designed to remove larger distractions. Makes them vanish in a flash, leaving your photos sleek, clean, and distraction-free.\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">IMAGE ENHANCEMENT: </b>Elevate your photo quality with SnapEdit\u2019s powerful image enhancement tools. Adjust brightness, contrast, saturation, and more to bring out the hidden details and make your images truly captivating. Enhance colors, sharpen edges, and create a professional finish with ease.\r</div><div>AI Expand: Let you fix your limited framing in one tap. AI Expand will widen backgrounds, fill missing areas, or adjust photo sizes for social media. Create perfectly balanced images that look natural and complete every time.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -4984,6 +4984,17 @@
         ]
       },
       "appID": "com.streamer.ios"
+    },
+    {
+      "name": "Subway Surfers Hack",
+      "bundleIdentifier": "com.iosgods.subwaysurfershack",
+      "developerName": "iOSGods",
+      "version": "3.58.2",
+      "versionDate": "2026-01-29T13:35:58.000Z",
+      "size": 142964570,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/subway.ipa",
+      "localizedDescription": "<p class=\"\"><span class=\"\"><i style=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></span></p><p class=\"\"><strong class=\"\">Hack Features:<br></strong></p><p class=\"\"><span class=\"\">- Free Store (not Free iAP)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free iAP (ViP Only)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock Characters Outfit<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Custom Jump Height<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)</span></p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/825/subway_icon.jpeg"
     },
     {
       "name": "Tap Titans 2 Hack",
@@ -5631,17 +5642,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1284/VlogNow_icon.png"
     },
     {
-      "name": "VSCO",
-      "bundleIdentifier": "com.michaellema.vsco",
-      "developerName": "Michael Lema",
-      "version": "455.0.0",
-      "versionDate": "2026-01-21T15:38:11.000Z",
-      "size": 96977746,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
-      "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/821/vsco1_icon.png"
-    },
-    {
       "beta": false,
       "bundleIdentifier": "sb.lao.Wayfurther",
       "developerName": "Shibo Lyu",
@@ -5726,7 +5726,7 @@
       "name": "WhatsApp Watusi",
       "bundleIdentifier": "com.fouadraheb.whatsappwatusi",
       "developerName": "Fouad Raheb",
-      "version": "25.37.76",
+      "version": "26.2.74",
       "versionDate": "2026-01-27T08:49:23.000Z",
       "size": 121430663,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Watusi.ipa",
