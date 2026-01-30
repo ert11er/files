@@ -15,6 +15,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1454/KapiCam_icon.png"
     },
     {
+      "name": " YouCut - AI Video Editor",
+      "bundleIdentifier": "com.blatant.youcutaivideoeditor",
+      "developerName": "Blatant",
+      "version": "1.27.1",
+      "versionDate": "2026-01-26T12:52:40.000Z",
+      "size": 85717416,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YouCut.ipa",
+      "localizedDescription": "YouCut as an AI [Video Editor] &amp; [Video Maker] for YouTube and other social media, features a unique timeline design that makes video editing easier and more efficient. Easy to edit videos with music, AI effects, captions, emoji, text to speech, etc.<div><br><div>\r</div><div class=\"\"><b class=\"\">Easy &amp; No Watermark</b></div><div class=\"\">Edit videos like a pro. Whether you want to make photo videos or share moments with friends, YouCut is the best video editing app with all features you need.\r</div><div class=\"\"><br></div><div class=\"\">Features:\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Powerful Video Editor and Movie Maker</b></div><div class=\"\">YouCut as one of top AI video editor apps, provide you with AI Avatar, AI Captions, AI Enhance, AI Cutout, etc. You can zoom in/out timeline for precisely editing. No banner ads.\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">AI Video Editor</b></div><div>AI Video Enhance - Restore blurry videos and photos to HD.\r</div><div>Auto Captions -  Generate accurate captions for social media.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/7JWqXLp.png"
+    },
+    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -1477,6 +1488,17 @@
       "appID": "com.rileytestut.Delta.Beta"
     },
     {
+      "name": "Delta Executor for Roblox",
+      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
+      "developerName": "Delta Executor",
+      "version": "2.705",
+      "versionDate": "2026-01-25T08:47:57.000Z",
+      "size": 140988698,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
+      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1113/roblox_icon.png"
+    },
+    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
@@ -2190,6 +2212,17 @@
           "absoluteVersion": "4.3"
         }
       ]
+    },
+    {
+      "name": "Flight Tracker +",
+      "bundleIdentifier": "com.blatant.flighttracker",
+      "developerName": "Blatant",
+      "version": "8.7.1",
+      "versionDate": "2026-01-28T14:08:37.000Z",
+      "size": 79972304,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
     },
     {
       "beta": false,
@@ -3317,6 +3350,17 @@
       "beta": false
     },
     {
+      "name": "Mimo: Learn Coding/Programming",
+      "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
+      "developerName": "Blatant",
+      "version": "11.1.0",
+      "versionDate": "2026-01-26T11:19:52.000Z",
+      "size": 136645016,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
+      "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1409/mimo_icon.png"
+    },
+    {
       "name": "Minecraft",
       "bundleIdentifier": "com.glesign.minecraft",
       "developerName": "GLESign",
@@ -3812,6 +3856,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/725/Photoshop_icon.png"
     },
     {
+      "name": "PicsArt Pro",
+      "bundleIdentifier": "com.dangerouspixel.picsartpro",
+      "developerName": "Dangerous Pixel",
+      "version": "29.2.2",
+      "versionDate": "2026-01-29T13:16:16.000Z",
+      "size": 71112152,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
+      "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/966/picsart_icon.png"
+    },
+    {
       "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
       "appID": "com.virtualapplications.play",
@@ -4008,6 +4063,17 @@
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
       ]
+    },
+    {
+      "name": "PUSH Workout and Gym Tracker",
+      "bundleIdentifier": "com.blatant.pushworkoutandgymtracker",
+      "developerName": "Blatant",
+      "version": "3.10",
+      "versionDate": "2026-01-22T12:30:25.000Z",
+      "size": 32892620,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/push.ipa",
+      "localizedDescription": "PUSH is about building muscle as fast as possible - with science. We achieve this with an algorithm built based strictly on published peer-reviewed research. You don't have to take our word for it, you can tap the referenced articles throughout the app as you use it.<div><br>&nbsp;\n<div>\n</div><div>\n</div><div class=\"\">- Our workouts are based on scientific research and your training data over time. You can view exactly how everything works in the app and read the references for yourself.\n</div><div class=\"\"><br></div><div>- PUSH generates a program based on your experience, sleep, gender, stress and time available to train. We fine tune your volume, frequency, rep range and exercise selection based on published research relating to these factors.\n</div><div>- Exercises are selected based on resistance curve and rep range.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1410/push_icon.png"
     },
     {
       "name": "Ready",
@@ -4228,6 +4294,17 @@
         }
       ],
       "appID": "com.louisanslow.record"
+    },
+    {
+      "name": "SCRL: Photo Collage Maker",
+      "bundleIdentifier": "com.blatant.scrlphotocollagemaker",
+      "developerName": "Blatant",
+      "version": "9.27.1",
+      "versionDate": "2026-01-27T10:32:36.000Z",
+      "size": 70840129,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SCRL.ipa",
+      "localizedDescription": "<b>Unleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.</b><div><br><div></div><div>\u2022 Exceptional Collage Maker with Hundreds of Hand-Picked Templates\r</div><div>Start your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style. \r</div><div class=\"\">Our design experts hand-pick each template to ensure the highest quality and versatility. Plus, new collage templates are added regularly, so you\u2019ll always have fresh options to choose from.\r</div><div class=\"\"><br></div><div>\u2022 Seamless Swipe-Through Carousel Posts\r</div><div class=\"\">Easily create stunning swipe-through carousel posts that captivate your audience. Our intuitive design tools make it effortless to merge photos into panoramic carousel posts or create scroll-through collage layouts that flow seamlessly. \r</div><div class=\"\"><br></div><div>\u2022 Premade Grid Layouts for Collages\r</div><div class=\"\">Now you can create beautiful, cohesive photo grids and Instagram layouts that span multiple photos, giving your feed a stunning, unified look. Combine grids with our photo collage templates, swipe-through carousel posts, and freeform canvas for endless possibilities.\r</div><div class=\"\"><br></div><div>\u2022 Add More Than 10 Photos to a Single Post\r</div><div>Break the limitations of traditional posts &amp; Instagram layouts. With SCRL, you can add more than 10 photos in a single post, providing more room for your creativity and storytelling.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/rLkcUhw.jpeg"
     },
     {
       "name": "ScummVM",
@@ -5633,6 +5710,17 @@
           "maxOSVersion": "16.1.2"
         }
       ]
+    },
+    {
+      "name": "WhatsApp Business",
+      "bundleIdentifier": "com.fouadraheb.whatsappbusiness",
+      "developerName": "FouadRaheb",
+      "version": "26.2.74",
+      "versionDate": "2026-01-27T08:49:07.000Z",
+      "size": 105049917,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/WatusiBusiness.ipa",
+      "localizedDescription": "The all-in-one tweak for WhatsApp Business!<div><br></div><div>Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1211/WatusiBusiness_icon.png"
     },
     {
       "name": "WhatsApp Watusi",
