@@ -1477,17 +1477,6 @@
       "appID": "com.rileytestut.Delta.Beta"
     },
     {
-      "name": "Delta Executor for Roblox",
-      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
-      "developerName": "Delta Executor",
-      "version": "2.705",
-      "versionDate": "2026-01-25T08:47:57.000Z",
-      "size": 140988698,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
-      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1113/roblox_icon.png"
-    },
-    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
@@ -1665,17 +1654,6 @@
       "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943
-    },
-    {
-      "name": "Dragons: Rise of Berk Hack",
-      "bundleIdentifier": "com.iosgods.dragonsriseofberkhack",
-      "developerName": "iOSGods",
-      "version": "1.103.11",
-      "versionDate": "2026-01-22T12:53:58.000Z",
-      "size": 647870730,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/DragonsRise.ipa",
-      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods</a><div><br></div><h3><b>Hack Features:</b></h3><div class=\"\">- Freeze Currencies</div><div class=\"\"><br></div><div class=\"\"><b>** ViP Only ** :</b></div><div class=\"\">- Free Store / Free Purchase (Not Free iAP) -- use with Freeze Currencies for best experience</div><div class=\"\">- Free Odin's Market Shopping</div><div class=\"\">- Odin's Market Packs Never Reduce</div><div class=\"\">- Enable Rider Club / Free Subscription</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Build your OWN Berk! Rescue, hatch and train your favorite DreamWorks Dragons! Explore uncharted lands in a vast Viking world!</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Join Hiccup, Toothless and the gang to protect your village from the mysterious strangers that threaten peace on Berk. Who are they, and what do they want from your harmonious homeland? Train your DreamWorks Dragons successfully and they\u2019ll reveal new powers that will help to ensure the future of your island.</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Remember\u2026it takes a village...and DRAGONS!<br><a href=\"https://iosgods.com/\"></a><div class=\"\"><br></div></div>",
-      "iconURL": "https://i.imgur.com/cnPqk9h.jpeg"
     },
     {
       "name": "Duolingo Hacked",
@@ -4285,6 +4263,17 @@
       "appID": "com.louisanslow.record"
     },
     {
+      "name": "Scanner Pro\u30fbScan PDF Documents",
+      "bundleIdentifier": "com.blatant.scannerproscanpdfdocuments",
+      "developerName": "Blatant",
+      "version": "8.33.3",
+      "versionDate": "2026-02-01T18:07:42.000Z",
+      "size": 95586495,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ScannerPro.ipa",
+      "localizedDescription": "<div><div class=\"\"><b>Effortlessly scan, organize, and share documents on the go to have everything you need at your fingertips. Scanner Pro brings you high-quality document scan technology in a convenient and simple mobile app. Scan agreements, receipts, IDs, books, and more using your device to convert them into PDFs in seconds. Safely store and share your documents with anyone in just a few taps with Scanner Pro. \r</b></div><div class=\"\"><br></div><div class=\"\">Experience the simplicity of on-the-go document scanning. Scan travel expenses, convert sketches into PDFs, and even fax important files all from your smartphone. Scanner Pro brings professional scanner capabilities, like OCR and full-text searches to your device. With advanced image processing, Scanner Pro will automatically detect borders, correct perspective and distortions, remove shadows, and more. \r</div><div class=\"\"><br></div><div class=\"\">Introducing QR Code Mode!\r</div><div>Effortlessly scan and decode QR codes directly from your Camera screen. Simply point your device at the code, capture it, and let Scanner Pro do the rest\u2014no extra steps required! It's that easy.\r</div><div>Share, email, and upload your scans anywhere with cloud compatibility.  With Scanner Pro you can share as many scans as you want completely free. Simply send an email, upload to your photos, or use any third-party application to conveniently deliver scanned documents.</div><div> \r</div><div>\r</div><div>\r</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
+      "iconURL": "https://i.imgur.com/fcqV7gd.jpeg"
+    },
+    {
       "name": "SCRL: Photo Collage Maker",
       "bundleIdentifier": "com.blatant.scrlphotocollagemaker",
       "developerName": "Blatant",
@@ -4975,15 +4964,15 @@
       "iconURL": "https://flekstore.com/img-storage/apps/825/subway_icon.jpeg"
     },
     {
-      "name": "Tap Titans 2 Hack",
-      "bundleIdentifier": "com.iosgods.taptitans2hack",
-      "developerName": "iOSGods",
-      "version": "7.18.1",
-      "versionDate": "2026-01-22T12:57:54.000Z",
-      "size": 144786755,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/taptitans.ipa",
-      "localizedDescription": "<i class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a>.</i><div><i class=\"\"><br></i></div><div class=\"\"><span class=\"\">Tap to slay hundreds of Titans with your sword as you journey through the land in this clicker RPG adventure. Upgrade your blade for new gear, gather pets, and enter multiplayer clan raids with users across the globe to leave your legacy as the Ultimate Sword Master.</span></div><div class=\"\"><span class=\"\"><br></span></div><div class=\"\"><span class=\"\"><i>Features:</i></span></div><div class=\"\"><span class=\"\">- Free Level Up</span></div><div class=\"\"><span class=\"\">- Free Hired Heroes Upgrades</span></div><div class=\"\"><span class=\"\">- Skills Cost 0 Mana To Use</span></div><div class=\"\"><span class=\"\">- No Skill Cooldown</span></div><div class=\"\"><span class=\"\">- Skip Waves - Each Kill acts like the boss so it takes you to next stage instantly no need for waves to move on to next stage</span></div><div class=\"\"><span class=\"\">- Monsters Have Low HP - kill faster</span></div><div class=\"\"><span class=\"\">- Collect Ad Rewards Without Having to Watch Videos</span></div><div class=\"\"><span class=\"\">- Gold adds when spending</span></div><div class=\"\"><span class=\"\">- Damage Multiplier - Multiply your current damage as you prefer</span></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/969/taptitans_icon.png"
+      "name": "Tachimanga - Full-featured manga reader",
+      "bundleIdentifier": "com.blatant.tachimangafullfeaturedmangareader",
+      "developerName": "Blatant",
+      "version": "4.13",
+      "versionDate": "2026-02-01T17:31:50.000Z",
+      "size": 121654068,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Tachimanga.ipa",
+      "localizedDescription": "Discover a new world of manga with Tachimanga.\r<div>- Supports manga in ZIP/CBZ and EPUB formats.\r</div><div>- Supports reading manga from Komga, which is a self-hosted manga server.\r</div><div><br></div>",
+      "iconURL": "https://i.imgur.com/aDABwm7.jpeg"
     },
     {
       "name": "Taurine",
@@ -5909,6 +5898,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
       "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/605/YTmusic1_icon.png"
+    },
+    {
+      "name": "YouTube Plus (YTLite)",
+      "bundleIdentifier": "com.dayanch96.youtubeplusytlite",
+      "developerName": "dayanch96",
+      "version": "21.04.2 (5.2b4)",
+      "versionDate": "2026-02-01T18:11:24.000Z",
+      "size": 113340418,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YTlite.ipa",
+      "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.<div class=\"\"><br></div><div class=\"\"><i>Features:</i></div><div class=\"\"><ul><li>Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures</li><li>Copy video, comment, and post information</li><li>Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode</li><li>Player settings: Gestures, default quality, preferred audio track</li><li>Save, Load and Restore settings. Clear cache once or automatically on app startup</li><li>Built-in SponsorBlock</li><li>And much, much more</li></ul></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1232/YTlite_icon.png"
     },
     {
       "name": "YouTube++",
