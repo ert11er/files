@@ -2249,6 +2249,17 @@
       "iconURL": "https://i.imgur.com/HZNsAEv.jpeg"
     },
     {
+      "name": "Grim Soul: Survival",
+      "bundleIdentifier": "com.glehack.grimsoulsurvival",
+      "developerName": "GLEHack",
+      "version": "7.9.0",
+      "versionDate": "2026-02-02T14:46:18.000Z",
+      "size": 173219080,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
+      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/810/grimsoul_icon.png"
+    },
+    {
       "name": "HD Flix (No Ads)",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",
       "developerName": "Dezokr",
@@ -4110,17 +4121,6 @@
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
     },
     {
-      "name": "Reface",
-      "bundleIdentifier": "com.reface.reface",
-      "developerName": "Reface",
-      "version": "6.1.0",
-      "versionDate": "2026-01-25T13:58:44.000Z",
-      "size": 41665553,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Reface.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">Create professional business photos and revamp your style with the Hair Style and Hair Color tool!\r</div><div>Try Face Swap on Photos and Videos &amp; Generate Stunning AI Headshots Easily. Join the Reface community of over 150 million creators around the world. Enhance your photo collection with stunningly realistic AI baby and headshot generator using the innovation of AI-powered editing features, quickly swap faces on photos, change your hairstyles or social media headshots with templates, create AI content from your favorite moments, choose from tons of stylized photo filters, and more. Reface is your all-in-one AI Face Swap photo &amp; video editor with all the tools you need to create your personal content.</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1006/Reface_icon.png"
-    },
-    {
       "name": "Regram for Instagram",
       "bundleIdentifier": "com.fouadraheb.regramforinstagram",
       "developerName": "Fouad Raheb",
@@ -4130,17 +4130,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/regram.ipa",
       "localizedDescription": "<span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Built-into Instagram</b></span><div>Runs inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features</div><div class=\"\"><b>Profile Analyzer</b></div><div>Scans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).</div><div class=\"\"><b>Stories Archive</b><br>Automatically download and store all your uploaded Stories including the full viewers and likers list and allow to view analytics of top viewers and likers.</div><div class=\"\"><b>Media Downloader</b></div><div class=\"\">Downloads any Instagram media, including posts, stories, reels, post audio, and direct messages.</div><div class=\"\"><b>Privacy</b></div><div class=\"\">View stories and read direct messages without sending seen receipts, send them manually with a single tap.</div><div class=\"\"><b>Messages</b></div><div class=\"\">Keep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.</div><div class=\"\"><b>Utilities &amp; Customization</b></div><div class=\"\">Confirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.<br><br></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1239/regram_icon.png"
-    },
-    {
-      "name": "Renovate AI : Home Design",
-      "bundleIdentifier": "com.billymoore.renovateaihomedesign",
-      "developerName": "BillyMoore",
-      "version": "4.4.71",
-      "versionDate": "2026-01-25T13:50:35.000Z",
-      "size": 54117768,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/RenovateAI.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div><br></div><div>Transform your home effortlessly with Renovate AI! Redesign interiors, exteriors, and landscapes using AI tools for stunning, photorealistic results. Try it now!\r</div><div>Reimagine Your Space with Renovate AI!\r</div><div>Discover the future of architectural design and home renovation with Renovate AI, your go-to solution for creating stunning interiors and exteriors. Whether you're planning a full home design, room design, or landscape design, our cutting-edge technology simplifies every step in your design space.\r</div><div>With our powerful features as an AI room planner and home planner, Renovate AI empowers you to transform your home into the space you\u2019ve always envisioned. Everything you need, from exploring furniture options to perfecting your home decor, is at your fingertips.\r</div><div>With Renovate AI, you can explore endless design possibilities for both the interior design and exterior of your house. Experiment with different colors, furniture, and materials until you create the perfect look that reflects your style. Use our AI home design and AI interior design features to bring your ideas to life. Whether it's creating your dream bedroom or designing a home design 3D layout, we\u2019ve got you covered. Start your journey with Renovate AI today and realize your dream home design in no time!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1307/RenovateAI_icon.png"
     },
     {
       "name": "RetroArch",
@@ -4308,6 +4297,17 @@
         }
       ],
       "appID": "org.scummvm.scummvm"
+    },
+    {
+      "name": "Shadow Fight 3",
+      "bundleIdentifier": "com.glesign.shadowfight3",
+      "developerName": "GLESign",
+      "version": "1.44.1",
+      "versionDate": "2026-02-02T14:46:32.000Z",
+      "size": 164015105,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ShadowFight3.ipa",
+      "localizedDescription": "<h3 class=\"\">Hack Features:\n</h3><div class=\"\"><ul><li class=\"\">High Damage&nbsp;</li><li>Freeze Enemies</li></ul></div>Keep your finger on the pulse of innovation! Learn all about the abilities of Raid bosses and how to defeat them!<div><br></div><div>Legend has it that a hero will come to end the fight for shadow energy. He will have to learn three fighting styles, collect the best weapons and challenge the strongest warriors.</div><div><br></div><div>The world is on the edge of an epic war. The mighty force unleashed by the Gates of Shadows many years ago has turned into a weapon, and now three war clans are fighting to decide the future of this force.</div><div><br></div><div>The Legion warriors want to destroy the dangerous energy. The people of the Dynasty want to use it for their own benefit. While the mysterious ninjas of the Heralds clan explore the darkest secrets of the shadow power.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1313/ShadowFight3_icon.png"
     },
     {
       "name": "Sileo Demo",
