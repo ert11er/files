@@ -810,24 +810,6 @@
       "appID": "com.channelsapp.channels"
     },
     {
-      "bundleIdentifier": "com.electrateam.chimera",
-      "developerName": "Electra Team",
-      "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.4-12.2-12.5.ipa",
-      "iconURL": "https://chimera.coolstar.org/img/icon.png",
-      "localizedDescription": "Jailbreak for all devices, from iOS 12.2 to 12.5.1\n\nNote: Only Nonce setter available on 12.1.2 - 12.3 and 12.4 on A12\nNote: 12.1.3 - 12.5.1 only supported on A7 - A11 devices. All devices supported on 12.0 - 12.1.2\nOn iOS 12 to 12.1.2? Download the IPA from https://chimera.sh instead! (why are you on such an old ios tho)",
-      "name": "Chimera",
-      "screenshotURLs": [
-        "https://chimera.coolstar.org/img/jumbotron.png",
-        "https://i.imgur.com/dpeAFtg.jpg"
-      ],
-      "size": 34432392,
-      "subtitle": "Your device, your way.",
-      "tintColor": "36AEB9",
-      "version": "1.6.4",
-      "versionDate": "2021-09-23T10:00:00-06:00",
-      "versionDescription": "* Adds full support for iOS 12.5.5\n* Updates Sileo to 2.2.3\n* Removes fancy animation background on iPhone 5S / 6, iPad Air 1, iPod touch 6 and iPad mini 2 / 3 to use a more basic background in order to improve exploit success rate"
-    },
-    {
       "name": "citra",
       "bundleIdentifier": "net.rinsuki.slapps.citra.ci-artifact",
       "developerName": "rinsuki",
@@ -3098,24 +3080,6 @@
       ]
     },
     {
-      "bundleIdentifier": "org.xbmc.kodi-ios",
-      "developerName": "Kodi Team",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
-      "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/kodi.jpg",
-      "localizedDescription": "Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
-      "name": "Kodi",
-      "screenshotURLs": [
-        "https://i.imgur.com/W0S0JaF.jpg",
-        "https://i.imgur.com/KB1juNm.jpg"
-      ],
-      "size": 131097200,
-      "subtitle": "The ultimate entertainment center",
-      "tintColor": "12B2E7",
-      "version": "19.4",
-      "versionDate": "2022-03-05T12:00:00-06:00",
-      "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
-    },
-    {
       "beta": false,
       "name": "LiveContainer (nightly)",
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -4170,43 +4134,8 @@
       "appID": "com.libretro.RetroArchiOS11"
     },
     {
-      "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
-      "developerName": "libRetro",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/RetroArch_v1.10.1.ipa",
-      "iconURL": "https://www.libretro.com/wp-content/uploads/2016/01/ic_launcher.png",
-      "localizedDescription": "RetroArch is a frontend for emulators, game engines and media players.\n\nIt enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!",
-      "name": "RetroArch",
-      "screenshotURLs": [
-        "https://i.imgur.com/aDXoWTT.png"
-      ],
-      "size": 421153286,
-      "subtitle": "All-in-One emulator for iOS.",
-      "tintColor": "000000",
-      "version": "1.10.2",
-      "versionDate": "2022-03-06T12:00:00-06:00",
-      "versionDescription": "Updated RetroArch to 1.10.1. View the changelog here: https://www.libretro.com/index.php/retroarch-1-10-1-release/"
-    },
-    {
-      "bundleIdentifier": "com.louisanslow.record",
-      "developerName": "Louis Anslow",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Rewound.ipa",
-      "iconURL": "https://pbs.twimg.com/profile_images/1185480705205325825/2pSbjkEz_400x400.jpg",
-      "localizedDescription": "Rewound turns your smartphone into your favourite MP3 player from the early 2000s. Access your whole Apple Music library with the swipe of a clickywheel.",
       "name": "Rewound",
-      "screenshotURLs": [
-        "https://i.imgur.com/SCfCAr0.png",
-        "https://i.imgur.com/vPEuaf4.jpg"
-      ],
-      "size": 5628716,
-      "subtitle": "iPod Classic for iPhone",
-      "tintColor": "000000",
-      "version": "2019.7",
-      "versionDate": "2020-03-24T14:00:00-06:00",
-      "versionDescription": "Rewound has been pulled from AppStore. Further updates are unlikely."
-    },
-    {
-      "name": "Rewound -1",
-      "bundleIdentifier": "com.louisanslow.record-1",
+      "bundleIdentifier": "com.louisanslow.record",
       "developerName": "Louis Anslow",
       "subtitle": "Turn your iPhone into an iPod. Classic.",
       "version": "2019.7",
@@ -5163,26 +5092,8 @@
       "appID": "tv.twitch"
     },
     {
-      "name": "Unc0ver",
-      "subtitle": "The most advanced jailbreak tool",
+      "name": "unc0ver",
       "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "Pwn20wnd",
-      "version": "8.0.2",
-      "versionDate": "2021-12-29T16:00:00-06:00",
-      "versionDescription": "Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8",
-      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-      "localizedDescription": "The most advanced jailbreak tool for iOS 11.0 to iOS 14.3\n\nStable: Utilizing proper and deterministic techniques, jail\u200bbreak stability is guaranteed.\nSecure: Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.\nExtensively Tested: Unc0ver has been extensively tested to ensure it's a seamless experience on all devices.",
-      "iconURL": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
-      "tintColor": "000000",
-      "size": 54489484,
-      "screenshotURLs": [
-        "https://i.imgur.com/I3aRpPO.jpg",
-        "https://i.imgur.com/mERBTaF.jpg"
-      ]
-    },
-    {
-      "name": "unc0ver -1",
-      "bundleIdentifier": "science.xnu.undecimus-1",
       "developerName": "Pwn20wnd",
       "subtitle": "The most advanced jailbreak tool.",
       "version": "8.0.2",
