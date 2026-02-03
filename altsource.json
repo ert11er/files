@@ -638,8 +638,8 @@
       "name": "Captions: For Talking Videos",
       "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
       "developerName": "Blatant",
-      "version": "13.3.0",
-      "versionDate": "2026-01-29T13:14:07.000Z",
+      "version": "13.3.1",
+      "versionDate": "2026-02-03T15:06:16.000Z",
       "size": 373335088,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
       "localizedDescription": "<h3 class=\"\"><br></h3><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
@@ -963,6 +963,17 @@
       "appID": "com.rileytestut.Clip.Beta"
     },
     {
+      "name": "Coconote - AI Note Taker",
+      "bundleIdentifier": "com.blatant.coconoteainotetaker",
+      "developerName": "Blatant",
+      "version": "2.36",
+      "versionDate": "2026-02-03T15:03:52.000Z",
+      "size": 32974725,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1345/coconote_icon.png"
+    },
+    {
       "name": "Countdown",
       "bundleIdentifier": "com.neo.countdown",
       "developerName": "neoarz",
@@ -1055,6 +1066,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Dehancer",
+      "bundleIdentifier": "com.ipalibrary.dehancer",
+      "developerName": "IPA Library",
+      "version": "5.4",
+      "versionDate": "2026-02-03T15:04:14.000Z",
+      "size": 46255037,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Dehancer.ipa",
+      "localizedDescription": "Elevate your photos and videos with our analog tools for a film-like aesthetic:<div><br></div><div>\u2022 Film Profiles: Choose from 60+ accurate film profiles, including classics like Kodak Vision, Kodak Portra 400, Cinestill 800T, and more. Explore vintage options like Ambrotype.</div><div>\u2022 Presets: Instantly recreate retro film vibes with handcrafted presets. Craft your own and share them effortlessly.</div><div>\u2022 Film Grain: Our unique algorithm creates customizable film-like grain, adding authenticity to your visuals.</div><div>\u2022 Print Tools: Combine films with print profiles for authentic analog images. Customize characteristics like contrast and photo latitude.</div><div>\u2022 Film Compression: Adjust highlights to mimic the compressed tonal range of film. Emulate the analog appearance and have editing flexibility.</div><div>\u2022 Halation: Reproduce the film's red-orange halo effect around light sources and edges, enhancing the appeal and natural tones.</div><div>\u2022 Bloom: Add warmth and vintage glow resembling optical filters. Dehancer accurately replicates the real physics of light and simulates the Bloom effect in the most analogous way.</div><div>\u2022 Vignette: Add depth and focus using vignetting.</div><div class=\"\">\u2022 Film Breath &amp; Gate Weave: Dynamic animated effects for video, simulating real film-like shifts between frames.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1181/Dehancer_icon.png"
     },
     {
       "name": "Delta",
@@ -1659,8 +1681,8 @@
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
-      "version": "7.107.2",
-      "versionDate": "2026-01-28T14:09:39.000Z",
+      "version": "7.108",
+      "versionDate": "2026-02-03T15:09:32.000Z",
       "size": 182898277,
       "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
       "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
@@ -1979,6 +2001,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1458/Endel_icon.png"
     },
     {
+      "name": "Enki: Learn Coding/Programming",
+      "bundleIdentifier": "com.blatant.enkilearncodingprogramming",
+      "developerName": "Blatant",
+      "version": "2.40.7",
+      "versionDate": "2026-01-28T13:27:36.000Z",
+      "size": 18483696,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Enki.ipa",
+      "localizedDescription": "<b>Enki is your AI-powered skills coach!\r</b><div>\r</div><div>Use it to learn coding, productivity tools, data skills, and generative AI tools. \r</div><div>Tailored to fit your unique profile and goals, Enki is an AI-powered mentor in your pocket that can:\r</div><div>* Explain any concept in simple language\r</div><div>* Help with hints anytime you're stuck\r</div><div>* Summarize lessons into key points\r</div><div>* Review your code and provide feedback\r</div><div>* Provide real-world examples\r</div><div>* Translate content and converse in any language\r</div><div>* Recommend resources based on your needs\r</div><div class=\"\">* Give career advice more generally</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/Vh044EC.jpeg"
+    },
+    {
       "name": "Facebook++",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
@@ -2031,17 +2064,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "Fallout Shelter",
-      "bundleIdentifier": "com.iosgods.falloutshelter",
-      "developerName": "iOSGods",
-      "version": "2.1.0",
-      "versionDate": "2026-01-25T14:15:47.000Z",
-      "size": 304262553,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/fallout.ipa",
-      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\"><strong class=\"\">(DO NOT COLLECT FROM BUILDINGS WILL CAUSE CRASH GET YOU DESIRED AMOUNT THEN TURN THE HACK OFF AND ENABLE FREEZE)</strong></p><p class=\"\"><strong class=\"\">Features:</strong><br>- Dwellers instant level up<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Freeze All Currencies<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- One Hit Kill<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Add Stuff Instead of removing<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Dwellers Never Die / God Mode<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- FREEZE  FOOD/WATER/POWER/CAPS/NUKABOTTLE/MEDIKITS/STIMPEX<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock all rooms etc and auto complete objectives / unlimited lunch boxes cola caps etc&nbsp;</span></p><p class=\"\">\nThis hack only supports x64 or ARM64 iDevices: iPhone 5s, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X, SE, iPod Touch 6G, iPad Air, Air 2, Pro &amp; iPad Mini 2, 3, 4 and later.</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/797/fallout_icon.png"
     },
     {
       "name": "Filmr Pro",
@@ -2127,6 +2149,17 @@
         }
       ],
       "appID": "com.firebird.firebird-emu"
+    },
+    {
+      "name": "FL Studio Mobile",
+      "bundleIdentifier": "com.ipalibrary.flstudiomobile",
+      "developerName": "IPA Library",
+      "version": "4.9.6",
+      "versionDate": "2026-02-03T15:07:42.000Z",
+      "size": 254325775,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/flstudio.ipa",
+      "localizedDescription": "<div class=\"\"><span class=\"\"><b>Hacking for purchases! Press \u201cbuy\u201d what interests us and refuse to enter an Apple ID!</b></span></div><div class=\"\"><span class=\"\"><b><br></b></span></div><div class=\"\"><span class=\"\">$13.99 in AppStore</span></div><div class=\"\"><span class=\"\">Create and save complete multi-track music projects on your iPad, iPhone</span><span class=\"\" style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">. Record, sequence, edit, mix and render complete songs.</span></div><div class=\"\"><i><br></i></div><div class=\"\"><b>FEATURE HIGHLIGHTS</b></div><div class=\"\"><i>* Audio recording, track-length stem/wav import</i></div><div class=\"\"><i>* Browse sample and presets with preview</i></div><div class=\"\"><i>* Effects modules (see Included Content)</i></div><div class=\"\"><i>* Full-screen MacBook and iMac Trackpad and Mouse support.</i></div><div class=\"\"><i>* High quality synthesizers, sampler, drum kits &amp; sliced-loop beats</i></div><div class=\"\"><i>* Instrument modules (see Included Content)</i></div><div class=\"\"><i>* Load projects in the FL STUDIO** FREE Plugin version of this App</i></div><div class=\"\"><i>* MIDI controller support (class compliant). Automation support.</i></div><div class=\"\"><i>* MIDI file import and Export (Single-track or Multi-track)</i></div><div class=\"\"><i>* Mixer: Per-track mute, solo, effect bus, pan and volume adjustment</i></div><div class=\"\"><i>* Piano roll. Edit notes or capture recorded performances.</i></div><div class=\"\"><i>* Save and load WAV, MP3, AAC*, FLAC, MIDI</i></div><div class=\"\"><i>* Share your songs via Wi-Fi or Cloud to other Mobile 3 installations</i></div><div class=\"\"><i>* Step sequencer</i></div><div class=\"\"><i>* User interface configurable with all screen resolutions and sizes.</i></div><div class=\"\"><i>* Virtual piano-keyboard &amp; Drumpads#</i></div><div class=\"\"><i>* IAA App support (In/Out), Audiobus support (In/Out)</i></div><div class=\"\"><i>* Audio recording (external and internal sources)</i></div><div class=\"\"><i>* Share your songs via Sync to other Mobile 3 devices / installations</i></div><div class=\"\"><i>* Load your projects in the FL STUDIO* FREE 'Plugin' Version of this App#</i></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/889/flstudio_icon.png"
     },
     {
       "name": "Flappy Bird",
@@ -3328,17 +3361,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1409/mimo_icon.png"
     },
     {
-      "name": "Minecraft",
-      "bundleIdentifier": "com.glesign.minecraft",
-      "developerName": "GLESign",
-      "version": "1.21.132",
-      "versionDate": "2026-01-25T14:10:03.000Z",
-      "size": 139311431,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Minecraft.ipa",
-      "localizedDescription": "<p class=\"\"><em class=\"\">Price in Appstore $7.99</em></p>\n\n<p>Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or play with friends on all different devices.&nbsp;</p>\n\n<p>EXPAND YOUR GAME:</p>\n\n<p>Marketplace - Discover the latest community creations in the marketplace! Get unique maps, skins, and texture packs from your favorite creators.</p>\n\n<p>Slash commands - Tweak how the game plays: you can give items away, summon mobs, change the time of day, and more.&nbsp;</p>\n\n<p>Add-Ons - Customize your experience even further with free Add-Ons! If you're more tech-inclined, you can modify data-driven behaviors in the game to create new resource packs.</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/688/Minecraft_icon.png"
-    },
-    {
       "name": "Mini vMac",
       "bundleIdentifier": "net.namedfork.minivmac",
       "developerName": "Gryphel Project & zydeco",
@@ -3378,8 +3400,8 @@
       "name": "Mojo: AI Video and Reels Editor",
       "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
       "developerName": "Blatant",
-      "version": "1.257",
-      "versionDate": "2026-01-29T13:15:21.000Z",
+      "version": "1.258",
+      "versionDate": "2026-02-03T15:05:34.000Z",
       "size": 189797587,
       "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -3395,6 +3417,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
       "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
+    },
+    {
+      "name": "Mortal Kombat Hack",
+      "bundleIdentifier": "com.iosgods.mortalkombathack",
+      "developerName": "iOSGods",
+      "version": "7.1.0",
+      "versionDate": "2026-02-03T15:53:02.000Z",
+      "size": 1301680687,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MortalKombat.ipa",
+      "localizedDescription": "<div class=\"\"><i class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\n</a></span></i></div><div class=\"\"><i class=\"\"><b class=\"\"><br></b></i></div><div class=\"\"><i class=\"\"><b class=\"\">Features:</b></i></div><div class=\"\"><i class=\"\"><b class=\"\">- Instantly Kill individual Enemy Characters</b></i></div><div class=\"\"><i class=\"\"><b>- Force Swap Enemy Characters*</b></i></div><div class=\"\"><i class=\"\"><b>- Easy Enemy* (1 hit KO)</b></i></div><div class=\"\"><i><b>- Resurrect and Heal all players*</b></i></div><div class=\"\"><i class=\"\"><b>- Heal All Players*</b></i></div><div class=\"\"><i class=\"\"><b>- Swap Hack - can swap without finishing time</b></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Get over here and immerse yourself in the iconic and visceral action of MORTAL KOMBAT MOBILE anytime, anywhere. Kollect legendary fighters like Scorpion, Sub-Zero, Raiden, and Kitana and fight in epic 3v3 battles set in the Mortal Kombat universe. This visually stunning fighting and card collection game has multiple modes and re-introduces characters and lore from Mortal Kombat\u2019s 30-Year fighting game legacy. Launch into the action today and prove yourself in the greatest fighting tournament in all of the realms!</i></div><div class=\"\"></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1160/MortalKombat_icon.png"
     },
     {
       "name": "MyFitnessPal++",
@@ -3763,17 +3796,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/persona.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Master your look with Persona \u2014 a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\r</div><div>MAIN FEATURES:\r</div><div>\u2022 Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally \u2014 instant with one click, for photos and videos.\r</div><div>\u2022 Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\r</div><div>\u2022 Body Tuning: Shape your figure a bit for a sharp, real result in stills or clips.\r</div><div>\u2022 Skin Improvement: Get a tan, fix texture, or remove shine in one tap, for any shot.\r</div><div>\u2022 Editing Controls: Change brightness, contrast, or sharpness like a pro, for both photos and videos.\r</div><div>\u2022 Face Refining: Improve eyes, nose, lips, or jawline easily, anytime.\r</div><div>\u2022 Color Boost: Add bold, stylish tones to your photos or videos.\r</div><div>\u2022 Unique Details: Add freckles, dimples, or small touches to both photos and videos.\r</div><div>\u2022 Quick Fix: Erase spots or extras fast, no matter what you\u2019re editing.\r</div><div class=\"\">\u2022 Exclusive AI Tools: Retake shots with better angles, generate new photo sessions from your selfies, and more.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1343/persona_icon.png"
-    },
-    {
-      "name": "Phocus: Portrait Mode Editor",
-      "bundleIdentifier": "com.blatant.phocusportraitmodeeditor",
-      "developerName": "Blatant",
-      "version": "3.0.9",
-      "versionDate": "2026-01-26T11:16:41.000Z",
-      "size": 208681769,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Phocus.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div><br></div><div>Phocus is a portrait editor and DSLR-style camera powered by AI, giving you full control over depth, background blur, aperture, bokeh, and focal length. Whether you're capturing cinematic portraits or editing precise lens details, Phocus delivers pro-level photography tools in a fast, intuitive interface built for creators.\r</div><div>Inspired by real optical systems, Phocus lets you emulate DSLR lens behavior\u2014without external gear. Control blur shape and depth radius with real aperture modeling. Adjust lens type, depth dynamics, and recreate unique bokeh styles from vintage and high-end lenses. Apply subtle distortions and optical characteristics for expressive storytelling. Phocus doesn\u2019t just blur the background\u2014it understands the physics of photography.</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1356/Phocus_icon.png"
     },
     {
       "name": "Photomath++",
@@ -4244,8 +4266,8 @@
       "name": "SCRL: Photo Collage Maker",
       "bundleIdentifier": "com.blatant.scrlphotocollagemaker",
       "developerName": "Blatant",
-      "version": "9.27.1",
-      "versionDate": "2026-01-27T10:32:36.000Z",
+      "version": "9.27.2",
+      "versionDate": "2026-02-03T15:04:58.000Z",
       "size": 70840129,
       "downloadURL": "https://s3.flekstore.com/ipa-library/SCRL.ipa",
       "localizedDescription": "<b>Unleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.</b><div><br><div></div><div>\u2022 Exceptional Collage Maker with Hundreds of Hand-Picked Templates\r</div><div>Start your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style. \r</div><div class=\"\">Our design experts hand-pick each template to ensure the highest quality and versatility. Plus, new collage templates are added regularly, so you\u2019ll always have fresh options to choose from.\r</div><div class=\"\"><br></div><div>\u2022 Seamless Swipe-Through Carousel Posts\r</div><div class=\"\">Easily create stunning swipe-through carousel posts that captivate your audience. Our intuitive design tools make it effortless to merge photos into panoramic carousel posts or create scroll-through collage layouts that flow seamlessly. \r</div><div class=\"\"><br></div><div>\u2022 Premade Grid Layouts for Collages\r</div><div class=\"\">Now you can create beautiful, cohesive photo grids and Instagram layouts that span multiple photos, giving your feed a stunning, unified look. Combine grids with our photo collage templates, swipe-through carousel posts, and freeform canvas for endless possibilities.\r</div><div class=\"\"><br></div><div>\u2022 Add More Than 10 Photos to a Single Post\r</div><div>Break the limitations of traditional posts &amp; Instagram layouts. With SCRL, you can add more than 10 photos in a single post, providing more room for your creativity and storytelling.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
@@ -5100,17 +5122,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "Travel Town - Merge Adventure Hack",
-      "bundleIdentifier": "com.iosgods.traveltownmergeadventurehack",
-      "developerName": "iOSGods",
-      "version": "2.12.1402",
-      "versionDate": "2026-01-25T14:24:06.000Z",
-      "size": 164772973,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/TravelTown.ipa",
-      "localizedDescription": "\r<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><h3>Hack Features:\r</h3><div><ul class=\"\"><li class=\"\">&nbsp;Energy Adds When Spending\r</li><li>&nbsp;Can Merge Any Item to Level Up Other Items\r</li><li>&nbsp;Always Drops bubbles + a Coin\r</li><li>1 Diamond to Unlcok Any Chests\r</li><li>1 Diamond to Unlock Bubbles\r</li></ul></div><div>&nbsp;</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1290/TravelTown_icon.png"
     },
     {
       "name": "Truecaller: Caller ID Lookup ",
