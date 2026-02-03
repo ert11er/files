@@ -1979,17 +1979,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1458/Endel_icon.png"
     },
     {
-      "name": "Enki: Learn Coding/Programming",
-      "bundleIdentifier": "com.blatant.enkilearncodingprogramming",
-      "developerName": "Blatant",
-      "version": "2.40.7",
-      "versionDate": "2026-01-28T13:27:36.000Z",
-      "size": 18483696,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Enki.ipa",
-      "localizedDescription": "<b>Enki is your AI-powered skills coach!\r</b><div>\r</div><div>Use it to learn coding, productivity tools, data skills, and generative AI tools. \r</div><div>Tailored to fit your unique profile and goals, Enki is an AI-powered mentor in your pocket that can:\r</div><div>* Explain any concept in simple language\r</div><div>* Help with hints anytime you're stuck\r</div><div>* Summarize lessons into key points\r</div><div>* Review your code and provide feedback\r</div><div>* Provide real-world examples\r</div><div>* Translate content and converse in any language\r</div><div>* Recommend resources based on your needs\r</div><div class=\"\">* Give career advice more generally</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/Vh044EC.jpeg"
-    },
-    {
       "name": "Facebook++",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
