@@ -2365,6 +2365,17 @@
       "iconURL": "https://i.imgur.com/dEM3E2c.jpeg"
     },
     {
+      "name": "House Flipper Home Design Hack",
+      "bundleIdentifier": "com.iosgods.houseflipperhomedesignhack",
+      "developerName": "iOSGods",
+      "version": "1.620",
+      "versionDate": "2026-02-03T16:14:51.000Z",
+      "size": 429890045,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/HouseFlipper.ipa",
+      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\" style=\"\">iOSGods</a></span></div><div class=\"\"><br></div><div class=\"\"><b>Hack Features:&nbsp;</b></div><div class=\"\"><ul><li>Unlimited Cash: Exchange Flipcoins for Cash to earn an unlimited amount.&nbsp;</li><li class=\"\"><span class=\"\">Unlimited Flipcoins: Exchange Flipcoins for Cash to earn an unlimited amount.</span></li></ul></div><div class=\"\"><br></div>Have you ever dreamed about running your own renovation company?<div><br></div><div>House Flipper is the best free one-man makeover crew on the market. Become an interior designer and start your very own business. Carry out orders, renovate, decorate houses, and sell them with profit afterwards! Get new skins for your tools.</div><div><br></div><div>Main features waiting for you:</div><div><br></div><div>- awesome, realistic 3D graphics</div><div><br></div><div>- smooth intuitive gameplay (60 FPS gameplay)</div><div><br></div><div>- different interesting tasks</div><div><br></div><div>- buying, renovating and selling houses as well as interior decoration.</div><div><br></div><div>- Over 500 decoration items to unlock</div><div><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1272/HouseFlipper_icon.jpeg"
+    },
+    {
       "name": "iDOS",
       "bundleIdentifier": "com.litchie.idosgames",
       "developerName": "litchie",
@@ -3348,17 +3359,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "Mimo: Learn Coding/Programming",
-      "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
-      "developerName": "Blatant",
-      "version": "11.1.0",
-      "versionDate": "2026-01-26T11:19:52.000Z",
-      "size": 136645016,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
-      "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1409/mimo_icon.png"
     },
     {
       "name": "Mini vMac",
