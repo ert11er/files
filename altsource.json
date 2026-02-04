@@ -562,6 +562,17 @@
       "beta": false
     },
     {
+      "name": "BHTikTok+",
+      "bundleIdentifier": "com.ttbetadecryptedxrxtiktok.bhtiktok",
+      "developerName": "TTBeta Decrypted x RXTikTok",
+      "version": "43.6.0 (1.9.3)",
+      "versionDate": "2026-01-27T10:37:54.000Z",
+      "size": 316478159,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/bhtiktok.ipa",
+      "localizedDescription": "<div class=\"\"><i>To use app on USA connect to VPN and turn off Location services in iPhone settings.</i></div><div><br></div><div>Features</div><div>\u2022 No Ads</div><div class=\"\">\u2022 Download Videos</div><div>\u2022 Download HD Videos</div><div>\u2022 Download Photos</div><div>\u2022 Download Musics</div><div>\u2022 Upload Region</div><div>\u2022 Show Username</div><div>\u2022 Disable Pull-to-refresh</div><div>\u2022 Disable Unsensitive warning</div><div>\u2022 Disable Warnings</div><div>\u2022 Disable Live Broadcast</div><div>\u2022 Skip Recommendations</div><div>\u2022 Remove Watermark</div><div>\u2022 Show/Hide UI button</div><div>\u2022 Copy video decription</div><div>\u2022 Copy video link</div><div>\u2022 Copy Music link</div><div>\u2022 Auto Play Next Video</div><div>\u2022 Show progress bar</div><div>\u2022 Confirm like</div><div>\u2022 Confirm comment like</div><div>\u2022 Confirm comment dislike</div><div>\u2022 Confirm follow</div><div>\u2022 Save profile image</div><div>\u2022 Copy profile information</div><div>\u2022 Profile Video Count</div><div>\u2022 Video Upload Date</div><div>\u2022 Video Like Count</div><div>\u2022 Always Upload In HD</div><div>\u2022 Extend bio</div><div>\u2022 Extend comment</div><div>\u2022 Always open in Safari</div><div>\u2022 Changing region</div><div>\u2022 Fake verify blue mark</div><div>\u2022 Fake Follower count</div><div>\u2022 Fake Following count</div><div>\u2022 Padlock</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1241/bhtiktok_icon.png"
+    },
+    {
       "name": "blurt.blog",
       "bundleIdentifier": "blog.blurt.blurt",
       "developerName": "sagarkothari88",
@@ -622,6 +633,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
       "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
       "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
+    },
+    {
+      "name": "Captions: For Talking Videos",
+      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
+      "developerName": "Blatant",
+      "version": "13.3.1",
+      "versionDate": "2026-02-03T15:06:16.000Z",
+      "size": 373335088,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
+      "localizedDescription": "<h3 class=\"\"><br></h3><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1300/Captions_icon.png"
     },
     {
       "name": "CARROT Weather",
@@ -1551,25 +1573,23 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "beta": false,
       "versions": [
         {
           "version": "3.2.1",
-          "date": "2022-09-11T18:00:00-04:00",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-Universal-3.2.1-213.ipa",
+          "date": "2022-09-11T22:00:00.0000000Z",
+          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
           "size": 80253902,
-          "sha256": "dcae6e6053d6e4e3f3f44ab9e0d2f709f77f2405243e66184d7864796d80de5c"
-        },
-        {
-          "version": "3.2.0",
-          "date": "2022-05-22T18:00:00-04:00",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixes crashing when starting a game\n- Fixes graphical problems caused by an Apple silicon GPU driver bug\n- Integrates support for AltJIT and JitStreamer\n- Adds rumble when using the Touchscreen controller on iPhones\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.0/DolphiniOS-NJB-Universal-3.2.0-211.ipa",
-          "size": 80253902
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
         }
       ],
-      "beta": false,
-      "appID": "me.oatmealdome.dolphinios-njb"
+      "version": "3.2.1",
+      "versionDate": "2022-09-11T22:00:00.0000000Z",
+      "versionDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+      "size": 80253902
     },
     {
       "name": "DolphiniOS (Public Beta)",
@@ -1585,6 +1605,7 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "beta": false,
       "versions": [
         {
           "version": "5.0.0b4",
@@ -1592,17 +1613,15 @@
           "localizedDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
         {
           "version": "5.0.0b3",
           "date": "2025-10-18T00:00:00.0000000Z",
-          "localizedDescription": "Adds support for emulating Skylander Portal of Power, and fixes JIT on some devices running iOS 17 and 18.",
+          "localizedDescription": "Adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1612,7 +1631,6 @@
           "localizedDescription": "Adds support for JIT on iOS 26 using StikDebug.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1622,7 +1640,6 @@
           "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1632,7 +1649,6 @@
           "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
           "size": 15830129,
-          "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1642,30 +1658,24 @@
           "localizedDescription": "This is the first build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
           "size": 13775833,
-          "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
         {
           "version": "3.2.1b1",
-          "date": "2022-07-05T18:00:00-04:00",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-Universal-3.2.1b1-213.ipa",
+          "date": "2022-07-05T22:00:00.0000000Z",
+          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa",
           "size": 80291610,
-          "sha256": "302438ec452636ff0b033ac1561f35f95ec42c644263d318978ef6fb83fc09d8"
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
-      "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
+      "version": "5.0.0b4",
+      "versionDate": "2025-10-23T02:30:00.0000000Z",
+      "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
+      "size": 17958943
     },
     {
       "name": "Duolingo Hacked",
@@ -2213,6 +2223,17 @@
       ]
     },
     {
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.fortnite",
+      "developerName": "Epic Games",
+      "version": "39.30.1",
+      "versionDate": "2026-01-29T13:27:22.000Z",
+      "size": 237086916,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
+      "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
+      "iconURL": "https://i.imgur.com/Y8NkWTf.jpeg"
+    },
+    {
       "name": "GBA4iOS",
       "bundleIdentifier": "com.rileytestut.GBA4iOS",
       "developerName": "Riley Testut",
@@ -2331,6 +2352,17 @@
         }
       },
       "beta": false
+    },
+    {
+      "name": "Hevy - Workout Tracker Gym Log",
+      "bundleIdentifier": "com.blatant.hevyworkouttrackergymlog",
+      "developerName": "Blatant",
+      "version": "2.5.11",
+      "versionDate": "2026-02-01T17:27:06.000Z",
+      "size": 117216203,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/HevyWorkout.ipa",
+      "localizedDescription": "\r<div><br></div><div class=\"\"><b>FEATURES\r</b></div><div>\u2022  Track your lifts with an intuitive, simple to use interface.\r</div><div>\u2022  Use the calendar to stay on top of your training schedule\r</div><div>\u2022  Hundreds of exercises with free high-quality videos for you to focus on your form\r</div><div>\u2022  Follow your friend's progress by following their lifts and copying their routines\r</div><div>\u2022  Create your own custom exercises for your workouts\r</div><div>\u2022  Set up your profile as a private profile or a public one\r</div><div>\u2022  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets\r</div><div>\u2022  Customize automatic rest timers for each exercise\r</div><div>\u2022  Analyze your workout sessions in detail with muscle group graphs\r</div><div>\u2022  Calculation of One Rep Max for all strength exercises\r</div><div>\u2022  Create an unlimited amount of routines\r</div><div>\u2022  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight &amp; total reps\r</div><div>\u2022  Copy your friends' workouts\r</div><div>\u2022  Dark Mode\r</div><div>\u2022  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.</div>",
+      "iconURL": "https://i.imgur.com/dEM3E2c.jpeg"
     },
     {
       "name": "House Flipper Home Design Hack",
@@ -4111,6 +4143,17 @@
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
     },
     {
+      "name": "Regram for Instagram",
+      "bundleIdentifier": "com.fouadraheb.regramforinstagram",
+      "developerName": "Fouad Raheb",
+      "version": "413.0 (2.5)",
+      "versionDate": "2026-01-27T09:56:09.000Z",
+      "size": 204357512,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/regram.ipa",
+      "localizedDescription": "<span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Built-into Instagram</b></span><div>Runs inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features</div><div class=\"\"><b>Profile Analyzer</b></div><div>Scans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).</div><div class=\"\"><b>Stories Archive</b><br>Automatically download and store all your uploaded Stories including the full viewers and likers list and allow to view analytics of top viewers and likers.</div><div class=\"\"><b>Media Downloader</b></div><div class=\"\">Downloads any Instagram media, including posts, stories, reels, post audio, and direct messages.</div><div class=\"\"><b>Privacy</b></div><div class=\"\">View stories and read direct messages without sending seen receipts, send them manually with a single tap.</div><div class=\"\"><b>Messages</b></div><div class=\"\">Keep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.</div><div class=\"\"><b>Utilities &amp; Customization</b></div><div class=\"\">Confirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.<br><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1239/regram_icon.png"
+    },
+    {
       "name": "RetroArch",
       "bundleIdentifier": "com.libretro.RetroArchiOS11",
       "developerName": "libretro",
@@ -5553,6 +5596,28 @@
         "entitlements": [],
         "privacy": []
       }
+    },
+    {
+      "name": "VN Video Editor",
+      "bundleIdentifier": "com.blatant.vnvideoeditor",
+      "developerName": "Blatant",
+      "version": "2.1.0",
+      "versionDate": "2026-01-28T14:10:20.000Z",
+      "size": 316753263,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1284/VlogNow_icon.png"
+    },
+    {
+      "name": "VSCO",
+      "bundleIdentifier": "com.michaellema.vsco",
+      "developerName": "Michael Lema",
+      "version": "456.0.0",
+      "versionDate": "2026-02-01T17:23:27.000Z",
+      "size": 96977746,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
+      "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/821/vsco1_icon.png"
     },
     {
       "beta": false,
