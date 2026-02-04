@@ -5124,6 +5124,17 @@
       "beta": false
     },
     {
+      "name": "TIME LOCKER+",
+      "bundleIdentifier": "com.sotarootsuka.timelocker",
+      "developerName": "Sotaro Otsuka",
+      "version": "1.4.1",
+      "versionDate": "2026-02-04T16:36:18.000Z",
+      "size": 19484978,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/TimeLockerPlus.ipa",
+      "localizedDescription": "<b>\"Freezes Time When You Stop Moving\"\r</b><div>You can control the speed of time with only one finger!\r</div><div>Move slowly, and time slows down.\r</div><div>Move quickly, and it speeds up.\r</div><div>But the looming darkness behind you never stops.\r</div><div>You must keep going \u2014 sometimes with calm precision, sometimes with bold aggression.\r</div><div>Time Locker is a minimalist shooter.\r</div><div>Many foes will attack you, including animals, mammoths, soldiers, and even a giant T-Rex.\r</div><div>But you have one great advantage.\r</div><div class=\"\">Control the speed of time and enhance your character and equipment without limit to get a high score.\r</div><div class=\"\"><br></div><div class=\"\"><b>[ Features of the Apple Arcade Version ]\r</b></div><div>- Special characters only available in the Arcade version\r</div><div>- New enemies will appear\r</div><div>- Some weapons have been enhanced\r</div><div>- Redesigned game difficulty&nbsp;</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/4w10PsA.jpeg"
+    },
+    {
       "name": "Truecaller: Caller ID Lookup ",
       "bundleIdentifier": "com.blatant.truecallercalleridlookup",
       "developerName": "Blatant",
@@ -5688,17 +5699,6 @@
           "maxOSVersion": "16.1.2"
         }
       ]
-    },
-    {
-      "name": "WhatsApp Business",
-      "bundleIdentifier": "com.fouadraheb.whatsappbusiness",
-      "developerName": "FouadRaheb",
-      "version": "26.2.74",
-      "versionDate": "2026-01-27T08:49:07.000Z",
-      "size": 105049917,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/WatusiBusiness.ipa",
-      "localizedDescription": "The all-in-one tweak for WhatsApp Business!<div><br></div><div>Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1211/WatusiBusiness_icon.png"
     },
     {
       "name": "WhatsApp Watusi",
