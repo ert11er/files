@@ -15,17 +15,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1454/KapiCam_icon.png"
     },
     {
-      "name": " YouCut - AI Video Editor",
-      "bundleIdentifier": "com.blatant.youcutaivideoeditor",
-      "developerName": "Blatant",
-      "version": "1.27.1",
-      "versionDate": "2026-01-26T12:52:40.000Z",
-      "size": 85717416,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/YouCut.ipa",
-      "localizedDescription": "YouCut as an AI [Video Editor] &amp; [Video Maker] for YouTube and other social media, features a unique timeline design that makes video editing easier and more efficient. Easy to edit videos with music, AI effects, captions, emoji, text to speech, etc.<div><br><div>\r</div><div class=\"\"><b class=\"\">Easy &amp; No Watermark</b></div><div class=\"\">Edit videos like a pro. Whether you want to make photo videos or share moments with friends, YouCut is the best video editing app with all features you need.\r</div><div class=\"\"><br></div><div class=\"\">Features:\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Powerful Video Editor and Movie Maker</b></div><div class=\"\">YouCut as one of top AI video editor apps, provide you with AI Avatar, AI Captions, AI Enhance, AI Cutout, etc. You can zoom in/out timeline for precisely editing. No banner ads.\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">AI Video Editor</b></div><div>AI Video Enhance - Restore blurry videos and photos to HD.\r</div><div>Auto Captions -  Generate accurate captions for social media.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/7JWqXLp.png"
-    },
-    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -98,6 +87,17 @@
           "absoluteVersion": "2021.9"
         }
       ]
+    },
+    {
+      "name": "AI Calorie Tracker by Yazio",
+      "bundleIdentifier": "com.blatant.aicalorietrackerbyyazio",
+      "developerName": "Blatant",
+      "version": "12.70.1",
+      "versionDate": "2026-02-04T09:21:51.000Z",
+      "size": 119803119,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/AICalorieTracker.ipa",
+      "localizedDescription": "<b>Welcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\r</b><div><b>\r</b></div><div class=\"\"><b>Track calories, eat better and reach your goals with Yazio\u2019s free calorie counter app!\r</b></div><div class=\"\"><b><br></b></div><div class=\"\">Yazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the help of its AI calorie tracker. Yazio combines a science-backed approach with cutting-edge AI calorie tracker technology to deliver long-term results without the need for extreme diets.\r</div><div class=\"\"><br></div><div><ul><li class=\"\">- Easy-to-use AI calorie tracker and food tracker\r</li><li>- Calorie deficit tracker to reach your weight goals\r</li><li>- Huge food database with 95% of all food items\r</li><li>- Calorie tracker with barcode scanner\r</li><li>- Meal planning, food tracker and personalized recipes\r</li><li>- Integrated step and activity tracking\r</li><li>- Water tracker with reminders\r</li><li>- Instant access with no signup required\r</li><li>- Regular updates for calorie counter, food tracker and AI calorie tracker tools\r</li><li>- Food tracker and nutrition tools for men and women\r</li><li>- Support for healthy muscle building and weight gain\r</li><li>- Focus on long-term results, not yo-yo dieting</li></ul></div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1460/AICalorieTracker_icon.png"
     },
     {
       "name": "AltStore",
@@ -3397,6 +3397,17 @@
       ]
     },
     {
+      "name": "Mockup - UI/UX Design",
+      "bundleIdentifier": "com.blatant.mockupuiuxdesign",
+      "developerName": "Blatant",
+      "version": "4.1.2",
+      "versionDate": "2026-02-04T12:33:37.000Z",
+      "size": 57962349,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MockupUI.ipa",
+      "localizedDescription": "<br><div>\r</div><div class=\"\"><b>Flexible Canvas for UI/UX Design\r</b></div><div>- Visualize your ideas effortlessly with 45+ device frames in both portrait and landscape orientations.\r</div><div>- Explore limitless design possibilities with a flexible canvas and abundant frames.\r</div><div class=\"\">- Customize the grid, frame, and background colors for a tailored workflow.\r</div><div class=\"\"><br></div><div class=\"\"><b>Sketch &amp; Perfect Your Ideas\r</b></div><div>- Shape your designs with a variety of drawing tools &amp; a full color palette.\r</div><div>- Draw perfect shapes with Shape Detection and Snap-to-grid for precise alignment.\r</div><div>- Move, resize, recolor, and adjust objects easily using the lasso tool.\r</div><div class=\"\">- Write and edit text directly on the canvas using the Scribble tool.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>Wireframe with Ease\r</b></div><div>- Access a Library of preset elements or create, save, and reuse your own.\r</div><div>- Insert images and visuals from your files into your designs\r</div><div>- Add text, customize, and save text styles for a consistent look.\r</div><div>- Drag &amp; drop text or images from any app directly into your canvas.\r</div><div>- Elevate your designs with 4000+ symbols from Apple's SF Symbols library.\r</div><div class=\"\">- Add and customize shapes like rectangles, ellipses, and lines.\r</div><div class=\"\"><br></div><div class=\"\"><b>Stay in Control of Your Objects\r</b></div><div>- Cut, copy, or paste selections anywhere in the canvas or from other apps.\r</div><div>- Arrange, align, and distribute objects for precise layouts.\r</div><div>- Select or deselect multiple objects at once with Select Objects mode.</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/7EXutr5.jpeg"
+    },
+    {
       "name": "Mojo: AI Video and Reels Editor",
       "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
       "developerName": "Blatant",
@@ -3832,17 +3843,6 @@
         }
       ],
       "appID": "com.microblink.PhotoMath"
-    },
-    {
-      "name": "Photoroom: AI Photo Editor",
-      "bundleIdentifier": "com.blatant.photoroomaiphotoeditor",
-      "developerName": "Blatant",
-      "version": "2026.04.01",
-      "versionDate": "2026-01-26T11:23:14.000Z",
-      "size": 133527206,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
-      "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
     },
     {
       "name": "PicsArt Pro",
@@ -4321,6 +4321,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1313/ShadowFight3_icon.png"
     },
     {
+      "name": "SHRED: Gym and Home Workouts",
+      "bundleIdentifier": "com.blatant.shredgymandhomeworkouts",
+      "developerName": "Blatant",
+      "version": "5.3.8",
+      "versionDate": "2026-02-04T09:25:53.000Z",
+      "size": 147857803,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Shred.ipa",
+      "localizedDescription": "<h3>No more guessing what to do next. SHRED\u2019s AI-powered coaching gives you the structure, motivation, and personalization you need to reach your goals\u2014lose weight, get stronger, or stay consistent. Every plan adapts to your progress and equipment, so you always know you\u2019re training the right way for you. Your goals. Your coach. Your results.</h3><div class=\"\"><br><div class=\"\">From day one, SHRED builds your plan around how you move and what you want to achieve. As you train, SHRED\u2019s AI learns your patterns\u2014how hard you push, how you recover, and when to advance or pull back. It automatically adjusts reps, sets, rest, and intensity to match your evolving strength and stamina. Gym or home, beginner or advanced\u2014SHRED scales with you and keeps every workout challenging, efficient, and results-driven.\r</div><div class=\"\"><br></div><div class=\"\"><b>PROGRAMS ENGINEERED FOR REAL RESULTS\r</b></div><div class=\"\">Explore expertly designed training paths in hypertrophy, powerlifting, strength, bodyweight, or sculpting. Every program is crafted by real coaches and refined by data from millions of workouts. Whether you\u2019re chasing size, strength, or definition, SHRED\u2019s system combines proven structure with adaptive progression so you keep improving week after week.\r</div><div class=\"\"><br></div><div class=\"\"><b>YOUR EQUIPMENT, OPTIMIZED\r</b></div><div>Have dumbbells, a rack, bands, kettlebells\u2014or nothing at all? SHRED automatically adapts to your setup so you get the perfect workout wherever you train. Update your available gear anytime, and your workouts will instantly reconfigure to match your environment.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/i3REdNU.jpeg"
+    },
+    {
       "name": "Sileo Demo",
       "bundleIdentifier": "org.coolstar.SileoDemo",
       "developerName": "Sileo Team",
@@ -4339,17 +4350,6 @@
         "https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
         "https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
       ]
-    },
-    {
-      "name": "Simply Guitar - Learn Guitar",
-      "bundleIdentifier": "com.simplyltd.simplyguitarlearnguitar",
-      "developerName": "Simply Ltd",
-      "version": "10.14",
-      "versionDate": "2026-01-26T11:44:25.000Z",
-      "size": 151621471,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SimplyGuitar.ipa",
-      "localizedDescription": "Learn to play the guitar at your own pace with step-by-step tutorials, made by world-class music teachers, and receive feedback from the app while you learn to play your favorite songs!<div><br><div></div><div class=\"\">No experience needed  | For all ages | Works with any guitar\r</div><div class=\"\"><br></div><div class=\"\"><b>--- Make your musical dreams come true ---\r</b></div><div>\u2022 Play chords &amp; songs straight away!\r</div><div>\u2022 Learn step by step with high-quality video lessons\r</div><div>\u2022 Receive feedback from the app and know when you are playing correctly or need guidance\r</div><div>\u2022 Learn all the necessary techniques to play the songs you love:       \r</div><div>&nbsp; &nbsp; &nbsp; - Guitar fundamentals\r</div><div>&nbsp; &nbsp; &nbsp; - Read and play tabs\r</div><div>&nbsp; &nbsp; &nbsp; - Playing chords\r</div><div>&nbsp; &nbsp; &nbsp; - Chord switching\r</div><div>&nbsp; &nbsp; &nbsp; - Strumming techniques \r</div><div>&nbsp; &nbsp; &nbsp; - Invaluable tips and tricks for playing correctly\r</div><div>&nbsp; &nbsp; &nbsp; - Technique boosting exercises\r</div><div>\u2022 Track your progress \r</div><div>\u2022 Learn to tune your guitar (professional tuner included!)\r</div><div>\u2022 Receive fast support from our musicians \r</div><div>\u2022 Have fun and quickly improve your skills</div><div> \r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/pzTOFJ4.jpeg"
     },
     {
       "name": "Six Pack in 30 Days",
