@@ -504,6 +504,17 @@
       ]
     },
     {
+      "name": "B612 - AI Photo and Video Editor",
+      "bundleIdentifier": "com.blatant.b612aiphotoandvideoeditor",
+      "developerName": "Blatant",
+      "version": "14.7.21",
+      "versionDate": "2026-02-04T17:26:34.000Z",
+      "size": 132121404,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/b612.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>B612 is the best all-in-one camera &amp; photo/video editing app. We offer various free features and tools to make every moment more special.\r<div>\r</div><div>Meet trendy effects, filters, and stickers that are updated every day!\r</div><div>=== Main features ===\r</div><div>*Create your own filters*\r</div><div>- Create a one-of-a-kind filter and share it with friends\r</div><div>- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\r</div><div>- Meet the creative and diverse filters of B612 creators.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1347/b612_icon.png"
+    },
+    {
       "name": "Bazaart: AI Photo Video Editor",
       "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
       "developerName": "Dangerous Pixel",
@@ -1595,25 +1606,23 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "beta": false,
       "versions": [
         {
           "version": "3.2.1",
-          "date": "2022-09-11T18:00:00-04:00",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-Universal-3.2.1-213.ipa",
+          "date": "2022-09-11T22:00:00.0000000Z",
+          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
           "size": 80253902,
-          "sha256": "dcae6e6053d6e4e3f3f44ab9e0d2f709f77f2405243e66184d7864796d80de5c"
-        },
-        {
-          "version": "3.2.0",
-          "date": "2022-05-22T18:00:00-04:00",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixes crashing when starting a game\n- Fixes graphical problems caused by an Apple silicon GPU driver bug\n- Integrates support for AltJIT and JitStreamer\n- Adds rumble when using the Touchscreen controller on iPhones\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.0/DolphiniOS-NJB-Universal-3.2.0-211.ipa",
-          "size": 80253902
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
         }
       ],
-      "beta": false,
-      "appID": "me.oatmealdome.dolphinios-njb"
+      "version": "3.2.1",
+      "versionDate": "2022-09-11T22:00:00.0000000Z",
+      "versionDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.\n\nPlease update DolphiniOS to version 3.2.1 before attempting to use it on iOS 16.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+      "size": 80253902
     },
     {
       "name": "DolphiniOS (Public Beta)",
@@ -1629,6 +1638,7 @@
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
         "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
       ],
+      "beta": false,
       "versions": [
         {
           "version": "5.0.0b4",
@@ -1636,17 +1646,15 @@
           "localizedDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "3654f513e01944e4b1e1abe4a44057c7291875fbf5a822f17f36bff74a3ee27c",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
         {
           "version": "5.0.0b3",
           "date": "2025-10-18T00:00:00.0000000Z",
-          "localizedDescription": "Adds support for emulating Skylander Portal of Power, and fixes JIT on some devices running iOS 17 and 18.",
+          "localizedDescription": "Adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "9016d50856ca21b0f923f8ad4d72c97288a38ba92bea288ec8ccfb0d9388b369",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1656,7 +1664,6 @@
           "localizedDescription": "Adds support for JIT on iOS 26 using StikDebug.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "9f7e91e76d7aae2c4aa662e4654668dc7a16795af5fdae5da2b4e6d25c66d0bf",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1666,7 +1673,6 @@
           "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b1/Non-Jailbroken.ipa",
           "size": 17958943,
-          "sha256": "ea27bd1a7b8f6839c8e8bbdf696cf0c2d79c7d5fc106abbd39795b2a0bc535f1",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1676,7 +1682,6 @@
           "localizedDescription": "This is the second public beta build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
           "size": 15830129,
-          "sha256": "9e058c0c1e2cac828ddf489796570199482a5e33b8a7045ec0da4e572a9d733a",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
@@ -1686,30 +1691,24 @@
           "localizedDescription": "This is the first build based on the rewritten DolphiniOS code.\n\niOS 14 is required to run this build.",
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b7/Non-Jailbroken.ipa",
           "size": 13775833,
-          "sha256": "31934065e81fd76ec082814dda8cd1ad43a92c516f6c984dfa6ae4b7b39ac782",
           "minOSVersion": "14.0",
           "maxOSVersion": "99.0"
         },
         {
           "version": "3.2.1b1",
-          "date": "2022-07-05T18:00:00-04:00",
-          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.\n\nFor more information, see https://oatmealdome.me/blog/dolphinios-ver-3-2-0/.",
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-Universal-3.2.1b1-213.ipa",
+          "date": "2022-07-05T22:00:00.0000000Z",
+          "localizedDescription": "This update contains the following changes:\n\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16 betas.\n\nThe next beta build will be based off the rewritten DolphiniOS source code.",
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1b1-213/DolphiniOS-NJB-Beta-3.2.1b1-213.ipa",
           "size": 80291610,
-          "sha256": "302438ec452636ff0b033ac1561f35f95ec42c644263d318978ef6fb83fc09d8"
+          "minOSVersion": "12.0",
+          "maxOSVersion": "99.0"
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": [
-          {
-            "name": "LocalNetwork",
-            "usageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-          }
-        ]
-      },
-      "beta": false,
-      "appID": "me.oatmealdome.DolphiniOS-njb-patreon-beta"
+      "version": "5.0.0b4",
+      "versionDate": "2025-10-23T02:30:00.0000000Z",
+      "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
+      "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
+      "size": 17958943
     },
     {
       "name": "Duolingo Hacked",
@@ -2024,6 +2023,17 @@
       "appID": "com.antique.emuThreeDS"
     },
     {
+      "name": "Endel: Focus and Sleep Sounds",
+      "bundleIdentifier": "com.blatant.endelfocusandsleepsounds",
+      "developerName": "Blatant",
+      "version": "4.49.27",
+      "versionDate": "2026-01-28T14:07:57.000Z",
+      "size": 217373705,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Endel.ipa",
+      "localizedDescription": "Focus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.\r<div>\r</div><div class=\"\">Endel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.\r</div><div class=\"\"><br></div><div>Get access to the following classic soundscapes at home, work, or on the move to relax, concentrate, and minimize distractions and brain fatigue:\r</div><div>\u2022 Focus \u2013 boosts your productivity by helping you concentrate for longer\r</div><div>\u2022 Sleep \u2013 soothes you into a deep sleep with soft, gentle sounds\r</div><div>\u2022 Relax \u2013 calms your mind to create feelings of comfort and safety\r</div><div>\u2022 Move \u2013 feel grounded and present while walking, hiking, or running</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1458/Endel_icon.png"
+    },
+    {
       "name": "Enki: Learn Coding/Programming",
       "bundleIdentifier": "com.blatant.enkilearncodingprogramming",
       "developerName": "Blatant",
@@ -2215,6 +2225,17 @@
       ]
     },
     {
+      "name": "Flight Tracker +",
+      "bundleIdentifier": "com.blatant.flighttracker",
+      "developerName": "Blatant",
+      "version": "8.7.1",
+      "versionDate": "2026-01-28T14:08:37.000Z",
+      "size": 79972304,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
+    },
+    {
       "beta": false,
       "name": "Flycast",
       "bundleIdentifier": "com.flyinghead.Flycast",
@@ -2281,6 +2302,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/GlowUp.ipa",
       "localizedDescription": "Master your selfie game with GlowUp, the ultimate AI-powered photo editor designed to bring out your natural beauty with flawless, effortless edits. Whether you want subtle retouching or a full makeup transformation, GlowUp puts the power of professional beauty tools right at your fingertips.<div><br><div></div><div class=\"\"><b>[Retouch Selfies]\r</b></div><div>- Airbrush skin with AI-powered retouch tools\r</div><div>- Smooth wrinkles and even out skin tone\r</div><div>- Whiten teeth with a simple swipe\r</div><div class=\"\">- Highlight or soften your best features\r</div><div class=\"\"><br></div><div class=\"\"><b>[Exclusive Makeup Looks]\r</b></div><div>- Choose from natural to bold styles\r</div><div>- Explore dozens of color choices\r</div><div class=\"\">- Customize makeup to perfectly fit your face\r</div><div class=\"\"><br></div><div class=\"\"><b>[AI-Powered Tools]\r</b></div><div>- Instantly transform your hair color and style\r</div><div>- Remove unwanted objects or backgrounds seamlessly\r</div><div>- Enhance photo quality with AI resolution boost</div><div>\r</div><div>\r</div></div>",
       "iconURL": "https://i.imgur.com/HZNsAEv.jpeg"
+    },
+    {
+      "name": "Grim Soul: Survival",
+      "bundleIdentifier": "com.glehack.grimsoulsurvival",
+      "developerName": "GLEHack",
+      "version": "7.9.0",
+      "versionDate": "2026-02-02T14:46:18.000Z",
+      "size": 173219080,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
+      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/810/grimsoul_icon.png"
     },
     {
       "name": "HD Flix (No Ads)",
@@ -2364,6 +2396,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/HevyWorkout.ipa",
       "localizedDescription": "\r<div><br></div><div class=\"\"><b>FEATURES\r</b></div><div>\u2022  Track your lifts with an intuitive, simple to use interface.\r</div><div>\u2022  Use the calendar to stay on top of your training schedule\r</div><div>\u2022  Hundreds of exercises with free high-quality videos for you to focus on your form\r</div><div>\u2022  Follow your friend's progress by following their lifts and copying their routines\r</div><div>\u2022  Create your own custom exercises for your workouts\r</div><div>\u2022  Set up your profile as a private profile or a public one\r</div><div>\u2022  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets\r</div><div>\u2022  Customize automatic rest timers for each exercise\r</div><div>\u2022  Analyze your workout sessions in detail with muscle group graphs\r</div><div>\u2022  Calculation of One Rep Max for all strength exercises\r</div><div>\u2022  Create an unlimited amount of routines\r</div><div>\u2022  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight &amp; total reps\r</div><div>\u2022  Copy your friends' workouts\r</div><div>\u2022  Dark Mode\r</div><div>\u2022  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.</div>",
       "iconURL": "https://i.imgur.com/dEM3E2c.jpeg"
+    },
+    {
+      "name": "House Flipper Home Design Hack",
+      "bundleIdentifier": "com.iosgods.houseflipperhomedesignhack",
+      "developerName": "iOSGods",
+      "version": "1.620",
+      "versionDate": "2026-02-03T16:14:51.000Z",
+      "size": 429890045,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/HouseFlipper.ipa",
+      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\" style=\"\">iOSGods</a></span></div><div class=\"\"><br></div><div class=\"\"><b>Hack Features:&nbsp;</b></div><div class=\"\"><ul><li>Unlimited Cash: Exchange Flipcoins for Cash to earn an unlimited amount.&nbsp;</li><li class=\"\"><span class=\"\">Unlimited Flipcoins: Exchange Flipcoins for Cash to earn an unlimited amount.</span></li></ul></div><div class=\"\"><br></div>Have you ever dreamed about running your own renovation company?<div><br></div><div>House Flipper is the best free one-man makeover crew on the market. Become an interior designer and start your very own business. Carry out orders, renovate, decorate houses, and sell them with profit afterwards! Get new skins for your tools.</div><div><br></div><div>Main features waiting for you:</div><div><br></div><div>- awesome, realistic 3D graphics</div><div><br></div><div>- smooth intuitive gameplay (60 FPS gameplay)</div><div><br></div><div>- different interesting tasks</div><div><br></div><div>- buying, renovating and selling houses as well as interior decoration.</div><div><br></div><div>- Over 500 decoration items to unlock</div><div><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1272/HouseFlipper_icon.jpeg"
     },
     {
       "name": "iDOS",
@@ -3041,213 +3084,13 @@
       "subtitle": "Linux shell for iOS",
       "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
       "screenshotURLs": [
-        "https://ish.app/assets/front-iphone-full.png",
-        "https://user-images.githubusercontent.com/64176728/216813647-1f660131-b5fe-4951-b46b-44fcfad0c2f2.png"
+        "https://ish.app/assets/front-iphone-full.png"
       ],
-      "version": "1.3.2",
-      "versionDate": "2023-04-23T04:37:22+00:00",
-      "versionDescription": "New stuff:\r\n- iSH now supports custom themes\r\n- Preferences are now exposed via procfs\r\n- Some more app icon choices\r\n- Hyperlinks created by OSC 8 are underlined instead of invisible\r\n\r\nFixed bugs:\r\n- Forward SO_RCVTIMEO, SO_SNDTIMEO in setsockopts to support snac\r\n- Add about four dozen SIMD instructions to improve support for nodejs and Rust\r\n- Fix bottom keyboard inset for iPad, Stage Manager, and devices with no home button\r\n- Implement /proc/pid/task to fix recent versions of GDB\r\n- Fix VoiceOver focus stealing keyboard focus on iOS 15+\r\n- Resolve an issue with xadd causing git clones to hang\r\n- Trigger segfault on unaligned cmpxchg8b, which iSH does not support\r\n- Fix a race condition that causes some output to be lost\r\n- Fix toolbar button sizing",
-      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/494/iSH.ipa",
-      "size": 4183791,
-      "versions": [
-        {
-          "version": "1.3.2",
-          "date": "2023-04-23T04:37:22+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/494/iSH.ipa",
-          "localizedDescription": "New stuff:\r\n- iSH now supports custom themes\r\n- Preferences are now exposed via procfs\r\n- Some more app icon choices\r\n- Hyperlinks created by OSC 8 are underlined instead of invisible\r\n\r\nFixed bugs:\r\n- Forward SO_RCVTIMEO, SO_SNDTIMEO in setsockopts to support snac\r\n- Add about four dozen SIMD instructions to improve support for nodejs and Rust\r\n- Fix bottom keyboard inset for iPad, Stage Manager, and devices with no home button\r\n- Implement /proc/pid/task to fix recent versions of GDB\r\n- Fix VoiceOver focus stealing keyboard focus on iOS 15+\r\n- Resolve an issue with xadd causing git clones to hang\r\n- Trigger segfault on unaligned cmpxchg8b, which iSH does not support\r\n- Fix a race condition that causes some output to be lost\r\n- Fix toolbar button sizing",
-          "size": 4183791
-        },
-        {
-          "version": "Build 484",
-          "date": "2023-04-23T10:05:03+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/484/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4225426
-        },
-        {
-          "version": "Build 483",
-          "date": "2023-04-23T06:07:57+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/483/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4225981
-        },
-        {
-          "version": "Build 482",
-          "date": "2023-04-23T04:37:22+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/482/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183791
-        },
-        {
-          "version": "Build 481",
-          "date": "2023-04-22T06:08:01+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/481/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183616
-        },
-        {
-          "version": "Build 480",
-          "date": "2023-04-21T06:08:02+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/480/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183618
-        },
-        {
-          "version": "Build 479",
-          "date": "2023-04-19T06:08:28+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/479/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183615
-        },
-        {
-          "version": "Build 478",
-          "date": "2023-04-14T06:08:22+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/478/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183062
-        },
-        {
-          "version": "Build 477",
-          "date": "2023-04-10T06:09:44+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/477/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183084
-        },
-        {
-          "version": "Build 476",
-          "date": "2023-04-07T06:08:10+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/476/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183193
-        },
-        {
-          "version": "Build 475",
-          "date": "2023-04-06T06:07:21+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/475/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183183
-        },
-        {
-          "version": "Build 474",
-          "date": "2023-04-01T06:07:15+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/474/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183196
-        },
-        {
-          "version": "Build 473",
-          "date": "2023-03-31T06:07:35+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/473/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183189
-        },
-        {
-          "version": "Build 472",
-          "date": "2023-03-30T06:07:34+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/472/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183201
-        },
-        {
-          "version": "Build 471",
-          "date": "2023-03-29T06:07:32+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/471/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183199
-        },
-        {
-          "version": "Build 470",
-          "date": "2023-03-27T06:07:58+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/470/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183201
-        },
-        {
-          "version": "Build 469",
-          "date": "2023-03-26T06:06:51+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/469/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183205
-        },
-        {
-          "version": "Build 468",
-          "date": "2023-03-25T06:07:28+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/468/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183183
-        },
-        {
-          "version": "Build 467",
-          "date": "2023-03-24T06:10:23+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/467/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183196
-        },
-        {
-          "version": "Build 466",
-          "date": "2023-03-23T06:07:10+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/466/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183189
-        },
-        {
-          "version": "Build 465",
-          "date": "2023-03-18T06:07:18+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/465/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183185
-        },
-        {
-          "version": "Build 454",
-          "date": "2023-02-16T06:07:30+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/454/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183985
-        },
-        {
-          "version": "Build 452",
-          "date": "2023-02-14T06:07:48+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/452/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4183981
-        },
-        {
-          "version": "Build 451",
-          "date": "2023-02-12T06:07:00+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/451/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177809
-        },
-        {
-          "version": "Build 450",
-          "date": "2023-02-11T06:06:55+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/450/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177826
-        },
-        {
-          "version": "Build 449",
-          "date": "2023-02-10T06:27:51+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/449/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177822
-        },
-        {
-          "version": "Build 448",
-          "date": "2023-02-08T06:25:45+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/448/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177813
-        },
-        {
-          "version": "Build 447",
-          "date": "2023-02-03T06:07:41+00:00",
-          "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/447/iSH.ipa",
-          "localizedDescription": "Automated daily build",
-          "size": 4177818
-        }
-      ],
-      "appID": "app.ish.iSH"
+      "version": "Build 805",
+      "versionDate": "2026-01-13T06:14:37+00:00",
+      "versionDescription": "Automated daily build",
+      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/805/iSH.ipa",
+      "size": 4603468
     },
     {
       "name": "iTorrent",
@@ -4230,9 +4073,20 @@
       "bundleIdentifier": "org.provenance-emu.provenance",
       "developerName": "Joe Mattiello",
       "subtitle": "Multi-emulator frontend for iOS & tvOS",
-      "localizedDescription": "Provenance is a multi-system emulator frontend for a plethora of retro gaming systems. You can keep all your games in one place, display them with cover art, and play to your heart's content.\n\nSystems Supported:\n\n\u2022 Atari\n  - 2600\n  - 5200\n  - 7800\n  - Lynx\n  - Jaguar\n\u2022 Bandai\n  - WonderSwan / WonderSwan Color\n\u2022 NEC\n  - PC Engine / TurboGrafx-16 (PCE/TG16)\n  - PC Engine Super CD-ROM\u00b2 System / TurboGrafx-CD\n  - PC Engine SuperGrafx\n  - PC-FX\n\u2022 Nintendo\n  - Nintendo Entertainment System / Famicom (NES/FC)\n  - Famicom Disk System\n  - Super Nintendo Entertainment System / Super Famicom (SNES/SFC)\n  - Game Boy / Game Boy Color (GB/GBC)\n  - Virtual Boy\n  - Game Boy Advance (GBA)\n  - Pok\u00e9mon mini\n\u2022 Sega\n  - SG-1000\n  - Master System\n  - Genesis / Mega Drive\n  - Game Gear\n  - CD / MegaCD\n  - 32X\n\u2022 SNK\n  - Neo Geo Pocket / Neo Geo Pocket Color\n\u2022 Sony\n  - PlayStation (PSX/PS1)",
+      "version": "2.2.1",
+      "versionDate": "2022-12-30T00:01:00-05:00",
+      "versionDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
+      "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
+      "localizedDescription": "Multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
       "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
-      "tintColor": "#1c7cf3",
+      "tintColor": "#162434",
+      "size": 77010038,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Provenance to use images from your Photo Library as game artwork."
+        }
+      ],
       "screenshotURLs": [
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2306.jpg",
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2307.jpg",
@@ -4241,39 +4095,7 @@
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2310.jpg",
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
-      ],
-      "versions": [
-        {
-          "version": "2.2.1",
-          "date": "2022-12-30T00:01:00-05:00",
-          "localizedDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
-          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
-          "size": 77010038,
-          "sha256": "48b834e58724a07b16a8f951ff8983c6ca7088f85d5f480c3dfe04530c915f9c"
-        },
-        {
-          "version": "2.2.1.beta.1",
-          "date": "2022-12-30T00:01:00-05:00",
-          "localizedDescription": "Pre-release of Play!, Dolphin and PPSSPP. JIT Required or cores will crash.",
-          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.1.beta1/Provenance.ipa",
-          "size": 33978209
-        },
-        {
-          "version": "2.2.0",
-          "date": "2022-12-09T00:01:00-05:00",
-          "localizedDescription": "Many bug fixes, SwiftUI additions, new cores, new features and more. See GitHub changelog for more info.",
-          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.2.0/Provenance.ipa",
-          "size": 33978209
-        },
-        {
-          "version": "2.1.1",
-          "date": "2022-06-15T12:00:00-05:00",
-          "localizedDescription": "PSX controller fixes, fceux update, SwiftUI updates.",
-          "downloadURL": "https://provenance-builds.s3-us-east-2.amazonaws.com/apps/2.1.1/Provenance-iOS.ipa",
-          "size": 36120321
-        }
-      ],
-      "appID": "org.provenance-emu.provenance"
+      ]
     },
     {
       "name": "Ready",
@@ -4532,6 +4354,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1313/ShadowFight3_icon.png"
     },
     {
+      "name": "SHRED: Gym and Home Workouts",
+      "bundleIdentifier": "com.blatant.shredgymandhomeworkouts",
+      "developerName": "Blatant",
+      "version": "5.3.8",
+      "versionDate": "2026-02-04T09:25:53.000Z",
+      "size": 147857803,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Shred.ipa",
+      "localizedDescription": "<h3>No more guessing what to do next. SHRED\u2019s AI-powered coaching gives you the structure, motivation, and personalization you need to reach your goals\u2014lose weight, get stronger, or stay consistent. Every plan adapts to your progress and equipment, so you always know you\u2019re training the right way for you. Your goals. Your coach. Your results.</h3><div class=\"\"><br><div class=\"\">From day one, SHRED builds your plan around how you move and what you want to achieve. As you train, SHRED\u2019s AI learns your patterns\u2014how hard you push, how you recover, and when to advance or pull back. It automatically adjusts reps, sets, rest, and intensity to match your evolving strength and stamina. Gym or home, beginner or advanced\u2014SHRED scales with you and keeps every workout challenging, efficient, and results-driven.\r</div><div class=\"\"><br></div><div class=\"\"><b>PROGRAMS ENGINEERED FOR REAL RESULTS\r</b></div><div class=\"\">Explore expertly designed training paths in hypertrophy, powerlifting, strength, bodyweight, or sculpting. Every program is crafted by real coaches and refined by data from millions of workouts. Whether you\u2019re chasing size, strength, or definition, SHRED\u2019s system combines proven structure with adaptive progression so you keep improving week after week.\r</div><div class=\"\"><br></div><div class=\"\"><b>YOUR EQUIPMENT, OPTIMIZED\r</b></div><div>Have dumbbells, a rack, bands, kettlebells\u2014or nothing at all? SHRED automatically adapts to your setup so you get the perfect workout wherever you train. Update your available gear anytime, and your workouts will instantly reconfigure to match your environment.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/i3REdNU.jpeg"
+    },
+    {
       "name": "Sileo Demo",
       "bundleIdentifier": "org.coolstar.SileoDemo",
       "developerName": "Sileo Team",
@@ -4550,6 +4383,17 @@
         "https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
         "https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
       ]
+    },
+    {
+      "name": "Six Pack in 30 Days",
+      "bundleIdentifier": "com.sixpack.sixpackin30days",
+      "developerName": "Six Pack",
+      "version": "1.45.0",
+      "versionDate": "2026-01-29T13:17:51.000Z",
+      "size": 416684600,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/sixpack.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Want to lose belly fat and get six pack abs for the summer? Start sculpting your abs with this super effective abs workout app. Workouts are suitable for all levels, and you can easily do them at home or anywhere, anytime. Just a few minutes a day to get the sexy abs you have been dreaming of!\r<div>\r</div><div>\r</div><div>Workout Plan with Different Levels\r</div><div>Lose Belly Fat, Rock Hard Abs and Six Pack Abs - these 3 levels of workout plans help you lose belly fat and build abdominal muscles step by step. Whether you are a beginner or a pro, you can find workouts that are suitable for you. Different exercises are prepared every day to keep it fresh and exciting.</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1365/sixpack_icon.png"
     },
     {
       "name": "Snapchat++",
@@ -5131,6 +4975,17 @@
       "appID": "com.streamer.ios"
     },
     {
+      "name": "Subway Surfers Hack",
+      "bundleIdentifier": "com.iosgods.subwaysurfershack",
+      "developerName": "iOSGods",
+      "version": "3.58.2",
+      "versionDate": "2026-01-29T13:35:58.000Z",
+      "size": 142964570,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/subway.ipa",
+      "localizedDescription": "<p class=\"\"><span class=\"\"><i style=\"\">Required registration on <a href=\"iosgods.com\">iOSGods</a></i></span></p><p class=\"\"><strong class=\"\">Hack Features:<br></strong></p><p class=\"\"><span class=\"\">- Free Store (not Free iAP)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free iAP (ViP Only)<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock Characters Outfit<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Custom Jump Height<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- No Clip (To end level swipe to left til you get dizzy, swipe again and you will lose)</span></p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/825/subway_icon.jpeg"
+    },
+    {
       "name": "Tachimanga - Full-featured manga reader",
       "bundleIdentifier": "com.blatant.tachimangafullfeaturedmangareader",
       "developerName": "Blatant",
@@ -5521,6 +5376,34 @@
       ]
     },
     {
+      "name": "UTM -1",
+      "bundleIdentifier": "com.utmapp.UTM-1",
+      "developerName": "osy",
+      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\nThis version requires using AltJIT. Install UTM SE for slower emulation without JIT.\n\n\nMore information at https://getutm.app/\n\nFeatures:\n\n\u2022 Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n\u2022 Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n\u2022 Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n\u2022 High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n\u2022 Free and Open Source\nUTM and its dependencies are all free and open source\n\u2022 Easy to Use\nConfigure and customize your VM in a native UI",
+      "iconURL": "https://alt.getutm.app/icon.png",
+      "versions": [
+        {
+          "version": "4.7.5",
+          "date": "2026-01-03T17:51:54Z",
+          "localizedDescription": "## Highlights\r\n* **QEMU v10.0.2**: The backend has been updated to the latest upstream QEMU which brings with it a variety of bug fixes and performance improvements.\r\n* **Liquid Glass**: UTM adopts the Liquid Glass design on *OS 26.\r\n* **App Intents**: New support for automation with Shortcuts.\r\n* **Keyboard Shortcuts**: Define custom key combinations (such as Ctrl+Alt+Del) that can be sent to the VM from the new Keyboard menu.\r\n* **Improved Wizard**: Simplify the creation of emulated machines by selecting from a list of well-supported configurations. The updated wizard can create more working configurations such as RISC-V64 Ubuntu, classic Mac OS 8.x/9.x, and Windows 95/98.\r\n\r\n## Changes (v4.7.5)\r\n* Fixed some rare conditions that could lead to a VM fail to start and spin infinitely\r\n* Fixed some rare crashes that can happen after a VM stops\r\n* Fixed parsing of file paths with commas in the name (thanks @nikolan123)\r\n* ANGLE: Fixed a memory leak issue in the GLES backend (#7546) (thanks @cnnn)\r\n* ANGLE: Fixed a memory leak issue in the Metal backend (#4958)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (macOS) Fixed App Intents on macOS 26 (#7412) (thanks @peterneutron)\r\n* (macOS) Fixed an error when file locking is disabled and a removable drive with no image selected is started (#7527)\r\n* (macOS) AVF: Fixed shared directory disconnecting when window is resized (#7488) (thanks @evan314159)\r\n* Hotfix: (1/3/25) An earlier release of v4.7.5 has an issue that prevented VMs from starting. Make sure you are on build 118.\r\n\r\n## Changes (v4.7.4)\r\n* (macOS) Fixed a crash on VM start when a toolbar menu was reinitialized (note v4.7.4 was re-released to address this) (#7408)\r\n* Home: Fixed layout issue with button titles\r\n* (macOS) Fixed a crash when VM exits while USB is active\r\n* (iOS) Support for StikDebug on iOS 26 (non-SE only)\r\n\r\n## Changes (v4.7.3)\r\n* Fixed a crash when starting a VM results in a block device error\r\n* Stop button can now be used a second time to force kill a VM if it is unresponsive after stopping for the first time\r\n* libusb: Fixed multiple race conditions that caused crashes when using USB capture\r\n* CocoaSpice: Fixed multiple race conditions that caused crashes during VM start\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (macOS) Scripting: Fixed broken commands due to name collision (#7360)\r\n* (macOS) Fixed crash when exiting full screen (#7377)\r\n\r\n## Changes (v4.7.2)\r\n* (macOS) AVF: Fixed a crash when starting any Apple Virtualization VM (#7355) (We are re-releasing v4.7.2 with build 112 due to this critical bug.)\r\n* Home: Display network details and active IP addresses on the home details screen (thanks @gabefair)\r\n* Home: Show a security warning message when importing a .utm with custom arguments (#6252)\r\n* Config: Option to reset UEFI without pre-loading Secure Boot keys (useful for custom TPM configurations) (#7005)\r\n* Config: Pre-loading Secure Boot keys will now install Microsoft UEFI 2023 certificates (#7257)\r\n* Config: When PS/2 device is enabled, no longer create USB mouse and keyboard devices. This allows older Windows install to work out of the box.\r\n* Config: Quotes in custom arguments are no longer stripped (unless the only quotes wrap the entire argument) (#6343)\r\n* Config: Provide a fixed serial number for VirtIO block devices (#7332)\r\n* QEMU: Fixed an issue which causes Windows 98 to BSoD (#7342)\r\n* QEMU: Do not create a default floppy drive when -nodefaults is used. UTM configuration will set up a FDC device and this is the only way to set up bootindex for floppy.\r\n* Wizard: Legacy Windows configurations will now use PS/2 controller by default\r\n* Wizard: Update OS logos to be consistent with other icons\r\n* Wizard: Windows + i440fx hardware will now instantiate default devices (sound, VGA, networking) that should work with Windows 95/98\r\n* Wizard: Add additional supported hardware configurations for running older Windows\r\n* Wizard: Support floppy boot for Windows configuration\r\n* Scripting: New input automation suite for sending keyboard and mouse input (#6462)\r\n* USB: Fixed a rare crash when initializing the USB devices list (#5811)\r\n* SPICE: Fixed an issue where monitor configuration sent to spice-vdagent contains an invalid size (#5832)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (iOS) Toolbar: Fix foreground issue on iOS 26 beta 5 and higher\r\n* (macOS) Added ability to auto-connect USB devices on start (#3400)\r\n* (macOS) Fixed connecting USB devices from secondary windows\r\n* (macOS) New \"Virtual Machine\" menu which mirrors the actions accessible through the toolbar\r\n* (macOS) Keyboard Shortcuts toolbar icon is no longer shown by default (it can be placed on the toolbar through View -> Customize Toolbar). It is also accessible through the \"Virtual Machine\" menu.\r\n* (macOS) Fixed sending simultaneous mouse button presses (#7068)\r\n* (macOS) utmctl: Add `version` command to detect current UTM version\r\n* (macOS) Settings: New option to disable key swapping on ISO keyboards (#6976)\r\n* (macOS) Settings: New option to randomize network MAC addresses on clone (#7035)\r\n\r\n## Changes (v4.7.1)\r\n* New Liquid Glass icon thanks to @forcequitOS\r\n* Added App Intents for VM operations (#6245)\r\n* Added UEFI boot support for RISC-V64 and LoongArch64. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* QEMU PPC: Disable `bootindex` when `boot-device` is used in prom-env. This allows Yellow Dog Linux for PPC to work out of the box. (#6436)\r\n* QEMU x86_64: Fixed floppy boot order configuration for other PC models (isapc, i440fx) (#7166)\r\n* QEMU PPC/M68K: Includes classicvirtio drivers to support cursor input without capture and directory sharing (#6520)\r\n* QEMU M68K: Fixed virtio drive config (#7008)\r\n* Fixed a rare crash after stopping VM due to a race condition in libusb\r\n* Home: improve screenshot contrast in Dark Mode (#6894)\r\n* Config: Fixed a crash when trying to enter a large size value when creating a new drive (#7295)\r\n* Config: Corrected the default host IP address in port forwarding config to \"0.0.0.0\" when it incorrectly displayed \"127.0.0.1\" (#7132)\r\n* Keyboard Shortcuts: Create custom combinations of keyboard shortcuts from either Settings -> Input or via the Keyboard icon in the VM (press and hold on iOS/visionOS). This will allow you to easily send key commands such as Ctrl+Alt+Del or Stop+A to the VM. (#5698, #6310, #6757)\r\n* Wizard: New option to import an existing drive image when setting up a Linux VM. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* Wizard: New option to create a serial port only Linux VM. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* Wizard: Removed VHDX import option because Microsoft now provides ARM64 ISO images. Note: You can still create manually import an VHDX after creating a new VM.\r\n* Wizard: New template to create classic Mac OS VMs for M68K and PPC (#3504, #6890)\r\n* Wizard: Most common and supported machines for emulation are now listed prominently with the full list of supported QEMU architectures/targets hidden behind an \"Expert\" mode. This is necessary because most of the QEMU targets are not properly supported by the wizard anyways and does not generate a bootable config. They usually require a lot more manual tinkering. The page order of the wizard is also tweaked so the hardware config comes before the boot config now.\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (iOS SE) Fixed a crash when launching ArchLinux due to mis-handling of REV32\r\n* (iOS SE) Fixed a crash when the first instruction executed is a goto\r\n* (iOS SE) Removed ARM32, RISC-V32, and added M68K. There is little use for ARM32 and RISC-V32 as they cannot boot anything useful that cannot also be booted by the 64-bit variant (which is still included). If you have a counter example of this, please open an issue on GitHub and we can consider re-adding it back in the future. However, removing these will make the app size a lot smaller. M68K is added to support classic Mac OS.\r\n* (macOS 11) Fixed guest tools mounting (#7297)\r\n* (macOS 11) Fixed stop button not working (#7298)\r\n* (macOS) Fixed a bug where an error message on startup leads to the window being stuck (#7161)\r\n* (macOS) Settings: New setting to disable file locking so VMs can be launched from a network share or a filesystem that does not support locking (#7211)\r\n* (macOS) Settings: New setting to disable screenshots completely for privacy reasons (#6620)\r\n* (macOS) Settings: New setting to swap Ctrl and Cmd keys in VMs (#4003)\r\n* (macOS 26) Settings: Brand new layout with a sidebar to match other native apps\r\n* (macOS) AVF: Added clearer message when trying to install macOS beta without having the latest beta support tools installed\r\n* (macOS) AVF: New option to resize (expand) disk images (#6891)\r\n* (macOS 26) Fixed a layout issue with the resize image popover\r\n* (macOS) Home: Fixed hide sidebar button\r\n* (macOS) Config: Show localized network adapter names when available (#7287) (thanks @Schamper)\r\n* (macOS) Scripting: Fixed an issue where wrong UUIDs were generated for display configs (#7145)\r\n\r\n## Changes (v4.7.0)\r\n* Updated to QEMU v10.0.2\r\n* Config: In the RAM slider, the maximum value has been increased to 64GiB (note that you can always go above the slider limit by typing in the text box) (#7234)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* Wizard: Fixed crash when VM name is empty (#7245)\r\n* (iOS) Toolbar: Refactored toolbar button layout code\r\n* (macOS) Host only networks: you can set up multiple host-only networks (including ones shared by VMware) and have multiple VMs on the same virtual network (thanks @Schamper)\r\n* (macOS) utmctl: added option to boot Apple VMs into recovery mode (thanks @cees-elzinga)\r\n* (macOS) ~~Enable QEMU support for vmapple (#7150)~~ Machine model is removed for stability reasons but `apple-gfx-pci` is still supported for Intel VMs\r\n* (macOS) Rename the main window to 'UTM Library' (#7264)\r\n* (macOS) Display an error when IPSW install fails to load the file (instead of crashing) (#6855)\r\n* (macOS) Settings: Fixed a layout issue (#7117)\r\n* (macOS) Apple Virtualization: Add support for ASIF drive images. On macOS 26, ASIF drives will be created by default.\r\n\r\n## Issues\r\nPlease check the full list on [Github](https://github.com/utmapp/UTM/issues) and help report any bug you find that is not listed.\r\n\r\n## Installation\r\n\r\n* [iOS](https://docs.getutm.app/installation/ios/)\r\n* [macOS](https://docs.getutm.app/installation/macos/)\r\n\r\n| File | Description | Installation | JIT | Hypervisor | USB |\r\n|------|------------|--------------|-----|-----------|-----|\r\n| UTM.deb | Jailbroken iOS version | Open in Cydia, dpkg, or Sileo | Yes | Yes(1) | Yes |\r\n| UTM.dmg | macOS version | Mounting and copying UTM.app to /Applications | Yes | Yes | Yes |\r\n| UTM.ipa | Non-jailbroken iOS version (sideloading) | AltStore, etc (see guide) | Yes(2) | No | No |\r\n| UTM-HV.ipa | Non-jailbroken iOS version (TrollStore) | TrollStore | Yes | Yes(1) | Yes |\r\n| UTM-SE.ipa | Non-jailbroken iOS version (sideloading) | AltStore, enterprise signing, etc | No | No | No |\r\n| UTM-Remote.ipa | Remote client | Any | No | No | No |\r\n\r\n1. Hypervisor on iOS requires an M1 iPad or newer.\r\n2. Enabling JIT may require a separate JIT enabler such as [Jitterbug][2] or Jitstreamer.\r\n\r\n[1]: https://getutm.app/install/\r\n[2]: https://github.com/osy/Jitterbug",
+          "minOSVersion": "14.0",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
+          "size": 130058389
+        }
+      ],
+      "subtitle": "Virtual machines for iOS (with JIT support)",
+      "tintColor": "#1a2cc2",
+      "screenshotURLs": [
+        "https://alt.getutm.app/screen0.png",
+        "https://alt.getutm.app/screen1.png",
+        "https://alt.getutm.app/screen2.png",
+        "https://alt.getutm.app/screen3.png",
+        "https://alt.getutm.app/screen4.png",
+        "https://alt.getutm.app/screen5.png",
+        "https://alt.getutm.app/screen6.png"
+      ]
+    },
+    {
       "name": "UTM SE",
       "bundleIdentifier": "com.utmapp.UTM-SE",
       "developerName": "osy",
@@ -5633,6 +5516,34 @@
         ]
       },
       "appID": "com.utmapp.UTM-SE"
+    },
+    {
+      "name": "UTM SE -1",
+      "bundleIdentifier": "com.utmapp.UTM-SE-1",
+      "developerName": "osy",
+      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\nThis version runs on all iOS 14+ devices but lacks JIT support and is slower than regular UTM.\n\n\nMore information at https://getutm.app/\n\nFeatures:\n\n\u2022 Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n\u2022 Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n\u2022 Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n\u2022 High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n\u2022 Free and Open Source\nUTM and its dependencies are all free and open source\n\u2022 Easy to Use\nConfigure and customize your VM in a native UI",
+      "iconURL": "https://alt.getutm.app/icon.png",
+      "versions": [
+        {
+          "version": "4.7.5",
+          "date": "2026-01-03T17:51:54Z",
+          "localizedDescription": "## Highlights\r\n* **QEMU v10.0.2**: The backend has been updated to the latest upstream QEMU which brings with it a variety of bug fixes and performance improvements.\r\n* **Liquid Glass**: UTM adopts the Liquid Glass design on *OS 26.\r\n* **App Intents**: New support for automation with Shortcuts.\r\n* **Keyboard Shortcuts**: Define custom key combinations (such as Ctrl+Alt+Del) that can be sent to the VM from the new Keyboard menu.\r\n* **Improved Wizard**: Simplify the creation of emulated machines by selecting from a list of well-supported configurations. The updated wizard can create more working configurations such as RISC-V64 Ubuntu, classic Mac OS 8.x/9.x, and Windows 95/98.\r\n\r\n## Changes (v4.7.5)\r\n* Fixed some rare conditions that could lead to a VM fail to start and spin infinitely\r\n* Fixed some rare crashes that can happen after a VM stops\r\n* Fixed parsing of file paths with commas in the name (thanks @nikolan123)\r\n* ANGLE: Fixed a memory leak issue in the GLES backend (#7546) (thanks @cnnn)\r\n* ANGLE: Fixed a memory leak issue in the Metal backend (#4958)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (macOS) Fixed App Intents on macOS 26 (#7412) (thanks @peterneutron)\r\n* (macOS) Fixed an error when file locking is disabled and a removable drive with no image selected is started (#7527)\r\n* (macOS) AVF: Fixed shared directory disconnecting when window is resized (#7488) (thanks @evan314159)\r\n* Hotfix: (1/3/25) An earlier release of v4.7.5 has an issue that prevented VMs from starting. Make sure you are on build 118.\r\n\r\n## Changes (v4.7.4)\r\n* (macOS) Fixed a crash on VM start when a toolbar menu was reinitialized (note v4.7.4 was re-released to address this) (#7408)\r\n* Home: Fixed layout issue with button titles\r\n* (macOS) Fixed a crash when VM exits while USB is active\r\n* (iOS) Support for StikDebug on iOS 26 (non-SE only)\r\n\r\n## Changes (v4.7.3)\r\n* Fixed a crash when starting a VM results in a block device error\r\n* Stop button can now be used a second time to force kill a VM if it is unresponsive after stopping for the first time\r\n* libusb: Fixed multiple race conditions that caused crashes when using USB capture\r\n* CocoaSpice: Fixed multiple race conditions that caused crashes during VM start\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (macOS) Scripting: Fixed broken commands due to name collision (#7360)\r\n* (macOS) Fixed crash when exiting full screen (#7377)\r\n\r\n## Changes (v4.7.2)\r\n* (macOS) AVF: Fixed a crash when starting any Apple Virtualization VM (#7355) (We are re-releasing v4.7.2 with build 112 due to this critical bug.)\r\n* Home: Display network details and active IP addresses on the home details screen (thanks @gabefair)\r\n* Home: Show a security warning message when importing a .utm with custom arguments (#6252)\r\n* Config: Option to reset UEFI without pre-loading Secure Boot keys (useful for custom TPM configurations) (#7005)\r\n* Config: Pre-loading Secure Boot keys will now install Microsoft UEFI 2023 certificates (#7257)\r\n* Config: When PS/2 device is enabled, no longer create USB mouse and keyboard devices. This allows older Windows install to work out of the box.\r\n* Config: Quotes in custom arguments are no longer stripped (unless the only quotes wrap the entire argument) (#6343)\r\n* Config: Provide a fixed serial number for VirtIO block devices (#7332)\r\n* QEMU: Fixed an issue which causes Windows 98 to BSoD (#7342)\r\n* QEMU: Do not create a default floppy drive when -nodefaults is used. UTM configuration will set up a FDC device and this is the only way to set up bootindex for floppy.\r\n* Wizard: Legacy Windows configurations will now use PS/2 controller by default\r\n* Wizard: Update OS logos to be consistent with other icons\r\n* Wizard: Windows + i440fx hardware will now instantiate default devices (sound, VGA, networking) that should work with Windows 95/98\r\n* Wizard: Add additional supported hardware configurations for running older Windows\r\n* Wizard: Support floppy boot for Windows configuration\r\n* Scripting: New input automation suite for sending keyboard and mouse input (#6462)\r\n* USB: Fixed a rare crash when initializing the USB devices list (#5811)\r\n* SPICE: Fixed an issue where monitor configuration sent to spice-vdagent contains an invalid size (#5832)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (iOS) Toolbar: Fix foreground issue on iOS 26 beta 5 and higher\r\n* (macOS) Added ability to auto-connect USB devices on start (#3400)\r\n* (macOS) Fixed connecting USB devices from secondary windows\r\n* (macOS) New \"Virtual Machine\" menu which mirrors the actions accessible through the toolbar\r\n* (macOS) Keyboard Shortcuts toolbar icon is no longer shown by default (it can be placed on the toolbar through View -> Customize Toolbar). It is also accessible through the \"Virtual Machine\" menu.\r\n* (macOS) Fixed sending simultaneous mouse button presses (#7068)\r\n* (macOS) utmctl: Add `version` command to detect current UTM version\r\n* (macOS) Settings: New option to disable key swapping on ISO keyboards (#6976)\r\n* (macOS) Settings: New option to randomize network MAC addresses on clone (#7035)\r\n\r\n## Changes (v4.7.1)\r\n* New Liquid Glass icon thanks to @forcequitOS\r\n* Added App Intents for VM operations (#6245)\r\n* Added UEFI boot support for RISC-V64 and LoongArch64. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* QEMU PPC: Disable `bootindex` when `boot-device` is used in prom-env. This allows Yellow Dog Linux for PPC to work out of the box. (#6436)\r\n* QEMU x86_64: Fixed floppy boot order configuration for other PC models (isapc, i440fx) (#7166)\r\n* QEMU PPC/M68K: Includes classicvirtio drivers to support cursor input without capture and directory sharing (#6520)\r\n* QEMU M68K: Fixed virtio drive config (#7008)\r\n* Fixed a rare crash after stopping VM due to a race condition in libusb\r\n* Home: improve screenshot contrast in Dark Mode (#6894)\r\n* Config: Fixed a crash when trying to enter a large size value when creating a new drive (#7295)\r\n* Config: Corrected the default host IP address in port forwarding config to \"0.0.0.0\" when it incorrectly displayed \"127.0.0.1\" (#7132)\r\n* Keyboard Shortcuts: Create custom combinations of keyboard shortcuts from either Settings -> Input or via the Keyboard icon in the VM (press and hold on iOS/visionOS). This will allow you to easily send key commands such as Ctrl+Alt+Del or Stop+A to the VM. (#5698, #6310, #6757)\r\n* Wizard: New option to import an existing drive image when setting up a Linux VM. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* Wizard: New option to create a serial port only Linux VM. This allows Ubuntu for RISC-V64 to work out of the box. (#7183)\r\n* Wizard: Removed VHDX import option because Microsoft now provides ARM64 ISO images. Note: You can still create manually import an VHDX after creating a new VM.\r\n* Wizard: New template to create classic Mac OS VMs for M68K and PPC (#3504, #6890)\r\n* Wizard: Most common and supported machines for emulation are now listed prominently with the full list of supported QEMU architectures/targets hidden behind an \"Expert\" mode. This is necessary because most of the QEMU targets are not properly supported by the wizard anyways and does not generate a bootable config. They usually require a lot more manual tinkering. The page order of the wizard is also tweaked so the hardware config comes before the boot config now.\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* (iOS SE) Fixed a crash when launching ArchLinux due to mis-handling of REV32\r\n* (iOS SE) Fixed a crash when the first instruction executed is a goto\r\n* (iOS SE) Removed ARM32, RISC-V32, and added M68K. There is little use for ARM32 and RISC-V32 as they cannot boot anything useful that cannot also be booted by the 64-bit variant (which is still included). If you have a counter example of this, please open an issue on GitHub and we can consider re-adding it back in the future. However, removing these will make the app size a lot smaller. M68K is added to support classic Mac OS.\r\n* (macOS 11) Fixed guest tools mounting (#7297)\r\n* (macOS 11) Fixed stop button not working (#7298)\r\n* (macOS) Fixed a bug where an error message on startup leads to the window being stuck (#7161)\r\n* (macOS) Settings: New setting to disable file locking so VMs can be launched from a network share or a filesystem that does not support locking (#7211)\r\n* (macOS) Settings: New setting to disable screenshots completely for privacy reasons (#6620)\r\n* (macOS) Settings: New setting to swap Ctrl and Cmd keys in VMs (#4003)\r\n* (macOS 26) Settings: Brand new layout with a sidebar to match other native apps\r\n* (macOS) AVF: Added clearer message when trying to install macOS beta without having the latest beta support tools installed\r\n* (macOS) AVF: New option to resize (expand) disk images (#6891)\r\n* (macOS 26) Fixed a layout issue with the resize image popover\r\n* (macOS) Home: Fixed hide sidebar button\r\n* (macOS) Config: Show localized network adapter names when available (#7287) (thanks @Schamper)\r\n* (macOS) Scripting: Fixed an issue where wrong UUIDs were generated for display configs (#7145)\r\n\r\n## Changes (v4.7.0)\r\n* Updated to QEMU v10.0.2\r\n* Config: In the RAM slider, the maximum value has been increased to 64GiB (note that you can always go above the slider limit by typing in the text box) (#7234)\r\n* Localization: Updated Chinese (Hong Kong, Simplified) (thanks @changanmoon)\r\n* Wizard: Fixed crash when VM name is empty (#7245)\r\n* (iOS) Toolbar: Refactored toolbar button layout code\r\n* (macOS) Host only networks: you can set up multiple host-only networks (including ones shared by VMware) and have multiple VMs on the same virtual network (thanks @Schamper)\r\n* (macOS) utmctl: added option to boot Apple VMs into recovery mode (thanks @cees-elzinga)\r\n* (macOS) ~~Enable QEMU support for vmapple (#7150)~~ Machine model is removed for stability reasons but `apple-gfx-pci` is still supported for Intel VMs\r\n* (macOS) Rename the main window to 'UTM Library' (#7264)\r\n* (macOS) Display an error when IPSW install fails to load the file (instead of crashing) (#6855)\r\n* (macOS) Settings: Fixed a layout issue (#7117)\r\n* (macOS) Apple Virtualization: Add support for ASIF drive images. On macOS 26, ASIF drives will be created by default.\r\n\r\n## Issues\r\nPlease check the full list on [Github](https://github.com/utmapp/UTM/issues) and help report any bug you find that is not listed.\r\n\r\n## Installation\r\n\r\n* [iOS](https://docs.getutm.app/installation/ios/)\r\n* [macOS](https://docs.getutm.app/installation/macos/)\r\n\r\n| File | Description | Installation | JIT | Hypervisor | USB |\r\n|------|------------|--------------|-----|-----------|-----|\r\n| UTM.deb | Jailbroken iOS version | Open in Cydia, dpkg, or Sileo | Yes | Yes(1) | Yes |\r\n| UTM.dmg | macOS version | Mounting and copying UTM.app to /Applications | Yes | Yes | Yes |\r\n| UTM.ipa | Non-jailbroken iOS version (sideloading) | AltStore, etc (see guide) | Yes(2) | No | No |\r\n| UTM-HV.ipa | Non-jailbroken iOS version (TrollStore) | TrollStore | Yes | Yes(1) | Yes |\r\n| UTM-SE.ipa | Non-jailbroken iOS version (sideloading) | AltStore, enterprise signing, etc | No | No | No |\r\n| UTM-Remote.ipa | Remote client | Any | No | No | No |\r\n\r\n1. Hypervisor on iOS requires an M1 iPad or newer.\r\n2. Enabling JIT may require a separate JIT enabler such as [Jitterbug][2] or Jitstreamer.\r\n\r\n[1]: https://getutm.app/install/\r\n[2]: https://github.com/osy/Jitterbug",
+          "minOSVersion": "14.0",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM-SE.ipa",
+          "size": 213878374
+        }
+      ],
+      "subtitle": "Virtual machines for iOS (without JIT support)",
+      "tintColor": "#1a2cc2",
+      "screenshotURLs": [
+        "https://alt.getutm.app/screen0.png",
+        "https://alt.getutm.app/screen1.png",
+        "https://alt.getutm.app/screen2.png",
+        "https://alt.getutm.app/screen3.png",
+        "https://alt.getutm.app/screen4.png",
+        "https://alt.getutm.app/screen5.png",
+        "https://alt.getutm.app/screen6.png"
+      ]
     },
     {
       "beta": false,
