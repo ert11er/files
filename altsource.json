@@ -89,17 +89,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1460/AICalorieTracker_icon.png"
     },
     {
-      "name": "AltMarket",
-      "bundleIdentifier": "com.altmarketteam.altmarket",
-      "developerName": "AltMarket Team",
-      "version": "1.0",
-      "versionDate": "2026-02-04T11:17:14.000Z",
-      "size": 3073771,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AltMarket.ipa",
-      "localizedDescription": "<i>Access bypassing invite codes is open.</i><div class=\"\"><i><br></i></div><div class=\"\"><span class=\"\">Games and software store for different platforms: PC, PS, Xbox, Nintendo.</span></div><div class=\"\"><span class=\"\">Simple and clear interface, instant receipt of paid goods, discounts up to 95% on new game releases, Windows, Microsoft Office, SpooferPro etc.</span></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1385/AltMarket_icon.png"
-    },
-    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -573,17 +562,6 @@
       "beta": false
     },
     {
-      "name": "BH Instagram",
-      "bundleIdentifier": "com.banderhl.bhinstagram",
-      "developerName": "BanderHL",
-      "version": "415.1.0",
-      "versionDate": "2026-02-04T17:16:41.000Z",
-      "size": 250666471,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BHInsta.ipa",
-      "localizedDescription": "<ul><li>Hide Ads\r</li><li>No suggested post\r</li><li>Show Like count\r</li><li>Confirm like\r</li><li>Copy description\r</li><li>Download Videos\r</li><li>Save profile image\r</li><li>Keep deleted message\r</li><li>Remove last seen\r</li><li>Remove screenshot alert\r</li><li>Unlimited replay of once story\r</li><li>Disable Story Seen Receipt\r</li><li>Padlock</li></ul>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1392/BHInsta_icon.png"
-    },
-    {
       "name": "BHTikTok+",
       "bundleIdentifier": "com.ttbetadecryptedxrxtiktok.bhtiktok",
       "developerName": "TTBeta Decrypted x RXTikTok",
@@ -655,17 +633,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
       "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
       "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
-    },
-    {
-      "name": "Captions: For Talking Videos",
-      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
-      "developerName": "Blatant",
-      "version": "13.3.1",
-      "versionDate": "2026-02-03T15:06:16.000Z",
-      "size": 373335088,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
-      "localizedDescription": "<h3 class=\"\"><br></h3><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1300/Captions_icon.png"
     },
     {
       "name": "CARROT Weather",
@@ -830,24 +797,6 @@
         }
       ],
       "appID": "com.channelsapp.channels"
-    },
-    {
-      "bundleIdentifier": "com.electrateam.chimera",
-      "developerName": "Electra Team",
-      "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.4-12.2-12.5.ipa",
-      "iconURL": "https://chimera.coolstar.org/img/icon.png",
-      "localizedDescription": "Jailbreak for all devices, from iOS 12.2 to 12.5.1\n\nNote: Only Nonce setter available on 12.1.2 - 12.3 and 12.4 on A12\nNote: 12.1.3 - 12.5.1 only supported on A7 - A11 devices. All devices supported on 12.0 - 12.1.2\nOn iOS 12 to 12.1.2? Download the IPA from https://chimera.sh instead! (why are you on such an old ios tho)",
-      "name": "Chimera",
-      "screenshotURLs": [
-        "https://chimera.coolstar.org/img/jumbotron.png",
-        "https://i.imgur.com/dpeAFtg.jpg"
-      ],
-      "size": 34432392,
-      "subtitle": "Your device, your way.",
-      "tintColor": "36AEB9",
-      "version": "1.6.4",
-      "versionDate": "2021-09-23T10:00:00-06:00",
-      "versionDescription": "* Adds full support for iOS 12.5.5\n* Updates Sileo to 2.2.3\n* Removes fancy animation background on iPhone 5S / 6, iPad Air 1, iPod touch 6 and iPad mini 2 / 3 to use a more basic background in order to improve exploit success rate"
     },
     {
       "name": "citra",
@@ -3153,24 +3102,6 @@
       ]
     },
     {
-      "bundleIdentifier": "org.xbmc.kodi-ios",
-      "developerName": "Kodi Team",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
-      "iconURL": "https://raw.githubusercontent.com/Randomblock1/randomsource/master/assets/kodi.jpg",
-      "localizedDescription": "Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.",
-      "name": "Kodi",
-      "screenshotURLs": [
-        "https://i.imgur.com/W0S0JaF.jpg",
-        "https://i.imgur.com/KB1juNm.jpg"
-      ],
-      "size": 131097200,
-      "subtitle": "The ultimate entertainment center",
-      "tintColor": "12B2E7",
-      "version": "19.4",
-      "versionDate": "2022-03-05T12:00:00-06:00",
-      "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
-    },
-    {
       "beta": false,
       "name": "LiveContainer (nightly)",
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -3281,17 +3212,6 @@
         }
       ],
       "appID": "com.luma-touch.LumaFusion"
-    },
-    {
-      "name": "MacroFactor - Macro Tracker",
-      "bundleIdentifier": "com.blatant.macrofactormacrotracker",
-      "developerName": "Blatant",
-      "version": "5.7.5",
-      "versionDate": "2026-02-01T17:20:22.000Z",
-      "size": 90984369,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MacroFactor.ipa",
-      "localizedDescription": "<b class=\"\">DIET SMARTER\r</b><div>\r</div><div>Using a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \r</div><div>\u2022 The unique energy expenditure calculation detects changes in your metabolism\r</div><div>\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\r</div><div>\u2022 Weekly check-ins keep you on track toward your goals\r</div><div class=\"\">The result? You better understand your body\u2019s needs and can successfully reach and sustain your goals without stress.\r</div><div class=\"\"><br></div><div class=\"\"><b>THE BEST MACRO TRACKER TOOLS</b></div><div>\u2022 The fastest macro tracker on the market with tools like barcode scan and custom foods\r</div><div>\u2022 Verified food database, so you can trust the accuracy of the foods you log \r</div><div>\u2022 Custom macro programs and weekly check-ins based on your goals and preferences\r</div><div>\u2022 Detailed breakdowns of micronutrients, macros, and more\r</div><div>\u2022 Period tracker, habit tracker, unique data insights and visualization, integrations, dark mode, and more</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1431/MacroFactor_icon.png"
     },
     {
       "name": "MAME4iOS",
@@ -3990,17 +3910,6 @@
       "appID": "eu.pokemmo.client.pts"
     },
     {
-      "name": "Pokemon Sun Moon",
-      "bundleIdentifier": "com.pokemon.pokemonsunmoon",
-      "developerName": "Pokemon ",
-      "version": "5.0.0",
-      "versionDate": "2026-02-04T11:17:38.000Z",
-      "size": 1115933674,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/pokemonSunMoon.ipa",
-      "localizedDescription": "Massive collection of cute pets, innovative gameplay and fun! Log in to \"Pokemon Sun Moon\" now and set sail towards the goal of becoming a top trainer!<div><br><div></div><div></div><div class=\"\"><b>Classic childhood masterpiece</b></div><div class=\"\">Classic plot, classic scene, players are about to become a cute pet trainer, and challenge their cute pet companions on the road to becoming a champion master in the adventure world!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Free capture of divine beasts</b></div><div class=\"\">New joint participation, free capture of divine beasts. 800+ cute pets for you to choose, wild beasts to capture, massive activities and gameplay to help you easily evolve elves!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Real-time PVP competition</b></div><div class=\"\">Real-time competitive gameplay, smooth PVP fair battle! Players compete online and match indiscriminately around the world. Your strength will amaze the world!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">More interesting gameplay</b></div><div>Multiplayer dungeons, world bosses, and Buddhist trainers can also feel full of joy! Experience the peak duel and compete for technical strength!</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1373/pokemonSunMoon_icon.png"
-    },
-    {
       "name": "Pokemon: Echoes of Time",
       "bundleIdentifier": "com.pokelegends.pokemonechoesoftime",
       "developerName": "PokeLegends",
@@ -4214,43 +4123,8 @@
       "appID": "com.libretro.RetroArchiOS11"
     },
     {
-      "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
-      "developerName": "libRetro",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/RetroArch_v1.10.1.ipa",
-      "iconURL": "https://www.libretro.com/wp-content/uploads/2016/01/ic_launcher.png",
-      "localizedDescription": "RetroArch is a frontend for emulators, game engines and media players.\n\nIt enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!",
-      "name": "RetroArch",
-      "screenshotURLs": [
-        "https://i.imgur.com/aDXoWTT.png"
-      ],
-      "size": 421153286,
-      "subtitle": "All-in-One emulator for iOS.",
-      "tintColor": "000000",
-      "version": "1.10.2",
-      "versionDate": "2022-03-06T12:00:00-06:00",
-      "versionDescription": "Updated RetroArch to 1.10.1. View the changelog here: https://www.libretro.com/index.php/retroarch-1-10-1-release/"
-    },
-    {
-      "bundleIdentifier": "com.louisanslow.record",
-      "developerName": "Louis Anslow",
-      "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Rewound.ipa",
-      "iconURL": "https://pbs.twimg.com/profile_images/1185480705205325825/2pSbjkEz_400x400.jpg",
-      "localizedDescription": "Rewound turns your smartphone into your favourite MP3 player from the early 2000s. Access your whole Apple Music library with the swipe of a clickywheel.",
       "name": "Rewound",
-      "screenshotURLs": [
-        "https://i.imgur.com/SCfCAr0.png",
-        "https://i.imgur.com/vPEuaf4.jpg"
-      ],
-      "size": 5628716,
-      "subtitle": "iPod Classic for iPhone",
-      "tintColor": "000000",
-      "version": "2019.7",
-      "versionDate": "2020-03-24T14:00:00-06:00",
-      "versionDescription": "Rewound has been pulled from AppStore. Further updates are unlikely."
-    },
-    {
-      "name": "Rewound -1",
-      "bundleIdentifier": "com.louisanslow.record-1",
+      "bundleIdentifier": "com.louisanslow.record",
       "developerName": "Louis Anslow",
       "subtitle": "Turn your iPhone into an iPod. Classic.",
       "version": "2019.7",
@@ -4283,17 +4157,6 @@
         }
       ],
       "appID": "com.louisanslow.record"
-    },
-    {
-      "name": "Scanner Pro\u30fbScan PDF Documents",
-      "bundleIdentifier": "com.blatant.scannerproscanpdfdocuments",
-      "developerName": "Blatant",
-      "version": "8.33.3",
-      "versionDate": "2026-02-01T18:07:42.000Z",
-      "size": 95586495,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ScannerPro.ipa",
-      "localizedDescription": "<div><div class=\"\"><b>Effortlessly scan, organize, and share documents on the go to have everything you need at your fingertips. Scanner Pro brings you high-quality document scan technology in a convenient and simple mobile app. Scan agreements, receipts, IDs, books, and more using your device to convert them into PDFs in seconds. Safely store and share your documents with anyone in just a few taps with Scanner Pro. \r</b></div><div class=\"\"><br></div><div class=\"\">Experience the simplicity of on-the-go document scanning. Scan travel expenses, convert sketches into PDFs, and even fax important files all from your smartphone. Scanner Pro brings professional scanner capabilities, like OCR and full-text searches to your device. With advanced image processing, Scanner Pro will automatically detect borders, correct perspective and distortions, remove shadows, and more. \r</div><div class=\"\"><br></div><div class=\"\">Introducing QR Code Mode!\r</div><div>Effortlessly scan and decode QR codes directly from your Camera screen. Simply point your device at the code, capture it, and let Scanner Pro do the rest\u2014no extra steps required! It's that easy.\r</div><div>Share, email, and upload your scans anywhere with cloud compatibility.  With Scanner Pro you can share as many scans as you want completely free. Simply send an email, upload to your photos, or use any third-party application to conveniently deliver scanned documents.</div><div> \r</div><div>\r</div><div>\r</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
-      "iconURL": "https://i.imgur.com/fcqV7gd.jpeg"
     },
     {
       "name": "SCRL: Photo Collage Maker",
@@ -4343,17 +4206,6 @@
       "appID": "org.scummvm.scummvm"
     },
     {
-      "name": "Shadow Fight 3",
-      "bundleIdentifier": "com.glesign.shadowfight3",
-      "developerName": "GLESign",
-      "version": "1.44.1",
-      "versionDate": "2026-02-02T14:46:32.000Z",
-      "size": 164015105,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ShadowFight3.ipa",
-      "localizedDescription": "<h3 class=\"\">Hack Features:\n</h3><div class=\"\"><ul><li class=\"\">High Damage&nbsp;</li><li>Freeze Enemies</li></ul></div>Keep your finger on the pulse of innovation! Learn all about the abilities of Raid bosses and how to defeat them!<div><br></div><div>Legend has it that a hero will come to end the fight for shadow energy. He will have to learn three fighting styles, collect the best weapons and challenge the strongest warriors.</div><div><br></div><div>The world is on the edge of an epic war. The mighty force unleashed by the Gates of Shadows many years ago has turned into a weapon, and now three war clans are fighting to decide the future of this force.</div><div><br></div><div>The Legion warriors want to destroy the dangerous energy. The people of the Dynasty want to use it for their own benefit. While the mysterious ninjas of the Heralds clan explore the darkest secrets of the shadow power.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1313/ShadowFight3_icon.png"
-    },
-    {
       "name": "SHRED: Gym and Home Workouts",
       "bundleIdentifier": "com.blatant.shredgymandhomeworkouts",
       "developerName": "Blatant",
@@ -4383,17 +4235,6 @@
         "https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
         "https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
       ]
-    },
-    {
-      "name": "Six Pack in 30 Days",
-      "bundleIdentifier": "com.sixpack.sixpackin30days",
-      "developerName": "Six Pack",
-      "version": "1.45.0",
-      "versionDate": "2026-01-29T13:17:51.000Z",
-      "size": 416684600,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/sixpack.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Want to lose belly fat and get six pack abs for the summer? Start sculpting your abs with this super effective abs workout app. Workouts are suitable for all levels, and you can easily do them at home or anywhere, anytime. Just a few minutes a day to get the sexy abs you have been dreaming of!\r<div>\r</div><div>\r</div><div>Workout Plan with Different Levels\r</div><div>Lose Belly Fat, Rock Hard Abs and Six Pack Abs - these 3 levels of workout plans help you lose belly fat and build abdominal muscles step by step. Whether you are a beginner or a pro, you can find workouts that are suitable for you. Different exercises are prepared every day to keep it fresh and exciting.</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1365/sixpack_icon.png"
     },
     {
       "name": "Snapchat++",
@@ -4986,17 +4827,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/825/subway_icon.jpeg"
     },
     {
-      "name": "Tachimanga - Full-featured manga reader",
-      "bundleIdentifier": "com.blatant.tachimangafullfeaturedmangareader",
-      "developerName": "Blatant",
-      "version": "4.13",
-      "versionDate": "2026-02-01T17:31:50.000Z",
-      "size": 121654068,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Tachimanga.ipa",
-      "localizedDescription": "Discover a new world of manga with Tachimanga.\r<div>- Supports manga in ZIP/CBZ and EPUB formats.\r</div><div>- Supports reading manga from Komga, which is a self-hosted manga server.\r</div><div><br></div>",
-      "iconURL": "https://i.imgur.com/aDABwm7.jpeg"
-    },
-    {
       "name": "Taurine",
       "bundleIdentifier": "org.coolstar.taurine",
       "developerName": "Odyssey Team",
@@ -5146,28 +4976,6 @@
       "beta": false
     },
     {
-      "name": "TIME LOCKER+",
-      "bundleIdentifier": "com.sotarootsuka.timelocker",
-      "developerName": "Sotaro Otsuka",
-      "version": "1.4.1",
-      "versionDate": "2026-02-04T16:36:18.000Z",
-      "size": 19484978,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/TimeLockerPlus.ipa",
-      "localizedDescription": "<b>\"Freezes Time When You Stop Moving\"\r</b><div>You can control the speed of time with only one finger!\r</div><div>Move slowly, and time slows down.\r</div><div>Move quickly, and it speeds up.\r</div><div>But the looming darkness behind you never stops.\r</div><div>You must keep going \u2014 sometimes with calm precision, sometimes with bold aggression.\r</div><div>Time Locker is a minimalist shooter.\r</div><div>Many foes will attack you, including animals, mammoths, soldiers, and even a giant T-Rex.\r</div><div>But you have one great advantage.\r</div><div class=\"\">Control the speed of time and enhance your character and equipment without limit to get a high score.\r</div><div class=\"\"><br></div><div class=\"\"><b>[ Features of the Apple Arcade Version ]\r</b></div><div>- Special characters only available in the Arcade version\r</div><div>- New enemies will appear\r</div><div>- Some weapons have been enhanced\r</div><div>- Redesigned game difficulty&nbsp;</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/4w10PsA.jpeg"
-    },
-    {
-      "name": "Truecaller: Caller ID Lookup ",
-      "bundleIdentifier": "com.blatant.truecallercalleridlookup",
-      "developerName": "Blatant",
-      "version": "26.3.5",
-      "versionDate": "2026-02-01T17:21:21.000Z",
-      "size": 74500784,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/truecaller.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\r</div><div class=\"\"><br></div><div class=\"\">#1 CALLER ID &amp; SPAM BLOCKING APP WORLDWIDE\r</div><div class=\"\"><br></div><div>\u2022 An all new Caller ID experience on iPhone with iOS 18.2 and above\r</div><div>\u2022 Automatically identify spam, fraud, and robocalls before you pick up\r</div><div>\u2022 View &amp; search previously identified calls in the Phone app\r</div><div>\u2022 Take advantage of the best spam call blocker for iPhone\r</div><div>\u2022 Enable spam identification and blocking by accessing Settings &gt; Apps &gt; Phone &gt; Call Blocking &amp; Identification\r</div><div>\u2022 A paid subscription is required to access this feature</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1371/truecaller_icon.png"
-    },
-    {
       "name": "Twitch++",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Michael Lema",
@@ -5196,26 +5004,8 @@
       "appID": "tv.twitch"
     },
     {
-      "name": "Unc0ver",
-      "subtitle": "The most advanced jailbreak tool",
+      "name": "unc0ver",
       "bundleIdentifier": "science.xnu.undecimus",
-      "developerName": "Pwn20wnd",
-      "version": "8.0.2",
-      "versionDate": "2021-12-29T16:00:00-06:00",
-      "versionDescription": "Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8",
-      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-      "localizedDescription": "The most advanced jailbreak tool for iOS 11.0 to iOS 14.3\n\nStable: Utilizing proper and deterministic techniques, jail\u200bbreak stability is guaranteed.\nSecure: Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.\nExtensively Tested: Unc0ver has been extensively tested to ensure it's a seamless experience on all devices.",
-      "iconURL": "https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
-      "tintColor": "000000",
-      "size": 54489484,
-      "screenshotURLs": [
-        "https://i.imgur.com/I3aRpPO.jpg",
-        "https://i.imgur.com/mERBTaF.jpg"
-      ]
-    },
-    {
-      "name": "unc0ver -1",
-      "bundleIdentifier": "science.xnu.undecimus-1",
       "developerName": "Pwn20wnd",
       "subtitle": "The most advanced jailbreak tool.",
       "version": "8.0.2",
