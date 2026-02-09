@@ -4,17 +4,6 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
-      "name": " Kapi Cam - Vintage Camera",
-      "bundleIdentifier": "com.blatant.kapicamvintagecamera",
-      "developerName": "Blatant",
-      "version": "3.36.2",
-      "versionDate": "2026-01-29T13:13:29.000Z",
-      "size": 172519271,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/KapiCam.ipa",
-      "localizedDescription": "KAPI is an application that allows you to shoot DV, CCD, and film. You can use it to record the beautiful moments in life and enjoy the retro-style picture texture and atmosphere.\r<div>\r</div><div>\u2022 Simulates real DV and CCD effects, taking you back to the millennium in one second.\r</div><div>\u2022 Provides a variety of retro-style filters and special effects, allowing you to create different visual effects as you like.\r</div><div>\u2022 Supports real-time preview of effects, allowing you to easily capture your favorite images.\r</div><div>\u2022 Simple and easy-to-use operation interface, making creation at your fingertips.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1454/KapiCam_icon.png"
-    },
-    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -76,6 +65,17 @@
           "absoluteVersion": "2021.9"
         }
       ]
+    },
+    {
+      "name": "Adobe Photoshop: Image Editor",
+      "bundleIdentifier": "com.adobe.adobephotoshopimageeditor",
+      "developerName": "Adobe ",
+      "version": "7.3.3",
+      "versionDate": "2026-02-08T15:15:32.000Z",
+      "size": 281746590,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PhotoshopFull.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Unleash your creative potential with Adobe Photoshop. Whether you're new, curious, or already familiar with Photoshop, we\u2019ve made it easier than ever to learn and grow your creative skills. This advanced mobile image editing application gives you more power and precision to transform any image into something that stands out from the crowd. Create collages, album cover art, perfect your passion projects, and develop unique digital art\u2014all in one place.\r</div><div>Photoshop on mobile includes a wide selection of free features to accomplish the core editing capabilities of the desktop application. Add new objects, refine and perfect your content with targeted adjustments, replace backgrounds, remove unwanted objects, combine multiple images to create high-quality compositions, and explore helpful AI tools powered by Adobe Firefly. There is no limit to what you can create.</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1341/PhotoshopFull_icon.png"
     },
     {
       "name": "Adobe Premiere: Video Editor",
@@ -999,8 +999,8 @@
       "name": "Coconote - AI Note Taker",
       "bundleIdentifier": "com.blatant.coconoteainotetaker",
       "developerName": "Blatant",
-      "version": "2.36",
-      "versionDate": "2026-02-03T15:03:52.000Z",
+      "version": "2.37",
+      "versionDate": "2026-02-08T15:13:47.000Z",
       "size": 32974725,
       "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
@@ -1063,6 +1063,17 @@
         }
       ],
       "appID": "com.crunchyroll.iphone"
+    },
+    {
+      "name": "Darkroom: Photo and Video Editor",
+      "bundleIdentifier": "com.blatant.darkroomphotoandvideoeditor",
+      "developerName": "Blatant",
+      "version": "7.0.23",
+      "versionDate": "2026-02-08T15:14:18.000Z",
+      "size": 159660645,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/darkroom.ipa",
+      "localizedDescription": "Optimize your creative workflow with Darkroom: Photo &amp; Video Editor, now available for macOS. Experience the pinnacle of desktop editing with Darkroom, designed to elevate your photo and video projects with its comprehensive, feature-rich editing suite.<div><br><div></div><div></div><div class=\"\">Dive into a world where AI powers precision editing, offering you the ability to meticulously sculpt your visuals. With advanced depth editing and object recognition, fine-tune the elements of your photos\u2014like skies, hair, and skin\u2014with unmatched accuracy. Darkroom rivals the functionality of industry giants such as Adobe Lightroom and Canva, providing a versatile toolkit for every creative need.\r</div><div class=\"\"><br></div><div>Unleash your creativity with intuitive tools like touch-responsive curves and selective color adjustments, making the editing process smoother and enabling the creation of distinctive presets. Explore the richness of RAW photography with full-resolution support and 16-bit color depth, ensuring every detail, shadow, and highlight is perfectly captured.</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1423/darkroom_icon.png"
     },
     {
       "name": "Deezer++",
@@ -3166,14 +3177,14 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.6.63",
-      "versionDate": "2026-02-06",
-      "versionDescription": "Nightly build from [563d0f4](https://github.com/LiveContainer/LiveContainer/commit/563d0f4): Fix: correct error message when input http url is not ipa (1134)\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21791437274/attempts/1).\n",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Nightly build from [7de4b09](https://github.com/LiveContainer/LiveContainer/commit/7de4b09): should fix 1060\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21796380949/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4500680,
+      "size": 4502846,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3232,16 +3243,16 @@
       "versions": [
         {
           "version": "3.6.63",
-          "date": "2026-02-06",
-          "localizedDescription": "Nightly build from [563d0f4](https://github.com/LiveContainer/LiveContainer/commit/563d0f4): Fix: correct error message when input http url is not ipa (1134)\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21791437274/attempts/1).\n",
+          "date": "2026-02-08",
+          "localizedDescription": "Nightly build from [7de4b09](https://github.com/LiveContainer/LiveContainer/commit/7de4b09): should fix 1060\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21796380949/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4500680,
-          "commit": "563d0f4",
-          "headline": "Fix: correct error message when input http url is not ipa (#1134)"
+          "size": 4502846,
+          "commit": "7de4b09",
+          "headline": "should fix #1060"
         }
       ],
-      "commit": "563d0f4",
-      "headline": "Fix: correct error message when input http url is not ipa (#1134)"
+      "commit": "7de4b09",
+      "headline": "should fix #1060"
     },
     {
       "name": "LumaFusion",
@@ -3325,17 +3336,6 @@
           "absoluteVersion": "2022.3"
         }
       ]
-    },
-    {
-      "name": "Merge Cooking",
-      "bundleIdentifier": "com.mergecooking.mergecooking",
-      "developerName": "Merge Cooking",
-      "version": "1.28.0",
-      "versionDate": "2026-01-29T13:16:56.000Z",
-      "size": 290198480,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MergeCooking.ipa",
-      "localizedDescription": "<h3>In app purchases are free</h3><div><br></div><div><br></div>Do you know you can enjoy the food around the world without traveling?\r<div>\r</div><div>Do you know you can master the secret of cooking with just a few simple steps?\r</div><div>Tie your apron and put your chef hat on!\r</div><div>In Merge Cooking, you can cook anything!\r</div><div>- Welcome, Chef!\r</div><div>Your assistant Lea is waiting for you to start the adventure of opening restaurants and serving customers around the world. Merge Cooking not only allows you to cook as a star chef and master the world cuisine but also helps you realize your designer dream and renovate Michelin star restaurants!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1362/MergeCooking_icon.png"
     },
     {
       "name": "Messenger++",
@@ -3801,8 +3801,8 @@
       "name": "Persona",
       "bundleIdentifier": "com.tickettothemoon.persona",
       "developerName": "Ticket To The Moon",
-      "version": "1.15.2",
-      "versionDate": "2026-02-01T17:24:14.000Z",
+      "version": "1.15.6",
+      "versionDate": "2026-02-08T15:17:17.000Z",
       "size": 153483973,
       "downloadURL": "https://s3.flekstore.com/ipa-library/persona.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Master your look with Persona \u2014 a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\r</div><div>MAIN FEATURES:\r</div><div>\u2022 Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally \u2014 instant with one click, for photos and videos.\r</div><div>\u2022 Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\r</div><div>\u2022 Body Tuning: Shape your figure a bit for a sharp, real result in stills or clips.\r</div><div>\u2022 Skin Improvement: Get a tan, fix texture, or remove shine in one tap, for any shot.\r</div><div>\u2022 Editing Controls: Change brightness, contrast, or sharpness like a pro, for both photos and videos.\r</div><div>\u2022 Face Refining: Improve eyes, nose, lips, or jawline easily, anytime.\r</div><div>\u2022 Color Boost: Add bold, stylish tones to your photos or videos.\r</div><div>\u2022 Unique Details: Add freckles, dimples, or small touches to both photos and videos.\r</div><div>\u2022 Quick Fix: Erase spots or extras fast, no matter what you\u2019re editing.\r</div><div class=\"\">\u2022 Exclusive AI Tools: Retake shots with better angles, generate new photo sessions from your selfies, and more.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -4085,6 +4085,17 @@
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2311.jpg",
         "https://provenance-emu.com/blog/2022/12/09/release-2.2.0/images/IMG_2312.jpg"
       ]
+    },
+    {
+      "name": "PUSH Workout and Gym Tracker",
+      "bundleIdentifier": "com.blatant.pushworkoutandgymtracker",
+      "developerName": "Blatant",
+      "version": "3.10.1",
+      "versionDate": "2026-02-08T15:12:31.000Z",
+      "size": 32892620,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/push.ipa",
+      "localizedDescription": "PUSH is about building muscle as fast as possible - with science. We achieve this with an algorithm built based strictly on published peer-reviewed research. You don't have to take our word for it, you can tap the referenced articles throughout the app as you use it.<div><br>&nbsp;\n<div>\n</div><div>\n</div><div class=\"\">- Our workouts are based on scientific research and your training data over time. You can view exactly how everything works in the app and read the references for yourself.\n</div><div class=\"\"><br></div><div>- PUSH generates a program based on your experience, sleep, gender, stress and time available to train. We fine tune your volume, frequency, rep range and exercise selection based on published research relating to these factors.\n</div><div>- Exercises are selected based on resistance curve and rep range.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1410/push_icon.png"
     },
     {
       "name": "Ready",
@@ -4383,17 +4394,6 @@
         "https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
         "https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
       ]
-    },
-    {
-      "name": "Six Pack in 30 Days",
-      "bundleIdentifier": "com.sixpack.sixpackin30days",
-      "developerName": "Six Pack",
-      "version": "1.45.0",
-      "versionDate": "2026-01-29T13:17:51.000Z",
-      "size": 416684600,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/sixpack.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Want to lose belly fat and get six pack abs for the summer? Start sculpting your abs with this super effective abs workout app. Workouts are suitable for all levels, and you can easily do them at home or anywhere, anytime. Just a few minutes a day to get the sexy abs you have been dreaming of!\r<div>\r</div><div>\r</div><div>Workout Plan with Different Levels\r</div><div>Lose Belly Fat, Rock Hard Abs and Six Pack Abs - these 3 levels of workout plans help you lose belly fat and build abdominal muscles step by step. Whether you are a beginner or a pro, you can find workouts that are suitable for you. Different exercises are prepared every day to keep it fresh and exciting.</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1365/sixpack_icon.png"
     },
     {
       "name": "Snapchat++",
@@ -5645,8 +5645,8 @@
       "name": "VSCO",
       "bundleIdentifier": "com.michaellema.vsco",
       "developerName": "Michael Lema",
-      "version": "456.0.0",
-      "versionDate": "2026-02-01T17:23:27.000Z",
+      "version": "456.0.2",
+      "versionDate": "2026-02-08T15:12:49.000Z",
       "size": 96977746,
       "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
       "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
