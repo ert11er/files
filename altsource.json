@@ -89,17 +89,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1412/premierAdobe_icon.png"
     },
     {
-      "name": "AltMarket",
-      "bundleIdentifier": "com.altmarketteam.altmarket",
-      "developerName": "AltMarket Team",
-      "version": "1.0",
-      "versionDate": "2026-02-04T11:17:14.000Z",
-      "size": 3073771,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AltMarket.ipa",
-      "localizedDescription": "<i>Access bypassing invite codes is open.</i><div class=\"\"><i><br></i></div><div class=\"\"><span class=\"\">Games and software store for different platforms: PC, PS, Xbox, Nintendo.</span></div><div class=\"\"><span class=\"\">Simple and clear interface, instant receipt of paid goods, discounts up to 95% on new game releases, Windows, Microsoft Office, SpooferPro etc.</span></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1385/AltMarket_icon.png"
-    },
-    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -584,17 +573,6 @@
       "beta": false
     },
     {
-      "name": "BH Instagram",
-      "bundleIdentifier": "com.banderhl.bhinstagram",
-      "developerName": "BanderHL",
-      "version": "415.1.0",
-      "versionDate": "2026-02-04T17:16:41.000Z",
-      "size": 250666471,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BHInsta.ipa",
-      "localizedDescription": "<ul><li>Hide Ads\r</li><li>No suggested post\r</li><li>Show Like count\r</li><li>Confirm like\r</li><li>Copy description\r</li><li>Download Videos\r</li><li>Save profile image\r</li><li>Keep deleted message\r</li><li>Remove last seen\r</li><li>Remove screenshot alert\r</li><li>Unlimited replay of once story\r</li><li>Disable Story Seen Receipt\r</li><li>Padlock</li></ul>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1392/BHInsta_icon.png"
-    },
-    {
       "name": "blurt.blog",
       "bundleIdentifier": "blog.blurt.blurt",
       "developerName": "sagarkothari88",
@@ -1036,6 +1014,17 @@
           "absoluteVersion": "1.6"
         }
       ]
+    },
+    {
+      "name": "Critical Strike Hack",
+      "bundleIdentifier": "com.glehack.criticalstrikehack",
+      "developerName": "GLEHack",
+      "version": "14.4505",
+      "versionDate": "2026-02-15T14:56:45.000Z",
+      "size": 1477258649,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/CriticalStrike.ipa",
+      "localizedDescription": "<h3>Hacks:</h3><div class=\"\"><ul><li class=\"\">Premium pass unlocked</li><li class=\"\">Fire rate</li><li class=\"\">One Hit Kill (OHK)</li><li>Max Speed</li><li class=\"\">High Range</li><li class=\"\">High Accuracy</li><li class=\"\">Infinite Ammo</li><li class=\"\">Bots disabled</li><li class=\"\">No Reload time</li><li class=\"\">No Respawn time</li><li class=\"\">No smoke</li><li class=\"\">No Flash</li><li class=\"\">No Gravity</li></ul></div>Critical Strike is a fast-paced modern multiplayer FPS counter terrorist game.\n<div>\n</div><div>Are you a fan of the good old counter terrorists battles? Enjoying online shooters and multiplayer gun games? There is the best 3D First Person Shooter in real-time.\n</div><div>Take the part in the vanguard at the battlefield of Critical Strike!\n</div><div>Play with your friends, you will love the multiplayer PvP shooting experience on your mobile device! Compete with people around the world and show your skills.\n</div><div>Fight against real players around the world over multiple game modes with 10 seconds of matchmaking and battles under 4 minutes.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://i.imgur.com/UjxZ4C3.png"
     },
     {
       "name": "Crunchyroll++",
@@ -1541,17 +1530,6 @@
       },
       "beta": false,
       "appID": "com.rileytestut.Delta.Beta"
-    },
-    {
-      "name": "Delta Executor for Roblox",
-      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
-      "developerName": "Delta Executor",
-      "version": "2.706",
-      "versionDate": "2026-02-04T17:26:18.000Z",
-      "size": 140988698,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
-      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1113/roblox_icon.png"
     },
     {
       "name": "Delta iPac Edition",
@@ -2315,6 +2293,17 @@
       "appID": "com.rileytestut.GBA4iOS"
     },
     {
+      "name": "Grim Soul: Survival",
+      "bundleIdentifier": "com.glehack.grimsoulsurvival",
+      "developerName": "GLEHack",
+      "version": "8.0.0",
+      "versionDate": "2026-02-15T14:57:13.000Z",
+      "size": 173219080,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
+      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/810/grimsoul_icon.png"
+    },
+    {
       "name": "HD Flix (No Ads)",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",
       "developerName": "Dezokr",
@@ -2385,6 +2374,17 @@
         }
       },
       "beta": false
+    },
+    {
+      "name": "Homescapes Hack",
+      "bundleIdentifier": "com.glehack.homescapeshack",
+      "developerName": "GLEHack",
+      "version": "8.6.100",
+      "versionDate": "2026-02-15T15:13:26.000Z",
+      "size": 184549376,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Homescapes.ipa",
+      "localizedDescription": "<p class=\"\"><b>Hack Features:</b></p><p class=\"\"></p><ul><li><b>Infinite Moves</b></li><li><b>Infinite Lives</b></li><li><b>Infinite Boosters</b></li><li><b>Complete tasks without stars</b></li><li><b class=\"\">Unlock Season Pass</b></li></ul><p></p><p class=\"\">Welcome to Homescapes, a warm and cozy game. Make match-3 combinations and turn every corner of your home into an inviting place to relax and have fun.\n</p><p class=\"\">Solve puzzles, restore the interior room by room, and meet new friends in every chapter of the exciting storyline. Austin the butler is ready to welcome you to a world of incredible adventures!</p><p class=\"\">\n</p><p class=\"\">\n</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/817/Homescapes_icon.png"
     },
     {
       "name": "Hungry Shark World Hack",
@@ -3188,14 +3188,14 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.6.64",
-      "versionDate": "2026-02-11T00:13:09Z",
-      "versionDescription": "Nightly build from [9182b26](https://github.com/LiveContainer/LiveContainer/commit/9182b26): bump version\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21890832155/attempts/1).\n",
+      "versionDate": "2026-02-15T13:27:34Z",
+      "versionDescription": "Nightly build from [870ba06](https://github.com/LiveContainer/LiveContainer/commit/870ba06): Fix iPadOS Multitask JIT not checking Window mode\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22049491649/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4505054,
+      "size": 4504482,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3254,16 +3254,16 @@
       "versions": [
         {
           "version": "3.6.64",
-          "date": "2026-02-11T00:13:09Z",
-          "localizedDescription": "Nightly build from [9182b26](https://github.com/LiveContainer/LiveContainer/commit/9182b26): bump version\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21890832155/attempts/1).\n",
+          "date": "2026-02-15T13:27:34Z",
+          "localizedDescription": "Nightly build from [870ba06](https://github.com/LiveContainer/LiveContainer/commit/870ba06): Fix iPadOS Multitask JIT not checking Window mode\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22049491649/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4505054,
-          "commit": "9182b26",
-          "headline": "bump version"
+          "size": 4504482,
+          "commit": "870ba06",
+          "headline": "Fix iPadOS Multitask JIT not checking Window mode"
         }
       ],
-      "commit": "9182b26",
-      "headline": "bump version"
+      "commit": "870ba06",
+      "headline": "Fix iPadOS Multitask JIT not checking Window mode"
     },
     {
       "name": "LumaFusion",
@@ -3406,17 +3406,6 @@
           "absoluteVersion": "2.5"
         }
       ]
-    },
-    {
-      "name": "Mockup - UI/UX Design",
-      "bundleIdentifier": "com.blatant.mockupuiuxdesign",
-      "developerName": "Blatant",
-      "version": "4.1.2",
-      "versionDate": "2026-02-04T12:33:37.000Z",
-      "size": 57962349,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MockupUI.ipa",
-      "localizedDescription": "<br><div>\r</div><div class=\"\"><b>Flexible Canvas for UI/UX Design\r</b></div><div>- Visualize your ideas effortlessly with 45+ device frames in both portrait and landscape orientations.\r</div><div>- Explore limitless design possibilities with a flexible canvas and abundant frames.\r</div><div class=\"\">- Customize the grid, frame, and background colors for a tailored workflow.\r</div><div class=\"\"><br></div><div class=\"\"><b>Sketch &amp; Perfect Your Ideas\r</b></div><div>- Shape your designs with a variety of drawing tools &amp; a full color palette.\r</div><div>- Draw perfect shapes with Shape Detection and Snap-to-grid for precise alignment.\r</div><div>- Move, resize, recolor, and adjust objects easily using the lasso tool.\r</div><div class=\"\">- Write and edit text directly on the canvas using the Scribble tool.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>Wireframe with Ease\r</b></div><div>- Access a Library of preset elements or create, save, and reuse your own.\r</div><div>- Insert images and visuals from your files into your designs\r</div><div>- Add text, customize, and save text styles for a consistent look.\r</div><div>- Drag &amp; drop text or images from any app directly into your canvas.\r</div><div>- Elevate your designs with 4000+ symbols from Apple's SF Symbols library.\r</div><div class=\"\">- Add and customize shapes like rectangles, ellipses, and lines.\r</div><div class=\"\"><br></div><div class=\"\"><b>Stay in Control of Your Objects\r</b></div><div>- Cut, copy, or paste selections anywhere in the canvas or from other apps.\r</div><div>- Arrange, align, and distribute objects for precise layouts.\r</div><div>- Select or deselect multiple objects at once with Select Objects mode.</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/7EXutr5.jpeg"
     },
     {
       "name": "MyFitnessPal++",
@@ -3787,6 +3776,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1343/persona_icon.png"
     },
     {
+      "name": "PewDiePie's Tuber Simulator",
+      "bundleIdentifier": "com.glehack.pewdiepiestubersimulator",
+      "developerName": "GLEHack",
+      "version": "2.71.0",
+      "versionDate": "2026-02-15T15:12:01.000Z",
+      "size": 198483742,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
+      "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
+      "iconURL": "https://i.imgur.com/4ShOTJS.jpeg"
+    },
+    {
       "name": "Photoleap",
       "bundleIdentifier": "com.blatant.photoleap",
       "developerName": "Blatant",
@@ -3955,28 +3955,6 @@
         "privacy": []
       },
       "appID": "eu.pokemmo.client.pts"
-    },
-    {
-      "name": "Pokemon Sun Moon",
-      "bundleIdentifier": "com.pokemon.pokemonsunmoon",
-      "developerName": "Pokemon ",
-      "version": "5.0.0",
-      "versionDate": "2026-02-04T11:17:38.000Z",
-      "size": 1115933674,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/pokemonSunMoon.ipa",
-      "localizedDescription": "Massive collection of cute pets, innovative gameplay and fun! Log in to \"Pokemon Sun Moon\" now and set sail towards the goal of becoming a top trainer!<div><br><div></div><div></div><div class=\"\"><b>Classic childhood masterpiece</b></div><div class=\"\">Classic plot, classic scene, players are about to become a cute pet trainer, and challenge their cute pet companions on the road to becoming a champion master in the adventure world!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Free capture of divine beasts</b></div><div class=\"\">New joint participation, free capture of divine beasts. 800+ cute pets for you to choose, wild beasts to capture, massive activities and gameplay to help you easily evolve elves!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Real-time PVP competition</b></div><div class=\"\">Real-time competitive gameplay, smooth PVP fair battle! Players compete online and match indiscriminately around the world. Your strength will amaze the world!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">More interesting gameplay</b></div><div>Multiplayer dungeons, world bosses, and Buddhist trainers can also feel full of joy! Experience the peak duel and compete for technical strength!</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1373/pokemonSunMoon_icon.png"
-    },
-    {
-      "name": "Pokemon: Echoes of Time",
-      "bundleIdentifier": "com.pokelegends.pokemonechoesoftime",
-      "developerName": "PokeLegends",
-      "version": "1.0",
-      "versionDate": "2026-02-04T11:17:43.000Z",
-      "size": 1274681738,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PokemonEchos.ipa",
-      "localizedDescription": "Embark on an unforgettable adventure in Pokeland Legends, a Pok\u00e9mon RPG featuring over 800 distinct Pok\u00e9mon. Choose your favorites, train them, and evolve together as you challenge other trainers for fame and glory.\r<div>\r</div><div>Collect Over 800 Unique Pok\u00e9mon\r</div><div>Explore a vast world filled with more than 800 different Pok\u00e9mon, each with their own unique abilities and skills. Level up your Pok\u00e9mon through training, improving their skills and attributes to make them stronger and more adaptable in battle.\r</div><div>Engage in Strategic Turn-Based Combat\r</div><div>Pokeland Legends offers a turn-based combat system that requires strategic planning based on your Pok\u00e9mon's abilities and strengths. Take part in story-driven quests and competitive arenas to earn rewards and prove your skills as a trainer.\r</div><div>Explore a Massive World\r</div><div>Dive into a large, diverse world brimming with secrets and adventure. Complete captivating story quests and take on tough missions to uncover the mysteries hidden within Pokeland.\r</div><div>Build and Empower Your Pok\u00e9mon Team\r</div><div>Form a strong team of Pok\u00e9mon and tackle increasingly difficult challenges. Strengthen your team\u2019s synergy and abilities to rise through the ranks and claim victory in battles.\r</div><div>Experience the ultimate Pok\u00e9mon adventure in Pok\u00e9mon: Echoes of Time, where every trainer's dream becomes a reality. Start your journey today and become the ultimate Pok\u00e9mon Master!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1253/PokemonEchos_icon.png"
     },
     {
       "name": "Polarr",
@@ -4332,6 +4310,17 @@
       "appID": "org.scummvm.scummvm"
     },
     {
+      "name": "Shadow Fight 3",
+      "bundleIdentifier": "com.glesign.shadowfight3",
+      "developerName": "GLESign",
+      "version": "1.44.2",
+      "versionDate": "2026-02-15T16:33:22.000Z",
+      "size": 164015105,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ShadowFight3.ipa",
+      "localizedDescription": "<h3 class=\"\">Hack Features:\n</h3><div class=\"\"><ul><li class=\"\">High Damage&nbsp;</li><li>Freeze Enemies</li></ul></div>Keep your finger on the pulse of innovation! Learn all about the abilities of Raid bosses and how to defeat them!<div><br></div><div>Legend has it that a hero will come to end the fight for shadow energy. He will have to learn three fighting styles, collect the best weapons and challenge the strongest warriors.</div><div><br></div><div>The world is on the edge of an epic war. The mighty force unleashed by the Gates of Shadows many years ago has turned into a weapon, and now three war clans are fighting to decide the future of this force.</div><div><br></div><div>The Legion warriors want to destroy the dangerous energy. The people of the Dynasty want to use it for their own benefit. While the mysterious ninjas of the Heralds clan explore the darkest secrets of the shadow power.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1313/ShadowFight3_icon.png"
+    },
+    {
       "name": "Sileo Demo",
       "bundleIdentifier": "org.coolstar.SileoDemo",
       "developerName": "Sileo Team",
@@ -4407,10 +4396,10 @@
     },
     {
       "name": "Soul Knight Hack",
-      "bundleIdentifier": "com.iosgods.soulknighthack",
-      "developerName": "iosGods",
+      "bundleIdentifier": "com.glehack.soulknighthack",
+      "developerName": "GLEHack",
       "version": "8.0.0",
-      "versionDate": "2026-02-09T19:11:36.000Z",
+      "versionDate": "2026-02-15T15:04:48.000Z",
       "size": 309758980,
       "downloadURL": "https://s3.flekstore.com/ipa-library/SoulKnight.ipa",
       "localizedDescription": "<h3><i>Hack Features:</i></h3><div><i>- God Mode</i></div><div><i>- Infinite Ammo</i></div><div><i>- Instant Skill</i></div><div><i>- Infinite Currencies</i></div><div><br></div>This is the shooter game that features extremely easy and intuitive control. Its super smooth and enjoyable gameplay, mixed with rogue-like elements, will get you hooked from the very first run!",
@@ -4964,6 +4953,17 @@
       "appID": "com.streamer.ios"
     },
     {
+      "name": "Survivor.io Hack",
+      "bundleIdentifier": "com.glehack.survivoriohack",
+      "developerName": "GLEHack",
+      "version": "4.5.1",
+      "versionDate": "2026-02-15T15:06:45.000Z",
+      "size": 384721213,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Survivorio.ipa",
+      "localizedDescription": "<div class=\"\"><br></div><b>Features:</b><div><ul><li class=\"\">Godmode\r</li><li class=\"\">No skills cooldown\r</li><li class=\"\">Infinity magnate\r</li><li>Multiply exp in match</li></ul></div><div class=\"\">Note: unban device (not account) - if your device was previously banned - activate this and restart game</div><div><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1206/Survivorio_icon.png"
+    },
+    {
       "name": "Swipewipe - Photo Cleaner",
       "bundleIdentifier": "com.blatant.swipewipephotocleaner",
       "developerName": "Blatant",
@@ -5122,17 +5122,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "TIME LOCKER+",
-      "bundleIdentifier": "com.sotarootsuka.timelocker",
-      "developerName": "Sotaro Otsuka",
-      "version": "1.4.1",
-      "versionDate": "2026-02-04T16:36:18.000Z",
-      "size": 19484978,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/TimeLockerPlus.ipa",
-      "localizedDescription": "<b>\"Freezes Time When You Stop Moving\"\r</b><div>You can control the speed of time with only one finger!\r</div><div>Move slowly, and time slows down.\r</div><div>Move quickly, and it speeds up.\r</div><div>But the looming darkness behind you never stops.\r</div><div>You must keep going \u2014 sometimes with calm precision, sometimes with bold aggression.\r</div><div>Time Locker is a minimalist shooter.\r</div><div>Many foes will attack you, including animals, mammoths, soldiers, and even a giant T-Rex.\r</div><div>But you have one great advantage.\r</div><div class=\"\">Control the speed of time and enhance your character and equipment without limit to get a high score.\r</div><div class=\"\"><br></div><div class=\"\"><b>[ Features of the Apple Arcade Version ]\r</b></div><div>- Special characters only available in the Arcade version\r</div><div>- New enemies will appear\r</div><div>- Some weapons have been enhanced\r</div><div>- Redesigned game difficulty&nbsp;</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/4w10PsA.jpeg"
     },
     {
       "name": "Twitch++",
@@ -5640,6 +5629,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
       "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/821/vsco1_icon.png"
+    },
+    {
+      "name": "Warplane Inc - War WW2 Plane",
+      "bundleIdentifier": "com.glehack.warplaneincwarww2plane",
+      "developerName": "GLEHack",
+      "version": "1.53",
+      "versionDate": "2026-02-15T14:49:30.000Z",
+      "size": 198259759,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/warplane1.ipa",
+      "localizedDescription": "<h3 class=\"\">Hack features:</h3><div><ul><li class=\"\">Infinite cash</li><li class=\"\">No ads</li><li class=\"\">Unlock Air Battle mode</li><li class=\"\">Unlock City Defen\u0441e mode</li></ul></div><div class=\"\"><br></div>Battle your way through a stunning World War Warplane Simulation with a unique physics-based air combat system and deep meaningful storyline.\n<div>\n</div><div>\n</div><div>\n</div><div>Two fictional states begin hostilities. Is it a defense or an invasion? War and love are two intertwined storylines that transfer you to the world of the realistic war experience.\n</div><div>Two heroes - James, the pilot we play for, and his girlfriend, Anna, are the main characters of the game. Thanks to information screens that inform the player about real historical events (for example, Tanya Savicheva's diary) or newspaper clippings we dive deep into the world of war.\n</div><div>Warplane inc. has 5 different game modes:\n</div><div>- Campaign\n</div><div>- Free Mode\n</div><div>- Air Fight\n</div><div>- Air defence\n</div><div>- Constructor\n</div><div>Choose the mode and enjoy the war simulator! Upgrade your jet fighters, enjoy stunning locations and do your bombing missions! Plunge into air battles of the war, fight and be afraid of nothing!</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1306/warplane1_icon.png"
     },
     {
       "beta": false,
