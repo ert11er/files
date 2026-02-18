@@ -496,8 +496,8 @@
       "name": "Archero Hack",
       "bundleIdentifier": "com.iosgods.archerohack",
       "developerName": "iOSGods",
-      "version": "7.6.3",
-      "versionDate": "2026-02-05T17:03:00.000Z",
+      "version": "7.7.1",
+      "versionDate": "2026-02-17T21:25:17.000Z",
       "size": 183964928,
       "downloadURL": "https://s3.flekstore.com/ipa-library/archero.ipa",
       "localizedDescription": "<p class=\"\">Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\">Hacked version of Archero!<br>\n<strong>Features:</strong><br>- Multiply Defense (Enter Any Amount and Enable The Switch)</p><p class=\"\">- Multiply Attack (Enter Any Amount and Enable The Switch)</p><p class=\"\">- God Mode</p><p class=\"\">- One Hit Kill (Must use with God Mode or use Multiply Attack instead)</p><p class=\"\">- Freeze Enemies</p>\n",
@@ -507,8 +507,8 @@
       "name": "Bazaart: AI Photo Video Editor",
       "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
       "developerName": "Dangerous Pixel",
-      "version": "26.1.1",
-      "versionDate": "2026-02-05T16:45:16.000Z",
+      "version": "26.1.2",
+      "versionDate": "2026-02-17T19:48:04.000Z",
       "size": 47437417,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Bazaart1.ipa",
       "localizedDescription": "POWERFUL DESIGN &amp; EDITING TOOLS<div>\u2022 Create mind-blowing AI avatars of you, your cat or dog</div><div>\u2022 Magically remove the background from any photo with the magic background eraser</div><div>\u2022 Remove unwanted objects and people from any photo with surgical precision using the remove tool</div><div>\u2022 Create fantastic images using a powerful AI art tool and magically turn your text to image</div><div>\u2022 Cut out photos and videos like a pro with a selection of handy crop, scissors, eraser and shape cut-out tools</div><div>\u2022 Enhance, adjust, and customize photos and videos: Change exposure, contrast, saturation, vibrance, warmth, tint, shadows, highlights, fade, sharpness and blur</div><div>\u2022 Add up to 100 photo layers and 5 video layers: each layer is independently editable and all changes reversible</div><div>\u2022 Apply fabulous filters on photos and videos to add a \u201cwow\u201d effect</div><div>\u2022 Create custom edge styles for photos and videos with the outline and shadow tools</div><div>\u2022 Blend photos and videos for mind-blowing effects</div><div>\u2022 Sketch and draw freely with the drawing tool</div><div>\u2022 Curve your text to match an arc or a circle</div><div>\u2022 Edit and modify text with alignment, letter and line spacing</div><div>\u2022 Perfectly align photos, videos, text, and any element with auto-snapping</div><div>\u2022 Position elements precisely with the nudge tool</div>",
@@ -644,6 +644,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/candy.ipa",
       "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p>Hacked version of Candy Crush Saga!<br>\n<strong>Features:</strong><br>\n\u2022 Infinite Lives<br>\n\u2022 Freeze Boosters</p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/794/candy_icon.png"
+    },
+    {
+      "name": "Captions: For Talking Videos",
+      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
+      "developerName": "Blatant",
+      "version": "13.5.0",
+      "versionDate": "2026-02-17T19:42:12.000Z",
+      "size": 373335088,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
+      "localizedDescription": "<h3 class=\"\"><br></h3><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1300/Captions_icon.png"
     },
     {
       "name": "Car Parking Hack",
@@ -1510,6 +1521,17 @@
       "appID": "com.rileytestut.Delta.Beta"
     },
     {
+      "name": "Delta Executor for Roblox",
+      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
+      "developerName": "Delta Executor",
+      "version": "2.708-1",
+      "versionDate": "2026-02-17T12:38:26.000Z",
+      "size": 140988698,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
+      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1113/roblox_icon.png"
+    },
+    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
@@ -2069,12 +2091,23 @@
       "name": "Facetune",
       "bundleIdentifier": "com.omtk.facetune",
       "developerName": "omtk",
-      "version": "3.117.1",
-      "versionDate": "2026-02-05T16:44:16.000Z",
+      "version": "3.119",
+      "versionDate": "2026-02-17T19:45:31.000Z",
       "size": 50934299,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
       "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/599/Facetune_icon.png"
+    },
+    {
+      "name": "Fallout Shelter",
+      "bundleIdentifier": "com.iosgods.falloutshelter",
+      "developerName": "iOSGods",
+      "version": "2.1.2",
+      "versionDate": "2026-02-17T21:32:02.000Z",
+      "size": 304262553,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/fallout.ipa",
+      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\"><strong class=\"\">(DO NOT COLLECT FROM BUILDINGS WILL CAUSE CRASH GET YOU DESIRED AMOUNT THEN TURN THE HACK OFF AND ENABLE FREEZE)</strong></p><p class=\"\"><strong class=\"\">Features:</strong><br>- Dwellers instant level up<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Freeze All Currencies<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- One Hit Kill<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Add Stuff Instead of removing<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Dwellers Never Die / God Mode<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- FREEZE  FOOD/WATER/POWER/CAPS/NUKABOTTLE/MEDIKITS/STIMPEX<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock all rooms etc and auto complete objectives / unlimited lunch boxes cola caps etc&nbsp;</span></p><p class=\"\">\nThis hack only supports x64 or ARM64 iDevices: iPhone 5s, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X, SE, iPod Touch 6G, iPad Air, Air 2, Pro &amp; iPad Mini 2, 3, 4 and later.</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/797/fallout_icon.png"
     },
     {
       "name": "Filmr Pro",
@@ -2223,17 +2256,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
-    },
-    {
-      "name": "Flightradar24",
-      "bundleIdentifier": "com.blatant.flightradar24",
-      "developerName": "Blatant",
-      "version": "11.0.0",
-      "versionDate": "2026-02-05T16:46:07.000Z",
-      "size": 190043853,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Flightradar.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div><div>The world's best flight tracker app - #1 Travel app in over 150 countries.</div><div><br></div><div>Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it\u2019s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1291/Flightradar_icon.png"
     },
     {
       "beta": false,
@@ -3163,8 +3185,8 @@
       "name": "Last Day On Earth Hack",
       "bundleIdentifier": "com.iosgods.lastdayonearthhack",
       "developerName": "iOSGods",
-      "version": "1.44.0",
-      "versionDate": "2026-02-09T19:07:06.000Z",
+      "version": "1.45.0",
+      "versionDate": "2026-02-17T21:18:00.000Z",
       "size": 499878426,
       "downloadURL": "https://s3.flekstore.com/ipa-library/lastday.ipa",
       "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p><strong>Hack Features:</strong><br />\r\n&bull; Anti-Cheat -&gt; Disable Cheat detection.<br />\r\n&bull; Item Duplication -&gt; Split an Item to get more.<br />\r\n&bull; Can Duplicate/Split Any Item -&gt; Duplicate any item in your inventory!<br />\r\n&bull; Free Crafting -&gt; Craft without required items. Do not craft unreleased items or your game will stop loading! See the Club to find out which ones you shouldn&#39;t craft.<br />\r\n&bull; Free Building -&gt; Build without required items.<br />\r\n&bull; Free Upgrading -&gt; Upgrade without required items.<br />\r\n&bull; Building hack -&gt; Thanks to the features above<br />\r\n&bull; Infinite Weapon/Item Durability<br />\r\n&bull; Infinite All Armor Durability&nbsp;<br />\r\n&bull; Unlimited Skill Points -&gt; Use skill points to increase them.<br />\r\n&bull; No Level Requirement for Crafting<br />\r\n&bull; Loot Boxes Hack! -&gt; Open 1 loot box and gain 10,000! If IAP/Free Store is patched, use this to gain a lot of loot boxes when opening one.<br />\r\n&bull; Item Increase Hack -&gt; When taking an item from your inbox, it will take it and still keep it in your inbox. If you have a lot of the same item, you can increase said item as much as you want!<br />\r\n&bull; Unlock All Items -&gt; All blueprints unlocked!<br />\r\n&bull; Unlimited Consumables -&gt; Unlimited Food, Water, etc.<br />\r\n&bull; High Rate of Fire -&gt; One Hit Kill. Works well on Shotguns.<br />\r\n&bull; Unlimited Weapon Blueprints - Using the Recycler / Weapon Specialist in Bunker Alfa and the Unlimited Consumable Items Hack, you can get every Weapon Blueprints in the game.<br />\r\n&bull; Bow Instant Charge for Shot -&gt; Tap on the shoot icon to instantly shoot your bow without having to charge it.</p>\r\n",
@@ -3176,15 +3198,15 @@
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
-      "version": "3.6.64",
-      "versionDate": "2026-02-16T03:54:11Z",
-      "versionDescription": "Nightly build from [4eb3c5f](https://github.com/LiveContainer/LiveContainer/commit/4eb3c5f): Fix 1152: 26.4b1 breaks performHookDyldApi\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22082746734/attempts/1).\n",
+      "version": "3.6.65",
+      "versionDate": "2026-02-17T10:07:21Z",
+      "versionDescription": "Nightly build from [2d15372](https://github.com/LiveContainer/LiveContainer/commit/2d15372): LaunchAppExtensionHelper\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22095255630/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4508595,
+      "size": 4520759,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3242,17 +3264,17 @@
       },
       "versions": [
         {
-          "version": "3.6.64",
-          "date": "2026-02-16T03:54:11Z",
-          "localizedDescription": "Nightly build from [4eb3c5f](https://github.com/LiveContainer/LiveContainer/commit/4eb3c5f): Fix 1152: 26.4b1 breaks performHookDyldApi\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22082746734/attempts/1).\n",
+          "version": "3.6.65",
+          "date": "2026-02-17T10:07:21Z",
+          "localizedDescription": "Nightly build from [2d15372](https://github.com/LiveContainer/LiveContainer/commit/2d15372): LaunchAppExtensionHelper\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22095255630/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4508595,
-          "commit": "4eb3c5f",
-          "headline": "Fix #1152: 26.4b1 breaks performHookDyldApi"
+          "size": 4520759,
+          "commit": "2d15372",
+          "headline": "LaunchAppExtensionHelper"
         }
       ],
-      "commit": "4eb3c5f",
-      "headline": "Fix #1152: 26.4b1 breaks performHookDyldApi"
+      "commit": "2d15372",
+      "headline": "LaunchAppExtensionHelper"
     },
     {
       "name": "LumaFusion",
@@ -3395,6 +3417,17 @@
           "absoluteVersion": "2.5"
         }
       ]
+    },
+    {
+      "name": "Mojo: AI Video and Reels Editor",
+      "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
+      "developerName": "Blatant",
+      "version": "1.260",
+      "versionDate": "2026-02-17T19:44:13.000Z",
+      "size": 189797587,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1335/mojo_icon.png"
     },
     {
       "name": "MyFitnessPal++",
@@ -3823,6 +3856,17 @@
       "appID": "com.microblink.PhotoMath"
     },
     {
+      "name": "Photoroom: AI Photo Editor",
+      "bundleIdentifier": "com.blatant.photoroomaiphotoeditor",
+      "developerName": "Blatant",
+      "version": "2026.07.01",
+      "versionDate": "2026-02-17T19:41:32.000Z",
+      "size": 133527206,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
+      "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
+    },
+    {
       "name": "PicsArt Pro",
       "bundleIdentifier": "com.dangerouspixel.picsartpro",
       "developerName": "Dangerous Pixel",
@@ -4143,17 +4187,6 @@
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
     },
     {
-      "name": "Reface",
-      "bundleIdentifier": "com.reface.reface",
-      "developerName": "Reface",
-      "version": "6.1.3",
-      "versionDate": "2026-02-05T16:43:40.000Z",
-      "size": 41665553,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Reface.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">Create professional business photos and revamp your style with the Hair Style and Hair Color tool!\r</div><div>Try Face Swap on Photos and Videos &amp; Generate Stunning AI Headshots Easily. Join the Reface community of over 150 million creators around the world. Enhance your photo collection with stunningly realistic AI baby and headshot generator using the innovation of AI-powered editing features, quickly swap faces on photos, change your hairstyles or social media headshots with templates, create AI content from your favorite moments, choose from tons of stylized photo filters, and more. Reface is your all-in-one AI Face Swap photo &amp; video editor with all the tools you need to create your personal content.</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1006/Reface_icon.png"
-    },
-    {
       "name": "Regram for Instagram",
       "bundleIdentifier": "com.fouadraheb.regramforinstagram",
       "developerName": "Fouad Raheb",
@@ -4382,17 +4415,6 @@
         }
       ],
       "appID": "com.toyopagroup.picaboo"
-    },
-    {
-      "name": "SNOW - AI Profile",
-      "bundleIdentifier": "com.blatant.snowaiprofile",
-      "developerName": "Blatant",
-      "version": "14.7.21",
-      "versionDate": "2026-02-05T16:48:43.000Z",
-      "size": 133730441,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SnowAI.ipa",
-      "localizedDescription": "SNOW is a camera app used by over 200 million people around the world.\r<div>\r</div><div>\r</div><div>- Find your favorite version of yourself by creating and saving custom beauty effects.\r</div><div>- Take profile-worthy selfies with stylish AR makeup features.\r</div><div>- Explore thousands of stickers with updates every day.\r</div><div>- Don't miss exclusive seasonal filters that add color to your daily life.\r</div><div>- Professional photo edits with just a few taps.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1398/SnowAI_icon.png"
     },
     {
       "name": "Soul Knight Hack",
@@ -4953,17 +4975,6 @@
       "appID": "com.streamer.ios"
     },
     {
-      "name": "Swipewipe - Photo Cleaner",
-      "bundleIdentifier": "com.blatant.swipewipephotocleaner",
-      "developerName": "Blatant",
-      "version": "3.2.44",
-      "versionDate": "2026-02-05T16:46:47.000Z",
-      "size": 78727663,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/swipewipe1.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Swipewipe is the app that will (finally) help you clean up your camera roll. And you\u2019ll enjoy reminiscing while you do it.\r</div><div>We'll save you the time: Yes, there are other apps that can help you quickly delete photos on your phone. But none of them worked for us!\r</div><div class=\"\">We wanted a simple, fun, elegant solution that let us go month-by-month, work our way through all our photos, videos, screenshots, and everything else in our camera roll, and decide - one by one - what to keep and what to get rid of. That\u2019s Swipewipe.\r</div><div class=\"\"><br></div><div>Here\u2019s how it works: swipe right to keep a photo, and left to delete it. If you make a mistake or change your mind, just tap the current photo to go back. Hold down on a picture to see its metadata. After you\u2019re done reviewing that month\u2019s photos, take one last look at the photos you chose to keep and the ones you chose to delete, make any tweaks you need to, and then\u2026you\u2019re done!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1350/swipewipe1_icon.png"
-    },
-    {
       "name": "Tap Titans 2 Hack",
       "bundleIdentifier": "com.iosgods.taptitans2hack",
       "developerName": "iOSGods",
@@ -5188,17 +5199,6 @@
           "absoluteVersion": "8.0.2"
         }
       ]
-    },
-    {
-      "name": "Unfold: Story and Reels Maker",
-      "bundleIdentifier": "com.squarespace.unfoldstoryandreelsmaker",
-      "developerName": "Squarespace",
-      "version": "8.154.0",
-      "versionDate": "2026-02-05T16:48:01.000Z",
-      "size": 163485644,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Unfold.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div>\u2014 Stitch video clips together with Reels templates\r<div>\r</div><div>\u2014 Create with template collections like Film\r</div><div>\u2014 Plan and preview your Instagram Feed\r</div><div>\u2014 Remove any background with our AI editing tool\r</div><div>\u2014 Make a Bio Site for your new link in bio\r</div><div class=\"\">\u2014 Edit your content with filters and effects\r</div><div class=\"\"><br></div><div>Reels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\r</div><div>Story, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1281/Unfold_icon.png"
     },
     {
       "name": "UTM",
