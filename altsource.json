@@ -3198,15 +3198,15 @@
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
-      "version": "3.6.65",
-      "versionDate": "2026-02-17T10:07:21Z",
-      "versionDescription": "Nightly build from [2d15372](https://github.com/LiveContainer/LiveContainer/commit/2d15372): LaunchAppExtensionHelper\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22095255630/attempts/1).\n",
+      "version": "3.7.0",
+      "versionDate": "2026-02-17T10:45:11Z",
+      "versionDescription": "Nightly build from [13a4da6](https://github.com/LiveContainer/LiveContainer/commit/13a4da6): 3.7.0\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22167014391/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4520759,
+      "size": 4520931,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3264,17 +3264,17 @@
       },
       "versions": [
         {
-          "version": "3.6.65",
-          "date": "2026-02-17T10:07:21Z",
-          "localizedDescription": "Nightly build from [2d15372](https://github.com/LiveContainer/LiveContainer/commit/2d15372): LaunchAppExtensionHelper\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22095255630/attempts/1).\n",
+          "version": "3.7.0",
+          "date": "2026-02-17T10:45:11Z",
+          "localizedDescription": "Nightly build from [13a4da6](https://github.com/LiveContainer/LiveContainer/commit/13a4da6): 3.7.0\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22167014391/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4520759,
-          "commit": "2d15372",
-          "headline": "LaunchAppExtensionHelper"
+          "size": 4520931,
+          "commit": "13a4da6",
+          "headline": "3.7.0"
         }
       ],
-      "commit": "2d15372",
-      "headline": "LaunchAppExtensionHelper"
+      "commit": "13a4da6",
+      "headline": "3.7.0"
     },
     {
       "name": "LumaFusion",
@@ -3930,7 +3930,7 @@
     {
       "bundleIdentifier": "eu.pokemmo.client",
       "developerName": "PokeMMO",
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=31249",
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=31763",
       "iconURL": "https://pokemmo.com/build/images/altstore.f5930b35.png",
       "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
       "name": "PokeMMO",
@@ -3941,10 +3941,10 @@
         "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
         "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
       ],
-      "size": 135387770,
+      "size": 136461451,
       "tintColor": "73ACE2",
-      "version": "31249",
-      "versionDate": "2025-12-25T02:25:32+00:00"
+      "version": "31763",
+      "versionDate": "2026-02-19T00:10:44+00:00"
     },
     {
       "name": "PokeMMO PTS",
