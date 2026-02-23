@@ -67,28 +67,6 @@
       ]
     },
     {
-      "name": "Adobe Photoshop: Image Editor",
-      "bundleIdentifier": "com.adobe.adobephotoshopimageeditor",
-      "developerName": "Adobe ",
-      "version": "7.3.3",
-      "versionDate": "2026-02-08T15:15:32.000Z",
-      "size": 281746590,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PhotoshopFull.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Unleash your creative potential with Adobe Photoshop. Whether you're new, curious, or already familiar with Photoshop, we\u2019ve made it easier than ever to learn and grow your creative skills. This advanced mobile image editing application gives you more power and precision to transform any image into something that stands out from the crowd. Create collages, album cover art, perfect your passion projects, and develop unique digital art\u2014all in one place.\r</div><div>Photoshop on mobile includes a wide selection of free features to accomplish the core editing capabilities of the desktop application. Add new objects, refine and perfect your content with targeted adjustments, replace backgrounds, remove unwanted objects, combine multiple images to create high-quality compositions, and explore helpful AI tools powered by Adobe Firefly. There is no limit to what you can create.</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1341/PhotoshopFull_icon.png"
-    },
-    {
-      "name": "Adobe Premiere: Video Editor",
-      "bundleIdentifier": "com.blatant.adobepremierevideoeditor",
-      "developerName": "Blatant",
-      "version": "26.5.0",
-      "versionDate": "2026-02-05T16:49:52.000Z",
-      "size": 97895549,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/premierAdobe.ipa",
-      "localizedDescription": "Effortless editing. Total control. Meet the fast, free, and focused mobile video editing app that's powerful enough for any idea, yet simple enough for anyone to use. Edit videos from wherever you are, with no ads or watermarks. Premiere offers unmatched speed on a precise multi-track timeline and studio-quality audio featuring crystal clear voice recordings and perfectly timed AI sound effects -- plus Firefly-powered visuals to create stand out videos.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1412/premierAdobe_icon.png"
-    },
-    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -562,6 +540,17 @@
       "beta": false
     },
     {
+      "name": "Bloons TD 6",
+      "bundleIdentifier": "com.iosgods.bloonstd6",
+      "developerName": "iOSGods",
+      "version": "53.2",
+      "versionDate": "2026-02-22T16:40:25.000Z",
+      "size": 121579900,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/BloonsTD6.ipa",
+      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on</span><i class=\"\"> <a href=\"https://iosgods.com/\">iOSGods</a></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Feauteres:</i></div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- God Mode</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Money&nbsp;</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Monkey Money</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Consumes</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Unlocked All Towers</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Unlocked All Heroes</span><br><div><div class=\"\"><b><i><br></i></b><div class=\"\">&nbsp; &nbsp; Five-star tower defense with unrivaled depth and replayability. Now with rewarded leaderboards for even more fun and challenge!\n</div><div class=\"\">The Bloons are back and this time they mean business! Build awesome towers, choose your favorite upgrades, hire cool new Special Agents, and pop every last invading Bloon!\n</div><div class=\"\">&nbsp; &nbsp; Featuring 2 brand new Towers, cool Special Agents, glorious retina graphics, original Tracks and Special Missions, a whole new tier of Specialty Building upgrades, and the powerful Monkey Lab to further upgrade your towers, Bloons TD 5 delivers hours and hours of fun, challenging play to fans and new players alike.\n</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; Hours and Hours of Awesome Gameplay:\n</div><div class=\"\">\u2022 21 powerful towers with Activated Abilities and 2 upgrade paths\n</div><div class=\"\">\u2022 10 Special Agents\n</div><div class=\"\">\u2022 50+ Tracks\n</div><div class=\"\">\u2022 10 Special Missions\n</div><div class=\"\">\u2022 250+ Random Missions\n</div><div class=\"\">\u2022 New Bloon enemies - tougher Camos, Regrower Bloons, and the fearsome ZOMG\n</div><div class=\"\">\u2022 50+ Game Center Achievements and Challenges\n</div><div class=\"\">\u2022 iCloud Support\n</div><div class=\"\">\u2022 3 different game modes\n</div><div class=\"\">\u2022 Freeplay mode after mastering a track\n</div><div class=\"\">\u2022 4 difficulty settings and family-friendly theme so anyone can play\n</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; And that's just the beginning - regular planned updates will keep Bloons TD 5 fresh, fun, and challenging for many months to come. Now it's time to pop some Bloons!\n</div><div class=\"\">&nbsp; &nbsp; Remember to save to iCloud after each victory or purchase to save your progress.\n</div><div class=\"\">iPad and iPad mini version also available - check out Bloons TD 5 HD for full screen UI awesomeness!</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div></div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/841/BloonsTD6_icon.png"
+    },
+    {
       "name": "blurt.blog",
       "bundleIdentifier": "blog.blurt.blurt",
       "developerName": "sagarkothari88",
@@ -655,17 +644,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
       "localizedDescription": "<h3 class=\"\"><br></h3><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1300/Captions_icon.png"
-    },
-    {
-      "name": "Car Parking Hack",
-      "bundleIdentifier": "com.kamohacks.carparkinghack",
-      "developerName": "Kamo Hacks",
-      "version": "2.6.7",
-      "versionDate": "2026-02-05T17:40:04.000Z",
-      "size": 747652262,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CarParking1.ipa",
-      "localizedDescription": "<div class=\"\"><div class=\"\"><i>Hack features:</i></div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Press buy any product and cancel.</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Free in app purchases</span><br></div><div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1107/CarParking1_icon.png"
     },
     {
       "name": "CARROT Weather",
@@ -1043,17 +1021,6 @@
       "appID": "com.crunchyroll.iphone"
     },
     {
-      "name": "Darkroom: Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.darkroomphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "7.0.23",
-      "versionDate": "2026-02-08T15:14:18.000Z",
-      "size": 159660645,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/darkroom.ipa",
-      "localizedDescription": "Optimize your creative workflow with Darkroom: Photo &amp; Video Editor, now available for macOS. Experience the pinnacle of desktop editing with Darkroom, designed to elevate your photo and video projects with its comprehensive, feature-rich editing suite.<div><br><div></div><div></div><div class=\"\">Dive into a world where AI powers precision editing, offering you the ability to meticulously sculpt your visuals. With advanced depth editing and object recognition, fine-tune the elements of your photos\u2014like skies, hair, and skin\u2014with unmatched accuracy. Darkroom rivals the functionality of industry giants such as Adobe Lightroom and Canva, providing a versatile toolkit for every creative need.\r</div><div class=\"\"><br></div><div>Unleash your creativity with intuitive tools like touch-responsive curves and selective color adjustments, making the editing process smoother and enabling the creation of distinctive presets. Explore the richness of RAW photography with full-resolution support and 16-bit color depth, ensuring every detail, shadow, and highlight is perfectly captured.</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1423/darkroom_icon.png"
-    },
-    {
       "name": "Dazz Cam - Vintage Camera",
       "bundleIdentifier": "com.blatant.dazzcamvintagecamera",
       "developerName": "Blatant",
@@ -1099,6 +1066,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Dehancer",
+      "bundleIdentifier": "com.ipalibrary.dehancer",
+      "developerName": "IPA Library",
+      "version": "5.5",
+      "versionDate": "2026-02-22T16:29:06.000Z",
+      "size": 46255037,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Dehancer.ipa",
+      "localizedDescription": "Elevate your photos and videos with our analog tools for a film-like aesthetic:<div><br></div><div>\u2022 Film Profiles: Choose from 60+ accurate film profiles, including classics like Kodak Vision, Kodak Portra 400, Cinestill 800T, and more. Explore vintage options like Ambrotype.</div><div>\u2022 Presets: Instantly recreate retro film vibes with handcrafted presets. Craft your own and share them effortlessly.</div><div>\u2022 Film Grain: Our unique algorithm creates customizable film-like grain, adding authenticity to your visuals.</div><div>\u2022 Print Tools: Combine films with print profiles for authentic analog images. Customize characteristics like contrast and photo latitude.</div><div>\u2022 Film Compression: Adjust highlights to mimic the compressed tonal range of film. Emulate the analog appearance and have editing flexibility.</div><div>\u2022 Halation: Reproduce the film's red-orange halo effect around light sources and edges, enhancing the appeal and natural tones.</div><div>\u2022 Bloom: Add warmth and vintage glow resembling optical filters. Dehancer accurately replicates the real physics of light and simulates the Bloom effect in the most analogous way.</div><div>\u2022 Vignette: Add depth and focus using vignetting.</div><div class=\"\">\u2022 Film Breath &amp; Gate Weave: Dynamic animated effects for video, simulating real film-like shifts between frames.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1181/Dehancer_icon.png"
     },
     {
       "name": "Delta",
@@ -1714,8 +1692,8 @@
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
-      "version": "7.109",
-      "versionDate": "2026-02-16T11:51:58.000Z",
+      "version": "7.110",
+      "versionDate": "2026-02-22T16:41:08.000Z",
       "size": 182898277,
       "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
       "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
@@ -2396,6 +2374,17 @@
         }
       },
       "beta": false
+    },
+    {
+      "name": "Hevy - Workout Tracker Gym Log",
+      "bundleIdentifier": "com.blatant.hevyworkouttrackergymlog",
+      "developerName": "Blatant",
+      "version": "3.0.0",
+      "versionDate": "2026-02-22T16:42:00.000Z",
+      "size": 117216203,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/HevyWorkout.ipa",
+      "localizedDescription": "\r<div><br></div><div class=\"\"><b>FEATURES\r</b></div><div>\u2022  Track your lifts with an intuitive, simple to use interface.\r</div><div>\u2022  Use the calendar to stay on top of your training schedule\r</div><div>\u2022  Hundreds of exercises with free high-quality videos for you to focus on your form\r</div><div>\u2022  Follow your friend's progress by following their lifts and copying their routines\r</div><div>\u2022  Create your own custom exercises for your workouts\r</div><div>\u2022  Set up your profile as a private profile or a public one\r</div><div>\u2022  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets\r</div><div>\u2022  Customize automatic rest timers for each exercise\r</div><div>\u2022  Analyze your workout sessions in detail with muscle group graphs\r</div><div>\u2022  Calculation of One Rep Max for all strength exercises\r</div><div>\u2022  Create an unlimited amount of routines\r</div><div>\u2022  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight &amp; total reps\r</div><div>\u2022  Copy your friends' workouts\r</div><div>\u2022  Dark Mode\r</div><div>\u2022  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.</div>",
+      "iconURL": "https://i.imgur.com/dEM3E2c.jpeg"
     },
     {
       "name": "Hungry Shark World Hack",
@@ -3193,20 +3182,31 @@
       "iconURL": "https://flekstore.com/img-storage/apps/777/lastday_icon.png"
     },
     {
+      "name": "Lightroom Hacked",
+      "bundleIdentifier": "com.laxus.lightroomhacked",
+      "developerName": "Laxus",
+      "version": "11.2.1",
+      "versionDate": "2026-02-22T16:24:54.000Z",
+      "size": 192623012,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Lightroom.ipa",
+      "localizedDescription": "<div class=\"\"><br></div><div class=\"\"><b>Hack Features:&nbsp;</b></div><div class=\"\"><ul><li class=\"\"><b>&nbsp;PREMIUM&nbsp;</b></li></ul></div><div class=\"\">Edit raw and videos, and all other premium features unlocked.</div>Lightroom for iOS is a photo and video editing app. It provides powerful editing features like sliders, color grading, and a video editor, all accessible on your mobile device. You can also upgrade for premium features that include RAW capture, HDR, and more, with seamless access across all your devices.&nbsp;",
+      "iconURL": "https://i.imgur.com/tnhEQsx.png"
+    },
+    {
       "beta": false,
       "name": "LiveContainer (nightly)",
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.7.1",
-      "versionDate": "2026-02-20T09:40:25Z",
-      "versionDescription": "Nightly build from [8f2a60c](https://github.com/LiveContainer/LiveContainer/commit/8f2a60c): Implement redirecting status bar actions to multitask window\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22270517550/attempts/1).\n",
+      "versionDate": "2026-02-22T06:52:40Z",
+      "versionDescription": "Nightly build from [22b8b00](https://github.com/LiveContainer/LiveContainer/commit/22b8b00): Add a developer switch to disable LiveProcess watchdog, fix crash when pressing Copy on Error alert\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22277271357/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4521176,
+      "size": 4524511,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3265,16 +3265,16 @@
       "versions": [
         {
           "version": "3.7.1",
-          "date": "2026-02-20T09:40:25Z",
-          "localizedDescription": "Nightly build from [8f2a60c](https://github.com/LiveContainer/LiveContainer/commit/8f2a60c): Implement redirecting status bar actions to multitask window\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22270517550/attempts/1).\n",
+          "date": "2026-02-22T06:52:40Z",
+          "localizedDescription": "Nightly build from [22b8b00](https://github.com/LiveContainer/LiveContainer/commit/22b8b00): Add a developer switch to disable LiveProcess watchdog, fix crash when pressing Copy on Error alert\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22277271357/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4521176,
-          "commit": "8f2a60c",
-          "headline": "Implement redirecting status bar actions to multitask window"
+          "size": 4524511,
+          "commit": "22b8b00",
+          "headline": "Add a developer switch to disable LiveProcess watchdog, fix crash when pressing Copy on Error alert"
         }
       ],
-      "commit": "8f2a60c",
-      "headline": "Implement redirecting status bar actions to multitask window"
+      "commit": "22b8b00",
+      "headline": "Add a developer switch to disable LiveProcess watchdog, fix crash when pressing Copy on Error alert"
     },
     {
       "name": "LumaFusion",
@@ -3541,6 +3541,17 @@
       "appID": "com.marcuszhou.NineAnimator"
     },
     {
+      "name": "Notability: Smarter AI Notes",
+      "bundleIdentifier": "com.blatant.notabilitysmarterainotes",
+      "developerName": "Blatant",
+      "version": "15.4",
+      "versionDate": "2026-02-22T16:29:49.000Z",
+      "size": 216310194,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/NotabilityAI.ipa",
+      "localizedDescription": "<div><div class=\"\"><b>Whether you\u2019re studying for an exam, organizing a meeting, or sketching your next big idea\u2014Notability is the essential resource you can rely on to capture, organize, and share your thoughts with ease.\r</b></div><div class=\"\"><br></div><div>YOUR ALL-IN-ONE DIGITAL NOTEBOOK\r</div><div>\u2022 Write, type, or sketch with lifelike digital ink, highlighters, and text tools.\r</div><div>\u2022 Mark up anything: PDFs, textbooks, lecture slides, images, and more.\r</div><div>\u2022 Stay organized with customizable folders and subjects.\r</div><div>STUDY SMARTER WITH LEARN AI\r</div><div>\u2022 Live Smart Note instant summaries of your notes.\r</div><div>\u2022 Quizzes and flashcards tailored to you.\r</div><div>\u2022 Chat with your notes \u2013 your AI-powered assistant\r</div><div>RECORD, REVIEW AND REMEMBER \r</div><div>\u2022 Audio recording synced to your notes; perfect for lectures and meetings.\r</div><div>\u2022 Search for anything, including transcripts, text and handwriting.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1462/NotabilityAI_icon.png"
+    },
+    {
       "name": "Octopus Feast",
       "bundleIdentifier": "com.iosgods.octopusfeast",
       "developerName": "iOSGods",
@@ -3790,8 +3801,8 @@
       "name": "Persona",
       "bundleIdentifier": "com.tickettothemoon.persona",
       "developerName": "Ticket To The Moon",
-      "version": "1.15.6",
-      "versionDate": "2026-02-08T15:17:17.000Z",
+      "version": "1.15.8",
+      "versionDate": "2026-02-22T16:27:03.000Z",
       "size": 153483973,
       "downloadURL": "https://s3.flekstore.com/ipa-library/persona.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Master your look with Persona \u2014 a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\r</div><div>MAIN FEATURES:\r</div><div>\u2022 Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally \u2014 instant with one click, for photos and videos.\r</div><div>\u2022 Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\r</div><div>\u2022 Body Tuning: Shape your figure a bit for a sharp, real result in stills or clips.\r</div><div>\u2022 Skin Improvement: Get a tan, fix texture, or remove shine in one tap, for any shot.\r</div><div>\u2022 Editing Controls: Change brightness, contrast, or sharpness like a pro, for both photos and videos.\r</div><div>\u2022 Face Refining: Improve eyes, nose, lips, or jawline easily, anytime.\r</div><div>\u2022 Color Boost: Add bold, stylish tones to your photos or videos.\r</div><div>\u2022 Unique Details: Add freckles, dimples, or small touches to both photos and videos.\r</div><div>\u2022 Quick Fix: Erase spots or extras fast, no matter what you\u2019re editing.\r</div><div class=\"\">\u2022 Exclusive AI Tools: Retake shots with better angles, generate new photo sessions from your selfies, and more.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -3870,8 +3881,8 @@
       "name": "PicsArt Pro",
       "bundleIdentifier": "com.dangerouspixel.picsartpro",
       "developerName": "Dangerous Pixel",
-      "version": "29.3.1",
-      "versionDate": "2026-02-09T18:51:29.000Z",
+      "version": "29.4.1",
+      "versionDate": "2026-02-22T16:25:34.000Z",
       "size": 71112152,
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
@@ -4087,15 +4098,15 @@
       ]
     },
     {
-      "name": "PUSH Workout and Gym Tracker",
-      "bundleIdentifier": "com.blatant.pushworkoutandgymtracker",
-      "developerName": "Blatant",
-      "version": "3.10.1",
-      "versionDate": "2026-02-08T15:12:31.000Z",
-      "size": 32892620,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/push.ipa",
-      "localizedDescription": "PUSH is about building muscle as fast as possible - with science. We achieve this with an algorithm built based strictly on published peer-reviewed research. You don't have to take our word for it, you can tap the referenced articles throughout the app as you use it.<div><br>&nbsp;\n<div>\n</div><div>\n</div><div class=\"\">- Our workouts are based on scientific research and your training data over time. You can view exactly how everything works in the app and read the references for yourself.\n</div><div class=\"\"><br></div><div>- PUSH generates a program based on your experience, sleep, gender, stress and time available to train. We fine tune your volume, frequency, rep range and exercise selection based on published research relating to these factors.\n</div><div>- Exercises are selected based on resistance curve and rep range.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1410/push_icon.png"
+      "name": "Radarbot Pro",
+      "bundleIdentifier": "com.dangerouspixel.radarbotpro",
+      "developerName": "Dangerous Pixel",
+      "version": "9.35",
+      "versionDate": "2026-02-22T16:38:39.000Z",
+      "size": 198604937,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/RadarBotPro.ipa",
+      "localizedDescription": "<div class=\"\"><i>Premium version of Radarbot: Speed Cameras &amp; GPS.&nbsp;</i></div><div class=\"\"><i><br></i></div>Radarbot is your GPS navigator specialized in radars. Drive protected and forget about fines forever. Enjoy driving!<div class=\"\"><br><div class=\"\"><b>Features:</b></div><div>- It works in any country.</div><div>- It is compatible with other apps. You can use Radarbot simultaneously with other GPS navigators or your favorite music app. You will continue to receive alerts in the background or while the screen is turned off.</div><div>- Alerts only in the direction you are driving. The app automatically ignores radars in the opposite direction or off route.</div><div>- Voice alerts.</div><div>- Sound alerts when approaching a radar or going over the speed limit.</div><div>- Vibration mode for motorists.</div><div>- Completely configurable warning distances and parameters.</div><div>- Automatic Bluetooth connection and startup.</div><div>- Compatible with Apple Watch.</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1018/RadarBotPro_icon.png"
     },
     {
       "name": "RAID: Shadow Legends Hack",
@@ -5609,17 +5620,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1332/Videoleap_icon.png"
     },
     {
-      "name": "VSCO",
-      "bundleIdentifier": "com.michaellema.vsco",
-      "developerName": "Michael Lema",
-      "version": "456.0.2",
-      "versionDate": "2026-02-08T15:12:49.000Z",
-      "size": 96977746,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
-      "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/821/vsco1_icon.png"
-    },
-    {
       "name": "Warplane Inc - War WW2 Plane",
       "bundleIdentifier": "com.glehack.warplaneincwarww2plane",
       "developerName": "GLEHack",
@@ -5892,8 +5892,8 @@
       "name": "YouTube Music Ultimate",
       "bundleIdentifier": "com.dangerouspixel.youtubemusicultimate",
       "developerName": "Dangerous Pixel",
-      "version": "9.06.4",
-      "versionDate": "2026-02-11T17:41:40.000Z",
+      "version": "9.07.1",
+      "versionDate": "2026-02-22T16:28:19.000Z",
       "size": 60000000,
       "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
       "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
