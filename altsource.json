@@ -4,6 +4,17 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
+      "name": " Uplens: Photo and Video Editor",
+      "bundleIdentifier": "com.blatant.uplensphotoandvideoeditor",
+      "developerName": "Blatant",
+      "version": "3.4.9",
+      "versionDate": "2026-02-24T17:08:38.000Z",
+      "size": 179070044,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/uplens.ipa",
+      "localizedDescription": "Uplens is the ultimate mobile photo and video editor, powered by AI and designed to help you take perfect selfies and create stunning visuals in just a few taps. With our advanced retouching tools and a full range of professional-grade editing features, Uplens gives you everything you need to make your photos and videos look their best.<div><br><div></div><div class=\"\">Use the Magic AI Retouch function to get flawless skin and natural color correction. Our vintage presets give your visuals a unique, nostalgic vibe, and with our easy-to-use editing tools, you can customize each preset to create your own signature style.\r</div><div class=\"\"><br></div><div>In addition to our powerful retouching tools, video editing features, and vintage presets, Uplens also offers a full suite of professional-grade editing tools, including contrast, saturation, noise, and more. Whether you're a professional photographer or just want to take your Instagram profile to the next level, Uplens is the perfect tool for all your photo and video editing needs.</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1426/uplens_icon.png"
+    },
+    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -543,8 +554,8 @@
       "name": "Bloons TD 6",
       "bundleIdentifier": "com.iosgods.bloonstd6",
       "developerName": "iOSGods",
-      "version": "53.2",
-      "versionDate": "2026-02-22T16:40:25.000Z",
+      "version": "52.2",
+      "versionDate": "2026-02-24T10:08:52.000Z",
       "size": 121579900,
       "downloadURL": "https://s3.flekstore.com/ipa-library/BloonsTD6.ipa",
       "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on</span><i class=\"\"> <a href=\"https://iosgods.com/\">iOSGods</a></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Feauteres:</i></div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- God Mode</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Money&nbsp;</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Monkey Money</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Consumes</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Unlocked All Towers</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Unlocked All Heroes</span><br><div><div class=\"\"><b><i><br></i></b><div class=\"\">&nbsp; &nbsp; Five-star tower defense with unrivaled depth and replayability. Now with rewarded leaderboards for even more fun and challenge!\n</div><div class=\"\">The Bloons are back and this time they mean business! Build awesome towers, choose your favorite upgrades, hire cool new Special Agents, and pop every last invading Bloon!\n</div><div class=\"\">&nbsp; &nbsp; Featuring 2 brand new Towers, cool Special Agents, glorious retina graphics, original Tracks and Special Missions, a whole new tier of Specialty Building upgrades, and the powerful Monkey Lab to further upgrade your towers, Bloons TD 5 delivers hours and hours of fun, challenging play to fans and new players alike.\n</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; Hours and Hours of Awesome Gameplay:\n</div><div class=\"\">\u2022 21 powerful towers with Activated Abilities and 2 upgrade paths\n</div><div class=\"\">\u2022 10 Special Agents\n</div><div class=\"\">\u2022 50+ Tracks\n</div><div class=\"\">\u2022 10 Special Missions\n</div><div class=\"\">\u2022 250+ Random Missions\n</div><div class=\"\">\u2022 New Bloon enemies - tougher Camos, Regrower Bloons, and the fearsome ZOMG\n</div><div class=\"\">\u2022 50+ Game Center Achievements and Challenges\n</div><div class=\"\">\u2022 iCloud Support\n</div><div class=\"\">\u2022 3 different game modes\n</div><div class=\"\">\u2022 Freeplay mode after mastering a track\n</div><div class=\"\">\u2022 4 difficulty settings and family-friendly theme so anyone can play\n</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; And that's just the beginning - regular planned updates will keep Bloons TD 5 fresh, fun, and challenging for many months to come. Now it's time to pop some Bloons!\n</div><div class=\"\">&nbsp; &nbsp; Remember to save to iCloud after each victory or purchase to save your progress.\n</div><div class=\"\">iPad and iPad mini version also available - check out Bloons TD 5 HD for full screen UI awesomeness!</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div></div></div>",
@@ -602,17 +613,6 @@
       "appID": "blog.blurt.blurt"
     },
     {
-      "name": "Busuu: Language Learning",
-      "bundleIdentifier": "com.blatant.busuulanguagelearning",
-      "developerName": "Blatant",
-      "version": "30.1.0",
-      "versionDate": "2026-02-09T18:54:43.000Z",
-      "size": 41323858,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
-      "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
-    },
-    {
       "name": "Calm: Sleep Meditation",
       "bundleIdentifier": "com.ipalibrary.calmsleepmeditation",
       "developerName": "IPA Library",
@@ -622,17 +622,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Calm.ipa",
       "localizedDescription": "Calm is the #1 app for Sleep, Meditation and Relaxation. Join the millions experiencing better sleep, lower stress, and less anxiety with our guided meditations, Sleep Stories, breathing programs, stretching exercises, and relaxing music. Calm is recommended by top psychologists, therapists, and mental health experts.<div><br></div><div>Calm is the perfect mindfulness app for beginners, but also includes hundreds of programs for intermediate and advanced users. Guided meditation sessions are available in lengths of 3, 5, 10, 15, 20 or 25 minutes so you can choose the perfect length to fit with your schedule.</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/938/Calm_icon.png"
-    },
-    {
-      "name": "Candy Crush Saga",
-      "bundleIdentifier": "com.iosgods.candycrushsaga",
-      "developerName": "iOSGods",
-      "version": "1.320.1.1",
-      "versionDate": "2026-02-09T19:25:49.000Z",
-      "size": 60967925,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/candy.ipa",
-      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p>Hacked version of Candy Crush Saga!<br>\n<strong>Features:</strong><br>\n\u2022 Infinite Lives<br>\n\u2022 Freeze Boosters</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/794/candy_icon.png"
     },
     {
       "name": "Captions: For Talking Videos",
@@ -992,6 +981,17 @@
           "absoluteVersion": "1.6"
         }
       ]
+    },
+    {
+      "name": "Crsel: Carousel and Story Maker",
+      "bundleIdentifier": "com.blatant.crselcarouselandstorymaker",
+      "developerName": "Blatant",
+      "version": "1.3.5",
+      "versionDate": "2026-02-24T17:20:30.000Z",
+      "size": 144457400,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/crsel.ipa",
+      "localizedDescription": "<b>Crsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.</b><div><br><div></div><div class=\"\"><ul><li>Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\r</li><li>From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to design posts that feel intentional, premium, and uniquely yours.\r</li><li>Trendy Collage Templates. Choose from layered, editorial-style templates made for storytelling! Combine multiple photos, add text, and guide your audience through a visual journey.\r</li><li>Story Templates That Match Your Feed. Create IG stories and Reels covers using the same style as your carousels. Maintain a cohesive aesthetic across all your content, from feed to story highlights.\r</li><li>Reels Cover Designer. Design eye-catching Reels thumbnails that match your feed. Crsel helps you maintain a polished and branded look across all formats\r</li><li>AI Cutout Tool. Automatically remove backgrounds from photos with one tap. Easily layer people, objects, or products over textured backdrops and collage elements.</li></ul></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1461/crsel_icon.png"
     },
     {
       "name": "Crunchyroll++",
@@ -1502,8 +1502,8 @@
       "name": "Delta Executor for Roblox",
       "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
       "developerName": "Delta Executor",
-      "version": "2.708-1",
-      "versionDate": "2026-02-17T12:38:26.000Z",
+      "version": "2.709",
+      "versionDate": "2026-02-24T21:14:48.000Z",
       "size": 140988698,
       "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
       "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
@@ -1569,6 +1569,17 @@
         }
       ],
       "appID": "com.rileytestut.Deltroid"
+    },
+    {
+      "name": "Documents: File Manager and Docs",
+      "bundleIdentifier": "com.blatant.documentsfilemanageranddocs",
+      "developerName": "Blatant",
+      "version": "8.19.5",
+      "versionDate": "2026-02-24T17:30:02.000Z",
+      "size": 310847717,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/DocumentsFileManager.ipa",
+      "localizedDescription": "Documents by Readdle is a super app for iPhone and iPad. It\u2019s your all-in-one solution for working with files at home, in the office, at university, or on the go. Whether you edit, annotate, convert, listen to, or read, Documents brings everything together in one seamless experience. From books, scans, and receipts to articles, PDFs, audio, and video files, and even ZIP &amp; RAR archives \u2014 every type of content finds its home in Documents. One app \u2013 infinite capabilities. \r<div>\r</div><div>\r</div><div><br></div><div class=\"\"><br></div><div class=\"\"><b>PDF EDITOR\r</b></div><div>\u2022 Edit or modify existing text directly in a PDF \u2013 just like in a Word document\r</div><div>\u2022 Highlight and annotate important info in books using colors, text, or stickers\r</div><div>\u2022 Sign PDF contracts on the go with e-signatures\r</div><div>\u2022 Merge and combine multiple PDFs into one\r</div><div class=\"\">\u2022 Add, delete, and rearrange pages with a thumbnail preview\r</div><div class=\"\">\u2022 Rotate and reorder pages in PDFs\r</div><div class=\"\"><br></div><div class=\"\"><b>PDF CONVERTER \r</b></div><div class=\"\">\u2022 Easily convert to PDF and vice versa \u2013 text, images, photos, etc.\r</div><div class=\"\"><br></div><div class=\"\"><b>MANAGE AND ARCHIVE FILES &amp; FOLDERS  \r</b></div><div class=\"\">\u2022 Organize your files and create folders to suit your needs\r</div><div>\u2022 Use Reminders by setting a date/time to be notified about a specific file\r</div><div>\u2022 Rename and color-tag files for quick access\r</div><div>\u2022 Use Smart Actions and get contextual recommendations for the most relevant next step\r</div><div>\u2022 Use Zip/Unzip and RAR extractor tools\r</div><div>\u2022 Open Office files and eBooks with ease</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1452/DocumentsFileManager_icon.png"
     },
     {
       "name": "DolphiniOS",
@@ -1687,6 +1698,17 @@
       "versionDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
       "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
       "size": 17958943
+    },
+    {
+      "name": "Duet Display",
+      "bundleIdentifier": "com.blatant.duetdisplay",
+      "developerName": "Blatant",
+      "version": "3.1.1",
+      "versionDate": "2026-02-24T17:14:00.000Z",
+      "size": 43860814,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/DuetDisplay.ipa",
+      "localizedDescription": "<div class=\"\">Install host app on PC or Mac from here <a href=\"https://www.duetdisplay.com/\">https://www.duetdisplay.com/</a></div><div><br></div>Duet turns your iPad or iPhone into the most advanced extra display for your Mac &amp; PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.<div><br><div></div><div class=\"\"><b>\u2014 DO MORE \u2014\r</b></div><div class=\"\">Be twice as productive by multitasking with two screens. And for those that travel, have a portable way to stay productive. \r</div><div class=\"\"><br></div><div class=\"\"><b>\u2014 INCREDIBLY SIMPLE \u2014\r</b></div><div>To get started, plug your iPad into your desktop using your charging cable. The free Duet desktop app will automatically detect your device, and transform it into a high performance touchscreen display.\r</div><div class=\"\">There\u2019s no need to worry about unreliable Wi-Fi, laggy performance, pixelated screens or managing network passwords. \r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>\u2014 TOUCHSCREEN \u2014\r</b></div><div>Interact with Mac &amp; PC like never before, with touch &amp; gestures, including two-finger scrolling, pan and zoom.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1433/DuetDisplay_icon.png"
     },
     {
       "name": "Duolingo Hacked",
@@ -2142,6 +2164,17 @@
       "appID": "com.dry05.filzaescaped11-12"
     },
     {
+      "name": "Find Air - My Device Tracker",
+      "bundleIdentifier": "com.blatant.findairmydevicetracker",
+      "developerName": "Blatant",
+      "version": "2026.2.2",
+      "versionDate": "2026-02-24T17:27:01.000Z",
+      "size": 78360927,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/FindAir.ipa",
+      "localizedDescription": "Easily find Bluetooth devices with Find Air! Never lose track of your valuable devices and gadgets again! Whether you need to find AirPods, earbuds, Bluetooth headphones, or Apple devices, this device finder helps you track them instantly, with an easy-to-use Bluetooth scanner to locate and find your lost Bluetooth device with precision.<div class=\"\"><br><div></div><div></div><div class=\"\"><b>Key Features of Find Air:\r</b></div><div>- Find my devices, including headphones, earbuds, earphones, smartwatches, fitness trackers, as well as phones, tablets, and speakers.\r</div><div>- Find Apple devices, like AirPods, iPhone, iPad, and Apple Watch.\r</div><div>- Quickly find your device with our Bluetooth finder to locate nearby devices.\r</div><div>- Track all your Bluetooth devices from a single app.\r</div><div>- Simple and intuitive interface to find Bluetooth devices without complications.</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/zdF7tW8.jpeg"
+    },
+    {
       "name": "Firebird Emu",
       "bundleIdentifier": "com.adriweb.firebird-emu",
       "developerName": "nspire-emus",
@@ -2171,17 +2204,6 @@
         }
       ],
       "appID": "com.firebird.firebird-emu"
-    },
-    {
-      "name": "Fishdom",
-      "bundleIdentifier": "com.laxus.fishdom",
-      "developerName": "Laxus",
-      "version": "9.5.5",
-      "versionDate": "2026-02-09T19:18:31.000Z",
-      "size": 188637690,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Fishdom.ipa",
-      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a><div class=\"\"><br></div><h3 class=\"\">Hack Features:<br>\r- Infinite Moves<br>\r- Infinite Boosters<br>\r- Infinite Lives</h3><div><br></div><div><br></div><div>Dive into the fantastic world of Fishdom! You're in for an ocean of exciting levels, scores of adorable fish and pets, and a sea of captivating events!\r</div><div>Explore incredible underwater adventures! Unlock aquariums and decorate them to your taste, creating perfect homes for cute fish and their friends.\r</div><div>Game Features:\r</div><div>\u25cf Original gameplay: beat match-3 levels to create the perfect home for your fish!\r</div><div>\u25cf Thousands of captivating levels with powerful boosters!\r</div><div>\u25cf Loads of beautiful decorations and unlimited creative freedom: what the aquariums look like is entirely up to you!\r</div><div>\u25cf Exciting events: embark on expeditions, collect keys in season adventures, and get awesome rewards like power-ups, boosters, unlimited lives, pets, and aquarium decorations!\r</div><div>\u25cf Have fun together: compete against other players, team up, and win fantastic prizes! Play with your Facebook friends, or make new friends in the game community!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1348/Fishdom_icon.png"
     },
     {
       "name": "Fitia: Calorie Counter and Diet",
@@ -2223,17 +2245,6 @@
           "absoluteVersion": "4.3"
         }
       ]
-    },
-    {
-      "name": "Flight Tracker +",
-      "bundleIdentifier": "com.blatant.flighttracker",
-      "developerName": "Blatant",
-      "version": "8.7.2",
-      "versionDate": "2026-02-09T18:49:12.000Z",
-      "size": 79972304,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
     },
     {
       "beta": false,
@@ -2385,17 +2396,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/HevyWorkout.ipa",
       "localizedDescription": "\r<div><br></div><div class=\"\"><b>FEATURES\r</b></div><div>\u2022  Track your lifts with an intuitive, simple to use interface.\r</div><div>\u2022  Use the calendar to stay on top of your training schedule\r</div><div>\u2022  Hundreds of exercises with free high-quality videos for you to focus on your form\r</div><div>\u2022  Follow your friend's progress by following their lifts and copying their routines\r</div><div>\u2022  Create your own custom exercises for your workouts\r</div><div>\u2022  Set up your profile as a private profile or a public one\r</div><div>\u2022  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets\r</div><div>\u2022  Customize automatic rest timers for each exercise\r</div><div>\u2022  Analyze your workout sessions in detail with muscle group graphs\r</div><div>\u2022  Calculation of One Rep Max for all strength exercises\r</div><div>\u2022  Create an unlimited amount of routines\r</div><div>\u2022  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight &amp; total reps\r</div><div>\u2022  Copy your friends' workouts\r</div><div>\u2022  Dark Mode\r</div><div>\u2022  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.</div>",
       "iconURL": "https://i.imgur.com/dEM3E2c.jpeg"
-    },
-    {
-      "name": "Hungry Shark World Hack",
-      "bundleIdentifier": "com.iosgods.hungrysharkworldhack",
-      "developerName": "iOSGods",
-      "version": "7.4.7",
-      "versionDate": "2026-02-09T19:22:33.000Z",
-      "size": 163218994,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SharkWorld.ipa",
-      "localizedDescription": "Required registration on <a href=\"https://iosgods.com/\">iOSGods</a><div class=\"\"><a href=\"https://iosgods.com/\"></a><h3 class=\"\">Hack Features:<br><ul class=\"\"><li class=\"\">Unlimited Coins</li><li class=\"\">Unlimited Gems</li><li class=\"\">Unlimited Pearls</li><li class=\"\">Unlimited Boost</li><li class=\"\">Season Pass Unlocked</li></ul><div class=\"\"><span style=\"font-weight: normal;\">Hungry Shark is back in this epic arcade game where you control a monstrous sea beast! Dive into an ocean adventure that\u2019s bigger, wilder, and more thrilling than ever. Feed your shark\u2019s appetite by devouring everything in sight: from bite-size fish to unsuspecting beachgoers, and become the fiercest predator in the sea!</span></div>\r\r\r\r\r</h3></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1286/SharkWorld_icon.jpeg"
     },
     {
       "name": "iDOS",
@@ -3068,8 +3068,8 @@
       "name": "iPoGo ",
       "bundleIdentifier": "com.ipogo.ipogo",
       "developerName": "iPoGo",
-      "version": "4.1.4 (0.397.1)",
-      "versionDate": "2026-02-10T19:43:01.000Z",
+      "version": "4.1.5 (0.399.1)",
+      "versionDate": "2026-02-24T06:01:17.000Z",
       "size": 115162453,
       "downloadURL": "https://s3.flekstore.com/ipa-library/ipogo.ipa",
       "localizedDescription": "<p><strong>If you use in LiveContainer: Set Allow location access for LiveContainer app in iPhone settings to always and set Precise Location to ON&nbsp;</strong></p><p><strong>Uninstall other versions of Pokemon Go before downloading iPoGo.</strong></p>\n\n<p class=\"\"><u><i>iPoGo is a hack for Pokemon GO.</i></u></p><p class=\"\">The account may be blocked due to the use of cheats. We have no influence on this and are not responsible in case of blocking.</p><p class=\"\"><b><i>FREE FEATURES :</i></b></p><p class=\"\"><i>\u2022 Teleport Anywhere in the world<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Global list of Pokemon/Raids<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Ability to always throw Excellent Curveballs<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Autowalk random or specific routes<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Shiny Scanner<br>\u2022 Freeze Pokemon<br>\u2022 Incognito Mode<br>\u2022 Tap on screen to walk there<br>\u2022 Nearby feeds overlay<br>\u2022 Nest/Pokemon/Pokestop/Raid feeds<br>\u2022 Maping and S2 Overlay<br>\u2022 Custom Routes / Hotspots<br>\u2022 Show stats for all saved Pokemon<br>\u2022 Joystick for walking emulation<br>\u2022 Enhanced throw / Remember last ball<br>\u2022 Ability to preview the IV of a pokemon before you catch it<br>\u2022 Ability to see which gyms have empty slots<br>\u2022 Journal to help keep track of your cooldown<br>\u2022 Autowalk random or specific routes</span></i></p><p class=\"\"><b><i class=\"\">V.I.P FEATURES (Purchased on the site of the developer of the hack - ipogo.app) :</i></b></p><p class=\"\">\u2022<i> All Free Features are Included<br>\u2022 Built in Virtual GoPlus (Auto catching)<br>\u2022 Auto reconnect GoPlus<br>\u2022 One click item bag cleaner<br>\u2022 Global feeds overlay / Custom feeds<br>\u2022 Faster map loading<br>\u2022 Block non shiny encounters<br>\u2022 Block non 100iv encounters<br>\u2022 Skip animation screens<br>\u2022 Auto transfer pokemon ability<br>\u2022 One hit Team Rocket<br>\u2022 Fast Catch<br>\u2022 Instant Training Battles<br>\u2022 Spawn Booster + Radius Booster<br>\u2022 The warm and fuzzy feeling of supporting iPogo</i></p>\n",
@@ -3086,11 +3086,11 @@
       "screenshotURLs": [
         "https://ish.app/assets/front-iphone-full.png"
       ],
-      "version": "Build 805",
-      "versionDate": "2026-01-13T06:14:37+00:00",
+      "version": "Build 806",
+      "versionDate": "2026-02-24T06:31:31+00:00",
       "versionDescription": "Automated daily build",
-      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/805/iSH.ipa",
-      "size": 4603468
+      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/806/iSH.ipa",
+      "size": 4603445
     },
     {
       "name": "iTorrent",
@@ -3199,14 +3199,14 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.7.1",
-      "versionDate": "2026-02-22T06:52:40Z",
-      "versionDescription": "Nightly build from [22b8b00](https://github.com/LiveContainer/LiveContainer/commit/22b8b00): Add a developer switch to disable LiveProcess watchdog, fix crash when pressing Copy on Error alert\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22277271357/attempts/1).\n",
+      "versionDate": "2026-02-24T07:52:56Z",
+      "versionDescription": "Nightly build from [221db5c](https://github.com/LiveContainer/LiveContainer/commit/221db5c): Fix 1181\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22350004369/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4524511,
+      "size": 4523869,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3265,16 +3265,16 @@
       "versions": [
         {
           "version": "3.7.1",
-          "date": "2026-02-22T06:52:40Z",
-          "localizedDescription": "Nightly build from [22b8b00](https://github.com/LiveContainer/LiveContainer/commit/22b8b00): Add a developer switch to disable LiveProcess watchdog, fix crash when pressing Copy on Error alert\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22277271357/attempts/1).\n",
+          "date": "2026-02-24T07:52:56Z",
+          "localizedDescription": "Nightly build from [221db5c](https://github.com/LiveContainer/LiveContainer/commit/221db5c): Fix 1181\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22350004369/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4524511,
-          "commit": "22b8b00",
-          "headline": "Add a developer switch to disable LiveProcess watchdog, fix crash when pressing Copy on Error alert"
+          "size": 4523869,
+          "commit": "221db5c",
+          "headline": "Fix #1181"
         }
       ],
-      "commit": "22b8b00",
-      "headline": "Add a developer switch to disable LiveProcess watchdog, fix crash when pressing Copy on Error alert"
+      "commit": "221db5c",
+      "headline": "Fix #1181"
     },
     {
       "name": "LumaFusion",
@@ -4365,6 +4365,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1313/ShadowFight3_icon.png"
     },
     {
+      "name": "SHRED: Gym and Home Workouts",
+      "bundleIdentifier": "com.blatant.shredgymandhomeworkouts",
+      "developerName": "Blatant",
+      "version": "5.3.11",
+      "versionDate": "2026-02-24T17:16:22.000Z",
+      "size": 147857803,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Shred.ipa",
+      "localizedDescription": "<h3>No more guessing what to do next. SHRED\u2019s AI-powered coaching gives you the structure, motivation, and personalization you need to reach your goals\u2014lose weight, get stronger, or stay consistent. Every plan adapts to your progress and equipment, so you always know you\u2019re training the right way for you. Your goals. Your coach. Your results.</h3><div class=\"\"><br><div class=\"\">From day one, SHRED builds your plan around how you move and what you want to achieve. As you train, SHRED\u2019s AI learns your patterns\u2014how hard you push, how you recover, and when to advance or pull back. It automatically adjusts reps, sets, rest, and intensity to match your evolving strength and stamina. Gym or home, beginner or advanced\u2014SHRED scales with you and keeps every workout challenging, efficient, and results-driven.\r</div><div class=\"\"><br></div><div class=\"\"><b>PROGRAMS ENGINEERED FOR REAL RESULTS\r</b></div><div class=\"\">Explore expertly designed training paths in hypertrophy, powerlifting, strength, bodyweight, or sculpting. Every program is crafted by real coaches and refined by data from millions of workouts. Whether you\u2019re chasing size, strength, or definition, SHRED\u2019s system combines proven structure with adaptive progression so you keep improving week after week.\r</div><div class=\"\"><br></div><div class=\"\"><b>YOUR EQUIPMENT, OPTIMIZED\r</b></div><div>Have dumbbells, a rack, bands, kettlebells\u2014or nothing at all? SHRED automatically adapts to your setup so you get the perfect workout wherever you train. Update your available gear anytime, and your workouts will instantly reconfigure to match your environment.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/i3REdNU.jpeg"
+    },
+    {
       "name": "Sileo Demo",
       "bundleIdentifier": "org.coolstar.SileoDemo",
       "developerName": "Sileo Team",
@@ -4636,17 +4647,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "Stick War: Legacy Hack",
-      "bundleIdentifier": "com.laxus.stickwarlegacyhack",
-      "developerName": "Laxus",
-      "version": "2026.1.359",
-      "versionDate": "2026-02-09T19:14:46.000Z",
-      "size": 92641892,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/stickWarLegacy.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\"><b>Hack Features:</b></div><div><ul><li class=\"\">Infinite Gold\r</li><li class=\"\">Infinite Gem\r</li><li class=\"\">Fast Build</li></ul><div><br></div></div><div><br></div><div>One of the most popular and highest rated web games of all time now comes to mobile!\r</div><div>Play the game Stick War, one of the biggest, most fun, challenging and addicting stick figure games. Control your army in formations or play each unit, you have total control of every stickman. Build units, mine gold, learn the way of the Sword, Spear, Archer, Mage, and even Giant. Destroy the enemy statue, and capture all Territories!</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1366/stickWarLegacy_icon.png"
     },
     {
       "name": "StikNES",
@@ -4986,17 +4986,6 @@
       "appID": "com.streamer.ios"
     },
     {
-      "name": "Tap Titans 2 Hack",
-      "bundleIdentifier": "com.iosgods.taptitans2hack",
-      "developerName": "iOSGods",
-      "version": "7.19.0",
-      "versionDate": "2026-02-09T18:59:15.000Z",
-      "size": 144786755,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/taptitans.ipa",
-      "localizedDescription": "<i class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a>.</i><div><i class=\"\"><br></i></div><div class=\"\"><span class=\"\">Tap to slay hundreds of Titans with your sword as you journey through the land in this clicker RPG adventure. Upgrade your blade for new gear, gather pets, and enter multiplayer clan raids with users across the globe to leave your legacy as the Ultimate Sword Master.</span></div><div class=\"\"><span class=\"\"><br></span></div><div class=\"\"><span class=\"\"><i>Features:</i></span></div><div class=\"\"><span class=\"\">- Free Level Up</span></div><div class=\"\"><span class=\"\">- Free Hired Heroes Upgrades</span></div><div class=\"\"><span class=\"\">- Skills Cost 0 Mana To Use</span></div><div class=\"\"><span class=\"\">- No Skill Cooldown</span></div><div class=\"\"><span class=\"\">- Skip Waves - Each Kill acts like the boss so it takes you to next stage instantly no need for waves to move on to next stage</span></div><div class=\"\"><span class=\"\">- Monsters Have Low HP - kill faster</span></div><div class=\"\"><span class=\"\">- Collect Ad Rewards Without Having to Watch Videos</span></div><div class=\"\"><span class=\"\">- Gold adds when spending</span></div><div class=\"\"><span class=\"\">- Damage Multiplier - Multiply your current damage as you prefer</span></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/969/taptitans_icon.png"
-    },
-    {
       "name": "Taurine",
       "bundleIdentifier": "org.coolstar.taurine",
       "developerName": "Odyssey Team",
@@ -5133,6 +5122,28 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Toon Blast Hack",
+      "bundleIdentifier": "com.iosgods.toonblasthack",
+      "developerName": "iOSGods",
+      "version": "21357",
+      "versionDate": "2026-02-24T21:11:03.000Z",
+      "size": 134559671,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/toonblast.ipa",
+      "localizedDescription": "<div><b>Turn off internet/Wifi before entering the game wait a sec then turn it back on in case if your game stuck on loading.</b></div><div><i><br></i></div><i>Features:</i><div>- items/coins increase</div><div class=\"\">- unlimited live</div><div class=\"\">- always Red Blocks</div><div class=\"\"><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1144/toonblast_icon.png"
+    },
+    {
+      "name": "Tripsy: Travel Planner",
+      "bundleIdentifier": "com.blatant.tripsytravelplanner",
+      "developerName": "Blatant",
+      "version": "3.7.10",
+      "versionDate": "2026-02-24T20:08:52.000Z",
+      "size": 113589404,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/TipsyTravel.ipa",
+      "localizedDescription": "All your travel details in one place. Organize trips, track expenses, sync with your calendar, and get live flight alerts.\r<div>\r</div><div>Tripsy - Trip Planner &amp; Itinerary Organizer is the complete travel planner for creating detailed trip itineraries and organizing every aspect of your journey. Perfect for solo travelers, couples travel, and group travel planning, Tripsy is your all-in-one itinerary maker that keeps flights, accommodations, activities, and reservations organized in one place.\r</div><div class=\"\">Plan smarter with our intuitive trip itinerary builder that automatically imports travel details from emails, works offline, and sends&nbsp;</div><div class=\"\"><br></div><div class=\"\"><b>Your Travel Companion On Every Trip:\r</b></div><div>\u2013 10-day weather forecasts for all destinations\r</div><div>\u2013 Real-time flight updates and notifications\r</div><div>\u2013 Offline access to your complete itinerary\r</div><div>\u2013 Automatic time zone adjustments\r</div><div>\u2013 Seamless itinerary sharing and collaboration</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/4gNEzum.jpeg"
     },
     {
       "name": "Twitch++",
@@ -5598,17 +5609,6 @@
       }
     },
     {
-      "name": "VEED - AI Captions and Shorts",
-      "bundleIdentifier": "com.veed.veedaicaptionsandshorts",
-      "developerName": "VEED",
-      "version": "8.4.1",
-      "versionDate": "2026-02-09T18:53:41.000Z",
-      "size": 110418748,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/veed.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Enjoy stress-free video creation with AI captions, quick translations, and more editing tools in one app. VEED makes it easy to add engaging and accurate captions to your talking videos. With advanced AI technology that supports 100+ languages, this caption app is becoming the go-to short video editor and subtitle generator for businesses, educators, and content creators.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1337/veed_icon.png"
-    },
-    {
       "name": "Videoleap",
       "bundleIdentifier": "com.blatant.videoleap",
       "developerName": "Blatant",
@@ -5903,8 +5903,8 @@
       "name": "YouTube Plus (YTLite)",
       "bundleIdentifier": "com.dayanch96.youtubeplusytlite",
       "developerName": "dayanch96",
-      "version": "21.05.3 (5.2b4)",
-      "versionDate": "2026-02-16T11:46:30.000Z",
+      "version": "21.08.3 (5.2b4)",
+      "versionDate": "2026-02-24T21:14:07.000Z",
       "size": 113340418,
       "downloadURL": "https://s3.flekstore.com/ipa-library/YTlite.ipa",
       "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.<div class=\"\"><br></div><div class=\"\"><i>Features:</i></div><div class=\"\"><ul><li>Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures</li><li>Copy video, comment, and post information</li><li>Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode</li><li>Player settings: Gestures, default quality, preferred audio track</li><li>Save, Load and Restore settings. Clear cache once or automatically on app startup</li><li>Built-in SponsorBlock</li><li>And much, much more</li></ul></div>",
