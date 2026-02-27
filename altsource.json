@@ -3220,15 +3220,15 @@
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
-      "version": "3.7.1",
-      "versionDate": "2026-02-24T07:52:56Z",
-      "versionDescription": "Nightly build from [221db5c](https://github.com/LiveContainer/LiveContainer/commit/221db5c): Fix 1181\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22350004369/attempts/1).\n",
+      "version": "3.7.2",
+      "versionDate": "2026-02-24T12:06:57Z",
+      "versionDescription": "Nightly build from [d62aa32](https://github.com/LiveContainer/LiveContainer/commit/d62aa32): 3.7.2\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22472450098/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4523869,
+      "size": 4523847,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3286,17 +3286,17 @@
       },
       "versions": [
         {
-          "version": "3.7.1",
-          "date": "2026-02-24T07:52:56Z",
-          "localizedDescription": "Nightly build from [221db5c](https://github.com/LiveContainer/LiveContainer/commit/221db5c): Fix 1181\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22350004369/attempts/1).\n",
+          "version": "3.7.2",
+          "date": "2026-02-24T12:06:57Z",
+          "localizedDescription": "Nightly build from [d62aa32](https://github.com/LiveContainer/LiveContainer/commit/d62aa32): 3.7.2\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/22472450098/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4523869,
-          "commit": "221db5c",
-          "headline": "Fix #1181"
+          "size": 4523847,
+          "commit": "d62aa32",
+          "headline": "3.7.2"
         }
       ],
-      "commit": "221db5c",
-      "headline": "Fix #1181"
+      "commit": "d62aa32",
+      "headline": "3.7.2"
     },
     {
       "name": "LumaFusion",
