@@ -4,6 +4,17 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
+      "name": " CollaNote: Notes and PDF Markup",
+      "bundleIdentifier": "com.blatant.collanotenotesandpdfmarkup",
+      "developerName": "Blatant",
+      "version": "4.0.6",
+      "versionDate": "2026-03-01T13:46:11.000Z",
+      "size": 130003270,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/CollaNote.ipa",
+      "localizedDescription": "<b>BUILT FOR APPLE PENCIL WITH AN ENHANCED WRITING EXPERIENCE:\r</b><div>- 25+ different pens and brushes to transform your notes into artwork.\r</div><div>- Handwriting stabilizer for beautiful, smooth writing.\r</div><div>- Enjoy a calming ASMR note-taking experience.\r</div><div class=\"\">- Infinite Arc Menu available for both Apple Pencil Pro and Apple Pencil Gen 2.\r</div><div class=\"\"><br></div><div class=\"\"><b>IMPORT, MARK-UP, AND EXPORT PDF:\r</b></div><div>- Import and mark up PDFs, PPTs, DOCs, and Images effortlessly.\r</div><div>- In-built scanner to digitize your physical documents.\r</div><div class=\"\">- Export notes to PDF and share with ease.\r</div><div class=\"\"><br></div><div class=\"\"><b>POWERFUL TOOLS:\r</b></div><div>- Translation tool to learn new languages, supporting over 90 languages.\r</div><div>- Create flashcards with audio and images, or use our extensive library.\r</div><div>- Beautiful Planners for tracking tasks, deadlines, and schedules.\r</div><div class=\"\">- Record and sync audio directly within your notes.\r</div><div class=\"\"><br></div><div class=\"\"><b>UNLIMITED PAPERS AND NOTEBOOKS:\r</b></div><div>- Unlimited paper with versatile grids/lines and 150+ colorful templates.\r</div><div>- Keep all your notes organized and easily accessible from anywhere.\r</div><div>- Automatically back up to iCloud and sync across iOS devices.\r</div><div>- Smart Dark Mode for optimal visibility in any lighting.\r</div><div>- Password protection for ultimate note security.\r</div><div><br></div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1463/CollaNote_icon.png"
+    },
+    {
       "name": " Uplens: Photo and Video Editor",
       "bundleIdentifier": "com.blatant.uplensphotoandvideoeditor",
       "developerName": "Blatant",
@@ -560,6 +571,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "BHTikTok+",
+      "bundleIdentifier": "com.ttbetadecryptedxrxtiktok.bhtiktok",
+      "developerName": "TTBeta Decrypted x RXTikTok",
+      "version": "43.9.0 (1.9.3)",
+      "versionDate": "2026-03-01T13:39:01.000Z",
+      "size": 316478159,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/bhtiktok.ipa",
+      "localizedDescription": "<div class=\"\"><i>To use app on USA connect to VPN and turn off Location services in iPhone settings.</i></div><div><br></div><div>Features</div><div>\u2022 No Ads</div><div class=\"\">\u2022 Download Videos</div><div>\u2022 Download HD Videos</div><div>\u2022 Download Photos</div><div>\u2022 Download Musics</div><div>\u2022 Upload Region</div><div>\u2022 Show Username</div><div>\u2022 Disable Pull-to-refresh</div><div>\u2022 Disable Unsensitive warning</div><div>\u2022 Disable Warnings</div><div>\u2022 Disable Live Broadcast</div><div>\u2022 Skip Recommendations</div><div>\u2022 Remove Watermark</div><div>\u2022 Show/Hide UI button</div><div>\u2022 Copy video decription</div><div>\u2022 Copy video link</div><div>\u2022 Copy Music link</div><div>\u2022 Auto Play Next Video</div><div>\u2022 Show progress bar</div><div>\u2022 Confirm like</div><div>\u2022 Confirm comment like</div><div>\u2022 Confirm comment dislike</div><div>\u2022 Confirm follow</div><div>\u2022 Save profile image</div><div>\u2022 Copy profile information</div><div>\u2022 Profile Video Count</div><div>\u2022 Video Upload Date</div><div>\u2022 Video Like Count</div><div>\u2022 Always Upload In HD</div><div>\u2022 Extend bio</div><div>\u2022 Extend comment</div><div>\u2022 Always open in Safari</div><div>\u2022 Changing region</div><div>\u2022 Fake verify blue mark</div><div>\u2022 Fake Follower count</div><div>\u2022 Fake Following count</div><div>\u2022 Padlock</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1241/bhtiktok_icon.png"
     },
     {
       "name": "Bloons TD 6",
@@ -2217,17 +2239,6 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
-      "name": "Fitia: Calorie Counter and Diet",
-      "bundleIdentifier": "com.blatant.fitiacaloriecounteranddiet",
-      "developerName": "Blatant",
-      "version": "21.1",
-      "versionDate": "2026-02-13T15:06:31.000Z",
-      "size": 151218573,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Fitia.ipa",
-      "localizedDescription": "<b>WHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\r</b><div>\u2022  Fitia creates a plan that adapts to your goals, lifestyle, preferences, and progress.\r</div><div class=\"\">\u2022  You\u2019ll always know what to eat, how much to eat, and how many calories you need to lose weight in a healthy, sustainable way.\r</div><div class=\"\"><br></div><div class=\"\"><b>CALORIE COUNTER &amp; NUTRITION TRACKER\r</b></div><div>&nbsp; \u2022  Track calories, macros, fiber, sugar, saturated fat, and 20+ nutrients.\r</div><div>&nbsp; \u2022  Use Fitia as your daily calorie counter, calorie tracking app, food diary, or nutrition tracker.\r</div><div class=\"\">&nbsp; \u2022  Search any food from the largest verified food database in the world, verified by nutritionists for accuracy.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>CALORIE COUNTING WITH PHOTO, VOICE, OR TYPING\r</b></div><div>No time to log food? Fitia makes calorie counting effortless.\r</div><div>&nbsp;\u2022 Log meals with a photo\r</div><div>&nbsp;\u2022 Track calories using your voice\r</div><div>&nbsp;\u2022 Type and track instantly with smart food recognition\r</div><div class=\"\">&nbsp;Your calorie counter has never been this fast.\r</div><div class=\"\"><br></div><div class=\"\"><b>PERSONALIZED MEAL PLANS FOR WEIGHT LOSS &amp; MUSCLE GAIN\r</b></div><div>\u2022 Generate a complete weight loss meal plan or muscle gain plan tailored to your calorie needs, macros, preferences, and schedule.\r</div><div>\u2022 Fitia automatically builds balanced meals that help you stay in a calorie deficit or surplus depending on your goal.</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/UgNENCm.png"
-    },
-    {
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
@@ -2281,8 +2292,8 @@
       "name": "Fortnite",
       "bundleIdentifier": "com.epicgames.fortnite",
       "developerName": "Epic Games",
-      "version": "39.50",
-      "versionDate": "2026-02-19T15:00:58.000Z",
+      "version": "39.50.1",
+      "versionDate": "2026-03-01T13:29:13.000Z",
       "size": 237086916,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
       "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
@@ -2313,17 +2324,6 @@
         }
       ],
       "appID": "com.rileytestut.GBA4iOS"
-    },
-    {
-      "name": "Grim Soul: Survival",
-      "bundleIdentifier": "com.glehack.grimsoulsurvival",
-      "developerName": "GLEHack",
-      "version": "8.0.0",
-      "versionDate": "2026-02-15T14:57:13.000Z",
-      "size": 173219080,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
-      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/810/grimsoul_icon.png"
     },
     {
       "name": "HD Flix (No Ads)",
@@ -3427,6 +3427,17 @@
       "beta": false
     },
     {
+      "name": "Mimo: Learn Coding/Programming",
+      "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
+      "developerName": "Blatant",
+      "version": "12.2.0",
+      "versionDate": "2026-03-01T13:44:08.000Z",
+      "size": 136645016,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
+      "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1409/mimo_icon.png"
+    },
+    {
       "name": "Mini vMac",
       "bundleIdentifier": "net.namedfork.minivmac",
       "developerName": "Gryphel Project & zydeco",
@@ -3842,6 +3853,17 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
+      "name": "Peachy Pro",
+      "bundleIdentifier": "com.dvntm.peachypro",
+      "developerName": "dvntm",
+      "version": "2.10.0",
+      "versionDate": "2026-03-01T13:42:43.000Z",
+      "size": 102963908,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PeachyPro.ipa",
+      "localizedDescription": "Aiming at perfection in everything, Peachy is a powerful &amp; handy pro photo editor, especially for selfie editing &amp; retouching, body shape editing.<div><br></div><div>Everybody is an excellent photographer with this simple retouch tool, it helps you meet the best version of you, smooth skin, whiten teeth, reshape face, fix blemishes, remove wrinkles, become taller, add makeup, tattoo, muscles &amp; filters and so on.</div><div><br></div><div>Peachy provides lots of portrait and selfie photo editing features. Download it and give a try!</div><div><br></div><div>RETOUCH</div><div>\u00b7Remove wrinkles and acne</div><div>\u00b7Smooth and brightened your skin</div><div>\u00b7Reduce dark circles under your eyes</div><div>\u00b7Whiten your teeth</div><div>\u00b7Add volume and darken your eyebrow</div><div><br></div><div>RESHAPE</div><div>\u00b7Reshape your body and facial structure</div><div>\u00b7Refine a specific area of the selfie, for example, arms or facial features</div><div>\u00b7Bloat your breast, enlarge muscles and facial features</div><div><br></div><div>HEIGHT CORRECTION</div><div>\u00b7Elongate your legs and become taller</div><div>\u00b7Enhance your body both laterally and longitudinally</div><div><br></div><div>ADD MUSCLES</div><div>\u00b7Add six pack abs muscles</div><div>\u00b7Add chest muscles</div><div><br></div><div>ADD TATTOO</div><div>\u00b7Add creative tattoos to your body</div><div><br></div><div>LIGHTING EFFECTS</div><div>\u00b7Improve lighting effects of the selfie or portrait</div><div><br></div><div>ACCESSORIES</div><div>\u00b7Decorate your selfie or portrait with stylish accessories</div><div><br></div><div>FILTERS</div><div>\u00b7High-fashion vintage filters, perfect for selfie</div><div><br></div><div>ADJUST</div><div>\u00b7Create custom filters by adjusting brightness, contrast etc.</div><div><br></div><div>Perfect your selfies or portraits in Peachy, and share with your friends online, it can be fun and inspiring!</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/876/PeachyPro_icon.png"
+    },
+    {
       "name": "Persona",
       "bundleIdentifier": "com.tickettothemoon.persona",
       "developerName": "Ticket To The Moon",
@@ -3914,8 +3936,8 @@
       "name": "PicsArt Pro",
       "bundleIdentifier": "com.dangerouspixel.picsartpro",
       "developerName": "Dangerous Pixel",
-      "version": "29.4.1",
-      "versionDate": "2026-02-22T16:25:34.000Z",
+      "version": "29.4.2",
+      "versionDate": "2026-03-01T13:42:01.000Z",
       "size": 71112152,
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
@@ -4429,17 +4451,6 @@
       ]
     },
     {
-      "name": "Simply Sing: My Singing App",
-      "bundleIdentifier": "com.simply.simplysingmysingingapp",
-      "developerName": "Simply ",
-      "version": "2.7.0",
-      "versionDate": "2026-02-12T22:14:29.000Z",
-      "size": 92861869,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SimplySing.ipa",
-      "localizedDescription": "With Simply Sing, you\u2019ll feel confident singing the songs you love. \r<div>\r</div><div>If you've ever felt that singing well was beyond your reach, that changes now.\u200b Believing you can starts here. \r</div><div class=\"\"><b>NAIL SONGS YOU LOVE\r</b></div><div class=\"\">No more struggling to hit notes\u2014the app finds your voice type, adjusts songs to you, and gives feedback to help you sing them better\r</div><div class=\"\"><br></div><div class=\"\"><b>GROW WITH SINGING TIPS\r</b></div><div class=\"\">Start with easy songs and unlock levels to take on more challenging ones, with daily tips that keep you growing\r</div><div class=\"\"><br></div><div class=\"\"><b>LEVEL UP YOUR CONFIDENCE\r</b></div><div>The more you sing, the more natural it feels\u2014until one day, you're tackling songs you never thought possible</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/bUtSz6b.jpeg"
-    },
-    {
       "name": "Snapchat++",
       "bundleIdentifier": "com.toyopagroup.picaboo",
       "developerName": "Kanji",
@@ -4470,17 +4481,6 @@
         }
       ],
       "appID": "com.toyopagroup.picaboo"
-    },
-    {
-      "name": "Soul Knight Hack",
-      "bundleIdentifier": "com.glehack.soulknighthack",
-      "developerName": "GLEHack",
-      "version": "8.0.0",
-      "versionDate": "2026-02-15T15:04:48.000Z",
-      "size": 309758980,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SoulKnight.ipa",
-      "localizedDescription": "<h3><i>Hack Features:</i></h3><div><i>- God Mode</i></div><div><i>- Infinite Ammo</i></div><div><i>- Instant Skill</i></div><div><i>- Infinite Currencies</i></div><div><br></div>This is the shooter game that features extremely easy and intuitive control. Its super smooth and enjoyable gameplay, mixed with rogue-like elements, will get you hooked from the very first run!",
-      "iconURL": "https://flekstore.com/img-storage/apps/1164/SoulKnight_icon.png"
     },
     {
       "name": "SoundCloud++",
@@ -5179,6 +5179,17 @@
       "iconURL": "https://i.imgur.com/4gNEzum.jpeg"
     },
     {
+      "name": "Twitch",
+      "bundleIdentifier": "com.twitch.twitch",
+      "developerName": "Twitch",
+      "version": "28.2",
+      "versionDate": "2026-03-01T13:38:10.000Z",
+      "size": 120128120,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/twitch.ipa",
+      "localizedDescription": "<h3>Hacks:</h3><div class=\"\"><ul><li>No ads</li></ul></div>Twitch is where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever. Download Twitch and join millions enjoying live games, music, sports, esports, podcasts, cooking shows, IRL streams, and whatever else crosses our community\u2019s wonderfully absurd minds. We\u2019ll see you in chat.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1318/twitch_icon.png"
+    },
+    {
       "name": "Twitch++",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Michael Lema",
@@ -5642,17 +5653,6 @@
       }
     },
     {
-      "name": "Warplane Inc - War WW2 Plane",
-      "bundleIdentifier": "com.glehack.warplaneincwarww2plane",
-      "developerName": "GLEHack",
-      "version": "1.53",
-      "versionDate": "2026-02-15T14:49:30.000Z",
-      "size": 198259759,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/warplane1.ipa",
-      "localizedDescription": "<h3 class=\"\">Hack features:</h3><div><ul><li class=\"\">Infinite cash</li><li class=\"\">No ads</li><li class=\"\">Unlock Air Battle mode</li><li class=\"\">Unlock City Defen\u0441e mode</li></ul></div><div class=\"\"><br></div>Battle your way through a stunning World War Warplane Simulation with a unique physics-based air combat system and deep meaningful storyline.\n<div>\n</div><div>\n</div><div>\n</div><div>Two fictional states begin hostilities. Is it a defense or an invasion? War and love are two intertwined storylines that transfer you to the world of the realistic war experience.\n</div><div>Two heroes - James, the pilot we play for, and his girlfriend, Anna, are the main characters of the game. Thanks to information screens that inform the player about real historical events (for example, Tanya Savicheva's diary) or newspaper clippings we dive deep into the world of war.\n</div><div>Warplane inc. has 5 different game modes:\n</div><div>- Campaign\n</div><div>- Free Mode\n</div><div>- Air Fight\n</div><div>- Air defence\n</div><div>- Constructor\n</div><div>Choose the mode and enjoy the war simulator! Upgrade your jet fighters, enjoy stunning locations and do your bombing missions! Plunge into air battles of the war, fight and be afraid of nothing!</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1306/warplane1_icon.png"
-    },
-    {
       "beta": false,
       "bundleIdentifier": "sb.lao.Wayfurther",
       "developerName": "Shibo Lyu",
@@ -5892,8 +5892,8 @@
       "name": "YouTube Music Ultimate",
       "bundleIdentifier": "com.dangerouspixel.youtubemusicultimate",
       "developerName": "Dangerous Pixel",
-      "version": "9.07.1",
-      "versionDate": "2026-02-22T16:28:19.000Z",
+      "version": "9.08.2",
+      "versionDate": "2026-03-01T13:41:21.000Z",
       "size": 60000000,
       "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
       "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
