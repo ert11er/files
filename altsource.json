@@ -100,6 +100,17 @@
       "iconURL": "https://i.imgur.com/aZww3pk.jpeg"
     },
     {
+      "name": "AI Calorie Tracker by Yazio",
+      "bundleIdentifier": "com.blatant.aicalorietrackerbyyazio",
+      "developerName": "Blatant",
+      "version": "12.75.0",
+      "versionDate": "2026-03-09T17:24:52.000Z",
+      "size": 119803119,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/AICalorieTracker.ipa",
+      "localizedDescription": "<b>Welcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\r</b><div><b>\r</b></div><div class=\"\"><b>Track calories, eat better and reach your goals with Yazio\u2019s free calorie counter app!\r</b></div><div class=\"\"><b><br></b></div><div class=\"\">Yazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the help of its AI calorie tracker. Yazio combines a science-backed approach with cutting-edge AI calorie tracker technology to deliver long-term results without the need for extreme diets.\r</div><div class=\"\"><br></div><div><ul><li class=\"\">- Easy-to-use AI calorie tracker and food tracker\r</li><li>- Calorie deficit tracker to reach your weight goals\r</li><li>- Huge food database with 95% of all food items\r</li><li>- Calorie tracker with barcode scanner\r</li><li>- Meal planning, food tracker and personalized recipes\r</li><li>- Integrated step and activity tracking\r</li><li>- Water tracker with reminders\r</li><li>- Instant access with no signup required\r</li><li>- Regular updates for calorie counter, food tracker and AI calorie tracker tools\r</li><li>- Food tracker and nutrition tools for men and women\r</li><li>- Support for healthy muscle building and weight gain\r</li><li>- Focus on long-term results, not yo-yo dieting</li></ul></div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1460/AICalorieTracker_icon.png"
+    },
+    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -502,28 +513,6 @@
         "https://cdn.discordapp.com/attachments/558842854462717954/680945921420427266/appdb3.png",
         "https://cdn.discordapp.com/attachments/558842854462717954/680945924255907860/appdb4.png"
       ]
-    },
-    {
-      "name": "Archero Hack",
-      "bundleIdentifier": "com.iosgods.archerohack",
-      "developerName": "iOSGods",
-      "version": "7.7.1",
-      "versionDate": "2026-02-17T21:25:17.000Z",
-      "size": 183964928,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/archero.ipa",
-      "localizedDescription": "<p class=\"\">Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\">Hacked version of Archero!<br>\n<strong>Features:</strong><br>- Multiply Defense (Enter Any Amount and Enable The Switch)</p><p class=\"\">- Multiply Attack (Enter Any Amount and Enable The Switch)</p><p class=\"\">- God Mode</p><p class=\"\">- One Hit Kill (Must use with God Mode or use Multiply Attack instead)</p><p class=\"\">- Freeze Enemies</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/792/archero_icon.png"
-    },
-    {
-      "name": "Bazaart: AI Photo Video Editor",
-      "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
-      "developerName": "Dangerous Pixel",
-      "version": "26.1.2",
-      "versionDate": "2026-02-17T19:48:04.000Z",
-      "size": 47437417,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Bazaart1.ipa",
-      "localizedDescription": "POWERFUL DESIGN &amp; EDITING TOOLS<div>\u2022 Create mind-blowing AI avatars of you, your cat or dog</div><div>\u2022 Magically remove the background from any photo with the magic background eraser</div><div>\u2022 Remove unwanted objects and people from any photo with surgical precision using the remove tool</div><div>\u2022 Create fantastic images using a powerful AI art tool and magically turn your text to image</div><div>\u2022 Cut out photos and videos like a pro with a selection of handy crop, scissors, eraser and shape cut-out tools</div><div>\u2022 Enhance, adjust, and customize photos and videos: Change exposure, contrast, saturation, vibrance, warmth, tint, shadows, highlights, fade, sharpness and blur</div><div>\u2022 Add up to 100 photo layers and 5 video layers: each layer is independently editable and all changes reversible</div><div>\u2022 Apply fabulous filters on photos and videos to add a \u201cwow\u201d effect</div><div>\u2022 Create custom edge styles for photos and videos with the outline and shadow tools</div><div>\u2022 Blend photos and videos for mind-blowing effects</div><div>\u2022 Sketch and draw freely with the drawing tool</div><div>\u2022 Curve your text to match an arc or a circle</div><div>\u2022 Edit and modify text with alignment, letter and line spacing</div><div>\u2022 Perfectly align photos, videos, text, and any element with auto-snapping</div><div>\u2022 Position elements precisely with the nudge tool</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1028/Bazaart1_icon.png"
     },
     {
       "name": "BeReal++",
@@ -986,8 +975,8 @@
       "name": "Crsel: Carousel and Story Maker",
       "bundleIdentifier": "com.blatant.crselcarouselandstorymaker",
       "developerName": "Blatant",
-      "version": "1.3.5",
-      "versionDate": "2026-02-24T17:20:30.000Z",
+      "version": "1.3.601",
+      "versionDate": "2026-03-09T17:34:43.000Z",
       "size": 144457400,
       "downloadURL": "https://s3.flekstore.com/ipa-library/crsel.ipa",
       "localizedDescription": "<b>Crsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.</b><div><br><div></div><div class=\"\"><ul><li>Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\r</li><li>From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to design posts that feel intentional, premium, and uniquely yours.\r</li><li>Trendy Collage Templates. Choose from layered, editorial-style templates made for storytelling! Combine multiple photos, add text, and guide your audience through a visual journey.\r</li><li>Story Templates That Match Your Feed. Create IG stories and Reels covers using the same style as your carousels. Maintain a cohesive aesthetic across all your content, from feed to story highlights.\r</li><li>Reels Cover Designer. Design eye-catching Reels thumbnails that match your feed. Crsel helps you maintain a polished and branded look across all formats\r</li><li>AI Cutout Tool. Automatically remove backgrounds from photos with one tap. Easily layer people, objects, or products over textured backdrops and collage elements.</li></ul></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
@@ -1019,6 +1008,17 @@
         }
       ],
       "appID": "com.crunchyroll.iphone"
+    },
+    {
+      "name": "CSR Racing 2 Hacked",
+      "bundleIdentifier": "com.glehack.csrracing2hacked",
+      "developerName": "GLEHack",
+      "version": "6.3.0",
+      "versionDate": "2026-03-09T17:14:18.000Z",
+      "size": 3251796087,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/CSR2.ipa",
+      "localizedDescription": "<b class=\"\">Hack Features:</b><br><ul><li class=\"\">Infinite cash</li><li class=\"\">Infinite gold</li><li class=\"\">Infinite keys</li><li class=\"\">No spend fuel</li><li class=\"\">Max LVL</li></ul><div class=\"\">CSR Racing 2 \u2013 This driving simulator game redefines what you thought possible on your mobile device!\r</div><div class=\"\">Setting a new standard in racing game visuals, CSR2 delivers hyper-real drag racing to the palm of your hand. Compete against live players across the world with your custom-built supercars.\r</div><div class=\"\">Team up with friends to form a crew and dominate the competition in global crew events. CSR2 is all-new; download for free and start racing now!</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1276/CSR2_icon.png"
     },
     {
       "name": "Deezer++",
@@ -1771,6 +1771,17 @@
       "beta": false
     },
     {
+      "name": "Eevee Spotify Revived",
+      "bundleIdentifier": "com.meeep1.eeveespotifyrevived",
+      "developerName": "Meeep1",
+      "version": "9.1.24 (v6.6)",
+      "versionDate": "2026-03-09T17:15:23.000Z",
+      "size": 94101596,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/EeveeSpotifyRevived.ipa",
+      "localizedDescription": "<b>Unable to Play Songs problem:</b><div><br></div><div>If all tracks are skipped, a song stops as soon as you play it, songs play in a random order, you see the \"You discovered a Premium feature\" popup when trying to play a song, or encounter other restrictions,</div><div>You can only use Spotify abroad for 14 days. Connect to a VPN server in any country, change your region at accounts.spotify.com, then sign out and log back into Spotify with the VPN enabled.</div><div><br></div><div><br></div><div>This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.</div><div><br></div><div>This futures from premium didn't exist:</div><div>Very High audio quality</div><div>Native playlist downloading (you can download podcast episodes though)</div><div>Jam (hosting a Spotify Jam and joining it remotely requires Premium; only joining in-person works)</div><div><br></div>",
+      "iconURL": "https://i.imgur.com/vcvzhx4.jpeg"
+    },
+    {
       "name": "EhPanda",
       "bundleIdentifier": "app.ehpanda",
       "developerName": "Araki Tatsuzou",
@@ -2088,17 +2099,6 @@
       "beta": false
     },
     {
-      "name": "Facetune",
-      "bundleIdentifier": "com.omtk.facetune",
-      "developerName": "omtk",
-      "version": "3.119",
-      "versionDate": "2026-02-17T19:45:31.000Z",
-      "size": 50934299,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
-      "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/599/Facetune_icon.png"
-    },
-    {
       "name": "Fall Guys",
       "bundleIdentifier": "com.epicgames.fallguys",
       "developerName": "Epic Games",
@@ -2108,17 +2108,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/fallguy.ipa",
       "localizedDescription": "You\u2019re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community.<div><br></div><div>Create your own Course: Fall Guys Creative is a level editor that allows you to create fiendish custom Rounds and share them with the wider community.</div><div><br></div><div>Competitive &amp; Cooperative: Tumble between competitive free-for-alls and cooperative challenges\u2014or take on the Blunderdome with up to 3 friends!</div><div><br></div><div>Play with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.</div><div><br></div><div>Ever-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play.</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1223/fallguy_icon.png"
-    },
-    {
-      "name": "Fallout Shelter",
-      "bundleIdentifier": "com.iosgods.falloutshelter",
-      "developerName": "iOSGods",
-      "version": "2.1.2",
-      "versionDate": "2026-02-17T21:32:02.000Z",
-      "size": 304262553,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/fallout.ipa",
-      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\"><strong class=\"\">(DO NOT COLLECT FROM BUILDINGS WILL CAUSE CRASH GET YOU DESIRED AMOUNT THEN TURN THE HACK OFF AND ENABLE FREEZE)</strong></p><p class=\"\"><strong class=\"\">Features:</strong><br>- Dwellers instant level up<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Freeze All Currencies<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- One Hit Kill<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Add Stuff Instead of removing<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Dwellers Never Die / God Mode<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- FREEZE  FOOD/WATER/POWER/CAPS/NUKABOTTLE/MEDIKITS/STIMPEX<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock all rooms etc and auto complete objectives / unlimited lunch boxes cola caps etc&nbsp;</span></p><p class=\"\">\nThis hack only supports x64 or ARM64 iDevices: iPhone 5s, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X, SE, iPod Touch 6G, iPad Air, Air 2, Pro &amp; iPad Mini 2, 3, 4 and later.</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/797/fallout_icon.png"
     },
     {
       "name": "Filmr Pro",
@@ -2217,6 +2206,17 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
+      "name": "Fitia: Calorie Counter and Diet",
+      "bundleIdentifier": "com.blatant.fitiacaloriecounteranddiet",
+      "developerName": "Blatant",
+      "version": "22.0.1",
+      "versionDate": "2026-03-09T17:31:34.000Z",
+      "size": 151218573,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Fitia.ipa",
+      "localizedDescription": "<b>WHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\r</b><div>\u2022  Fitia creates a plan that adapts to your goals, lifestyle, preferences, and progress.\r</div><div class=\"\">\u2022  You\u2019ll always know what to eat, how much to eat, and how many calories you need to lose weight in a healthy, sustainable way.\r</div><div class=\"\"><br></div><div class=\"\"><b>CALORIE COUNTER &amp; NUTRITION TRACKER\r</b></div><div>&nbsp; \u2022  Track calories, macros, fiber, sugar, saturated fat, and 20+ nutrients.\r</div><div>&nbsp; \u2022  Use Fitia as your daily calorie counter, calorie tracking app, food diary, or nutrition tracker.\r</div><div class=\"\">&nbsp; \u2022  Search any food from the largest verified food database in the world, verified by nutritionists for accuracy.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>CALORIE COUNTING WITH PHOTO, VOICE, OR TYPING\r</b></div><div>No time to log food? Fitia makes calorie counting effortless.\r</div><div>&nbsp;\u2022 Log meals with a photo\r</div><div>&nbsp;\u2022 Track calories using your voice\r</div><div>&nbsp;\u2022 Type and track instantly with smart food recognition\r</div><div class=\"\">&nbsp;Your calorie counter has never been this fast.\r</div><div class=\"\"><br></div><div class=\"\"><b>PERSONALIZED MEAL PLANS FOR WEIGHT LOSS &amp; MUSCLE GAIN\r</b></div><div>\u2022 Generate a complete weight loss meal plan or muscle gain plan tailored to your calorie needs, macros, preferences, and schedule.\r</div><div>\u2022 Fitia automatically builds balanced meals that help you stay in a calorie deficit or surplus depending on your goal.</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/UgNENCm.png"
+    },
+    {
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
@@ -2247,11 +2247,22 @@
       ]
     },
     {
+      "name": "Flight Tracker +",
+      "bundleIdentifier": "com.blatant.flighttracker",
+      "developerName": "Blatant",
+      "version": "8.7.4",
+      "versionDate": "2026-03-09T19:08:23.000Z",
+      "size": 79972304,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
+    },
+    {
       "name": "Flightradar24",
       "bundleIdentifier": "com.blatant.flightradar24",
       "developerName": "Blatant",
-      "version": "11.1.0",
-      "versionDate": "2026-03-03T15:18:28.000Z",
+      "version": "11.1.1",
+      "versionDate": "2026-03-09T17:19:18.000Z",
       "size": 190043853,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Flightradar.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div><div>The world's best flight tracker app - #1 Travel app in over 150 countries.</div><div><br></div><div>Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it\u2019s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.</div>",
@@ -3175,6 +3186,17 @@
       ]
     },
     {
+      "name": "Jurassic World\u2122: The Game Hack",
+      "bundleIdentifier": "com.glehack.jurassicworldthegamehack",
+      "developerName": "GLEHack",
+      "version": "1.88.16",
+      "versionDate": "2026-03-09T16:55:27.000Z",
+      "size": 902139897,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/JurassicWorld.ipa",
+      "localizedDescription": "<h3><i>Features:</i></h3><div><ul><li>Freeze all Currencies\r</li><li>Unlimited Special Packs\r</li><li>Evolution Always Successful\r</li><li><span class=\"\">Feed Instant Max Level\r</span></li><li>Free Speed Up Cost\r</li><li class=\"\">VIP Enabled</li></ul></div><div class=\"\"><br></div>Return to Isla Nublar with the creators of the smash hit Jurassic Park\u2122 Builder for your next adventure: Jurassic World\u2122: The Game, the official mobile game based on this summer\u2019s epic action-adventure. Bring to life more than 300 colossal dinosaurs from the new film and challenge your opponents in earth-shaking battles. Construct the theme park of tomorrow in this unrivaled build-and-battle dinosaur experience.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1262/JurassicWorld_icon.png"
+    },
+    {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
@@ -3191,28 +3213,6 @@
       "version": "19.4",
       "versionDate": "2022-03-05T12:00:00-06:00",
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
-    },
-    {
-      "name": "Last Day On Earth Hack",
-      "bundleIdentifier": "com.iosgods.lastdayonearthhack",
-      "developerName": "iOSGods",
-      "version": "1.45.0",
-      "versionDate": "2026-02-17T21:18:00.000Z",
-      "size": 499878426,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/lastday.ipa",
-      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p><strong>Hack Features:</strong><br />\r\n&bull; Anti-Cheat -&gt; Disable Cheat detection.<br />\r\n&bull; Item Duplication -&gt; Split an Item to get more.<br />\r\n&bull; Can Duplicate/Split Any Item -&gt; Duplicate any item in your inventory!<br />\r\n&bull; Free Crafting -&gt; Craft without required items. Do not craft unreleased items or your game will stop loading! See the Club to find out which ones you shouldn&#39;t craft.<br />\r\n&bull; Free Building -&gt; Build without required items.<br />\r\n&bull; Free Upgrading -&gt; Upgrade without required items.<br />\r\n&bull; Building hack -&gt; Thanks to the features above<br />\r\n&bull; Infinite Weapon/Item Durability<br />\r\n&bull; Infinite All Armor Durability&nbsp;<br />\r\n&bull; Unlimited Skill Points -&gt; Use skill points to increase them.<br />\r\n&bull; No Level Requirement for Crafting<br />\r\n&bull; Loot Boxes Hack! -&gt; Open 1 loot box and gain 10,000! If IAP/Free Store is patched, use this to gain a lot of loot boxes when opening one.<br />\r\n&bull; Item Increase Hack -&gt; When taking an item from your inbox, it will take it and still keep it in your inbox. If you have a lot of the same item, you can increase said item as much as you want!<br />\r\n&bull; Unlock All Items -&gt; All blueprints unlocked!<br />\r\n&bull; Unlimited Consumables -&gt; Unlimited Food, Water, etc.<br />\r\n&bull; High Rate of Fire -&gt; One Hit Kill. Works well on Shotguns.<br />\r\n&bull; Unlimited Weapon Blueprints - Using the Recycler / Weapon Specialist in Bunker Alfa and the Unlimited Consumable Items Hack, you can get every Weapon Blueprints in the game.<br />\r\n&bull; Bow Instant Charge for Shot -&gt; Tap on the shoot icon to instantly shoot your bow without having to charge it.</p>\r\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/777/lastday_icon.png"
-    },
-    {
-      "name": "Lightroom Hacked",
-      "bundleIdentifier": "com.laxus.lightroomhacked",
-      "developerName": "Laxus",
-      "version": "11.2.1",
-      "versionDate": "2026-02-22T16:24:54.000Z",
-      "size": 192623012,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Lightroom.ipa",
-      "localizedDescription": "<div class=\"\"><br></div><div class=\"\"><b>Hack Features:&nbsp;</b></div><div class=\"\"><ul><li class=\"\"><b>&nbsp;PREMIUM&nbsp;</b></li></ul></div><div class=\"\">Edit raw and videos, and all other premium features unlocked.</div>Lightroom for iOS is a photo and video editing app. It provides powerful editing features like sliders, color grading, and a video editor, all accessible on your mobile device. You can also upgrade for premium features that include RAW capture, HDR, and more, with seamless access across all your devices.&nbsp;",
-      "iconURL": "https://i.imgur.com/tnhEQsx.png"
     },
     {
       "name": "LiveContainer",
@@ -3483,6 +3483,17 @@
           "absoluteVersion": "2.5"
         }
       ]
+    },
+    {
+      "name": "Moonly: Moon Phases and Calendar",
+      "bundleIdentifier": "com.blatant.moonlymoonphasesandcalendar",
+      "developerName": "Blatant",
+      "version": "2.6.9",
+      "versionDate": "2026-03-09T17:20:03.000Z",
+      "size": 168242606,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
+      "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
     },
     {
       "name": "Mortal Kombat Hack",
@@ -3873,17 +3884,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/PeachyPro.ipa",
       "localizedDescription": "Aiming at perfection in everything, Peachy is a powerful &amp; handy pro photo editor, especially for selfie editing &amp; retouching, body shape editing.<div><br></div><div>Everybody is an excellent photographer with this simple retouch tool, it helps you meet the best version of you, smooth skin, whiten teeth, reshape face, fix blemishes, remove wrinkles, become taller, add makeup, tattoo, muscles &amp; filters and so on.</div><div><br></div><div>Peachy provides lots of portrait and selfie photo editing features. Download it and give a try!</div><div><br></div><div>RETOUCH</div><div>\u00b7Remove wrinkles and acne</div><div>\u00b7Smooth and brightened your skin</div><div>\u00b7Reduce dark circles under your eyes</div><div>\u00b7Whiten your teeth</div><div>\u00b7Add volume and darken your eyebrow</div><div><br></div><div>RESHAPE</div><div>\u00b7Reshape your body and facial structure</div><div>\u00b7Refine a specific area of the selfie, for example, arms or facial features</div><div>\u00b7Bloat your breast, enlarge muscles and facial features</div><div><br></div><div>HEIGHT CORRECTION</div><div>\u00b7Elongate your legs and become taller</div><div>\u00b7Enhance your body both laterally and longitudinally</div><div><br></div><div>ADD MUSCLES</div><div>\u00b7Add six pack abs muscles</div><div>\u00b7Add chest muscles</div><div><br></div><div>ADD TATTOO</div><div>\u00b7Add creative tattoos to your body</div><div><br></div><div>LIGHTING EFFECTS</div><div>\u00b7Improve lighting effects of the selfie or portrait</div><div><br></div><div>ACCESSORIES</div><div>\u00b7Decorate your selfie or portrait with stylish accessories</div><div><br></div><div>FILTERS</div><div>\u00b7High-fashion vintage filters, perfect for selfie</div><div><br></div><div>ADJUST</div><div>\u00b7Create custom filters by adjusting brightness, contrast etc.</div><div><br></div><div>Perfect your selfies or portraits in Peachy, and share with your friends online, it can be fun and inspiring!</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/876/PeachyPro_icon.png"
-    },
-    {
-      "name": "Persona",
-      "bundleIdentifier": "com.tickettothemoon.persona",
-      "developerName": "Ticket To The Moon",
-      "version": "1.15.8",
-      "versionDate": "2026-02-22T16:27:03.000Z",
-      "size": 153483973,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/persona.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Master your look with Persona \u2014 a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\r</div><div>MAIN FEATURES:\r</div><div>\u2022 Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally \u2014 instant with one click, for photos and videos.\r</div><div>\u2022 Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\r</div><div>\u2022 Body Tuning: Shape your figure a bit for a sharp, real result in stills or clips.\r</div><div>\u2022 Skin Improvement: Get a tan, fix texture, or remove shine in one tap, for any shot.\r</div><div>\u2022 Editing Controls: Change brightness, contrast, or sharpness like a pro, for both photos and videos.\r</div><div>\u2022 Face Refining: Improve eyes, nose, lips, or jawline easily, anytime.\r</div><div>\u2022 Color Boost: Add bold, stylish tones to your photos or videos.\r</div><div>\u2022 Unique Details: Add freckles, dimples, or small touches to both photos and videos.\r</div><div>\u2022 Quick Fix: Erase spots or extras fast, no matter what you\u2019re editing.\r</div><div class=\"\">\u2022 Exclusive AI Tools: Retake shots with better angles, generate new photo sessions from your selfies, and more.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1343/persona_icon.png"
     },
     {
       "name": "PewDiePie's Tuber Simulator",
