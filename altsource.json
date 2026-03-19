@@ -78,17 +78,6 @@
       ]
     },
     {
-      "name": "AdVenture Capitalist Hack",
-      "bundleIdentifier": "com.iosgods.adventurecapitalisthack",
-      "developerName": "iOSGods",
-      "version": "9.19.0",
-      "versionDate": "2026-02-25T22:55:26.000Z",
-      "size": 159014806,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AdVenture.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a></div><div><br></div><h3 class=\"\">Hack Features:<br>\r- Freeze Currencies</h3><div><br></div><div><br></div><div class=\"\">Play the world\u2019s greatest money making idle game! Ever dreamed of owning your own business? Being the master of your own destiny? Becoming a capitalist tycoon? Do you just dream about money, money and MONEY, even when you sleep? Then AdVenture Capitalist is the idle clicker for you!\r</div><div class=\"\"><br></div><div>FROM RAGS TO RICHES\r</div><div class=\"\">Start from the humble roots of running a lone lemonade stand to becoming the CEO of a cash printing, money making multinational conglomerate.\r</div><div class=\"\"><br></div><div class=\"\">SPECULATE TO ACCUMULATE</div><div class=\"\">Sick of clicking buttons? Expand your capitalist empire when you hire managers to automate and boost your profits. The only way to go is UP UP UP!\r</div><div class=\"\"><br></div><div>DRESS UP LIKE A MILLION DOLLAR TROOPER\r</div><div>Deck out your Capitalist in custom outfits and accessories that not only look super duper, but also boost your businesses.\r</div><div><br></div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/aZww3pk.jpeg"
-    },
-    {
       "name": "AI Calorie Tracker by Yazio",
       "bundleIdentifier": "com.blatant.aicalorietrackerbyyazio",
       "developerName": "Blatant",
@@ -515,6 +504,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1347/b612_icon.png"
     },
     {
+      "name": "Bearable - Symptom Tracker",
+      "bundleIdentifier": "com.blatant.bearablesymptomtracker",
+      "developerName": "Blatant",
+      "version": "1.0.589",
+      "versionDate": "2026-03-18T15:54:43.000Z",
+      "size": 58636076,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Bearable.ipa",
+      "localizedDescription": "Feeling overwhelmed by your health? Bearable can help you feel more in control of your symptoms, flare-ups, and overall well-being.\r<div>\r</div><div class=\"\">Join over 900,000 people securely managing their Chronic Illnesses, Migraine, Pain, Headaches, Fatigue, IBS, PoTS, PCOS, EDS, Period, Mood, Mental Health and more - with Bearable.\r</div><div class=\"\"><br></div><div>Bearable helps you discover and manage triggers for changes in your health. Our simple, customizable tracking tools make it easy to understand the correlation between anything you do and the impact it has on your symptoms. \r</div><div class=\"\">By learning what affects your Pain, Headaches, Migraines, Periods, IBS, PCOS, and Mood Disorders, you can take back control of your health, share better information with doctors, and manage triggers, treatments, and medications.\r</div><div class=\"\"><br></div><div class=\"\"><b>FOR PEOPLE WHO WANT TO TRACK:\r</b></div><div>- What makes their health better or worse\r</div><div>- New or unexplained symptoms &amp; flare-ups\r</div><div>- Existing or suspected chronic illnesses\r</div><div>- The impact of medication &amp; treatments\r</div><div>- The effect of habits &amp; activities on health\r</div><div>- Patterns in symptom severity, pain levels, and mood</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/IYMox9T.jpeg"
+    },
+    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Yandevelop",
@@ -560,17 +560,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "BHTikTok+",
-      "bundleIdentifier": "com.ttbetadecryptedxrxtiktok.bhtiktok",
-      "developerName": "TTBeta Decrypted x RXTikTok",
-      "version": "43.9.0 (1.9.3)",
-      "versionDate": "2026-03-01T13:39:01.000Z",
-      "size": 316478159,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/bhtiktok.ipa",
-      "localizedDescription": "<div class=\"\"><i>To use app on USA connect to VPN and turn off Location services in iPhone settings.</i></div><div><br></div><div>Features</div><div>\u2022 No Ads</div><div class=\"\">\u2022 Download Videos</div><div>\u2022 Download HD Videos</div><div>\u2022 Download Photos</div><div>\u2022 Download Musics</div><div>\u2022 Upload Region</div><div>\u2022 Show Username</div><div>\u2022 Disable Pull-to-refresh</div><div>\u2022 Disable Unsensitive warning</div><div>\u2022 Disable Warnings</div><div>\u2022 Disable Live Broadcast</div><div>\u2022 Skip Recommendations</div><div>\u2022 Remove Watermark</div><div>\u2022 Show/Hide UI button</div><div>\u2022 Copy video decription</div><div>\u2022 Copy video link</div><div>\u2022 Copy Music link</div><div>\u2022 Auto Play Next Video</div><div>\u2022 Show progress bar</div><div>\u2022 Confirm like</div><div>\u2022 Confirm comment like</div><div>\u2022 Confirm comment dislike</div><div>\u2022 Confirm follow</div><div>\u2022 Save profile image</div><div>\u2022 Copy profile information</div><div>\u2022 Profile Video Count</div><div>\u2022 Video Upload Date</div><div>\u2022 Video Like Count</div><div>\u2022 Always Upload In HD</div><div>\u2022 Extend bio</div><div>\u2022 Extend comment</div><div>\u2022 Always open in Safari</div><div>\u2022 Changing region</div><div>\u2022 Fake verify blue mark</div><div>\u2022 Fake Follower count</div><div>\u2022 Fake Following count</div><div>\u2022 Padlock</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1241/bhtiktok_icon.png"
     },
     {
       "name": "blurt.blog",
@@ -622,6 +611,17 @@
         }
       ],
       "appID": "blog.blurt.blurt"
+    },
+    {
+      "name": "Buddy: Budget Planner App",
+      "bundleIdentifier": "com.blatant.buddybudgetplannerapp",
+      "developerName": "Blatant",
+      "version": "13.29",
+      "versionDate": "2026-03-18T19:14:39.000Z",
+      "size": 80979677,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/BuddyBudget.ipa",
+      "localizedDescription": "Buddy helps you set up a budget and keep track of your expenses, either by yourself or together with your loved ones.\r<div class=\"\">Here\u2019s what is waiting for you inside:\r</div><div class=\"\"><br></div><div class=\"\"><b>BUDGETS\r</b></div><div>Buddy will help you not to overspend on your well-earned salary by setting up a budget plan that fits you. \r</div><div>Do you want a shared budget with your partner? Or keep the expenses between you and your mates fair on the vacation? No problem, just invite them and get a clear picture of who spent what.\r</div><div class=\"\"><b>CONNECT YOUR BANK\r</b></div><div>Import all transactions from your bank account into Buddy and see how your budget is doing.\r</div><div class=\"\"><b>OVERVIEW\r</b></div><div>We'll give you a beautiful &amp; detailed overview of your spendings, income, and savings.\r</div><div class=\"\"><b>SPLIT</b></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/3IhFVCQ.jpeg"
     },
     {
       "name": "Captions: For Talking Videos",
@@ -3327,6 +3327,17 @@
       "appID": "com.luma-touch.LumaFusion"
     },
     {
+      "name": "LUT Studio: Color Grade App",
+      "bundleIdentifier": "com.blatant.lutstudiocolorgradeapp",
+      "developerName": "Blatant",
+      "version": "3.0.7",
+      "versionDate": "2026-03-18T16:03:12.000Z",
+      "size": 109369072,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/LUTStudio.ipa",
+      "localizedDescription": "LUT Studio - Cinematic Video LUTs &amp; Film Look Editor\r<div class=\"\">Transform your footage with cinematic color grading using LUT Studio - the ultimate video color correction and editing app for creators, filmmakers, and mobile videographers. With just a few taps, you can apply beautiful, professional-grade video filters and give your videos a stunning film look. Whether you're shooting vlogs, short films, or social media clips, LUT Studio brings the power of DaVinci Resolve - style color correction to your phone.\r</div><div class=\"\"><b>Cinematic color grading made it easy.\r</b></div><div class=\"\">Import your clip, browse through our 90+ built-in LUTs, and instantly apply rich, moody, or vibrant tones. Our filters are optimized to match the color of a wide variety of footage styles. Whether you're aiming for a bold look or subtle enhancement, cinematic camera effects are now mobile.\r</div><div class=\"\"><br></div><div class=\"\"><b>LOG profile support\r</b></div><div>Take complete control over your dynamic range with support for major flat color profiles, including:\r</div><div>\u2022 Apple Log\r</div><div>\u2022 DJI Osmo Pocket 3 D-Log\r</div><div>\u2022 DJI Mini 4 Pro\r</div><div class=\"\">\u2022 And more coming soon</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/ZsXfLpt.jpeg"
+    },
+    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -3864,17 +3875,6 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
-      "name": "Peachy Pro",
-      "bundleIdentifier": "com.dvntm.peachypro",
-      "developerName": "dvntm",
-      "version": "2.10.0",
-      "versionDate": "2026-03-01T13:42:43.000Z",
-      "size": 102963908,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PeachyPro.ipa",
-      "localizedDescription": "Aiming at perfection in everything, Peachy is a powerful &amp; handy pro photo editor, especially for selfie editing &amp; retouching, body shape editing.<div><br></div><div>Everybody is an excellent photographer with this simple retouch tool, it helps you meet the best version of you, smooth skin, whiten teeth, reshape face, fix blemishes, remove wrinkles, become taller, add makeup, tattoo, muscles &amp; filters and so on.</div><div><br></div><div>Peachy provides lots of portrait and selfie photo editing features. Download it and give a try!</div><div><br></div><div>RETOUCH</div><div>\u00b7Remove wrinkles and acne</div><div>\u00b7Smooth and brightened your skin</div><div>\u00b7Reduce dark circles under your eyes</div><div>\u00b7Whiten your teeth</div><div>\u00b7Add volume and darken your eyebrow</div><div><br></div><div>RESHAPE</div><div>\u00b7Reshape your body and facial structure</div><div>\u00b7Refine a specific area of the selfie, for example, arms or facial features</div><div>\u00b7Bloat your breast, enlarge muscles and facial features</div><div><br></div><div>HEIGHT CORRECTION</div><div>\u00b7Elongate your legs and become taller</div><div>\u00b7Enhance your body both laterally and longitudinally</div><div><br></div><div>ADD MUSCLES</div><div>\u00b7Add six pack abs muscles</div><div>\u00b7Add chest muscles</div><div><br></div><div>ADD TATTOO</div><div>\u00b7Add creative tattoos to your body</div><div><br></div><div>LIGHTING EFFECTS</div><div>\u00b7Improve lighting effects of the selfie or portrait</div><div><br></div><div>ACCESSORIES</div><div>\u00b7Decorate your selfie or portrait with stylish accessories</div><div><br></div><div>FILTERS</div><div>\u00b7High-fashion vintage filters, perfect for selfie</div><div><br></div><div>ADJUST</div><div>\u00b7Create custom filters by adjusting brightness, contrast etc.</div><div><br></div><div>Perfect your selfies or portraits in Peachy, and share with your friends online, it can be fun and inspiring!</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/876/PeachyPro_icon.png"
-    },
-    {
       "name": "PewDiePie's Tuber Simulator",
       "bundleIdentifier": "com.glehack.pewdiepiestubersimulator",
       "developerName": "GLEHack",
@@ -3944,15 +3944,15 @@
       "iconURL": "https://flekstore.com/img-storage/apps/725/Photoshop_icon.png"
     },
     {
-      "name": "PicsArt Pro",
-      "bundleIdentifier": "com.dangerouspixel.picsartpro",
-      "developerName": "Dangerous Pixel",
-      "version": "29.4.2",
-      "versionDate": "2026-03-01T13:42:01.000Z",
-      "size": 71112152,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
-      "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/966/picsart_icon.png"
+      "name": "Pigment - Adult Coloring Book",
+      "bundleIdentifier": "com.blatant.pigmentadultcoloringbook",
+      "developerName": "Blatant",
+      "version": "3.10",
+      "versionDate": "2026-03-18T15:42:50.000Z",
+      "size": 138981658,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ColoringBookPigment.ipa",
+      "localizedDescription": "\n<div class=\"\"><b>Coloring is a great way to relax and reduce stress and anxiety.&nbsp;&nbsp;</b></div><div class=\"\">Just 10 minutes of coloring can provide the same benefits as meditation. It helps you practice mindfulness, stay present, enhance concentration, build creativity, and is a great alternative to games!</div><div>Pigment, an award-winning coloring app, is a sanctuary for relaxation, nourishing your creative spirit, and providing daily inspiration. Within its vibrant community of artists, you'll discover a wealth of positivity and wholehearted encouragement.\n</div><div>Enjoy thousands of coloring pages and tools and brushes you won\u2019t find anywhere else. Immerse yourself in a coloring experience that lets you draw, paint and color as you would on paper, with 30+ different pencils, markers, and brushes. \n</div><div>Beginner? Try our Tap-To-Fill mode. Advanced? Check out Freehand, Automatic, and Advanced modes for a more nuanced experience.\n</div><div>Import your own images, or choose from our huge collection of illustrations and grayscale images including flowers, mermaids, people, animals, landscapes, anime, mandalas, and tons more! Or start with a blank page and use Pigment as a sketchbook.\n</div><div>Easily share your creations with friends and family via social media, email, text - even print them for framing!</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://i.imgur.com/t0n76LW.png"
     },
     {
       "name": "Play!",
