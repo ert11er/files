@@ -4,17 +4,6 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
-      "name": " CollaNote: Notes and PDF Markup",
-      "bundleIdentifier": "com.blatant.collanotenotesandpdfmarkup",
-      "developerName": "Blatant",
-      "version": "4.0.6",
-      "versionDate": "2026-03-01T13:46:11.000Z",
-      "size": 130003270,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CollaNote.ipa",
-      "localizedDescription": "<b>BUILT FOR APPLE PENCIL WITH AN ENHANCED WRITING EXPERIENCE:\r</b><div>- 25+ different pens and brushes to transform your notes into artwork.\r</div><div>- Handwriting stabilizer for beautiful, smooth writing.\r</div><div>- Enjoy a calming ASMR note-taking experience.\r</div><div class=\"\">- Infinite Arc Menu available for both Apple Pencil Pro and Apple Pencil Gen 2.\r</div><div class=\"\"><br></div><div class=\"\"><b>IMPORT, MARK-UP, AND EXPORT PDF:\r</b></div><div>- Import and mark up PDFs, PPTs, DOCs, and Images effortlessly.\r</div><div>- In-built scanner to digitize your physical documents.\r</div><div class=\"\">- Export notes to PDF and share with ease.\r</div><div class=\"\"><br></div><div class=\"\"><b>POWERFUL TOOLS:\r</b></div><div>- Translation tool to learn new languages, supporting over 90 languages.\r</div><div>- Create flashcards with audio and images, or use our extensive library.\r</div><div>- Beautiful Planners for tracking tasks, deadlines, and schedules.\r</div><div class=\"\">- Record and sync audio directly within your notes.\r</div><div class=\"\"><br></div><div class=\"\"><b>UNLIMITED PAPERS AND NOTEBOOKS:\r</b></div><div>- Unlimited paper with versatile grids/lines and 150+ colorful templates.\r</div><div>- Keep all your notes organized and easily accessible from anywhere.\r</div><div>- Automatically back up to iCloud and sync across iOS devices.\r</div><div>- Smart Dark Mode for optimal visibility in any lighting.\r</div><div>- Password protection for ultimate note security.\r</div><div><br></div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1463/CollaNote_icon.png"
-    },
-    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -1689,17 +1678,6 @@
       "size": 17958943
     },
     {
-      "name": "Duet Display",
-      "bundleIdentifier": "com.blatant.duetdisplay",
-      "developerName": "Blatant",
-      "version": "3.1.2",
-      "versionDate": "2026-03-03T15:09:01.000Z",
-      "size": 43860814,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/DuetDisplay.ipa",
-      "localizedDescription": "<div class=\"\">Install host app on PC or Mac from here <a href=\"https://www.duetdisplay.com/\">https://www.duetdisplay.com/</a></div><div><br></div>Duet turns your iPad or iPhone into the most advanced extra display for your Mac &amp; PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.<div><br><div></div><div class=\"\"><b>\u2014 DO MORE \u2014\r</b></div><div class=\"\">Be twice as productive by multitasking with two screens. And for those that travel, have a portable way to stay productive. \r</div><div class=\"\"><br></div><div class=\"\"><b>\u2014 INCREDIBLY SIMPLE \u2014\r</b></div><div>To get started, plug your iPad into your desktop using your charging cable. The free Duet desktop app will automatically detect your device, and transform it into a high performance touchscreen display.\r</div><div class=\"\">There\u2019s no need to worry about unreliable Wi-Fi, laggy performance, pixelated screens or managing network passwords. \r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>\u2014 TOUCHSCREEN \u2014\r</b></div><div>Interact with Mac &amp; PC like never before, with touch &amp; gestures, including two-finger scrolling, pan and zoom.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1433/DuetDisplay_icon.png"
-    },
-    {
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
@@ -2270,12 +2248,23 @@
       "name": "Fortnite",
       "bundleIdentifier": "com.epicgames.fortnite",
       "developerName": "Epic Games",
-      "version": "39.51",
-      "versionDate": "2026-03-05T16:26:02.000Z",
+      "version": "40.00",
+      "versionDate": "2026-03-19T19:51:37.000Z",
       "size": 237086916,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
       "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
       "iconURL": "https://i.imgur.com/85tRTde.jpeg"
+    },
+    {
+      "name": "Gardenscapes Hack",
+      "bundleIdentifier": "com.glehack.gardenscapeshack",
+      "developerName": "GLEHack",
+      "version": "9.4.5",
+      "versionDate": "2026-03-19T17:00:42.000Z",
+      "size": 154434000,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Gardenscapes.ipa",
+      "localizedDescription": "<div class=\"\"><i class=\"\"><br></i></div><h3><span class=\"\">Features:<br>\n</span><span class=\"\">- Infinite Moves<br>\n</span><span class=\"\">- Infinite Boosters<br>\n</span><span class=\"\">- Infinite Lives</span></h3><div class=\"\"><span class=\"\">Tap to slay hundreds of Titans with your sword as you journey through the land in this clicker RPG adventure. Upgrade your blade for new gear, gather pets, and enter multiplayer clan raids with users across the globe to leave your legacy as the Ultimate Sword Master.</span></div><div class=\"\"><span class=\"\"><br></span></div><div class=\"\"><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/833/Gardenscapes_icon.png"
     },
     {
       "name": "GBA4iOS",
@@ -2313,6 +2302,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/GloryAges.ipa",
       "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a></div><div><br></div><b>Hack Features\r</b><div class=\"\"><b>- Unlimited Everything -&gt; Earn or spend some. This modifies everything. Currencies, boosters, health, damage, stamina.</b></div><div class=\"\"><b><br></b></div><div class=\"\"><b><br></b></div><div class=\"\"><b>GLORY AGES Vikings</b> is a hardcore tactical action game that transports you to the brutal age of the Northmen. Experience a deep, skill-based combat system from the creators of the hit Glory Ages Samurais.\r</div><div class=\"\"><br></div><div class=\"\"><b>SKILL-BASED COMBAT \r</b></div><div class=\"\">Forget mindless button-mashing. Here, victory depends on your timing and ability to outsmart the enemy. Master the art of war:\r</div><div class=\"\">Parry &amp; Dodge: Wait for the perfect window to launch a devastating counter-attack.\r</div><div class=\"\">Active Skills: Chain strikes and use special abilities to break your opponent's defense.\r</div><div class=\"\">Advanced AI: Every enemy has a unique fighting style. Some are aggressive, others are cautious\u2014learn to read them all.\r</div><div class=\"\"><br></div><div class=\"\"><b>FORGE YOUR LEGEND\r</b></div><div class=\"\">Deep Progression: Unlock new combat techniques and upgrade your hero\u2019s attributes.\r</div><div class=\"\">Authentic Arsenal: A wide selection of historically inspired armors and sharpest swords.\r</div><div class=\"\">Cinematic Visuals: Fight across highly detailed locations with dynamic weather and atmospheric soundtracks.\r</div><div class=\"\"><br></div><div class=\"\"><b>TRUE OFFLINE EXPERIENCE\r</b></div><div class=\"\">No Internet Required: Fully playable offline.\r</div><div class=\"\">Play Anywhere: The perfect high-quality action game for travel or commuting.</div><div class=\"\"><b>\r</b></div><div class=\"\"><b>\r</b></div><div class=\"\"><b>\r</b></div><div class=\"\"><b>\r</b></div>",
       "iconURL": "https://i.imgur.com/QawBnrY.jpeg"
+    },
+    {
+      "name": "Grim Soul: Survival",
+      "bundleIdentifier": "com.glehack.grimsoulsurvival",
+      "developerName": "GLEHack",
+      "version": "8.0.5",
+      "versionDate": "2026-03-19T15:55:23.000Z",
+      "size": 173219080,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
+      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/810/grimsoul_icon.png"
     },
     {
       "name": "HabitKit",
@@ -2401,8 +2401,8 @@
       "name": "Homescapes Hack",
       "bundleIdentifier": "com.glehack.homescapeshack",
       "developerName": "GLEHack",
-      "version": "8.6.600",
-      "versionDate": "2026-03-04T20:11:24.000Z",
+      "version": "8.7.10",
+      "versionDate": "2026-03-19T15:57:02.000Z",
       "size": 184549376,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Homescapes.ipa",
       "localizedDescription": "<p class=\"\"><b>Hack Features:</b></p><p class=\"\"></p><ul><li><b>Infinite Moves</b></li><li><b>Infinite Lives</b></li><li><b>Infinite Boosters</b></li><li><b>Complete tasks without stars</b></li><li><b class=\"\">Unlock Season Pass</b></li></ul><p></p><p class=\"\">Welcome to Homescapes, a warm and cozy game. Make match-3 combinations and turn every corner of your home into an inviting place to relax and have fun.\n</p><p class=\"\">Solve puzzles, restore the interior room by room, and meet new friends in every chapter of the exciting storyline. Austin the butler is ready to welcome you to a world of incredible adventures!</p><p class=\"\">\n</p><p class=\"\">\n</p>\n",
@@ -3167,8 +3167,8 @@
       "name": "Jurassic World\u2122: The Game Hack",
       "bundleIdentifier": "com.glehack.jurassicworldthegamehack",
       "developerName": "GLEHack",
-      "version": "1.88.16",
-      "versionDate": "2026-03-09T16:55:27.000Z",
+      "version": "1.89.9",
+      "versionDate": "2026-03-19T15:53:48.000Z",
       "size": 902139897,
       "downloadURL": "https://s3.flekstore.com/ipa-library/JurassicWorld.ipa",
       "localizedDescription": "<h3><i>Features:</i></h3><div><ul><li>Freeze all Currencies\r</li><li>Unlimited Special Packs\r</li><li>Evolution Always Successful\r</li><li><span class=\"\">Feed Instant Max Level\r</span></li><li>Free Speed Up Cost\r</li><li class=\"\">VIP Enabled</li></ul></div><div class=\"\"><br></div>Return to Isla Nublar with the creators of the smash hit Jurassic Park\u2122 Builder for your next adventure: Jurassic World\u2122: The Game, the official mobile game based on this summer\u2019s epic action-adventure. Bring to life more than 300 colossal dinosaurs from the new film and challenge your opponents in earth-shaking battles. Construct the theme park of tomorrow in this unrivaled build-and-battle dinosaur experience.",
@@ -3338,6 +3338,17 @@
       "iconURL": "https://i.imgur.com/ZsXfLpt.jpeg"
     },
     {
+      "name": "MadOut 2: Grand Auto Racing",
+      "bundleIdentifier": "com.glehack.madout2grandautoracing",
+      "developerName": "GLEHack",
+      "version": "19.01",
+      "versionDate": "2026-03-19T15:59:44.000Z",
+      "size": 982235042,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MadOutTwo.ipa",
+      "localizedDescription": "<h3 class=\"\">Hacks:</h3><div><ul><li>Unlimited Ammo</li><li>Rapidfire</li><li>Stop car traffic</li><li>Stop human traffic</li><li>Stop Police traffic</li><li>Boost car speed</li><li>No Ads</li></ul></div><div><br></div>Complete freedom of action and communication with other players surrounded by visceral stylish Eastern Europe locations. Ready to be the next Big City Legend? Become a real gangster and join the crazy MadOut 2 online family!\n<div>\n</div><div>\n</div><div>Gameplay for every taste:\n</div><div>1. Play with other players online in multiplayer mode (up to 200 on the server!) and in single player mode offline.\n</div><div>2. More than 30 story missions with awesome plot twists with insane crimes and mafia RP elements.\n</div><div>3. Online jobs: earn money together in a single world! Be a serious gangstar boss or lawful civilian guy!</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1319/MadOutTwo_icon.png"
+    },
+    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -3425,17 +3436,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "Mimo: Learn Coding/Programming",
-      "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
-      "developerName": "Blatant",
-      "version": "12.2.0",
-      "versionDate": "2026-03-01T13:44:08.000Z",
-      "size": 136645016,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
-      "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1409/mimo_icon.png"
     },
     {
       "name": "Mini vMac",
@@ -3878,12 +3878,12 @@
       "name": "PewDiePie's Tuber Simulator",
       "bundleIdentifier": "com.glehack.pewdiepiestubersimulator",
       "developerName": "GLEHack",
-      "version": "2.72.0",
-      "versionDate": "2026-03-04T20:12:32.000Z",
+      "version": "2.73.0",
+      "versionDate": "2026-03-19T15:56:32.000Z",
       "size": 198483742,
       "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
       "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
-      "iconURL": "https://i.imgur.com/M3rXA2V.jpeg"
+      "iconURL": "https://i.imgur.com/xV2dTrU.png"
     },
     {
       "name": "Photomath++",
@@ -4313,17 +4313,6 @@
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
     },
     {
-      "name": "Regram for Instagram",
-      "bundleIdentifier": "com.fouadraheb.regramforinstagram",
-      "developerName": "Fouad Raheb",
-      "version": "418.2 (2.6.1)",
-      "versionDate": "2026-03-03T14:46:40.000Z",
-      "size": 204357512,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/regram.ipa",
-      "localizedDescription": "<span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Built-into Instagram</b></span><div>Runs inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features</div><div class=\"\"><b>Profile Analyzer</b></div><div>Scans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).</div><div class=\"\"><b>Stories Archive</b><br>Automatically download and store all your uploaded Stories including the full viewers and likers list and allow to view analytics of top viewers and likers.</div><div class=\"\"><b>Media Downloader</b></div><div class=\"\">Downloads any Instagram media, including posts, stories, reels, post audio, and direct messages.</div><div class=\"\"><b>Privacy</b></div><div class=\"\">View stories and read direct messages without sending seen receipts, send them manually with a single tap.</div><div class=\"\"><b>Messages</b></div><div class=\"\">Keep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.</div><div class=\"\"><b>Utilities &amp; Customization</b></div><div class=\"\">Confirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.<br><br></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1239/regram_icon.png"
-    },
-    {
       "name": "RetroArch",
       "bundleIdentifier": "com.libretro.RetroArchiOS11",
       "developerName": "libretro",
@@ -4478,6 +4467,17 @@
         }
       ],
       "appID": "org.scummvm.scummvm"
+    },
+    {
+      "name": "Shadow Fight 3",
+      "bundleIdentifier": "com.glesign.shadowfight3",
+      "developerName": "GLESign",
+      "version": "1.44.3",
+      "versionDate": "2026-03-19T15:59:22.000Z",
+      "size": 164015105,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ShadowFight3.ipa",
+      "localizedDescription": "<h3 class=\"\">Hack Features:\n</h3><div class=\"\"><ul><li class=\"\">High Damage&nbsp;</li><li>Freeze Enemies</li></ul></div>Keep your finger on the pulse of innovation! Learn all about the abilities of Raid bosses and how to defeat them!<div><br></div><div>Legend has it that a hero will come to end the fight for shadow energy. He will have to learn three fighting styles, collect the best weapons and challenge the strongest warriors.</div><div><br></div><div>The world is on the edge of an epic war. The mighty force unleashed by the Gates of Shadows many years ago has turned into a weapon, and now three war clans are fighting to decide the future of this force.</div><div><br></div><div>The Legion warriors want to destroy the dangerous energy. The people of the Dynasty want to use it for their own benefit. While the mysterious ninjas of the Heralds clan explore the darkest secrets of the shadow power.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1313/ShadowFight3_icon.png"
     },
     {
       "name": "Sileo Demo",
