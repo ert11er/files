@@ -2257,8 +2257,8 @@
     },
     {
       "name": "Gardenscapes Hack",
-      "bundleIdentifier": "com.glehack.gardenscapeshack",
-      "developerName": "GLEHack",
+      "bundleIdentifier": "com.markuz777.gardenscapeshack",
+      "developerName": "markuz777",
       "version": "9.4.5",
       "versionDate": "2026-03-19T17:00:42.000Z",
       "size": 154434000,
@@ -2305,8 +2305,8 @@
     },
     {
       "name": "Grim Soul: Survival",
-      "bundleIdentifier": "com.glehack.grimsoulsurvival",
-      "developerName": "GLEHack",
+      "bundleIdentifier": "com.markuz777.grimsoulsurvival",
+      "developerName": "markuz777",
       "version": "8.0.5",
       "versionDate": "2026-03-19T15:55:23.000Z",
       "size": 173219080,
@@ -2399,8 +2399,8 @@
     },
     {
       "name": "Homescapes Hack",
-      "bundleIdentifier": "com.glehack.homescapeshack",
-      "developerName": "GLEHack",
+      "bundleIdentifier": "com.markuz777.homescapeshack",
+      "developerName": "markuz777",
       "version": "8.7.10",
       "versionDate": "2026-03-19T15:57:02.000Z",
       "size": 184549376,
@@ -3165,8 +3165,8 @@
     },
     {
       "name": "Jurassic World\u2122: The Game Hack",
-      "bundleIdentifier": "com.glehack.jurassicworldthegamehack",
-      "developerName": "GLEHack",
+      "bundleIdentifier": "com.markuz777.jurassicworldthegamehack",
+      "developerName": "markuz777",
       "version": "1.89.9",
       "versionDate": "2026-03-19T15:53:48.000Z",
       "size": 902139897,
@@ -3221,14 +3221,14 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.7.3",
-      "versionDate": "2026-02-27T04:15:38Z",
-      "versionDescription": "Nightly build from [47fe868](https://github.com/LiveContainer/LiveContainer/commit/47fe868): Bump version & fix icon border radius in sorting view\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23351309378/attempts/1).\n",
+      "versionDate": "2026-03-21T04:47:27Z",
+      "versionDescription": "Nightly build from [d4354b0](https://github.com/LiveContainer/LiveContainer/commit/d4354b0): Move multitask options to a separate view\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23372262480/attempts/2).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4523860,
+      "size": 4527183,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3287,16 +3287,16 @@
       "versions": [
         {
           "version": "3.7.3",
-          "date": "2026-02-27T04:15:38Z",
-          "localizedDescription": "Nightly build from [47fe868](https://github.com/LiveContainer/LiveContainer/commit/47fe868): Bump version & fix icon border radius in sorting view\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23351309378/attempts/1).\n",
+          "date": "2026-03-21T04:47:27Z",
+          "localizedDescription": "Nightly build from [d4354b0](https://github.com/LiveContainer/LiveContainer/commit/d4354b0): Move multitask options to a separate view\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23372262480/attempts/2).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4523860,
-          "commit": "47fe868",
-          "headline": "Bump version & fix icon border radius in sorting view"
+          "size": 4527183,
+          "commit": "d4354b0",
+          "headline": "Move multitask options to a separate view"
         }
       ],
-      "commit": "47fe868",
-      "headline": "Bump version & fix icon border radius in sorting view"
+      "commit": "d4354b0",
+      "headline": "Move multitask options to a separate view"
     },
     {
       "name": "LumaFusion",
@@ -3339,8 +3339,8 @@
     },
     {
       "name": "MadOut 2: Grand Auto Racing",
-      "bundleIdentifier": "com.glehack.madout2grandautoracing",
-      "developerName": "GLEHack",
+      "bundleIdentifier": "com.markuz777.madout2grandautoracing",
+      "developerName": "markuz777",
       "version": "19.01",
       "versionDate": "2026-03-19T15:59:44.000Z",
       "size": 982235042,
@@ -3876,8 +3876,8 @@
     },
     {
       "name": "PewDiePie's Tuber Simulator",
-      "bundleIdentifier": "com.glehack.pewdiepiestubersimulator",
-      "developerName": "GLEHack",
+      "bundleIdentifier": "com.markuz777.pewdiepiestubersimulator",
+      "developerName": "markuz777",
       "version": "2.73.0",
       "versionDate": "2026-03-19T15:56:32.000Z",
       "size": 198483742,
@@ -4470,8 +4470,8 @@
     },
     {
       "name": "Shadow Fight 3",
-      "bundleIdentifier": "com.glesign.shadowfight3",
-      "developerName": "GLESign",
+      "bundleIdentifier": "com.markuz777.shadowfight3",
+      "developerName": "markuz777",
       "version": "1.44.3",
       "versionDate": "2026-03-19T15:59:22.000Z",
       "size": 164015105,
