@@ -4,6 +4,28 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
+      "name": " YouCut - AI Video Editor",
+      "bundleIdentifier": "com.blatant.youcutaivideoeditor",
+      "developerName": "Blatant",
+      "version": "1.28",
+      "versionDate": "2026-03-25T19:33:52.000Z",
+      "size": 85717416,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YouCut.ipa",
+      "localizedDescription": "YouCut as an AI [Video Editor] &amp; [Video Maker] for YouTube and other social media, features a unique timeline design that makes video editing easier and more efficient. Easy to edit videos with music, AI effects, captions, emoji, text to speech, etc.<div><br><div>\r</div><div class=\"\"><b class=\"\">Easy &amp; No Watermark</b></div><div class=\"\">Edit videos like a pro. Whether you want to make photo videos or share moments with friends, YouCut is the best video editing app with all features you need.\r</div><div class=\"\"><br></div><div class=\"\">Features:\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Powerful Video Editor and Movie Maker</b></div><div class=\"\">YouCut as one of top AI video editor apps, provide you with AI Avatar, AI Captions, AI Enhance, AI Cutout, etc. You can zoom in/out timeline for precisely editing. No banner ads.\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">AI Video Editor</b></div><div>AI Video Enhance - Restore blurry videos and photos to HD.\r</div><div>Auto Captions -  Generate accurate captions for social media.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/7JWqXLp.png"
+    },
+    {
+      "name": "(Not Boring) Habits",
+      "bundleIdentifier": "com.blatant.notboringhabits",
+      "developerName": "Blatant",
+      "version": "3.33",
+      "versionDate": "2026-03-25T20:38:21.000Z",
+      "size": 210605967,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/NotBoring.ipa",
+      "localizedDescription": "\r<div>SCIENCE-BACKED METHOD TO BUILD BETTER HABITS</div><div class=\"\">Building habits doesn\u2019t have to be miserable. !Habits is the fun, guilt-free way to build better habits. No streaks. No guilt.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>60 REPETITIONS\r</b></div><div class=\"\">Science has shown that a new habit needs to be repeated 60 times for it to stick. It doesn\u2019t matter if you miss a day or break a streak. It just matters that you do it 60 times. Great habit builders learn to ignore the goal and falling in love with the journey.\r</div><div class=\"\"><br></div><div class=\"\"><b>WE\u2019LL BE YOUR GUIDE\r</b></div><div class=\"\">Every day we will help you take another step and guide you along your journey to reach 60 repetitions until you\u2019ve mastered your new habit.\r</div><div class=\"\"><br></div><div class=\"\"><b>NO GUILT. NO STREAKS.\r</b></div><div class=\"\">If you miss a day or two, we don\u2019t guilt you.\r</div><div class=\"\"><br></div><div class=\"\"><b>JUST GOOD FUN VIBES.\r</b></div><div>Every step forward is progress.&nbsp;</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/a9d4FoT.jpeg"
+    },
+    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -65,17 +87,6 @@
           "absoluteVersion": "2021.9"
         }
       ]
-    },
-    {
-      "name": "AI Calorie Tracker by Yazio",
-      "bundleIdentifier": "com.blatant.aicalorietrackerbyyazio",
-      "developerName": "Blatant",
-      "version": "12.75.0",
-      "versionDate": "2026-03-09T17:24:52.000Z",
-      "size": 119803119,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AICalorieTracker.ipa",
-      "localizedDescription": "<b>Welcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\r</b><div><b>\r</b></div><div class=\"\"><b>Track calories, eat better and reach your goals with Yazio\u2019s free calorie counter app!\r</b></div><div class=\"\"><b><br></b></div><div class=\"\">Yazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the help of its AI calorie tracker. Yazio combines a science-backed approach with cutting-edge AI calorie tracker technology to deliver long-term results without the need for extreme diets.\r</div><div class=\"\"><br></div><div><ul><li class=\"\">- Easy-to-use AI calorie tracker and food tracker\r</li><li>- Calorie deficit tracker to reach your weight goals\r</li><li>- Huge food database with 95% of all food items\r</li><li>- Calorie tracker with barcode scanner\r</li><li>- Meal planning, food tracker and personalized recipes\r</li><li>- Integrated step and activity tracking\r</li><li>- Water tracker with reminders\r</li><li>- Instant access with no signup required\r</li><li>- Regular updates for calorie counter, food tracker and AI calorie tracker tools\r</li><li>- Food tracker and nutrition tools for men and women\r</li><li>- Support for healthy muscle building and weight gain\r</li><li>- Focus on long-term results, not yo-yo dieting</li></ul></div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1460/AICalorieTracker_icon.png"
     },
     {
       "name": "AltStore",
@@ -833,17 +844,6 @@
       "appID": "net.rinsuki.slapps.citra"
     },
     {
-      "name": "CleanMyPhone: Storage Cleaner",
-      "bundleIdentifier": "com.blatant.cleanmyphonestoragecleaner",
-      "developerName": "Blatant",
-      "version": "2.12.1",
-      "versionDate": "2026-03-11T15:13:23.000Z",
-      "size": 103343903,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CleanMyPhone.ipa",
-      "localizedDescription": "What can CleanMyPhone cleaner do?<div><br><div></div><div></div><div class=\"\"><b>CLEAN UP YOUR IPHONE STORAGE\r</b></div><div class=\"\">If you love snapping photos, it\u2019s easy to clog up your phone with blurred images, old screenshots, large videos, and multiple pictures of the same thing. CleanMyPhone will scan your entire library for photo clutter and optimize your storage.\r</div><div class=\"\"><br></div><div class=\"\"><b>DELETE DUPLICATES AND SIMILAR PHOTOS\r</b></div><div class=\"\">We all end up with too many photos in an attempt to get the perfect shot. But do we need all those identical images? CleanMyPhone looks for photo duplicates and similar shots, helping you pick the best picture and remove not-so-good copies.\r</div><div class=\"\"><br></div><div class=\"\"><b>COMPRESS VIDEOS\r</b></div><div class=\"\">CleanMyPhone lets you compress any video with minimal loss of quality. Free up space instantly and keep more of what you love on your iPhone.\r</div><div class=\"\"><br></div><div class=\"\"><b>TURN LIVE PHOTOS TO STILL IMAGES\r</b></div><div>How many Live Photos do you have? Our cleaner app helps you convert Live Photos to still images to free up some space for new ones.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1405/CleanMyPhone_icon.png"
-    },
-    {
       "name": "Clip",
       "bundleIdentifier": "com.rileytestut.Clip",
       "developerName": "Riley Testut",
@@ -944,8 +944,8 @@
       "name": "Coconote - AI Note Taker",
       "bundleIdentifier": "com.blatant.coconoteainotetaker",
       "developerName": "Blatant",
-      "version": "2.43",
-      "versionDate": "2026-03-17T15:41:44.000Z",
+      "version": "2.44",
+      "versionDate": "2026-03-25T20:33:36.000Z",
       "size": 32974725,
       "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
@@ -983,17 +983,6 @@
       ]
     },
     {
-      "name": "Crsel: Carousel and Story Maker",
-      "bundleIdentifier": "com.blatant.crselcarouselandstorymaker",
-      "developerName": "Blatant",
-      "version": "1.3.601",
-      "versionDate": "2026-03-09T17:34:43.000Z",
-      "size": 144457400,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/crsel.ipa",
-      "localizedDescription": "<b>Crsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.</b><div><br><div></div><div class=\"\"><ul><li>Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\r</li><li>From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to design posts that feel intentional, premium, and uniquely yours.\r</li><li>Trendy Collage Templates. Choose from layered, editorial-style templates made for storytelling! Combine multiple photos, add text, and guide your audience through a visual journey.\r</li><li>Story Templates That Match Your Feed. Create IG stories and Reels covers using the same style as your carousels. Maintain a cohesive aesthetic across all your content, from feed to story highlights.\r</li><li>Reels Cover Designer. Design eye-catching Reels thumbnails that match your feed. Crsel helps you maintain a polished and branded look across all formats\r</li><li>AI Cutout Tool. Automatically remove backgrounds from photos with one tap. Easily layer people, objects, or products over textured backdrops and collage elements.</li></ul></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1461/crsel_icon.png"
-    },
-    {
       "name": "Crunchyroll++",
       "bundleIdentifier": "com.crunchyroll.iphone",
       "developerName": "unlimapps",
@@ -1019,17 +1008,6 @@
         }
       ],
       "appID": "com.crunchyroll.iphone"
-    },
-    {
-      "name": "CSR Racing 2 Hacked",
-      "bundleIdentifier": "com.glehack.csrracing2hacked",
-      "developerName": "GLEHack",
-      "version": "6.3.0",
-      "versionDate": "2026-03-09T17:14:18.000Z",
-      "size": 3251796087,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CSR2.ipa",
-      "localizedDescription": "<b class=\"\">Hack Features:</b><br><ul><li class=\"\">Infinite cash</li><li class=\"\">Infinite gold</li><li class=\"\">Infinite keys</li><li class=\"\">No spend fuel</li><li class=\"\">Max LVL</li></ul><div class=\"\">CSR Racing 2 \u2013 This driving simulator game redefines what you thought possible on your mobile device!\r</div><div class=\"\">Setting a new standard in racing game visuals, CSR2 delivers hyper-real drag racing to the palm of your hand. Compete against live players across the world with your custom-built supercars.\r</div><div class=\"\">Team up with friends to form a crew and dominate the competition in global crew events. CSR2 is all-new; download for free and start racing now!</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1276/CSR2_icon.png"
     },
     {
       "name": "Deezer++",
@@ -2077,6 +2055,17 @@
       "beta": false
     },
     {
+      "name": "Facetune",
+      "bundleIdentifier": "com.omtk.facetune",
+      "developerName": "omtk",
+      "version": "26.4",
+      "versionDate": "2026-03-25T20:28:39.000Z",
+      "size": 50934299,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
+      "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/599/Facetune_icon.png"
+    },
+    {
       "name": "Filmr Pro",
       "bundleIdentifier": "com.stey",
       "developerName": "Stei App",
@@ -2165,8 +2154,8 @@
       "name": "Fitia: Calorie Counter and Diet",
       "bundleIdentifier": "com.blatant.fitiacaloriecounteranddiet",
       "developerName": "Blatant",
-      "version": "22.0.1",
-      "versionDate": "2026-03-09T17:31:34.000Z",
+      "version": "22.3.3",
+      "versionDate": "2026-03-25T21:01:58.000Z",
       "size": 151218573,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Fitia.ipa",
       "localizedDescription": "<b>WHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\r</b><div>\u2022  Fitia creates a plan that adapts to your goals, lifestyle, preferences, and progress.\r</div><div class=\"\">\u2022  You\u2019ll always know what to eat, how much to eat, and how many calories you need to lose weight in a healthy, sustainable way.\r</div><div class=\"\"><br></div><div class=\"\"><b>CALORIE COUNTER &amp; NUTRITION TRACKER\r</b></div><div>&nbsp; \u2022  Track calories, macros, fiber, sugar, saturated fat, and 20+ nutrients.\r</div><div>&nbsp; \u2022  Use Fitia as your daily calorie counter, calorie tracking app, food diary, or nutrition tracker.\r</div><div class=\"\">&nbsp; \u2022  Search any food from the largest verified food database in the world, verified by nutritionists for accuracy.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>CALORIE COUNTING WITH PHOTO, VOICE, OR TYPING\r</b></div><div>No time to log food? Fitia makes calorie counting effortless.\r</div><div>&nbsp;\u2022 Log meals with a photo\r</div><div>&nbsp;\u2022 Track calories using your voice\r</div><div>&nbsp;\u2022 Type and track instantly with smart food recognition\r</div><div class=\"\">&nbsp;Your calorie counter has never been this fast.\r</div><div class=\"\"><br></div><div class=\"\"><b>PERSONALIZED MEAL PLANS FOR WEIGHT LOSS &amp; MUSCLE GAIN\r</b></div><div>\u2022 Generate a complete weight loss meal plan or muscle gain plan tailored to your calorie needs, macros, preferences, and schedule.\r</div><div>\u2022 Fitia automatically builds balanced meals that help you stay in a calorie deficit or surplus depending on your goal.</div><div>\r</div><div>\r</div><div>\r</div>",
@@ -2201,17 +2190,6 @@
           "absoluteVersion": "4.3"
         }
       ]
-    },
-    {
-      "name": "Flight Tracker +",
-      "bundleIdentifier": "com.blatant.flighttracker",
-      "developerName": "Blatant",
-      "version": "8.7.4",
-      "versionDate": "2026-03-09T19:08:23.000Z",
-      "size": 79972304,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
     },
     {
       "name": "Flightradar24",
@@ -2313,17 +2291,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
       "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/810/grimsoul_icon.png"
-    },
-    {
-      "name": "HabitKit",
-      "bundleIdentifier": "com.habitkit.habitkit",
-      "developerName": "HabitKit",
-      "version": "1.14.6",
-      "versionDate": "2026-03-11T15:09:48.000Z",
-      "size": 45844865,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/HabitKit.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div>HabitKit is the perfect app for anyone looking to form new habits or break old ones. With HabitKit, you can track your progress with beautiful tile-based grid charts. Whether you're trying to quit smoking, eat healthier, or exercise more, HabitKit can help you achieve your goals. You can customize your dashboard by adjusting colors, icons and descriptions. Draw motivation from growing the amount of colored tiles on your habit dashboard.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1282/HabitKit_icon.png"
     },
     {
       "name": "HD Flix (No Ads)",
@@ -3210,14 +3177,14 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.7.3",
-      "versionDate": "2026-03-21T04:47:27Z",
-      "versionDescription": "Nightly build from [d4354b0](https://github.com/LiveContainer/LiveContainer/commit/d4354b0): Move multitask options to a separate view\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23372262480/attempts/2).\n",
+      "versionDate": "2026-03-21T07:42:33Z",
+      "versionDescription": "Nightly build from [59dd565](https://github.com/LiveContainer/LiveContainer/commit/59dd565): Fix Run in LC2 ignored multitask choice, fix hidden apps from LCGuestURLSchemes\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23536174679/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4527183,
+      "size": 4527226,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3276,16 +3243,16 @@
       "versions": [
         {
           "version": "3.7.3",
-          "date": "2026-03-21T04:47:27Z",
-          "localizedDescription": "Nightly build from [d4354b0](https://github.com/LiveContainer/LiveContainer/commit/d4354b0): Move multitask options to a separate view\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23372262480/attempts/2).\n",
+          "date": "2026-03-21T07:42:33Z",
+          "localizedDescription": "Nightly build from [59dd565](https://github.com/LiveContainer/LiveContainer/commit/59dd565): Fix Run in LC2 ignored multitask choice, fix hidden apps from LCGuestURLSchemes\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23536174679/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4527183,
-          "commit": "d4354b0",
-          "headline": "Move multitask options to a separate view"
+          "size": 4527226,
+          "commit": "59dd565",
+          "headline": "Fix Run in LC2 ignored multitask choice, fix hidden apps from LCGuestURLSchemes"
         }
       ],
-      "commit": "d4354b0",
-      "headline": "Move multitask options to a separate view"
+      "commit": "59dd565",
+      "headline": "Fix Run in LC2 ignored multitask choice, fix hidden apps from LCGuestURLSchemes"
     },
     {
       "name": "LumaFusion",
@@ -3474,15 +3441,15 @@
       ]
     },
     {
-      "name": "Moonly: Moon Phases and Calendar",
-      "bundleIdentifier": "com.blatant.moonlymoonphasesandcalendar",
+      "name": "Minutes: AI Meeting Note Taker",
+      "bundleIdentifier": "com.blatant.minutesaimeetingnotetaker",
       "developerName": "Blatant",
-      "version": "2.6.9",
-      "versionDate": "2026-03-09T17:20:03.000Z",
-      "size": 168242606,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MoonlyMoonPhase.ipa",
-      "localizedDescription": "Align with the Universe\u2019s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.<div><br><div></div><div class=\"\"><b>Daily Guidance\r</b></div><div class=\"\">Micro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\r</div><div class=\"\"><br></div><div class=\"\"><b>Lunar Calendar\r</b></div><div class=\"\">Track moon phases, celestial events, and holidays tied to the lunar cycle with a precise Eastern astrology-based calendar. Get phase-specific tips to lift mood, focus, and creativity in minutes. Know when to rest, act, or reflect for peak wellbeing. Discover daily tips, Full Moon and New Moon rituals, and retrograde insights to align your life with cosmic energy.\r</div><div class=\"\"><br></div><div class=\"\"><b>Personal Astrologer\r</b></div><div class=\"\">Chat with the in-app Astrologer about career moves, travel dates, or self-care, and get a clear, Birth Chart-based answer in seconds</div><div class=\"\"><br></div><div class=\"\"><b>Personal Transits\r</b></div><div>Know the green-light windows for every move you make. Multiply focus, luck, and results.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1467/MoonlyMoonPhase_icon.jpeg"
+      "version": "1.10.1",
+      "versionDate": "2026-03-25T19:49:55.000Z",
+      "size": 12708547,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MinutesAI.ipa",
+      "localizedDescription": "<b>MinutesAI automatically does your meeting notes and transcriptions with AI.</b>&nbsp;<div>Minutes records audio and provides word for word transcripts with speakers labels. Then, it gives you formatted notes, summaries, and the ability to search for key terms/topics. You can ask questions like \u201cWhat stats did Laura reference on her slide?.\u201d\r<div>\r</div><div>\r</div><div class=\"\">Minutes takes care of your notes so you can stay focused on what\u2019s important. It's build with privacy in mind, meaning Minutes will never sell or provide third-party access to your data.\r</div><div class=\"\"><br></div><div>Minutes is great for:\r</div><div>- Taking meeting notes automatically, and easily sharing with your coworkers\r</div><div>- Recording and transcribing interviews, lectures, podcasts, videos, YouTube videos, webinars, keynotes\r</div><div class=\"\">- Providing live captioning to the deaf and managers with a quiet microphone\r</div><div class=\"\"><br></div><div class=\"\">Record &amp; Transcribe Live\r</div><div>- Start recording with one click\r</div><div>- Specify keywords (uncommon words, terms, acronyms, names, etc.) for Minutes AI to listen for\r</div><div>- Specify transcription and summary languages (eg transcribe in Spanish, take notes in English)\r</div><div>- Get a highly accurate live transcription with labeled speakers\r</div><div>- See a list of key points to review later\r</div><div>- Ask questions and chat with the recording using AI</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1401/MinutesAI_icon.png"
     },
     {
       "name": "Movie Box Pro",
@@ -3875,6 +3842,17 @@
       "iconURL": "https://i.imgur.com/xV2dTrU.png"
     },
     {
+      "name": "Phocus: Portrait Mode Editor",
+      "bundleIdentifier": "com.blatant.phocusportraitmodeeditor",
+      "developerName": "Blatant",
+      "version": "3.2.0",
+      "versionDate": "2026-03-25T20:57:12.000Z",
+      "size": 208681769,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Phocus.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div><br></div><div>Phocus is a portrait editor and DSLR-style camera powered by AI, giving you full control over depth, background blur, aperture, bokeh, and focal length. Whether you're capturing cinematic portraits or editing precise lens details, Phocus delivers pro-level photography tools in a fast, intuitive interface built for creators.\r</div><div>Inspired by real optical systems, Phocus lets you emulate DSLR lens behavior\u2014without external gear. Control blur shape and depth radius with real aperture modeling. Adjust lens type, depth dynamics, and recreate unique bokeh styles from vintage and high-end lenses. Apply subtle distortions and optical characteristics for expressive storytelling. Phocus doesn\u2019t just blur the background\u2014it understands the physics of photography.</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1356/Phocus_icon.png"
+    },
+    {
       "name": "Photomath++",
       "bundleIdentifier": "com.microblink.PhotoMath",
       "developerName": "Strejda603",
@@ -3922,22 +3900,11 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
     },
     {
-      "name": "Photoshop Express Hack",
-      "bundleIdentifier": "com.adobe.photoshopexpresshack",
-      "developerName": "Adobe",
-      "version": "26.9.1",
-      "versionDate": "2026-03-11T15:08:53.000Z",
-      "size": 104508698,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoshop.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3>\n\n<p>ENHANCE, STYLIZE AND SHARE YOUR PHOTOS WITH EASE.</p>\n\n<p>Tap into your creativity on the go with Photoshop Express\u2013the fast and easy photo editor\u2013used by millions of creative individuals. Edit pictures like the pros with this easy-to-use digital studio full of photo editing features on your mobile device.</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/725/Photoshop_icon.png"
-    },
-    {
       "name": "PicsArt Pro",
       "bundleIdentifier": "com.dangerouspixel.picsartpro",
       "developerName": "Dangerous Pixel",
-      "version": "29.5.2",
-      "versionDate": "2026-03-23T17:46:32.000Z",
+      "version": "29.6.2",
+      "versionDate": "2026-03-25T21:04:54.000Z",
       "size": 71112152,
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
@@ -4311,6 +4278,17 @@
       "version": "2023.50.1",
       "versionDate": "2024-01-05T12:00:00-01:00",
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
+    },
+    {
+      "name": "Reface",
+      "bundleIdentifier": "com.reface.reface",
+      "developerName": "Reface",
+      "version": "6.4.0",
+      "versionDate": "2026-03-25T20:53:48.000Z",
+      "size": 41665553,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Reface.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">Create professional business photos and revamp your style with the Hair Style and Hair Color tool!\r</div><div>Try Face Swap on Photos and Videos &amp; Generate Stunning AI Headshots Easily. Join the Reface community of over 150 million creators around the world. Enhance your photo collection with stunningly realistic AI baby and headshot generator using the innovation of AI-powered editing features, quickly swap faces on photos, change your hairstyles or social media headshots with templates, create AI content from your favorite moments, choose from tons of stylized photo filters, and more. Reface is your all-in-one AI Face Swap photo &amp; video editor with all the tools you need to create your personal content.</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1006/Reface_icon.png"
     },
     {
       "name": "Regram for Instagram",
@@ -5226,6 +5204,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Tripsy: Travel Planner",
+      "bundleIdentifier": "com.blatant.tripsytravelplanner",
+      "developerName": "Blatant",
+      "version": "3.8.0",
+      "versionDate": "2026-03-25T19:35:15.000Z",
+      "size": 113589404,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/TipsyTravel.ipa",
+      "localizedDescription": "All your travel details in one place. Organize trips, track expenses, sync with your calendar, and get live flight alerts.\r<div>\r</div><div>Tripsy - Trip Planner &amp; Itinerary Organizer is the complete travel planner for creating detailed trip itineraries and organizing every aspect of your journey. Perfect for solo travelers, couples travel, and group travel planning, Tripsy is your all-in-one itinerary maker that keeps flights, accommodations, activities, and reservations organized in one place.\r</div><div class=\"\">Plan smarter with our intuitive trip itinerary builder that automatically imports travel details from emails, works offline, and sends&nbsp;</div><div class=\"\"><br></div><div class=\"\"><b>Your Travel Companion On Every Trip:\r</b></div><div>\u2013 10-day weather forecasts for all destinations\r</div><div>\u2013 Real-time flight updates and notifications\r</div><div>\u2013 Offline access to your complete itinerary\r</div><div>\u2013 Automatic time zone adjustments\r</div><div>\u2013 Seamless itinerary sharing and collaboration</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/4gNEzum.jpeg"
     },
     {
       "name": "Truecaller: Caller ID Lookup ",
