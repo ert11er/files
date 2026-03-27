@@ -844,6 +844,17 @@
       "appID": "net.rinsuki.slapps.citra"
     },
     {
+      "name": "Cleanup: Phone Storage Cleaner",
+      "bundleIdentifier": "com.blatant.cleanupphonestoragecleaner",
+      "developerName": "Blatant",
+      "version": "6.12.0",
+      "versionDate": "2026-03-26T11:23:23.000Z",
+      "size": 127692357,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/CleanUpPhone.ipa",
+      "localizedDescription": "Clean up your iPhone and optimize storage in seconds. \r<div>\r</div><div class=\"\">Remove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage \u2014 all in one app.\r</div><div class=\"\"><br></div><div class=\"\"><b>OPTIMIZE STORAGE \u2013 FREE UP SPACE WITH ONE TAP\r</b></div><div>Running low on space? Cleanup gives you powerful tools to take control:\r</div><div>- Delete duplicate photos and videos\r</div><div>- Remove similar screenshots and lookalike videos\r</div><div>- Compress large files without losing quality\r</div><div>- Clean up spam and promotional emails\r</div><div>- Delete unused contacts and tidy up your address book\r</div><div class=\"\">- Free up storage instantly with one tap.\r</div><div class=\"\"><br></div><div class=\"\"><b>CLEAN YOUR GALLERY FAST - DELETE DUPLICATE PHOTOS\r</b></div><div>No more manual browsing. Cleanup makes it easy:\r</div><div>- Instantly detect and delete duplicate photos\r</div><div>- Smart grouping for similar photos, with \u201cBest\u201d marked\r</div><div>- Remove large, lookalike videos\r</div><div class=\"\">- Identify and delete screenshots in bulk\r</div><div class=\"\"><br></div><div class=\"\"><b>EMAIL CLEANER - DECLUTTER YOUR INBOX\r</b></div><div>Declutter your inbox in seconds:\r</div><div>- Highlight and remove promo, spam, and unread emails\r</div><div class=\"\">- Clear out junk with one tap\r</div><div class=\"\"><br></div><div class=\"\"><b>CONTACTS CLEANUP\r</b></div><div>Keep your contacts organized and up to date:\r</div><div>- Merge duplicates\r</div><div>- Remove incomplete or unused entries\r</div><div>- View and edit from one place</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/XNvrYyy.jpeg"
+    },
+    {
       "name": "Clip",
       "bundleIdentifier": "com.rileytestut.Clip",
       "developerName": "Riley Testut",
@@ -2237,8 +2248,8 @@
       "name": "Gardenscapes Hack",
       "bundleIdentifier": "com.markuz777.gardenscapeshack",
       "developerName": "markuz777",
-      "version": "9.4.5",
-      "versionDate": "2026-03-19T17:00:42.000Z",
+      "version": "9.5.0",
+      "versionDate": "2026-03-26T09:29:28.000Z",
       "size": 154434000,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Gardenscapes.ipa",
       "localizedDescription": "<div class=\"\"><i class=\"\"><br></i></div><h3><span class=\"\">Features:<br>\n</span><span class=\"\">- Infinite Moves<br>\n</span><span class=\"\">- Infinite Boosters<br>\n</span><span class=\"\">- Infinite Lives</span></h3><div class=\"\"><span class=\"\">Tap to slay hundreds of Titans with your sword as you journey through the land in this clicker RPG adventure. Upgrade your blade for new gear, gather pets, and enter multiplayer clan raids with users across the globe to leave your legacy as the Ultimate Sword Master.</span></div><div class=\"\"><span class=\"\"><br></span></div><div class=\"\"><br></div>",
@@ -3160,17 +3171,6 @@
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
     },
     {
-      "name": "Last Day On Earth Hack",
-      "bundleIdentifier": "com.iosgods.lastdayonearthhack",
-      "developerName": "iOSGods",
-      "version": "1.46.0",
-      "versionDate": "2026-03-11T15:21:25.000Z",
-      "size": 499878426,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/lastday.ipa",
-      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p><strong>Hack Features:</strong><br />\r\n&bull; Anti-Cheat -&gt; Disable Cheat detection.<br />\r\n&bull; Item Duplication -&gt; Split an Item to get more.<br />\r\n&bull; Can Duplicate/Split Any Item -&gt; Duplicate any item in your inventory!<br />\r\n&bull; Free Crafting -&gt; Craft without required items. Do not craft unreleased items or your game will stop loading! See the Club to find out which ones you shouldn&#39;t craft.<br />\r\n&bull; Free Building -&gt; Build without required items.<br />\r\n&bull; Free Upgrading -&gt; Upgrade without required items.<br />\r\n&bull; Building hack -&gt; Thanks to the features above<br />\r\n&bull; Infinite Weapon/Item Durability<br />\r\n&bull; Infinite All Armor Durability&nbsp;<br />\r\n&bull; Unlimited Skill Points -&gt; Use skill points to increase them.<br />\r\n&bull; No Level Requirement for Crafting<br />\r\n&bull; Loot Boxes Hack! -&gt; Open 1 loot box and gain 10,000! If IAP/Free Store is patched, use this to gain a lot of loot boxes when opening one.<br />\r\n&bull; Item Increase Hack -&gt; When taking an item from your inbox, it will take it and still keep it in your inbox. If you have a lot of the same item, you can increase said item as much as you want!<br />\r\n&bull; Unlock All Items -&gt; All blueprints unlocked!<br />\r\n&bull; Unlimited Consumables -&gt; Unlimited Food, Water, etc.<br />\r\n&bull; High Rate of Fire -&gt; One Hit Kill. Works well on Shotguns.<br />\r\n&bull; Unlimited Weapon Blueprints - Using the Recycler / Weapon Specialist in Bunker Alfa and the Unlimited Consumable Items Hack, you can get every Weapon Blueprints in the game.<br />\r\n&bull; Bow Instant Charge for Shot -&gt; Tap on the shoot icon to instantly shoot your bow without having to charge it.</p>\r\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/777/lastday_icon.png"
-    },
-    {
       "beta": false,
       "name": "LiveContainer (nightly)",
       "bundleIdentifier": "com.kdt.livecontainer",
@@ -3887,17 +3887,6 @@
         }
       ],
       "appID": "com.microblink.PhotoMath"
-    },
-    {
-      "name": "Photoroom: AI Photo Editor",
-      "bundleIdentifier": "com.blatant.photoroomaiphotoeditor",
-      "developerName": "Blatant",
-      "version": "2026.10.01",
-      "versionDate": "2026-03-11T15:15:14.000Z",
-      "size": 133527206,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
-      "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
     },
     {
       "name": "PicsArt Pro",
@@ -5303,6 +5292,17 @@
           "absoluteVersion": "8.0.2"
         }
       ]
+    },
+    {
+      "name": "Unfold: Story and Reels Maker",
+      "bundleIdentifier": "com.squarespace.unfoldstoryandreelsmaker",
+      "developerName": "Squarespace",
+      "version": "8.156.1",
+      "versionDate": "2026-03-26T08:21:03.000Z",
+      "size": 163485644,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Unfold.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div>\u2014 Stitch video clips together with Reels templates\r<div>\r</div><div>\u2014 Create with template collections like Film\r</div><div>\u2014 Plan and preview your Instagram Feed\r</div><div>\u2014 Remove any background with our AI editing tool\r</div><div>\u2014 Make a Bio Site for your new link in bio\r</div><div class=\"\">\u2014 Edit your content with filters and effects\r</div><div class=\"\"><br></div><div>Reels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\r</div><div>Story, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1281/Unfold_icon.png"
     },
     {
       "name": "UTM",
