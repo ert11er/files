@@ -3177,14 +3177,14 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.7.3",
-      "versionDate": "2026-03-21T07:42:33Z",
-      "versionDescription": "Nightly build from [59dd565](https://github.com/LiveContainer/LiveContainer/commit/59dd565): Fix Run in LC2 ignored multitask choice, fix hidden apps from LCGuestURLSchemes\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23536174679/attempts/1).\n",
+      "versionDate": "2026-03-25T10:25:30Z",
+      "versionDescription": "Nightly build from [1e14014](https://github.com/LiveContainer/LiveContainer/commit/1e14014): Fix 1250 and remove some AI slop\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23678309767/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4527226,
+      "size": 4527009,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3243,16 +3243,16 @@
       "versions": [
         {
           "version": "3.7.3",
-          "date": "2026-03-21T07:42:33Z",
-          "localizedDescription": "Nightly build from [59dd565](https://github.com/LiveContainer/LiveContainer/commit/59dd565): Fix Run in LC2 ignored multitask choice, fix hidden apps from LCGuestURLSchemes\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23536174679/attempts/1).\n",
+          "date": "2026-03-25T10:25:30Z",
+          "localizedDescription": "Nightly build from [1e14014](https://github.com/LiveContainer/LiveContainer/commit/1e14014): Fix 1250 and remove some AI slop\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23678309767/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4527226,
-          "commit": "59dd565",
-          "headline": "Fix Run in LC2 ignored multitask choice, fix hidden apps from LCGuestURLSchemes"
+          "size": 4527009,
+          "commit": "1e14014",
+          "headline": "Fix #1250 and remove some AI slop"
         }
       ],
-      "commit": "59dd565",
-      "headline": "Fix Run in LC2 ignored multitask choice, fix hidden apps from LCGuestURLSchemes"
+      "commit": "1e14014",
+      "headline": "Fix #1250 and remove some AI slop"
     },
     {
       "name": "LumaFusion",
