@@ -3177,14 +3177,14 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.7.3",
-      "versionDate": "2026-03-25T10:25:30Z",
-      "versionDescription": "Nightly build from [1e14014](https://github.com/LiveContainer/LiveContainer/commit/1e14014): Fix 1250 and remove some AI slop\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23678309767/attempts/1).\n",
+      "versionDate": "2026-03-28T05:22:52Z",
+      "versionDescription": "Nightly build from [1e14014](https://github.com/LiveContainer/LiveContainer/commit/1e14014): Fix 1250 and remove some AI slop\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23678309767/attempts/2).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4527009,
+      "size": 4523042,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3243,10 +3243,10 @@
       "versions": [
         {
           "version": "3.7.3",
-          "date": "2026-03-25T10:25:30Z",
-          "localizedDescription": "Nightly build from [1e14014](https://github.com/LiveContainer/LiveContainer/commit/1e14014): Fix 1250 and remove some AI slop\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23678309767/attempts/1).\n",
+          "date": "2026-03-28T05:22:52Z",
+          "localizedDescription": "Nightly build from [1e14014](https://github.com/LiveContainer/LiveContainer/commit/1e14014): Fix 1250 and remove some AI slop\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23678309767/attempts/2).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4527009,
+          "size": 4523042,
           "commit": "1e14014",
           "headline": "Fix #1250 and remove some AI slop"
         }
