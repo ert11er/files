@@ -100,6 +100,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1460/AICalorieTracker_icon.png"
     },
     {
+      "name": "Alien Invasion: RPG Idle Space",
+      "bundleIdentifier": "com.iosgods.alieninvasionrpgidlespace",
+      "developerName": "iOSGods",
+      "version": "4.38.00",
+      "versionDate": "2026-04-02T10:05:13.000Z",
+      "size": 213288353,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/alienInvasion.ipa",
+      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Defeat, evolve, and dominate in this addictive RPG idle game. Command an alien seeking supremacy, growing its army by eating humans. But beware \u2013 powerful bosses stand in your path, determined to halt your ascent. Adapt and evolve your alien to triumph!</div><div><br></div>FEATURES:\r<div>\r</div><div>EVOLVE your alien for new abilities and dominance.\r</div><div>CRUSH waves of humans, challenge mighty bosses.\r</div><div>UPGRADE capacity, speed, and radius for efficiency.\r</div><div>PROGRESS through levels by completing quests.\r</div><div>UNLOCK new locations and face untamed enemies.\r</div><div>IMMERSE yourself in stunning visuals and sound.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1414/alienInvasion_icon.png"
+    },
+    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -515,17 +526,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/792/archero_icon.png"
     },
     {
-      "name": "B612 - AI Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.b612aiphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "15.0.10",
-      "versionDate": "2026-03-17T15:47:26.000Z",
-      "size": 132121404,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/b612.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>B612 is the best all-in-one camera &amp; photo/video editing app. We offer various free features and tools to make every moment more special.\r<div>\r</div><div>Meet trendy effects, filters, and stickers that are updated every day!\r</div><div>=== Main features ===\r</div><div>*Create your own filters*\r</div><div>- Create a one-of-a-kind filter and share it with friends\r</div><div>- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\r</div><div>- Meet the creative and diverse filters of B612 creators.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1347/b612_icon.png"
-    },
-    {
       "name": "BASEBALL 9",
       "bundleIdentifier": "com.iosgods.baseball9",
       "developerName": "iOSGods",
@@ -535,17 +535,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/BASEBALL9.ipa",
       "localizedDescription": "<div><i class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a></i></div><div><br></div><i class=\"\">Features:</i><div><div>- Unlimited Coins</div><div>- Unlimited Stamina</div><div>- Unlimited Gems</div><div>- Unlimited Recruit Tickets</div><div>- Unlimited Gold Badges</div><div>- Unlimited Silver Badges</div><div>- Unlimited Platinum Badges</div><div>- Unlimited XP Drinks</div><div class=\"\">- Unlimited Condition Drinks</div></div><div class=\"\"><br></div><div class=\"\">Enjoy fast-paced, realistic baseball game, featuring compact gameplay and informative stats.</div><div class=\"\"><br></div><div class=\"\">Play BASEBALL NINE to become the Legend League Champion!</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1090/BASEBALL9_icon.png"
-    },
-    {
-      "name": "Bearable - Symptom Tracker",
-      "bundleIdentifier": "com.blatant.bearablesymptomtracker",
-      "developerName": "Blatant",
-      "version": "1.0.589",
-      "versionDate": "2026-03-18T15:54:43.000Z",
-      "size": 58636076,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Bearable.ipa",
-      "localizedDescription": "Feeling overwhelmed by your health? Bearable can help you feel more in control of your symptoms, flare-ups, and overall well-being.\r<div>\r</div><div class=\"\">Join over 900,000 people securely managing their Chronic Illnesses, Migraine, Pain, Headaches, Fatigue, IBS, PoTS, PCOS, EDS, Period, Mood, Mental Health and more - with Bearable.\r</div><div class=\"\"><br></div><div>Bearable helps you discover and manage triggers for changes in your health. Our simple, customizable tracking tools make it easy to understand the correlation between anything you do and the impact it has on your symptoms. \r</div><div class=\"\">By learning what affects your Pain, Headaches, Migraines, Periods, IBS, PCOS, and Mood Disorders, you can take back control of your health, share better information with doctors, and manage triggers, treatments, and medications.\r</div><div class=\"\"><br></div><div class=\"\"><b>FOR PEOPLE WHO WANT TO TRACK:\r</b></div><div>- What makes their health better or worse\r</div><div>- New or unexplained symptoms &amp; flare-ups\r</div><div>- Existing or suspected chronic illnesses\r</div><div>- The impact of medication &amp; treatments\r</div><div>- The effect of habits &amp; activities on health\r</div><div>- Patterns in symptom severity, pain levels, and mood</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/IYMox9T.jpeg"
     },
     {
       "name": "BeReal++",
@@ -593,6 +582,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "BHTikTok+",
+      "bundleIdentifier": "com.ttbetadecryptedxrxtiktok.bhtiktok",
+      "developerName": "TTBeta Decrypted x RXTikTok",
+      "version": "44.5.0 (1.9.3)",
+      "versionDate": "2026-04-02T08:54:24.000Z",
+      "size": 316478159,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/bhtiktok.ipa",
+      "localizedDescription": "<div class=\"\"><i>To use app on USA connect to VPN and turn off Location services in iPhone settings.</i></div><div><br></div><div>Features</div><div>\u2022 No Ads</div><div class=\"\">\u2022 Download Videos</div><div>\u2022 Download HD Videos</div><div>\u2022 Download Photos</div><div>\u2022 Download Musics</div><div>\u2022 Upload Region</div><div>\u2022 Show Username</div><div>\u2022 Disable Pull-to-refresh</div><div>\u2022 Disable Unsensitive warning</div><div>\u2022 Disable Warnings</div><div>\u2022 Disable Live Broadcast</div><div>\u2022 Skip Recommendations</div><div>\u2022 Remove Watermark</div><div>\u2022 Show/Hide UI button</div><div>\u2022 Copy video decription</div><div>\u2022 Copy video link</div><div>\u2022 Copy Music link</div><div>\u2022 Auto Play Next Video</div><div>\u2022 Show progress bar</div><div>\u2022 Confirm like</div><div>\u2022 Confirm comment like</div><div>\u2022 Confirm comment dislike</div><div>\u2022 Confirm follow</div><div>\u2022 Save profile image</div><div>\u2022 Copy profile information</div><div>\u2022 Profile Video Count</div><div>\u2022 Video Upload Date</div><div>\u2022 Video Like Count</div><div>\u2022 Always Upload In HD</div><div>\u2022 Extend bio</div><div>\u2022 Extend comment</div><div>\u2022 Always open in Safari</div><div>\u2022 Changing region</div><div>\u2022 Fake verify blue mark</div><div>\u2022 Fake Follower count</div><div>\u2022 Fake Following count</div><div>\u2022 Padlock</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1241/bhtiktok_icon.png"
     },
     {
       "name": "blurt.blog",
@@ -644,17 +644,6 @@
         }
       ],
       "appID": "blog.blurt.blurt"
-    },
-    {
-      "name": "Buddy: Budget Planner App",
-      "bundleIdentifier": "com.blatant.buddybudgetplannerapp",
-      "developerName": "Blatant",
-      "version": "13.29",
-      "versionDate": "2026-03-18T19:14:39.000Z",
-      "size": 80979677,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BuddyBudget.ipa",
-      "localizedDescription": "Buddy helps you set up a budget and keep track of your expenses, either by yourself or together with your loved ones.\r<div class=\"\">Here\u2019s what is waiting for you inside:\r</div><div class=\"\"><br></div><div class=\"\"><b>BUDGETS\r</b></div><div>Buddy will help you not to overspend on your well-earned salary by setting up a budget plan that fits you. \r</div><div>Do you want a shared budget with your partner? Or keep the expenses between you and your mates fair on the vacation? No problem, just invite them and get a clear picture of who spent what.\r</div><div class=\"\"><b>CONNECT YOUR BANK\r</b></div><div>Import all transactions from your bank account into Buddy and see how your budget is doing.\r</div><div class=\"\"><b>OVERVIEW\r</b></div><div>We'll give you a beautiful &amp; detailed overview of your spendings, income, and savings.\r</div><div class=\"\"><b>SPLIT</b></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/3IhFVCQ.jpeg"
     },
     {
       "name": "Busuu: Language Learning",
@@ -888,6 +877,17 @@
       "appID": "net.rinsuki.slapps.citra"
     },
     {
+      "name": "CleanMyPhone: Storage Cleaner",
+      "bundleIdentifier": "com.blatant.cleanmyphonestoragecleaner",
+      "developerName": "Blatant",
+      "version": "2.13.0",
+      "versionDate": "2026-04-02T08:59:14.000Z",
+      "size": 103343903,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/CleanMyPhone.ipa",
+      "localizedDescription": "What can CleanMyPhone cleaner do?<div><br><div></div><div></div><div class=\"\"><b>CLEAN UP YOUR IPHONE STORAGE\r</b></div><div class=\"\">If you love snapping photos, it\u2019s easy to clog up your phone with blurred images, old screenshots, large videos, and multiple pictures of the same thing. CleanMyPhone will scan your entire library for photo clutter and optimize your storage.\r</div><div class=\"\"><br></div><div class=\"\"><b>DELETE DUPLICATES AND SIMILAR PHOTOS\r</b></div><div class=\"\">We all end up with too many photos in an attempt to get the perfect shot. But do we need all those identical images? CleanMyPhone looks for photo duplicates and similar shots, helping you pick the best picture and remove not-so-good copies.\r</div><div class=\"\"><br></div><div class=\"\"><b>COMPRESS VIDEOS\r</b></div><div class=\"\">CleanMyPhone lets you compress any video with minimal loss of quality. Free up space instantly and keep more of what you love on your iPhone.\r</div><div class=\"\"><br></div><div class=\"\"><b>TURN LIVE PHOTOS TO STILL IMAGES\r</b></div><div>How many Live Photos do you have? Our cleaner app helps you convert Live Photos to still images to free up some space for new ones.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1405/CleanMyPhone_icon.png"
+    },
+    {
       "name": "Cleanup: Phone Storage Cleaner",
       "bundleIdentifier": "com.blatant.cleanupphonestoragecleaner",
       "developerName": "Blatant",
@@ -999,8 +999,8 @@
       "name": "Coconote - AI Note Taker",
       "bundleIdentifier": "com.blatant.coconoteainotetaker",
       "developerName": "Blatant",
-      "version": "2.44",
-      "versionDate": "2026-03-25T20:33:36.000Z",
+      "version": "2.45",
+      "versionDate": "2026-04-02T08:42:57.000Z",
       "size": 32974725,
       "downloadURL": "https://s3.flekstore.com/ipa-library/coconote.ipa",
       "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div>Let AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Study Fetch, Quizard, Answers AI, Otter, Wave AI, and Turbolearn AI.",
@@ -1725,8 +1725,8 @@
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
-      "version": "7.115",
-      "versionDate": "2026-03-23T17:52:27.000Z",
+      "version": "7.116",
+      "versionDate": "2026-04-02T09:04:50.000Z",
       "size": 182898277,
       "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
       "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
@@ -2034,6 +2034,17 @@
       "appID": "com.antique.emuThreeDS"
     },
     {
+      "name": "EPIK - AI Photo and Video Edito",
+      "bundleIdentifier": "com.blatant.epikaiphotoandvideoedito",
+      "developerName": "Blatant",
+      "version": "7.0.160",
+      "versionDate": "2026-04-02T08:56:23.000Z",
+      "size": 167590962,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/EpikAI.ipa",
+      "localizedDescription": "Use professional editing tools and powerful AI technology to easily and conveniently edit photos.<div><br><div></div><div></div><div class=\"\"><b>[AI tool]\r</b></div><div>\u30fb Enhance: Improve clarity and resolution! Create high-quality photos\r</div><div>\u30fb AI skin: Perfect your skin by AI correcting blemishes\r</div><div>\u30fb Smart AI cutout: Carefully separate figures, objects, and even animals\r</div><div>\u30fb Remove: Easily remove unwanted parts\r</div><div>\u30fb AI filter: Create your own characters in different styles\r</div><div class=\"\">\u30fb Hairstyle and Expression: Create a new look\r</div><div class=\"\"><br></div><div class=\"\"><b>[Professional photo editing tools]\r</b></div><div>\u30fb HSL, Curves, Split Tone, Selective: Precise color adjustments\r</div><div>\u30fb Lux, Texture, Grain, Brilliance, Vignette: Create different moods\r</div><div>\u30fb Crop, Rotate, Mirror, Flip, Perspective, Adjust resolution: Set the composition you want\r</div><div>\u30fb Batch: Edit multiple photos at once\r</div><div>\u30fb Patch, Clone: Naturally edit or copy a specific part</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1417/EpikAI_icon.png"
+    },
+    {
       "name": "Facebook++",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
@@ -2097,6 +2108,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
       "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/599/Facetune_icon.png"
+    },
+    {
+      "name": "Fallout Shelter",
+      "bundleIdentifier": "com.iosgods.falloutshelter",
+      "developerName": "iOSGods",
+      "version": "2.2.1",
+      "versionDate": "2026-04-02T10:00:02.000Z",
+      "size": 304262553,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/fallout.ipa",
+      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\n\n<p class=\"\"><strong class=\"\">(DO NOT COLLECT FROM BUILDINGS WILL CAUSE CRASH GET YOU DESIRED AMOUNT THEN TURN THE HACK OFF AND ENABLE FREEZE)</strong></p><p class=\"\"><strong class=\"\">Features:</strong><br>- Dwellers instant level up<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Freeze All Currencies<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- One Hit Kill<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Add Stuff Instead of removing<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Dwellers Never Die / God Mode<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- FREEZE  FOOD/WATER/POWER/CAPS/NUKABOTTLE/MEDIKITS/STIMPEX<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">- Unlock all rooms etc and auto complete objectives / unlimited lunch boxes cola caps etc&nbsp;</span></p><p class=\"\">\nThis hack only supports x64 or ARM64 iDevices: iPhone 5s, 6, 6 Plus, 6s, 6s Plus, 7, 7 Plus, 8, 8 Plus, X, SE, iPod Touch 6G, iPad Air, Air 2, Pro &amp; iPad Mini 2, 3, 4 and later.</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/797/fallout_icon.png"
     },
     {
       "name": "Filmr Pro",
@@ -2304,17 +2326,6 @@
       "appID": "com.rileytestut.GBA4iOS"
     },
     {
-      "name": "Grim Soul: Survival",
-      "bundleIdentifier": "com.markuz777.grimsoulsurvival",
-      "developerName": "markuz777",
-      "version": "8.0.5",
-      "versionDate": "2026-03-19T15:55:23.000Z",
-      "size": 173219080,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
-      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/810/grimsoul_icon.png"
-    },
-    {
       "name": "HD Flix (No Ads)",
       "bundleIdentifier": "com.box.hd.flix.drama.hub",
       "developerName": "Dezokr",
@@ -2385,17 +2396,6 @@
         }
       },
       "beta": false
-    },
-    {
-      "name": "Homescapes Hack",
-      "bundleIdentifier": "com.markuz777.homescapeshack",
-      "developerName": "markuz777",
-      "version": "8.7.10",
-      "versionDate": "2026-03-19T15:57:02.000Z",
-      "size": 184549376,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Homescapes.ipa",
-      "localizedDescription": "<p class=\"\"><b>Hack Features:</b></p><p class=\"\"></p><ul><li><b>Infinite Moves</b></li><li><b>Infinite Lives</b></li><li><b>Infinite Boosters</b></li><li><b>Complete tasks without stars</b></li><li><b class=\"\">Unlock Season Pass</b></li></ul><p></p><p class=\"\">Welcome to Homescapes, a warm and cozy game. Make match-3 combinations and turn every corner of your home into an inviting place to relax and have fun.\n</p><p class=\"\">Solve puzzles, restore the interior room by room, and meet new friends in every chapter of the exciting storyline. Austin the butler is ready to welcome you to a world of incredible adventures!</p><p class=\"\">\n</p><p class=\"\">\n</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/817/Homescapes_icon.png"
     },
     {
       "name": "iDOS",
@@ -3153,17 +3153,6 @@
       ]
     },
     {
-      "name": "Jurassic World\u2122: The Game Hack",
-      "bundleIdentifier": "com.markuz777.jurassicworldthegamehack",
-      "developerName": "markuz777",
-      "version": "1.89.9",
-      "versionDate": "2026-03-19T15:53:48.000Z",
-      "size": 902139897,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/JurassicWorld.ipa",
-      "localizedDescription": "<h3><i>Features:</i></h3><div><ul><li>Freeze all Currencies\r</li><li>Unlimited Special Packs\r</li><li>Evolution Always Successful\r</li><li><span class=\"\">Feed Instant Max Level\r</span></li><li>Free Speed Up Cost\r</li><li class=\"\">VIP Enabled</li></ul></div><div class=\"\"><br></div>Return to Isla Nublar with the creators of the smash hit Jurassic Park\u2122 Builder for your next adventure: Jurassic World\u2122: The Game, the official mobile game based on this summer\u2019s epic action-adventure. Bring to life more than 300 colossal dinosaurs from the new film and challenge your opponents in earth-shaking battles. Construct the theme park of tomorrow in this unrivaled build-and-battle dinosaur experience.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1262/JurassicWorld_icon.png"
-    },
-    {
       "bundleIdentifier": "org.xbmc.kodi-ios",
       "developerName": "Kodi Team",
       "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Kodi_v19.4.ipa",
@@ -3305,26 +3294,15 @@
       "appID": "com.luma-touch.LumaFusion"
     },
     {
-      "name": "LUT Studio: Color Grade App",
-      "bundleIdentifier": "com.blatant.lutstudiocolorgradeapp",
+      "name": "MacroFactor - Macro Tracker",
+      "bundleIdentifier": "com.blatant.macrofactormacrotracker",
       "developerName": "Blatant",
-      "version": "3.0.7",
-      "versionDate": "2026-03-18T16:03:12.000Z",
-      "size": 109369072,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/LUTStudio.ipa",
-      "localizedDescription": "LUT Studio - Cinematic Video LUTs &amp; Film Look Editor\r<div class=\"\">Transform your footage with cinematic color grading using LUT Studio - the ultimate video color correction and editing app for creators, filmmakers, and mobile videographers. With just a few taps, you can apply beautiful, professional-grade video filters and give your videos a stunning film look. Whether you're shooting vlogs, short films, or social media clips, LUT Studio brings the power of DaVinci Resolve - style color correction to your phone.\r</div><div class=\"\"><b>Cinematic color grading made it easy.\r</b></div><div class=\"\">Import your clip, browse through our 90+ built-in LUTs, and instantly apply rich, moody, or vibrant tones. Our filters are optimized to match the color of a wide variety of footage styles. Whether you're aiming for a bold look or subtle enhancement, cinematic camera effects are now mobile.\r</div><div class=\"\"><br></div><div class=\"\"><b>LOG profile support\r</b></div><div>Take complete control over your dynamic range with support for major flat color profiles, including:\r</div><div>\u2022 Apple Log\r</div><div>\u2022 DJI Osmo Pocket 3 D-Log\r</div><div>\u2022 DJI Mini 4 Pro\r</div><div class=\"\">\u2022 And more coming soon</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/ZsXfLpt.jpeg"
-    },
-    {
-      "name": "MadOut 2: Grand Auto Racing",
-      "bundleIdentifier": "com.markuz777.madout2grandautoracing",
-      "developerName": "markuz777",
-      "version": "19.01",
-      "versionDate": "2026-03-19T15:59:44.000Z",
-      "size": 982235042,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MadOutTwo.ipa",
-      "localizedDescription": "<h3 class=\"\">Hacks:</h3><div><ul><li>Unlimited Ammo</li><li>Rapidfire</li><li>Stop car traffic</li><li>Stop human traffic</li><li>Stop Police traffic</li><li>Boost car speed</li><li>No Ads</li></ul></div><div><br></div>Complete freedom of action and communication with other players surrounded by visceral stylish Eastern Europe locations. Ready to be the next Big City Legend? Become a real gangster and join the crazy MadOut 2 online family!\n<div>\n</div><div>\n</div><div>Gameplay for every taste:\n</div><div>1. Play with other players online in multiplayer mode (up to 200 on the server!) and in single player mode offline.\n</div><div>2. More than 30 story missions with awesome plot twists with insane crimes and mafia RP elements.\n</div><div>3. Online jobs: earn money together in a single world! Be a serious gangstar boss or lawful civilian guy!</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1319/MadOutTwo_icon.png"
+      "version": "5.7.6",
+      "versionDate": "2026-04-02T12:04:33.000Z",
+      "size": 90984369,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MacroFactor.ipa",
+      "localizedDescription": "<b class=\"\">DIET SMARTER\r</b><div>\r</div><div>Using a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \r</div><div>\u2022 The unique energy expenditure calculation detects changes in your metabolism\r</div><div>\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\r</div><div>\u2022 Weekly check-ins keep you on track toward your goals\r</div><div class=\"\">The result? You better understand your body\u2019s needs and can successfully reach and sustain your goals without stress.\r</div><div class=\"\"><br></div><div class=\"\"><b>THE BEST MACRO TRACKER TOOLS</b></div><div>\u2022 The fastest macro tracker on the market with tools like barcode scan and custom foods\r</div><div>\u2022 Verified food database, so you can trust the accuracy of the foods you log \r</div><div>\u2022 Custom macro programs and weekly check-ins based on your goals and preferences\r</div><div>\u2022 Detailed breakdowns of micronutrients, macros, and more\r</div><div>\u2022 Period tracker, habit tracker, unique data insights and visualization, integrations, dark mode, and more</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1431/MacroFactor_icon.png"
     },
     {
       "name": "MAME4iOS",
@@ -3463,6 +3441,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1401/MinutesAI_icon.png"
     },
     {
+      "name": "Mortal Kombat Hack",
+      "bundleIdentifier": "com.iosgods.mortalkombathack",
+      "developerName": "iOSGods",
+      "version": "7.2",
+      "versionDate": "2026-04-02T09:40:16.000Z",
+      "size": 1301680687,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MortalKombat.ipa",
+      "localizedDescription": "<div class=\"\"><i class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\n</a></span></i></div><div class=\"\"><i class=\"\"><b class=\"\"><br></b></i></div><div class=\"\"><i class=\"\"><b class=\"\">Features:</b></i></div><div class=\"\"><i class=\"\"><b class=\"\">- Instantly Kill individual Enemy Characters</b></i></div><div class=\"\"><i class=\"\"><b>- Force Swap Enemy Characters*</b></i></div><div class=\"\"><i class=\"\"><b>- Easy Enemy* (1 hit KO)</b></i></div><div class=\"\"><i><b>- Resurrect and Heal all players*</b></i></div><div class=\"\"><i class=\"\"><b>- Heal All Players*</b></i></div><div class=\"\"><i class=\"\"><b>- Swap Hack - can swap without finishing time</b></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Get over here and immerse yourself in the iconic and visceral action of MORTAL KOMBAT MOBILE anytime, anywhere. Kollect legendary fighters like Scorpion, Sub-Zero, Raiden, and Kitana and fight in epic 3v3 battles set in the Mortal Kombat universe. This visually stunning fighting and card collection game has multiple modes and re-introduces characters and lore from Mortal Kombat\u2019s 30-Year fighting game legacy. Launch into the action today and prove yourself in the greatest fighting tournament in all of the realms!</i></div><div class=\"\"></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1160/MortalKombat_icon.png"
+    },
+    {
       "name": "MyFitnessPal++",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "Strejda603",
@@ -3521,6 +3510,17 @@
       "beta": false
     },
     {
+      "name": "MyFitnessPal: Calorie Counter",
+      "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
+      "developerName": "MyFitnessPal",
+      "version": "26.13.0",
+      "versionDate": "2026-04-02T12:07:08.000Z",
+      "size": 80827557,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
+      "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1191/MyFitnessPal_icon.png"
+    },
+    {
       "name": "NineAnimator",
       "bundleIdentifier": "com.marcuszhou.NineAnimator",
       "developerName": "Marcus Zhou",
@@ -3572,17 +3572,6 @@
         ]
       },
       "appID": "com.marcuszhou.NineAnimator"
-    },
-    {
-      "name": "Notability: Smarter AI Notes",
-      "bundleIdentifier": "com.blatant.notabilitysmarterainotes",
-      "developerName": "Blatant",
-      "version": "15.5",
-      "versionDate": "2026-03-17T16:01:26.000Z",
-      "size": 216310194,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/NotabilityAI.ipa",
-      "localizedDescription": "<div><div class=\"\"><b>Whether you\u2019re studying for an exam, organizing a meeting, or sketching your next big idea\u2014Notability is the essential resource you can rely on to capture, organize, and share your thoughts with ease.\r</b></div><div class=\"\"><br></div><div>YOUR ALL-IN-ONE DIGITAL NOTEBOOK\r</div><div>\u2022 Write, type, or sketch with lifelike digital ink, highlighters, and text tools.\r</div><div>\u2022 Mark up anything: PDFs, textbooks, lecture slides, images, and more.\r</div><div>\u2022 Stay organized with customizable folders and subjects.\r</div><div>STUDY SMARTER WITH LEARN AI\r</div><div>\u2022 Live Smart Note instant summaries of your notes.\r</div><div>\u2022 Quizzes and flashcards tailored to you.\r</div><div>\u2022 Chat with your notes \u2013 your AI-powered assistant\r</div><div>RECORD, REVIEW AND REMEMBER \r</div><div>\u2022 Audio recording synced to your notes; perfect for lectures and meetings.\r</div><div>\u2022 Search for anything, including transcripts, text and handwriting.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1462/NotabilityAI_icon.png"
     },
     {
       "name": "Odyssey",
@@ -3820,17 +3809,6 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
-      "name": "PewDiePie's Tuber Simulator",
-      "bundleIdentifier": "com.markuz777.pewdiepiestubersimulator",
-      "developerName": "markuz777",
-      "version": "2.73.0",
-      "versionDate": "2026-03-19T15:56:32.000Z",
-      "size": 198483742,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
-      "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
-      "iconURL": "https://i.imgur.com/xV2dTrU.png"
-    },
-    {
       "name": "Phocus: Portrait Mode Editor",
       "bundleIdentifier": "com.blatant.phocusportraitmodeeditor",
       "developerName": "Blatant",
@@ -3898,17 +3876,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/966/picsart_icon.png"
-    },
-    {
-      "name": "Pigment - Adult Coloring Book",
-      "bundleIdentifier": "com.blatant.pigmentadultcoloringbook",
-      "developerName": "Blatant",
-      "version": "3.10",
-      "versionDate": "2026-03-18T15:42:50.000Z",
-      "size": 138981658,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ColoringBookPigment.ipa",
-      "localizedDescription": "\n<div class=\"\"><b>Coloring is a great way to relax and reduce stress and anxiety.&nbsp;&nbsp;</b></div><div class=\"\">Just 10 minutes of coloring can provide the same benefits as meditation. It helps you practice mindfulness, stay present, enhance concentration, build creativity, and is a great alternative to games!</div><div>Pigment, an award-winning coloring app, is a sanctuary for relaxation, nourishing your creative spirit, and providing daily inspiration. Within its vibrant community of artists, you'll discover a wealth of positivity and wholehearted encouragement.\n</div><div>Enjoy thousands of coloring pages and tools and brushes you won\u2019t find anywhere else. Immerse yourself in a coloring experience that lets you draw, paint and color as you would on paper, with 30+ different pencils, markers, and brushes. \n</div><div>Beginner? Try our Tap-To-Fill mode. Advanced? Check out Freehand, Automatic, and Advanced modes for a more nuanced experience.\n</div><div>Import your own images, or choose from our huge collection of illustrations and grayscale images including flowers, mermaids, people, animals, landscapes, anime, mandalas, and tons more! Or start with a blank page and use Pigment as a sketchbook.\n</div><div>Easily share your creations with friends and family via social media, email, text - even print them for framing!</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://i.imgur.com/t0n76LW.png"
     },
     {
       "name": "Play!",
@@ -4180,6 +4147,17 @@
       "size": 1076407494
     },
     {
+      "name": "RAID: Shadow Legends Hack",
+      "bundleIdentifier": "com.iosgods.raidshadowlegendshack",
+      "developerName": "iOSGods",
+      "version": "11.40.0",
+      "versionDate": "2026-04-02T10:08:42.000Z",
+      "size": 131479235,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/raid.ipa",
+      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods</a></span></div><i class=\"\">Features:</i><div>\u2022 Fast Game Speed ( Use with x2 )</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/904/raid_icon.png"
+    },
+    {
       "name": "Ready",
       "bundleIdentifier": "at.spiderlab.c64",
       "developerName": "T-Pau",
@@ -4447,17 +4425,6 @@
       "appID": "org.scummvm.scummvm"
     },
     {
-      "name": "Shadow Fight 3",
-      "bundleIdentifier": "com.markuz777.shadowfight3",
-      "developerName": "markuz777",
-      "version": "1.44.3",
-      "versionDate": "2026-03-19T15:59:22.000Z",
-      "size": 164015105,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ShadowFight3.ipa",
-      "localizedDescription": "<h3 class=\"\">Hack Features:\n</h3><div class=\"\"><ul><li class=\"\">High Damage&nbsp;</li><li>Freeze Enemies</li></ul></div>Keep your finger on the pulse of innovation! Learn all about the abilities of Raid bosses and how to defeat them!<div><br></div><div>Legend has it that a hero will come to end the fight for shadow energy. He will have to learn three fighting styles, collect the best weapons and challenge the strongest warriors.</div><div><br></div><div>The world is on the edge of an epic war. The mighty force unleashed by the Gates of Shadows many years ago has turned into a weapon, and now three war clans are fighting to decide the future of this force.</div><div><br></div><div>The Legion warriors want to destroy the dangerous energy. The people of the Dynasty want to use it for their own benefit. While the mysterious ninjas of the Heralds clan explore the darkest secrets of the shadow power.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1313/ShadowFight3_icon.png"
-    },
-    {
       "name": "Sileo Demo",
       "bundleIdentifier": "org.coolstar.SileoDemo",
       "developerName": "Sileo Team",
@@ -4594,8 +4561,8 @@
       "name": "SpooferPro",
       "bundleIdentifier": "com.spooferpro.spooferpro",
       "developerName": "SpooferPro",
-      "version": "0.403.1 (0.648)",
-      "versionDate": "2026-03-22T16:26:35.000Z",
+      "version": "0.405.0 (0.649) ",
+      "versionDate": "2026-04-02T08:07:54.000Z",
       "size": 138735247,
       "downloadURL": "https://s3.flekstore.com/ipa-library/spoofer.ipa",
       "localizedDescription": "<div><b>If you use in LiveContainer: Set Allow location access for LiveContainer app in iPhone settings to always and set Precise Location to ON&nbsp;</b></div><b><div><b><br></b></div>Description:</b><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">SpooferPro is an iOS GPS Spoofer and gameplay enhancer designed to assist players in their gameplay and gain resources very efficiently.</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">Join SpooferPro on Discord for feature and installation guides, quick app support, gameplay tips and more!</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">Uninstall Pok\u00e9monGo/iSpoofer/iPogo before installing</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div class=\"\"><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><b>Free features:</b></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Gps Spoof, Autowalk, GPX support</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Import routes and hotspots</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Over 800 premade GPX routes</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Pok\u00e9mon Scanner for Shiny &amp; Hundo</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Built in Virtual GO Plus module</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Fast Map loading</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffOne click item bag cleaner</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 One click Pok\u00e9mon bag cleaner</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffNearby Feed + Overlay</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Global feeds with customization&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Freeze movement in encounter</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffBlock non shiny encounters</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffBlock non hundo (100iv) encounters</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Encounter settings (Throw excellent etc)</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffTeam Rocket 1 hit</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Journal / Stats tracker</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Notifications &amp; IV preview</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Cooldown warning on teleport</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Loop Gpx route</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Tap to Walk</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Incognito/Anonymous Mode</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Pro Features</b></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"> (Purchased on the website of the developer spooferpro.com) :</span></div><div class=\"\"><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Includes all free features</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Ban protection through active patches&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Pro Catch&amp;Spin (99x better than VGP)</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Auto clean Pok\u00e9mon &amp; Item bag</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Instant Rocket Battles&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Instant Battles for team leaders</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Skip animations</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Spawn Booster</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Tap to teleport</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Buddy feature - feed, play, snapshot</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Invisible Team rocket fight&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Auto Heal Pok\u00e9mon</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Walk route &amp; pick up Zygarde cell</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Auto Favorite</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Reconnect VGP for you</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Performance Mode</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Enable features on reboot (farm loop)</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Many more features...</span></div><div><br></div><div class=\"\">Join SpooferPro community:</div><div class=\"\"><a href=\"https://spooferpro.com\">Website</a>: https://spooferpro.com</div><div class=\"\"><a href=\"https://discord.gg/52HpPM4T2p\">Discord</a>: https://discord.gg/52HpPM4T2p</div><div class=\"\"><a href=\"https://t.me/SpooferProOffical\">Telegram</a>: https://t.me/SpooferProOffical</div>",
@@ -5228,6 +5195,17 @@
       "beta": false
     },
     {
+      "name": "Toon Blast Hack",
+      "bundleIdentifier": "com.iosgods.toonblasthack",
+      "developerName": "iOSGods",
+      "version": "21953",
+      "versionDate": "2026-04-02T10:12:27.000Z",
+      "size": 134559671,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/toonblast.ipa",
+      "localizedDescription": "<div><b>Turn off internet/Wifi before entering the game wait a sec then turn it back on in case if your game stuck on loading.</b></div><div><i><br></i></div><i>Features:</i><div>- items/coins increase</div><div class=\"\">- unlimited live</div><div class=\"\">- always Red Blocks</div><div class=\"\"><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1144/toonblast_icon.png"
+    },
+    {
       "name": "Tripsy: Travel Planner",
       "bundleIdentifier": "com.blatant.tripsytravelplanner",
       "developerName": "Blatant",
@@ -5237,17 +5215,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/TipsyTravel.ipa",
       "localizedDescription": "All your travel details in one place. Organize trips, track expenses, sync with your calendar, and get live flight alerts.\r<div>\r</div><div>Tripsy - Trip Planner &amp; Itinerary Organizer is the complete travel planner for creating detailed trip itineraries and organizing every aspect of your journey. Perfect for solo travelers, couples travel, and group travel planning, Tripsy is your all-in-one itinerary maker that keeps flights, accommodations, activities, and reservations organized in one place.\r</div><div class=\"\">Plan smarter with our intuitive trip itinerary builder that automatically imports travel details from emails, works offline, and sends&nbsp;</div><div class=\"\"><br></div><div class=\"\"><b>Your Travel Companion On Every Trip:\r</b></div><div>\u2013 10-day weather forecasts for all destinations\r</div><div>\u2013 Real-time flight updates and notifications\r</div><div>\u2013 Offline access to your complete itinerary\r</div><div>\u2013 Automatic time zone adjustments\r</div><div>\u2013 Seamless itinerary sharing and collaboration</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/4gNEzum.jpeg"
-    },
-    {
-      "name": "Truecaller: Caller ID Lookup ",
-      "bundleIdentifier": "com.blatant.truecallercalleridlookup",
-      "developerName": "Blatant",
-      "version": "26.10.5",
-      "versionDate": "2026-03-17T15:49:22.000Z",
-      "size": 74500784,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/truecaller.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\r</div><div class=\"\"><br></div><div class=\"\">#1 CALLER ID &amp; SPAM BLOCKING APP WORLDWIDE\r</div><div class=\"\"><br></div><div>\u2022 An all new Caller ID experience on iPhone with iOS 18.2 and above\r</div><div>\u2022 Automatically identify spam, fraud, and robocalls before you pick up\r</div><div>\u2022 View &amp; search previously identified calls in the Phone app\r</div><div>\u2022 Take advantage of the best spam call blocker for iPhone\r</div><div>\u2022 Enable spam identification and blocking by accessing Settings &gt; Apps &gt; Phone &gt; Call Blocking &amp; Identification\r</div><div>\u2022 A paid subscription is required to access this feature</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1371/truecaller_icon.png"
     },
     {
       "name": "Twitch++",
@@ -5724,17 +5691,6 @@
       }
     },
     {
-      "name": "VSCO",
-      "bundleIdentifier": "com.michaellema.vsco",
-      "developerName": "Michael Lema",
-      "version": "458.1.0",
-      "versionDate": "2026-03-17T16:07:29.000Z",
-      "size": 96977746,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
-      "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/821/vsco1_icon.png"
-    },
-    {
       "beta": false,
       "bundleIdentifier": "sb.lao.Wayfurther",
       "developerName": "Shibo Lyu",
@@ -5803,6 +5759,28 @@
           "maxOSVersion": "16.1.2"
         }
       ]
+    },
+    {
+      "name": "WhatsApp Business",
+      "bundleIdentifier": "com.fouadraheb.whatsappbusiness",
+      "developerName": "FouadRaheb",
+      "version": "26.10.74",
+      "versionDate": "2026-04-02T08:16:38.000Z",
+      "size": 105049917,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/WatusiBusiness.ipa",
+      "localizedDescription": "The all-in-one tweak for WhatsApp Business!<div><br></div><div>Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1211/WatusiBusiness_icon.png"
+    },
+    {
+      "name": "WhatsApp Watusi",
+      "bundleIdentifier": "com.fouadraheb.whatsappwatusi",
+      "developerName": "Fouad Raheb",
+      "version": "26.10.74",
+      "versionDate": "2026-04-02T08:13:53.000Z",
+      "size": 121430663,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Watusi.ipa",
+      "localizedDescription": "<p class=\"\"><br></p>\n\n<p class=\"\">Features:<br>\n- Stealth Mode<br>\n- Disable Read Receipts<br>\n- Selective Read Receipts<br>\n- Disable Delivery Receipts<br>\n- Custom Theme<br>\n- Custom Text Color<br>\n- Full Profile Pic<br>\n- Send Unlimited Media<br>\n- Share Music<br>\n- Record audio<br>\n- Passcode/TouchID</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/82/Watusi_icon.png"
     },
     {
       "name": "WhatsApp++",
@@ -5969,6 +5947,28 @@
         }
       ],
       "appID": "stream.yattee.app"
+    },
+    {
+      "name": "YouTube Music Ultimate",
+      "bundleIdentifier": "com.dangerouspixel.youtubemusicultimate",
+      "developerName": "Dangerous Pixel",
+      "version": "9.13.3",
+      "versionDate": "2026-04-02T08:38:59.000Z",
+      "size": 60000000,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
+      "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/605/YTmusic1_icon.png"
+    },
+    {
+      "name": "YouTube Plus (YTLite)",
+      "bundleIdentifier": "com.dayanch96.youtubeplusytlite",
+      "developerName": "dayanch96",
+      "version": "21.13.6 (5.2b4)",
+      "versionDate": "2026-04-02T08:23:59.000Z",
+      "size": 113340418,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YTlite.ipa",
+      "localizedDescription": "A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.<div class=\"\"><br></div><div class=\"\"><i>Features:</i></div><div class=\"\"><ul><li>Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures</li><li>Copy video, comment, and post information</li><li>Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode</li><li>Player settings: Gestures, default quality, preferred audio track</li><li>Save, Load and Restore settings. Clear cache once or automatically on app startup</li><li>Built-in SponsorBlock</li><li>And much, much more</li></ul></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1232/YTlite_icon.png"
     },
     {
       "name": "YouTube++",
