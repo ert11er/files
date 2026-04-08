@@ -4,28 +4,6 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
-      "name": " YouCut - AI Video Editor",
-      "bundleIdentifier": "com.blatant.youcutaivideoeditor",
-      "developerName": "Blatant",
-      "version": "1.28",
-      "versionDate": "2026-03-25T19:33:52.000Z",
-      "size": 85717416,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/YouCut.ipa",
-      "localizedDescription": "YouCut as an AI [Video Editor] &amp; [Video Maker] for YouTube and other social media, features a unique timeline design that makes video editing easier and more efficient. Easy to edit videos with music, AI effects, captions, emoji, text to speech, etc.<div><br><div>\r</div><div class=\"\"><b class=\"\">Easy &amp; No Watermark</b></div><div class=\"\">Edit videos like a pro. Whether you want to make photo videos or share moments with friends, YouCut is the best video editing app with all features you need.\r</div><div class=\"\"><br></div><div class=\"\">Features:\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Powerful Video Editor and Movie Maker</b></div><div class=\"\">YouCut as one of top AI video editor apps, provide you with AI Avatar, AI Captions, AI Enhance, AI Cutout, etc. You can zoom in/out timeline for precisely editing. No banner ads.\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">AI Video Editor</b></div><div>AI Video Enhance - Restore blurry videos and photos to HD.\r</div><div>Auto Captions -  Generate accurate captions for social media.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/7JWqXLp.png"
-    },
-    {
-      "name": "(Not Boring) Habits",
-      "bundleIdentifier": "com.blatant.notboringhabits",
-      "developerName": "Blatant",
-      "version": "3.33",
-      "versionDate": "2026-03-25T20:38:21.000Z",
-      "size": 210605967,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/NotBoring.ipa",
-      "localizedDescription": "\r<div>SCIENCE-BACKED METHOD TO BUILD BETTER HABITS</div><div class=\"\">Building habits doesn\u2019t have to be miserable. !Habits is the fun, guilt-free way to build better habits. No streaks. No guilt.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>60 REPETITIONS\r</b></div><div class=\"\">Science has shown that a new habit needs to be repeated 60 times for it to stick. It doesn\u2019t matter if you miss a day or break a streak. It just matters that you do it 60 times. Great habit builders learn to ignore the goal and falling in love with the journey.\r</div><div class=\"\"><br></div><div class=\"\"><b>WE\u2019LL BE YOUR GUIDE\r</b></div><div class=\"\">Every day we will help you take another step and guide you along your journey to reach 60 repetitions until you\u2019ve mastered your new habit.\r</div><div class=\"\"><br></div><div class=\"\"><b>NO GUILT. NO STREAKS.\r</b></div><div class=\"\">If you miss a day or two, we don\u2019t guilt you.\r</div><div class=\"\"><br></div><div class=\"\"><b>JUST GOOD FUN VIBES.\r</b></div><div>Every step forward is progress.&nbsp;</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/a9d4FoT.jpeg"
-    },
-    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -677,17 +655,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
       "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
       "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
-    },
-    {
-      "name": "Captions: For Talking Videos",
-      "bundleIdentifier": "com.blatant.captionsfortalkingvideos",
-      "developerName": "Blatant",
-      "version": "13.9.1",
-      "versionDate": "2026-03-23T17:55:59.000Z",
-      "size": 373335088,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Captions.ipa",
-      "localizedDescription": "<h3 class=\"\"><br></h3><div>Introducing the all-in-one AI powered camera and editor for creators everywhere \u2013 the Captions app. This app makes the whole process of making videos easier using AI, from scripting and recording, to editing and sharing. The app allows users to add eye-catching dynamic word-by-word captions (video subtitles) using whisper speech-to-text by openAI \u2013 the world's most powerful speech-to-text engine. This makes your videos more engaging and easier to follow.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1300/Captions_icon.png"
     },
     {
       "name": "CARROT Weather",
@@ -1733,15 +1700,15 @@
       "size": 17958943
     },
     {
-      "name": "Duet Display",
-      "bundleIdentifier": "com.blatant.duetdisplay",
-      "developerName": "Blatant",
-      "version": "3.1.3",
-      "versionDate": "2026-03-23T18:01:31.000Z",
-      "size": 43860814,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/DuetDisplay.ipa",
-      "localizedDescription": "<div class=\"\">Install host app on PC or Mac from here <a href=\"https://www.duetdisplay.com/\">https://www.duetdisplay.com/</a></div><div><br></div>Duet turns your iPad or iPhone into the most advanced extra display for your Mac &amp; PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.<div><br><div></div><div class=\"\"><b>\u2014 DO MORE \u2014\r</b></div><div class=\"\">Be twice as productive by multitasking with two screens. And for those that travel, have a portable way to stay productive. \r</div><div class=\"\"><br></div><div class=\"\"><b>\u2014 INCREDIBLY SIMPLE \u2014\r</b></div><div>To get started, plug your iPad into your desktop using your charging cable. The free Duet desktop app will automatically detect your device, and transform it into a high performance touchscreen display.\r</div><div class=\"\">There\u2019s no need to worry about unreliable Wi-Fi, laggy performance, pixelated screens or managing network passwords. \r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>\u2014 TOUCHSCREEN \u2014\r</b></div><div>Interact with Mac &amp; PC like never before, with touch &amp; gestures, including two-finger scrolling, pan and zoom.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1433/DuetDisplay_icon.png"
+      "name": "DREDGE Hack ",
+      "bundleIdentifier": "com.iosgods.dredgehack",
+      "developerName": "iOSGods",
+      "version": "1.0.10",
+      "versionDate": "2026-04-06T19:59:13.000Z",
+      "size": 656672405,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/DREDGE.ipa",
+      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><div class=\"\"><b>Hack Features:</b></div><div><b>- Full Game &amp; All DLC Unlocked\r</b></div><div><b>- Sell Value Multiplier\r</b></div><div class=\"\"><b>- All Cabin Items Unlocked -&gt; Head into Settings &gt; Controls and toggle the Reset All Controls button.</b></div><div class=\"\"><br></div><div class=\"\">Captain your fishing trawler to explore a collection of remote isles, and their surrounding depths, to see what lies below. Sell your catch to the locals and complete quests to learn more about each area\u2019s troubled past. Outfit your boat with better equipment to trawl deep-sea trenches and navigate to far-off lands, but keep an eye on the time. You might not like what finds you in the dark...\r</div><div class=\"\">Explore the Islands &amp; Discover their Secrets\r</div><div class=\"\">Starting from your new home in the remote archipelago, \u2018The Marrows\u2019, take to the water and scour the depths for curious collectables and over 125 deep sea denizens. Explore each area while completing quests and visiting neighboring island regions \u2013 each with their own unique opportunities, inhabitants, and secrets.</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
+      "iconURL": "https://i.imgur.com/HCxkl23.jpeg"
     },
     {
       "name": "Duolingo Hacked",
@@ -2269,6 +2236,17 @@
       ]
     },
     {
+      "name": "Flight Tracker +",
+      "bundleIdentifier": "com.blatant.flighttracker",
+      "developerName": "Blatant",
+      "version": "8.7.6",
+      "versionDate": "2026-04-07T18:27:56.000Z",
+      "size": 79972304,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
+    },
+    {
       "beta": false,
       "name": "Flycast",
       "bundleIdentifier": "com.flyinghead.Flycast",
@@ -2407,6 +2385,17 @@
         }
       },
       "beta": false
+    },
+    {
+      "name": "Homescapes Hack",
+      "bundleIdentifier": "com.markuz777.homescapeshack",
+      "developerName": "markuz777",
+      "version": "8.7.600",
+      "versionDate": "2026-04-07T17:05:34.000Z",
+      "size": 184549376,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Homescapes.ipa",
+      "localizedDescription": "<p class=\"\"><b>Hack Features:</b></p><p class=\"\"></p><ul><li><b>Infinite Moves</b></li><li><b>Infinite Lives</b></li><li><b>Infinite Boosters</b></li><li><b>Complete tasks without stars</b></li><li><b class=\"\">Unlock Season Pass</b></li></ul><p></p><p class=\"\">Welcome to Homescapes, a warm and cozy game. Make match-3 combinations and turn every corner of your home into an inviting place to relax and have fun.\n</p><p class=\"\">Solve puzzles, restore the interior room by room, and meet new friends in every chapter of the exciting storyline. Austin the butler is ready to welcome you to a world of incredible adventures!</p><p class=\"\">\n</p><p class=\"\">\n</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/817/Homescapes_icon.png"
     },
     {
       "name": "iDOS",
@@ -3076,6 +3065,17 @@
       "beta": false
     },
     {
+      "name": "iPoGo ",
+      "bundleIdentifier": "com.ipogo.ipogo",
+      "developerName": "iPoGo",
+      "version": "4.1.9 (0.405.0)",
+      "versionDate": "2026-04-07T19:33:09.000Z",
+      "size": 115162453,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ipogo.ipa",
+      "localizedDescription": "<p><strong>If you use in LiveContainer: Set Allow location access for LiveContainer app in iPhone settings to always and set Precise Location to ON&nbsp;</strong></p><p><strong>Uninstall other versions of Pokemon Go before downloading iPoGo.</strong></p>\n\n<p class=\"\"><u><i>iPoGo is a hack for Pokemon GO.</i></u></p><p class=\"\">The account may be blocked due to the use of cheats. We have no influence on this and are not responsible in case of blocking.</p><p class=\"\"><b><i>FREE FEATURES :</i></b></p><p class=\"\"><i>\u2022 Teleport Anywhere in the world<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Global list of Pokemon/Raids<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Ability to always throw Excellent Curveballs<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Autowalk random or specific routes<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Shiny Scanner<br>\u2022 Freeze Pokemon<br>\u2022 Incognito Mode<br>\u2022 Tap on screen to walk there<br>\u2022 Nearby feeds overlay<br>\u2022 Nest/Pokemon/Pokestop/Raid feeds<br>\u2022 Maping and S2 Overlay<br>\u2022 Custom Routes / Hotspots<br>\u2022 Show stats for all saved Pokemon<br>\u2022 Joystick for walking emulation<br>\u2022 Enhanced throw / Remember last ball<br>\u2022 Ability to preview the IV of a pokemon before you catch it<br>\u2022 Ability to see which gyms have empty slots<br>\u2022 Journal to help keep track of your cooldown<br>\u2022 Autowalk random or specific routes</span></i></p><p class=\"\"><b><i class=\"\">V.I.P FEATURES (Purchased on the site of the developer of the hack - ipogo.app) :</i></b></p><p class=\"\">\u2022<i> All Free Features are Included<br>\u2022 Built in Virtual GoPlus (Auto catching)<br>\u2022 Auto reconnect GoPlus<br>\u2022 One click item bag cleaner<br>\u2022 Global feeds overlay / Custom feeds<br>\u2022 Faster map loading<br>\u2022 Block non shiny encounters<br>\u2022 Block non 100iv encounters<br>\u2022 Skip animation screens<br>\u2022 Auto transfer pokemon ability<br>\u2022 One hit Team Rocket<br>\u2022 Fast Catch<br>\u2022 Instant Training Battles<br>\u2022 Spawn Booster + Radius Booster<br>\u2022 The warm and fuzzy feeling of supporting iPogo</i></p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/717/ipogo_icon.jpg"
+    },
+    {
       "bundleIdentifier": "app.ish.iSH",
       "name": "iSH",
       "developerName": "Theodore Dubois and contributors",
@@ -3151,6 +3151,17 @@
           "size": 21218913
         }
       ]
+    },
+    {
+      "name": "Jurassic World\u2122: The Game Hack",
+      "bundleIdentifier": "com.markuz777.jurassicworldthegamehack",
+      "developerName": "markuz777",
+      "version": "1.89.13",
+      "versionDate": "2026-04-07T17:06:01.000Z",
+      "size": 902139897,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/JurassicWorld.ipa",
+      "localizedDescription": "<h3><i>Features:</i></h3><div><ul><li>Freeze all Currencies\r</li><li>Unlimited Special Packs\r</li><li>Evolution Always Successful\r</li><li><span class=\"\">Feed Instant Max Level\r</span></li><li>Free Speed Up Cost\r</li><li class=\"\">VIP Enabled</li></ul></div><div class=\"\"><br></div>Return to Isla Nublar with the creators of the smash hit Jurassic Park\u2122 Builder for your next adventure: Jurassic World\u2122: The Game, the official mobile game based on this summer\u2019s epic action-adventure. Bring to life more than 300 colossal dinosaurs from the new film and challenge your opponents in earth-shaking battles. Construct the theme park of tomorrow in this unrivaled build-and-battle dinosaur experience.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1262/JurassicWorld_icon.png"
     },
     {
       "bundleIdentifier": "org.xbmc.kodi-ios",
@@ -3305,6 +3316,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1431/MacroFactor_icon.png"
     },
     {
+      "name": "MadOut 2: Grand Auto Racing",
+      "bundleIdentifier": "com.markuz777.madout2grandautoracing",
+      "developerName": "markuz777",
+      "version": "19.30",
+      "versionDate": "2026-04-07T18:17:36.000Z",
+      "size": 982235042,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MadOutTwo.ipa",
+      "localizedDescription": "<h3 class=\"\">Hacks:</h3><div><ul><li>Unlimited Ammo</li><li>Rapidfire</li><li>Stop car traffic</li><li>Stop human traffic</li><li>Stop Police traffic</li><li>Boost car speed</li><li>No Ads</li></ul></div><div><br></div>Complete freedom of action and communication with other players surrounded by visceral stylish Eastern Europe locations. Ready to be the next Big City Legend? Become a real gangster and join the crazy MadOut 2 online family!\n<div>\n</div><div>\n</div><div>Gameplay for every taste:\n</div><div>1. Play with other players online in multiplayer mode (up to 200 on the server!) and in single player mode offline.\n</div><div>2. More than 30 story missions with awesome plot twists with insane crimes and mafia RP elements.\n</div><div>3. Online jobs: earn money together in a single world! Be a serious gangstar boss or lawful civilian guy!</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1319/MadOutTwo_icon.png"
+    },
+    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -3419,15 +3441,15 @@
       ]
     },
     {
-      "name": "Minutes: AI Meeting Note Taker",
-      "bundleIdentifier": "com.blatant.minutesaimeetingnotetaker",
+      "name": "Mojo: AI Video and Reels Editor",
+      "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
       "developerName": "Blatant",
-      "version": "1.10.1",
-      "versionDate": "2026-03-25T19:49:55.000Z",
-      "size": 12708547,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MinutesAI.ipa",
-      "localizedDescription": "<b>MinutesAI automatically does your meeting notes and transcriptions with AI.</b>&nbsp;<div>Minutes records audio and provides word for word transcripts with speakers labels. Then, it gives you formatted notes, summaries, and the ability to search for key terms/topics. You can ask questions like \u201cWhat stats did Laura reference on her slide?.\u201d\r<div>\r</div><div>\r</div><div class=\"\">Minutes takes care of your notes so you can stay focused on what\u2019s important. It's build with privacy in mind, meaning Minutes will never sell or provide third-party access to your data.\r</div><div class=\"\"><br></div><div>Minutes is great for:\r</div><div>- Taking meeting notes automatically, and easily sharing with your coworkers\r</div><div>- Recording and transcribing interviews, lectures, podcasts, videos, YouTube videos, webinars, keynotes\r</div><div class=\"\">- Providing live captioning to the deaf and managers with a quiet microphone\r</div><div class=\"\"><br></div><div class=\"\">Record &amp; Transcribe Live\r</div><div>- Start recording with one click\r</div><div>- Specify keywords (uncommon words, terms, acronyms, names, etc.) for Minutes AI to listen for\r</div><div>- Specify transcription and summary languages (eg transcribe in Spanish, take notes in English)\r</div><div>- Get a highly accurate live transcription with labeled speakers\r</div><div>- See a list of key points to review later\r</div><div>- Ask questions and chat with the recording using AI</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1401/MinutesAI_icon.png"
+      "version": "1.262",
+      "versionDate": "2026-04-07T18:30:43.000Z",
+      "size": 189797587,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1335/mojo_icon.png"
     },
     {
       "name": "Mortal Kombat Hack",
@@ -3798,6 +3820,17 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
+      "name": "PewDiePie's Tuber Simulator",
+      "bundleIdentifier": "com.markuz777.pewdiepiestubersimulator",
+      "developerName": "markuz777",
+      "version": "2.75.0",
+      "versionDate": "2026-04-07T17:44:33.000Z",
+      "size": 198483742,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
+      "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
+      "iconURL": "https://i.imgur.com/CiXfQpr.jpeg"
+    },
+    {
       "name": "Phocus: Portrait Mode Editor",
       "bundleIdentifier": "com.blatant.phocusportraitmodeeditor",
       "developerName": "Blatant",
@@ -3859,8 +3892,8 @@
       "name": "PicsArt Pro",
       "bundleIdentifier": "com.dangerouspixel.picsartpro",
       "developerName": "Dangerous Pixel",
-      "version": "29.6.2",
-      "versionDate": "2026-03-25T21:04:54.000Z",
+      "version": "29.7.1",
+      "versionDate": "2026-04-07T18:29:33.000Z",
       "size": 71112152,
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
@@ -5195,17 +5228,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1144/toonblast_icon.png"
     },
     {
-      "name": "Tripsy: Travel Planner",
-      "bundleIdentifier": "com.blatant.tripsytravelplanner",
-      "developerName": "Blatant",
-      "version": "3.8.0",
-      "versionDate": "2026-03-25T19:35:15.000Z",
-      "size": 113589404,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/TipsyTravel.ipa",
-      "localizedDescription": "All your travel details in one place. Organize trips, track expenses, sync with your calendar, and get live flight alerts.\r<div>\r</div><div>Tripsy - Trip Planner &amp; Itinerary Organizer is the complete travel planner for creating detailed trip itineraries and organizing every aspect of your journey. Perfect for solo travelers, couples travel, and group travel planning, Tripsy is your all-in-one itinerary maker that keeps flights, accommodations, activities, and reservations organized in one place.\r</div><div class=\"\">Plan smarter with our intuitive trip itinerary builder that automatically imports travel details from emails, works offline, and sends&nbsp;</div><div class=\"\"><br></div><div class=\"\"><b>Your Travel Companion On Every Trip:\r</b></div><div>\u2013 10-day weather forecasts for all destinations\r</div><div>\u2013 Real-time flight updates and notifications\r</div><div>\u2013 Offline access to your complete itinerary\r</div><div>\u2013 Automatic time zone adjustments\r</div><div>\u2013 Seamless itinerary sharing and collaboration</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/4gNEzum.jpeg"
-    },
-    {
       "name": "Twitch++",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Michael Lema",
@@ -5941,8 +5963,8 @@
       "name": "YouTube Music Ultimate",
       "bundleIdentifier": "com.dangerouspixel.youtubemusicultimate",
       "developerName": "Dangerous Pixel",
-      "version": "9.13.3",
-      "versionDate": "2026-04-02T08:38:59.000Z",
+      "version": "9.14.2",
+      "versionDate": "2026-04-07T18:34:17.000Z",
       "size": 60000000,
       "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
       "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
