@@ -4,6 +4,17 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
+      "name": " Uplens: Photo and Video Editor",
+      "bundleIdentifier": "com.blatant.uplensphotoandvideoeditor",
+      "developerName": "Blatant",
+      "version": "3.5.0",
+      "versionDate": "2026-04-08T16:12:54.000Z",
+      "size": 179070044,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/uplens.ipa",
+      "localizedDescription": "Uplens is the ultimate mobile photo and video editor, powered by AI and designed to help you take perfect selfies and create stunning visuals in just a few taps. With our advanced retouching tools and a full range of professional-grade editing features, Uplens gives you everything you need to make your photos and videos look their best.<div><br><div></div><div class=\"\">Use the Magic AI Retouch function to get flawless skin and natural color correction. Our vintage presets give your visuals a unique, nostalgic vibe, and with our easy-to-use editing tools, you can customize each preset to create your own signature style.\r</div><div class=\"\"><br></div><div>In addition to our powerful retouching tools, video editing features, and vintage presets, Uplens also offers a full suite of professional-grade editing tools, including contrast, saturation, noise, and more. Whether you're a professional photographer or just want to take your Instagram profile to the next level, Uplens is the perfect tool for all your photo and video editing needs.</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1426/uplens_icon.png"
+    },
+    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -76,17 +87,6 @@
           "absoluteVersion": "2021.9"
         }
       ]
-    },
-    {
-      "name": "AI Calorie Tracker by Yazio",
-      "bundleIdentifier": "com.blatant.aicalorietrackerbyyazio",
-      "developerName": "Blatant",
-      "version": "12.78.0",
-      "versionDate": "2026-03-30T09:42:05.000Z",
-      "size": 119803119,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/AICalorieTracker.ipa",
-      "localizedDescription": "<b>Welcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\r</b><div><b>\r</b></div><div class=\"\"><b>Track calories, eat better and reach your goals with Yazio\u2019s free calorie counter app!\r</b></div><div class=\"\"><b><br></b></div><div class=\"\">Yazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the help of its AI calorie tracker. Yazio combines a science-backed approach with cutting-edge AI calorie tracker technology to deliver long-term results without the need for extreme diets.\r</div><div class=\"\"><br></div><div><ul><li class=\"\">- Easy-to-use AI calorie tracker and food tracker\r</li><li>- Calorie deficit tracker to reach your weight goals\r</li><li>- Huge food database with 95% of all food items\r</li><li>- Calorie tracker with barcode scanner\r</li><li>- Meal planning, food tracker and personalized recipes\r</li><li>- Integrated step and activity tracking\r</li><li>- Water tracker with reminders\r</li><li>- Instant access with no signup required\r</li><li>- Regular updates for calorie counter, food tracker and AI calorie tracker tools\r</li><li>- Food tracker and nutrition tools for men and women\r</li><li>- Support for healthy muscle building and weight gain\r</li><li>- Focus on long-term results, not yo-yo dieting</li></ul></div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1460/AICalorieTracker_icon.png"
     },
     {
       "name": "Alien Invasion: RPG Idle Space",
@@ -877,17 +877,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1405/CleanMyPhone_icon.png"
     },
     {
-      "name": "Cleanup: Phone Storage Cleaner",
-      "bundleIdentifier": "com.blatant.cleanupphonestoragecleaner",
-      "developerName": "Blatant",
-      "version": "6.12.0",
-      "versionDate": "2026-03-26T11:23:23.000Z",
-      "size": 127692357,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CleanUpPhone.ipa",
-      "localizedDescription": "Clean up your iPhone and optimize storage in seconds. \r<div>\r</div><div class=\"\">Remove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage \u2014 all in one app.\r</div><div class=\"\"><br></div><div class=\"\"><b>OPTIMIZE STORAGE \u2013 FREE UP SPACE WITH ONE TAP\r</b></div><div>Running low on space? Cleanup gives you powerful tools to take control:\r</div><div>- Delete duplicate photos and videos\r</div><div>- Remove similar screenshots and lookalike videos\r</div><div>- Compress large files without losing quality\r</div><div>- Clean up spam and promotional emails\r</div><div>- Delete unused contacts and tidy up your address book\r</div><div class=\"\">- Free up storage instantly with one tap.\r</div><div class=\"\"><br></div><div class=\"\"><b>CLEAN YOUR GALLERY FAST - DELETE DUPLICATE PHOTOS\r</b></div><div>No more manual browsing. Cleanup makes it easy:\r</div><div>- Instantly detect and delete duplicate photos\r</div><div>- Smart grouping for similar photos, with \u201cBest\u201d marked\r</div><div>- Remove large, lookalike videos\r</div><div class=\"\">- Identify and delete screenshots in bulk\r</div><div class=\"\"><br></div><div class=\"\"><b>EMAIL CLEANER - DECLUTTER YOUR INBOX\r</b></div><div>Declutter your inbox in seconds:\r</div><div>- Highlight and remove promo, spam, and unread emails\r</div><div class=\"\">- Clear out junk with one tap\r</div><div class=\"\"><br></div><div class=\"\"><b>CONTACTS CLEANUP\r</b></div><div>Keep your contacts organized and up to date:\r</div><div>- Merge duplicates\r</div><div>- Remove incomplete or unused entries\r</div><div>- View and edit from one place</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/XNvrYyy.jpeg"
-    },
-    {
       "name": "Clip",
       "bundleIdentifier": "com.rileytestut.Clip",
       "developerName": "Riley Testut",
@@ -1521,6 +1510,17 @@
       "appID": "com.rileytestut.Delta.Beta"
     },
     {
+      "name": "Delta Executor for Roblox",
+      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
+      "developerName": "Delta Executor",
+      "version": "2.715",
+      "versionDate": "2026-04-08T16:00:59.000Z",
+      "size": 140988698,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
+      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1113/roblox_icon.png"
+    },
+    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
@@ -2091,8 +2091,8 @@
       "name": "Facetune",
       "bundleIdentifier": "com.omtk.facetune",
       "developerName": "omtk",
-      "version": "26.5",
-      "versionDate": "2026-03-30T10:05:09.000Z",
+      "version": "26.6.1",
+      "versionDate": "2026-04-08T16:03:01.000Z",
       "size": 50934299,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
       "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
@@ -2195,17 +2195,6 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
-      "name": "Fitia: Calorie Counter and Diet",
-      "bundleIdentifier": "com.blatant.fitiacaloriecounteranddiet",
-      "developerName": "Blatant",
-      "version": "22.3.3",
-      "versionDate": "2026-03-25T21:01:58.000Z",
-      "size": 151218573,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Fitia.ipa",
-      "localizedDescription": "<b>WHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\r</b><div>\u2022  Fitia creates a plan that adapts to your goals, lifestyle, preferences, and progress.\r</div><div class=\"\">\u2022  You\u2019ll always know what to eat, how much to eat, and how many calories you need to lose weight in a healthy, sustainable way.\r</div><div class=\"\"><br></div><div class=\"\"><b>CALORIE COUNTER &amp; NUTRITION TRACKER\r</b></div><div>&nbsp; \u2022  Track calories, macros, fiber, sugar, saturated fat, and 20+ nutrients.\r</div><div>&nbsp; \u2022  Use Fitia as your daily calorie counter, calorie tracking app, food diary, or nutrition tracker.\r</div><div class=\"\">&nbsp; \u2022  Search any food from the largest verified food database in the world, verified by nutritionists for accuracy.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>CALORIE COUNTING WITH PHOTO, VOICE, OR TYPING\r</b></div><div>No time to log food? Fitia makes calorie counting effortless.\r</div><div>&nbsp;\u2022 Log meals with a photo\r</div><div>&nbsp;\u2022 Track calories using your voice\r</div><div>&nbsp;\u2022 Type and track instantly with smart food recognition\r</div><div class=\"\">&nbsp;Your calorie counter has never been this fast.\r</div><div class=\"\"><br></div><div class=\"\"><b>PERSONALIZED MEAL PLANS FOR WEIGHT LOSS &amp; MUSCLE GAIN\r</b></div><div>\u2022 Generate a complete weight loss meal plan or muscle gain plan tailored to your calorie needs, macros, preferences, and schedule.\r</div><div>\u2022 Fitia automatically builds balanced meals that help you stay in a calorie deficit or surplus depending on your goal.</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/UgNENCm.png"
-    },
-    {
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
@@ -2276,17 +2265,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
       "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
       "iconURL": "https://i.imgur.com/85tRTde.jpeg"
-    },
-    {
-      "name": "Gardenscapes Hack",
-      "bundleIdentifier": "com.markuz777.gardenscapeshack",
-      "developerName": "markuz777",
-      "version": "9.5.0",
-      "versionDate": "2026-03-26T09:29:28.000Z",
-      "size": 154434000,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Gardenscapes.ipa",
-      "localizedDescription": "<div class=\"\"><i class=\"\"><br></i></div><h3><span class=\"\">Features:<br>\n</span><span class=\"\">- Infinite Moves<br>\n</span><span class=\"\">- Infinite Boosters<br>\n</span><span class=\"\">- Infinite Lives</span></h3><div class=\"\"><span class=\"\">Tap to slay hundreds of Titans with your sword as you journey through the land in this clicker RPG adventure. Upgrade your blade for new gear, gather pets, and enter multiplayer clan raids with users across the globe to leave your legacy as the Ultimate Sword Master.</span></div><div class=\"\"><span class=\"\"><br></span></div><div class=\"\"><br></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/833/Gardenscapes_icon.png"
     },
     {
       "name": "GBA4iOS",
@@ -2385,6 +2363,17 @@
         }
       },
       "beta": false
+    },
+    {
+      "name": "Home Workout - No Equipments",
+      "bundleIdentifier": "com.leaphealth.homeworkoutnoequipments",
+      "developerName": "Leap Health",
+      "version": "1.48.0",
+      "versionDate": "2026-04-08T16:48:30.000Z",
+      "size": 333427853,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Homeworkouts.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3>Looking to build muscle and lose weight? Home Workout has got you covered!\r<div>\r</div><div>Home workouts with no equipment, easy to follow.\r</div><div>Follow the tailored workout plans and expert guidance to meet a fitter, stronger you!\r</div><div>Home Workout app is an expertly crafted fitness app that offers a variety of workouts and workout plans suitable for everyone, from fitness beginners to experts.</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1280/Homeworkouts_icon.png"
     },
     {
       "name": "Homescapes Hack",
@@ -3086,11 +3075,11 @@
       "screenshotURLs": [
         "https://ish.app/assets/front-iphone-full.png"
       ],
-      "version": "Build 806",
-      "versionDate": "2026-02-24T06:31:31+00:00",
+      "version": "Build 807",
+      "versionDate": "2026-04-08T06:44:30+00:00",
       "versionDescription": "Automated daily build",
-      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/806/iSH.ipa",
-      "size": 4603445
+      "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/807/iSH.ipa",
+      "size": 4603448
     },
     {
       "name": "iTorrent",
@@ -3524,8 +3513,8 @@
       "name": "MyFitnessPal: Calorie Counter",
       "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
       "developerName": "MyFitnessPal",
-      "version": "26.13.0",
-      "versionDate": "2026-04-02T12:07:08.000Z",
+      "version": "26.14.0",
+      "versionDate": "2026-04-08T16:01:35.000Z",
       "size": 80827557,
       "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
       "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
@@ -3583,6 +3572,17 @@
         ]
       },
       "appID": "com.marcuszhou.NineAnimator"
+    },
+    {
+      "name": "Notability: Smarter AI Notes",
+      "bundleIdentifier": "com.blatant.notabilitysmarterainotes",
+      "developerName": "Blatant",
+      "version": "16.1.1",
+      "versionDate": "2026-04-08T16:20:46.000Z",
+      "size": 216310194,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/NotabilityAI.ipa",
+      "localizedDescription": "<div><div class=\"\"><b>Whether you\u2019re studying for an exam, organizing a meeting, or sketching your next big idea\u2014Notability is the essential resource you can rely on to capture, organize, and share your thoughts with ease.\r</b></div><div class=\"\"><br></div><div>YOUR ALL-IN-ONE DIGITAL NOTEBOOK\r</div><div>\u2022 Write, type, or sketch with lifelike digital ink, highlighters, and text tools.\r</div><div>\u2022 Mark up anything: PDFs, textbooks, lecture slides, images, and more.\r</div><div>\u2022 Stay organized with customizable folders and subjects.\r</div><div>STUDY SMARTER WITH LEARN AI\r</div><div>\u2022 Live Smart Note instant summaries of your notes.\r</div><div>\u2022 Quizzes and flashcards tailored to you.\r</div><div>\u2022 Chat with your notes \u2013 your AI-powered assistant\r</div><div>RECORD, REVIEW AND REMEMBER \r</div><div>\u2022 Audio recording synced to your notes; perfect for lectures and meetings.\r</div><div>\u2022 Search for anything, including transcripts, text and handwriting.</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1462/NotabilityAI_icon.png"
     },
     {
       "name": "Odyssey",
@@ -3820,6 +3820,17 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
+      "name": "Persona",
+      "bundleIdentifier": "com.tickettothemoon.persona",
+      "developerName": "Ticket To The Moon",
+      "version": "1.15.14",
+      "versionDate": "2026-04-08T16:50:18.000Z",
+      "size": 153483973,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/persona.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Master your look with Persona \u2014 a professional beauty camera and editor crafted for perfection. Smart AI and powerful tools deliver flawless photos and videos effortlessly, live or in edits.\r</div><div>MAIN FEATURES:\r</div><div>\u2022 Face Beauty Filters: Choose from dozens of filters to smooth skin, add a bright glow, or perfect your look naturally \u2014 instant with one click, for photos and videos.\r</div><div>\u2022 Hair Upgrades: Boost volume or switch to new hairstyles fast, works on any shot.\r</div><div>\u2022 Body Tuning: Shape your figure a bit for a sharp, real result in stills or clips.\r</div><div>\u2022 Skin Improvement: Get a tan, fix texture, or remove shine in one tap, for any shot.\r</div><div>\u2022 Editing Controls: Change brightness, contrast, or sharpness like a pro, for both photos and videos.\r</div><div>\u2022 Face Refining: Improve eyes, nose, lips, or jawline easily, anytime.\r</div><div>\u2022 Color Boost: Add bold, stylish tones to your photos or videos.\r</div><div>\u2022 Unique Details: Add freckles, dimples, or small touches to both photos and videos.\r</div><div>\u2022 Quick Fix: Erase spots or extras fast, no matter what you\u2019re editing.\r</div><div class=\"\">\u2022 Exclusive AI Tools: Retake shots with better angles, generate new photo sessions from your selfies, and more.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1343/persona_icon.png"
+    },
+    {
       "name": "PewDiePie's Tuber Simulator",
       "bundleIdentifier": "com.markuz777.pewdiepiestubersimulator",
       "developerName": "markuz777",
@@ -3829,17 +3840,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
       "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
       "iconURL": "https://i.imgur.com/CiXfQpr.jpeg"
-    },
-    {
-      "name": "Phocus: Portrait Mode Editor",
-      "bundleIdentifier": "com.blatant.phocusportraitmodeeditor",
-      "developerName": "Blatant",
-      "version": "3.2.0",
-      "versionDate": "2026-03-25T20:57:12.000Z",
-      "size": 208681769,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Phocus.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div><br></div><div>Phocus is a portrait editor and DSLR-style camera powered by AI, giving you full control over depth, background blur, aperture, bokeh, and focal length. Whether you're capturing cinematic portraits or editing precise lens details, Phocus delivers pro-level photography tools in a fast, intuitive interface built for creators.\r</div><div>Inspired by real optical systems, Phocus lets you emulate DSLR lens behavior\u2014without external gear. Control blur shape and depth radius with real aperture modeling. Adjust lens type, depth dynamics, and recreate unique bokeh styles from vintage and high-end lenses. Apply subtle distortions and optical characteristics for expressive storytelling. Phocus doesn\u2019t just blur the background\u2014it understands the physics of photography.</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1356/Phocus_icon.png"
     },
     {
       "name": "Photomath++",
@@ -4258,17 +4258,6 @@
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
     },
     {
-      "name": "Reface",
-      "bundleIdentifier": "com.reface.reface",
-      "developerName": "Reface",
-      "version": "6.4.0",
-      "versionDate": "2026-03-25T20:53:48.000Z",
-      "size": 41665553,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Reface.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">Create professional business photos and revamp your style with the Hair Style and Hair Color tool!\r</div><div>Try Face Swap on Photos and Videos &amp; Generate Stunning AI Headshots Easily. Join the Reface community of over 150 million creators around the world. Enhance your photo collection with stunningly realistic AI baby and headshot generator using the innovation of AI-powered editing features, quickly swap faces on photos, change your hairstyles or social media headshots with templates, create AI content from your favorite moments, choose from tons of stylized photo filters, and more. Reface is your all-in-one AI Face Swap photo &amp; video editor with all the tools you need to create your personal content.</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1006/Reface_icon.png"
-    },
-    {
       "name": "Renovate AI : Home Design",
       "bundleIdentifier": "com.billymoore.renovateaihomedesign",
       "developerName": "BillyMoore",
@@ -4392,8 +4381,8 @@
       "name": "SCRL: Photo Collage Maker",
       "bundleIdentifier": "com.blatant.scrlphotocollagemaker",
       "developerName": "Blatant",
-      "version": "9.30",
-      "versionDate": "2026-03-30T09:33:33.000Z",
+      "version": "9.33.1",
+      "versionDate": "2026-04-08T16:05:07.000Z",
       "size": 70840129,
       "downloadURL": "https://s3.flekstore.com/ipa-library/SCRL.ipa",
       "localizedDescription": "<b>Unleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.</b><div><br><div></div><div>\u2022 Exceptional Collage Maker with Hundreds of Hand-Picked Templates\r</div><div>Start your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style. \r</div><div class=\"\">Our design experts hand-pick each template to ensure the highest quality and versatility. Plus, new collage templates are added regularly, so you\u2019ll always have fresh options to choose from.\r</div><div class=\"\"><br></div><div>\u2022 Seamless Swipe-Through Carousel Posts\r</div><div class=\"\">Easily create stunning swipe-through carousel posts that captivate your audience. Our intuitive design tools make it effortless to merge photos into panoramic carousel posts or create scroll-through collage layouts that flow seamlessly. \r</div><div class=\"\"><br></div><div>\u2022 Premade Grid Layouts for Collages\r</div><div class=\"\">Now you can create beautiful, cohesive photo grids and Instagram layouts that span multiple photos, giving your feed a stunning, unified look. Combine grids with our photo collage templates, swipe-through carousel posts, and freeform canvas for endless possibilities.\r</div><div class=\"\"><br></div><div>\u2022 Add More Than 10 Photos to a Single Post\r</div><div>Break the limitations of traditional posts &amp; Instagram layouts. With SCRL, you can add more than 10 photos in a single post, providing more room for your creativity and storytelling.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
@@ -5228,6 +5217,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1144/toonblast_icon.png"
     },
     {
+      "name": "TOR Browser Hack",
+      "bundleIdentifier": "com.syto203.torbrowserhack",
+      "developerName": "syto203",
+      "version": "4.0",
+      "versionDate": "2026-04-08T16:52:06.000Z",
+      "size": 28514277,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/OrnetPP.ipa",
+      "localizedDescription": "<i>Features:</i><div>- Hacked Premium&nbsp;</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/875/OrnetPP_icon.png"
+    },
+    {
       "name": "Twitch++",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Michael Lema",
@@ -5303,17 +5303,6 @@
           "absoluteVersion": "8.0.2"
         }
       ]
-    },
-    {
-      "name": "Unfold: Story and Reels Maker",
-      "bundleIdentifier": "com.squarespace.unfoldstoryandreelsmaker",
-      "developerName": "Squarespace",
-      "version": "8.156.1",
-      "versionDate": "2026-03-26T08:21:03.000Z",
-      "size": 163485644,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Unfold.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div>\u2014 Stitch video clips together with Reels templates\r<div>\r</div><div>\u2014 Create with template collections like Film\r</div><div>\u2014 Plan and preview your Instagram Feed\r</div><div>\u2014 Remove any background with our AI editing tool\r</div><div>\u2014 Make a Bio Site for your new link in bio\r</div><div class=\"\">\u2014 Edit your content with filters and effects\r</div><div class=\"\"><br></div><div>Reels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\r</div><div>Story, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1281/Unfold_icon.png"
     },
     {
       "name": "UTM",
@@ -5700,6 +5689,17 @@
         "entitlements": [],
         "privacy": []
       }
+    },
+    {
+      "name": "VEED - AI Captions and Shorts",
+      "bundleIdentifier": "com.veed.veedaicaptionsandshorts",
+      "developerName": "VEED",
+      "version": "8.9.0",
+      "versionDate": "2026-04-08T16:46:44.000Z",
+      "size": 110418748,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/veed.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Enjoy stress-free video creation with AI captions, quick translations, and more editing tools in one app. VEED makes it easy to add engaging and accurate captions to your talking videos. With advanced AI technology that supports 100+ languages, this caption app is becoming the go-to short video editor and subtitle generator for businesses, educators, and content creators.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1337/veed_icon.png"
     },
     {
       "beta": false,
