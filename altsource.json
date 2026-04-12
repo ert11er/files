@@ -3177,14 +3177,14 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.7.4",
-      "versionDate": "2026-04-04T05:58:15Z",
-      "versionDescription": "Nightly build from [6607ad4](https://github.com/LiveContainer/LiveContainer/commit/6607ad4): fix ss+lc nightly repo description\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23972944572/attempts/1).\n",
+      "versionDate": "2026-04-04T06:14:24Z",
+      "versionDescription": "Nightly build from [0e5bbfe](https://github.com/LiveContainer/LiveContainer/commit/0e5bbfe): Implement 1228\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/24279370749/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4530890,
+      "size": 4530936,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3243,16 +3243,16 @@
       "versions": [
         {
           "version": "3.7.4",
-          "date": "2026-04-04T05:58:15Z",
-          "localizedDescription": "Nightly build from [6607ad4](https://github.com/LiveContainer/LiveContainer/commit/6607ad4): fix ss+lc nightly repo description\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/23972944572/attempts/1).\n",
+          "date": "2026-04-04T06:14:24Z",
+          "localizedDescription": "Nightly build from [0e5bbfe](https://github.com/LiveContainer/LiveContainer/commit/0e5bbfe): Implement 1228\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/24279370749/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4530890,
-          "commit": "6607ad4",
-          "headline": "fix ss+lc nightly repo description"
+          "size": 4530936,
+          "commit": "0e5bbfe",
+          "headline": "Implement #1228"
         }
       ],
-      "commit": "6607ad4",
-      "headline": "fix ss+lc nightly repo description"
+      "commit": "0e5bbfe",
+      "headline": "Implement #1228"
     },
     {
       "name": "LumaFusion",
