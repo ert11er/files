@@ -919,17 +919,6 @@
       "appID": "com.rileytestut.Clip.Beta"
     },
     {
-      "name": "CloverPit",
-      "bundleIdentifier": "com.cloverpit.cloverpit",
-      "developerName": "CloverPit",
-      "version": "1.3.8",
-      "versionDate": "2026-04-06T16:27:56.000Z",
-      "size": 115113241,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/CloverPit.ipa",
-      "localizedDescription": "<div class=\"\"><b>IS THIS GAMBLING?\r</b></div><div class=\"\"><b>No! CloverPit is a rogue-lite horror game, and not a slot machine simulator. Our slot machine is designed to be broken and ultimately overcome, and will never ask you for real money!</b></div><div><br></div>A rogue-lite slot machine nightmare. Gamble for your life in a debt simulator!<div><br><div></div><div>Clover Pit is a demonic rogue-lite that traps players in a hell of their own creation. Locked in a rusty cell with a slot machine and an ATM, you must pay off your debt at the end of each round, or fall to ruin \u2013 literally!\r</div><div class=\"\">Manipulate the slot machine to earn extra coins. Turn the odds in your favor with various prizes and charms that trigger big big combos, snowballing into a dazzling lucky run. Bend the rules, break the game, and pay off your captor long enough to earn a shot at freedom.\r</div><div class=\"\"><br></div><div class=\"\"><b>Features:\r</b></div><div>- A gripping rogue-lite where every round could be your last!\r</div><div>- Meta-progression, multiple endings and unlockable power-ups!\r</div><div>- Push your score to new heights in Endless Mode!\r</div><div>- A hellish escape room atmosphere!\r</div><div>- 150 + items and synergies to boost your luck!</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/YvhySE8.jpeg"
-    },
-    {
       "name": "Countdown",
       "bundleIdentifier": "com.neo.countdown",
       "developerName": "neoarz",
@@ -1705,6 +1694,17 @@
       "beta": false
     },
     {
+      "name": "Earn to Die Rogue",
+      "bundleIdentifier": "com.iosgods.earntodierogue",
+      "developerName": "iOSGods",
+      "version": "1.23.234",
+      "versionDate": "2026-04-15T12:58:10.000Z",
+      "size": 195447346,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/EarnToDieRougue.ipa",
+      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div><b><br></b></div><div class=\"\"><b><br></b></div><b>Hack Features\r</b><div><b>- Unlimited Cash\r</b></div><div><b>- Unlimited Gold\r</b></div><div><b>- Unlimited Skill Tree Tokens\r</b></div><div><b>- Unlimited Blueprints\r</b></div><div><b>- Unlimited Scrap Metal\r</b></div><div><b>- Unlimited Posters -&gt; Earn or spend some.\r</b></div><div><b>- Max Level -&gt; Earn some stars.\r</b></div><div><b>- Hero God Mode\r</b></div><div><b>- Hero One-Hit Kill\r</b></div><div><b>- 0 Hero Level Up Cost\r</b></div><div><b>- Prestige Pass Unlocked\r</b></div><div><b>- Elite Pass Unlocked\r</b></div><div class=\"\"><b>- Unlimited Fuel\r</b></div><div class=\"\"><b>- Unlimited Boost</b></div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/nUZjth3.jpeg"
+    },
+    {
       "name": "EhPanda",
       "bundleIdentifier": "app.ehpanda",
       "developerName": "Araki Tatsuzou",
@@ -2236,6 +2236,17 @@
         }
       ],
       "appID": "com.rileytestut.GBA4iOS"
+    },
+    {
+      "name": "Graveyard Keeper",
+      "bundleIdentifier": "com.ioptk.graveyardkeeper",
+      "developerName": "IOPTK ",
+      "version": "1.129",
+      "versionDate": "2026-04-15T13:28:55.000Z",
+      "size": 185994467,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/GraveyardKeeper.ipa",
+      "localizedDescription": "Graveyard Keeper is the most inaccurate medieval cemetery management sim of all time. Build and manage your own graveyard, and expand into other ventures, while finding shortcuts to cut costs. Use all the resources you can find. After all, this is a game about the spirit of capitalism, and doing whatever it takes to build a thriving business. And it\u2019s also a love story.<div><br><div></div><div>- Face ethical dilemmas. Do you really want to spend money on that proper burger meat for the witch-burning festival, when you have so many resources lying around? \r</div><div>- Gather valuable materials and craft new items. Expand your Graveyard into a thriving business. Help yourself -- gather the valuable resources scattered across the surrounding areas, and explore what this land has to offer. \r</div><div>- Quests and corpses. These dead bodies don't need all those organs, do they? Why not grind them up and sell them to the local butcher? Or you can go on proper quests, you roleplayer.\r</div><div>- Explore mysterious dungeons. No medieval game would be complete without those! Take a trip into the unknown, and find discover new alchemy ingredients -- which may or may not poison a whole bunch of nearby villagers.&nbsp;</div></div>",
+      "iconURL": "https://i.imgur.com/wiLZqYR.png"
     },
     {
       "name": "Grim Soul: Survival",
@@ -3222,6 +3233,17 @@
       "headline": "Fix #1275"
     },
     {
+      "name": "Luck be a Landlord",
+      "bundleIdentifier": "com.iosgods.luckbealandlord",
+      "developerName": "iOSGods",
+      "version": "1.2.15",
+      "versionDate": "2026-04-15T12:55:45.000Z",
+      "size": 78514639,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/LuckBeLandlord.ipa",
+      "localizedDescription": "<b>Roguelike Deckbuilder\n</b><div>\n</div><div class=\"\"><br></div><div>Defeat your landlord in this slot machine roguelike deckbuilder!\n</div><div>Your landlord is knocking on your door. You have one coin left to your name. You insert the coin into your slot machine...and...JACKPOT! Luck be a Landlord, tonight!\n</div><div>Luck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.\n</div><div>Features:\n</div><div>152 Symbols\n</div><div>227 Items\n</div><div>186 Achievements\n</div><div>20 Apartment Floors&nbsp;</div><div>\n</div><div>\n</div><div>\n</div>",
+      "iconURL": "https://i.imgur.com/6pgzhsW.png"
+    },
+    {
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch, LLC",
@@ -3270,17 +3292,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/LUTStudio.ipa",
       "localizedDescription": "LUT Studio - Cinematic Video LUTs &amp; Film Look Editor\r<div class=\"\">Transform your footage with cinematic color grading using LUT Studio - the ultimate video color correction and editing app for creators, filmmakers, and mobile videographers. With just a few taps, you can apply beautiful, professional-grade video filters and give your videos a stunning film look. Whether you're shooting vlogs, short films, or social media clips, LUT Studio brings the power of DaVinci Resolve - style color correction to your phone.\r</div><div class=\"\"><b>Cinematic color grading made it easy.\r</b></div><div class=\"\">Import your clip, browse through our 90+ built-in LUTs, and instantly apply rich, moody, or vibrant tones. Our filters are optimized to match the color of a wide variety of footage styles. Whether you're aiming for a bold look or subtle enhancement, cinematic camera effects are now mobile.\r</div><div class=\"\"><br></div><div class=\"\"><b>LOG profile support\r</b></div><div>Take complete control over your dynamic range with support for major flat color profiles, including:\r</div><div>\u2022 Apple Log\r</div><div>\u2022 DJI Osmo Pocket 3 D-Log\r</div><div>\u2022 DJI Mini 4 Pro\r</div><div class=\"\">\u2022 And more coming soon</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/ZsXfLpt.jpeg"
-    },
-    {
-      "name": "MacroFactor - Macro Tracker",
-      "bundleIdentifier": "com.blatant.macrofactormacrotracker",
-      "developerName": "Blatant",
-      "version": "5.7.6",
-      "versionDate": "2026-04-02T12:04:33.000Z",
-      "size": 90984369,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MacroFactor.ipa",
-      "localizedDescription": "<b class=\"\">DIET SMARTER\r</b><div>\r</div><div>Using a best-in-class expenditure estimate, MacroFactor\u2019s nutrition coach algorithm adapts to changes in your metabolism so you never plateau. \r</div><div>\u2022 The unique energy expenditure calculation detects changes in your metabolism\r</div><div>\u2022 Smart algorithms personalize your calorie and macro intake targets, just like a nutrition coach would\r</div><div>\u2022 Weekly check-ins keep you on track toward your goals\r</div><div class=\"\">The result? You better understand your body\u2019s needs and can successfully reach and sustain your goals without stress.\r</div><div class=\"\"><br></div><div class=\"\"><b>THE BEST MACRO TRACKER TOOLS</b></div><div>\u2022 The fastest macro tracker on the market with tools like barcode scan and custom foods\r</div><div>\u2022 Verified food database, so you can trust the accuracy of the foods you log \r</div><div>\u2022 Custom macro programs and weekly check-ins based on your goals and preferences\r</div><div>\u2022 Detailed breakdowns of micronutrients, macros, and more\r</div><div>\u2022 Period tracker, habit tracker, unique data insights and visualization, integrations, dark mode, and more</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1431/MacroFactor_icon.png"
     },
     {
       "name": "MadOut 2: Grand Auto Racing",
@@ -5193,17 +5204,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/TMNTShredder.ipa",
       "localizedDescription": "<div class=\"\">Requires registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><h3 class=\"\">Hack Features<br>\r- Full Version Unlocked<br>\r- Never Die<br>\r- Unlimited Ninja Power</h3><div>\r</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Kick shell with Leonardo, Raphael, Donatello, Michelangelo or other familiar friends in this totally tubular '80s-inspired beat 'em up. Cowabunga!\r</div><div class=\"\">They're lean, they're green and they're mean! Battle as the Teenage Mutant Ninja Turtles to foil Krang and Shredder's latest twisted plan. Brawl across a righteous range of classic TMNT locations in this beautifully rendered retro beat 'em up.\r</div><div class=\"\">Smash your way through more than a dozen different levels and use your dangerous ninja combos to defeat classic enemies like Baxter Stockman or the Triceraton!\r</div><div class=\"\"><br></div><div class=\"\"><b>Features: \r</b></div><div class=\"\">\u2022 Play with iconic TMNT characters, including our ninja turtle heroes Leo, Raph, Donnie and Mikey \u2014 or pick April, Master Splinter or Casey Jones as playable characters for the first time! \r</div><div class=\"\">\u2022 Enjoy old-school gameplay enhanced with super-fresh fighting mechanics.\r</div><div class=\"\">\u2022 Discover a fresh adventure with a totally awesome new story mode.\r</div><div class=\"\">\u2022 Time-travel back to the '80s with this nostalgic design, including retro full-color pixel art graphics.\r</div><div class=\"\">\u2022 Listen to a rad soundtrack made by Tee Lopes.\r</div><div class=\"\">\u2022 This game is bluetooth controller-supported.</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
       "iconURL": "https://i.imgur.com/vw4u3X4.jpeg"
-    },
-    {
-      "name": "Toon Blast Hack",
-      "bundleIdentifier": "com.iosgods.toonblasthack",
-      "developerName": "iOSGods",
-      "version": "21953",
-      "versionDate": "2026-04-02T10:12:27.000Z",
-      "size": 134559671,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/toonblast.ipa",
-      "localizedDescription": "<div><b>Turn off internet/Wifi before entering the game wait a sec then turn it back on in case if your game stuck on loading.</b></div><div><i><br></i></div><i>Features:</i><div>- items/coins increase</div><div class=\"\">- unlimited live</div><div class=\"\">- always Red Blocks</div><div class=\"\"><br></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1144/toonblast_icon.png"
     },
     {
       "name": "TOR Browser Hack",
