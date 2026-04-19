@@ -84,7 +84,7 @@ def generate_json_and_rss():
 <rss version="2.0">
 <channel>
   <title>Ders Notları</title>
-  <link>https://ert11er.github.io/blog/</link>
+  <link>https://ert11er.github.io/files/blog/</link>
   <description>Kişisel ders notları ve teknik yazılar.</description>
   <language>tr</language>
 {rss_items_str}
