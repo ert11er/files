@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Ders Notları</title>
+  <link>https://ert11er.github.io/blog/</link>
+  <description>Kişisel ders notları ve teknik yazılar.</description>
+  <language>tr</language>
+    <item>
+      <title>Ders kaynakları</title>
+      <link>https://ert11er.github.io/blog/#/post/ders-kaynaklari</link>
+      <description>Güncellenen tüm ders kaynakları listesi</description>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Merhaba Dünya</title>
+      <link>https://ert11er.github.io/blog/#/post/merhaba-dunya</link>
+      <description>Bu blogun ilk ders notu yazısıdır.</description>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+</channel>
+</rss>
