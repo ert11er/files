@@ -40,7 +40,7 @@ dom.themeToggle.addEventListener('click', () => {
 async function loadPosts() {
     dom.loading.classList.remove('hidden');
     try {
-        const response = await fetch('/blog/posts.json');
+        const response = await fetch('/files/blog/posts.json');
         state.posts = await response.json();
         renderTagCloud();
         renderPostList();
