@@ -73,7 +73,7 @@ def generate_json_and_rss():
 
         item = f"""    <item>
       <title>{post.get('title', '')}</title>
-      <link>https://ert11er.github.io/blog/#/post/{post.get('slug', '')}</link>
+      <link>https://ert11er.github.io/files/blog/#/post/{post.get('slug', '')}</link>
       <description>{post.get('description', '')}</description>
       <pubDate>{pub_date}</pubDate>
     </item>"""
