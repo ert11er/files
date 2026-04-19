@@ -55,7 +55,7 @@ async function loadPosts() {
 async function loadMarkdown(slug) {
     dom.loading.classList.remove('hidden');
     try {
-        const response = await fetch(`/blog/posts/${slug}.md`);
+        const response = await fetch(`/files/blog/posts/${slug}.md`);
         const text = await response.text();
 
         // Remove yaml frontmatter if present
