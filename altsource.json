@@ -4,17 +4,6 @@
   "sourceURL": "https://files-private.vercel.app/altsource.json",
   "apps": [
     {
-      "name": " Uplens: Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.uplensphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "3.5.0",
-      "versionDate": "2026-04-08T16:12:54.000Z",
-      "size": 179070044,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/uplens.ipa",
-      "localizedDescription": "Uplens is the ultimate mobile photo and video editor, powered by AI and designed to help you take perfect selfies and create stunning visuals in just a few taps. With our advanced retouching tools and a full range of professional-grade editing features, Uplens gives you everything you need to make your photos and videos look their best.<div><br><div></div><div class=\"\">Use the Magic AI Retouch function to get flawless skin and natural color correction. Our vintage presets give your visuals a unique, nostalgic vibe, and with our easy-to-use editing tools, you can customize each preset to create your own signature style.\r</div><div class=\"\"><br></div><div>In addition to our powerful retouching tools, video editing features, and vintage presets, Uplens also offers a full suite of professional-grade editing tools, including contrast, saturation, noise, and more. Whether you're a professional photographer or just want to take your Instagram profile to the next level, Uplens is the perfect tool for all your photo and video editing needs.</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1426/uplens_icon.png"
-    },
-    {
       "name": "3Speak.tv - Acela",
       "bundleIdentifier": "com.example.acela",
       "developerName": "sagarkothari88",
@@ -578,6 +567,17 @@
         }
       ],
       "appID": "blog.blurt.blurt"
+    },
+    {
+      "name": "Buddy: Budget Planner App",
+      "bundleIdentifier": "com.blatant.buddybudgetplannerapp",
+      "developerName": "Blatant",
+      "version": "13.33",
+      "versionDate": "2026-04-20T13:32:53.000Z",
+      "size": 80979677,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/BuddyBudget.ipa",
+      "localizedDescription": "Buddy helps you set up a budget and keep track of your expenses, either by yourself or together with your loved ones.\r<div class=\"\">Here\u2019s what is waiting for you inside:\r</div><div class=\"\"><br></div><div class=\"\"><b>BUDGETS\r</b></div><div>Buddy will help you not to overspend on your well-earned salary by setting up a budget plan that fits you. \r</div><div>Do you want a shared budget with your partner? Or keep the expenses between you and your mates fair on the vacation? No problem, just invite them and get a clear picture of who spent what.\r</div><div class=\"\"><b>CONNECT YOUR BANK\r</b></div><div>Import all transactions from your bank account into Buddy and see how your budget is doing.\r</div><div class=\"\"><b>OVERVIEW\r</b></div><div>We'll give you a beautiful &amp; detailed overview of your spendings, income, and savings.\r</div><div class=\"\"><b>SPLIT</b></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/3IhFVCQ.jpeg"
     },
     {
       "name": "Busuu: Language Learning",
@@ -1615,8 +1615,8 @@
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
-      "version": "7.118.0",
-      "versionDate": "2026-04-14T12:20:41.000Z",
+      "version": "7.118.1",
+      "versionDate": "2026-04-20T13:32:30.000Z",
       "size": 182898277,
       "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
       "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
@@ -2146,17 +2146,6 @@
           "absoluteVersion": "4.3"
         }
       ]
-    },
-    {
-      "name": "Flight Tracker +",
-      "bundleIdentifier": "com.blatant.flighttracker",
-      "developerName": "Blatant",
-      "version": "8.7.6",
-      "versionDate": "2026-04-07T18:27:56.000Z",
-      "size": 79972304,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
     },
     {
       "name": "Flightradar24",
@@ -3130,8 +3119,8 @@
       "name": "Last Day On Earth Hack",
       "bundleIdentifier": "com.iosgods.lastdayonearthhack",
       "developerName": "iOSGods",
-      "version": "1.48",
-      "versionDate": "2026-04-09T16:11:35.000Z",
+      "version": "1.48.5",
+      "versionDate": "2026-04-20T12:13:17.000Z",
       "size": 499878426,
       "downloadURL": "https://s3.flekstore.com/ipa-library/lastday.ipa",
       "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p><strong>Hack Features:</strong><br />\r\n&bull; Anti-Cheat -&gt; Disable Cheat detection.<br />\r\n&bull; Item Duplication -&gt; Split an Item to get more.<br />\r\n&bull; Can Duplicate/Split Any Item -&gt; Duplicate any item in your inventory!<br />\r\n&bull; Free Crafting -&gt; Craft without required items. Do not craft unreleased items or your game will stop loading! See the Club to find out which ones you shouldn&#39;t craft.<br />\r\n&bull; Free Building -&gt; Build without required items.<br />\r\n&bull; Free Upgrading -&gt; Upgrade without required items.<br />\r\n&bull; Building hack -&gt; Thanks to the features above<br />\r\n&bull; Infinite Weapon/Item Durability<br />\r\n&bull; Infinite All Armor Durability&nbsp;<br />\r\n&bull; Unlimited Skill Points -&gt; Use skill points to increase them.<br />\r\n&bull; No Level Requirement for Crafting<br />\r\n&bull; Loot Boxes Hack! -&gt; Open 1 loot box and gain 10,000! If IAP/Free Store is patched, use this to gain a lot of loot boxes when opening one.<br />\r\n&bull; Item Increase Hack -&gt; When taking an item from your inbox, it will take it and still keep it in your inbox. If you have a lot of the same item, you can increase said item as much as you want!<br />\r\n&bull; Unlock All Items -&gt; All blueprints unlocked!<br />\r\n&bull; Unlimited Consumables -&gt; Unlimited Food, Water, etc.<br />\r\n&bull; High Rate of Fire -&gt; One Hit Kill. Works well on Shotguns.<br />\r\n&bull; Unlimited Weapon Blueprints - Using the Recycler / Weapon Specialist in Bunker Alfa and the Unlimited Consumable Items Hack, you can get every Weapon Blueprints in the game.<br />\r\n&bull; Bow Instant Charge for Shot -&gt; Tap on the shoot icon to instantly shoot your bow without having to charge it.</p>\r\n",
@@ -3294,17 +3283,6 @@
       "iconURL": "https://i.imgur.com/ZsXfLpt.jpeg"
     },
     {
-      "name": "MadOut 2: Grand Auto Racing",
-      "bundleIdentifier": "com.markuz777.madout2grandautoracing",
-      "developerName": "markuz777",
-      "version": "19.30",
-      "versionDate": "2026-04-07T18:17:36.000Z",
-      "size": 982235042,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MadOutTwo.ipa",
-      "localizedDescription": "<h3 class=\"\">Hacks:</h3><div><ul><li>Unlimited Ammo</li><li>Rapidfire</li><li>Stop car traffic</li><li>Stop human traffic</li><li>Stop Police traffic</li><li>Boost car speed</li><li>No Ads</li></ul></div><div><br></div>Complete freedom of action and communication with other players surrounded by visceral stylish Eastern Europe locations. Ready to be the next Big City Legend? Become a real gangster and join the crazy MadOut 2 online family!\n<div>\n</div><div>\n</div><div>Gameplay for every taste:\n</div><div>1. Play with other players online in multiplayer mode (up to 200 on the server!) and in single player mode offline.\n</div><div>2. More than 30 story missions with awesome plot twists with insane crimes and mafia RP elements.\n</div><div>3. Online jobs: earn money together in a single world! Be a serious gangstar boss or lawful civilian guy!</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1319/MadOutTwo_icon.png"
-    },
-    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -3455,12 +3433,23 @@
       "name": "Mojo: AI Video and Reels Editor",
       "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
       "developerName": "Blatant",
-      "version": "1.262",
-      "versionDate": "2026-04-07T18:30:43.000Z",
+      "version": "1.264",
+      "versionDate": "2026-04-20T13:39:38.000Z",
       "size": 189797587,
       "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1335/mojo_icon.png"
+    },
+    {
+      "name": "Mortal Kombat Hack",
+      "bundleIdentifier": "com.iosgods.mortalkombathack",
+      "developerName": "iOSGods",
+      "version": "7.2.1",
+      "versionDate": "2026-04-20T11:00:53.000Z",
+      "size": 1301680687,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MortalKombat.ipa",
+      "localizedDescription": "<div class=\"\"><i class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\n</a></span></i></div><div class=\"\"><i class=\"\"><b class=\"\"><br></b></i></div><div class=\"\"><i class=\"\"><b class=\"\">Features:</b></i></div><div class=\"\"><i class=\"\"><b class=\"\">- Instantly Kill individual Enemy Characters</b></i></div><div class=\"\"><i class=\"\"><b>- Force Swap Enemy Characters*</b></i></div><div class=\"\"><i class=\"\"><b>- Easy Enemy* (1 hit KO)</b></i></div><div class=\"\"><i><b>- Resurrect and Heal all players*</b></i></div><div class=\"\"><i class=\"\"><b>- Heal All Players*</b></i></div><div class=\"\"><i class=\"\"><b>- Swap Hack - can swap without finishing time</b></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Get over here and immerse yourself in the iconic and visceral action of MORTAL KOMBAT MOBILE anytime, anywhere. Kollect legendary fighters like Scorpion, Sub-Zero, Raiden, and Kitana and fight in epic 3v3 battles set in the Mortal Kombat universe. This visually stunning fighting and card collection game has multiple modes and re-introduces characters and lore from Mortal Kombat\u2019s 30-Year fighting game legacy. Launch into the action today and prove yourself in the greatest fighting tournament in all of the realms!</i></div><div class=\"\"></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1160/MortalKombat_icon.png"
     },
     {
       "name": "MyFitnessPal++",
@@ -3519,17 +3508,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "MyFitnessPal: Calorie Counter",
-      "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
-      "developerName": "MyFitnessPal",
-      "version": "26.14.0",
-      "versionDate": "2026-04-08T16:01:35.000Z",
-      "size": 80827557,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
-      "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1191/MyFitnessPal_icon.png"
     },
     {
       "name": "NineAnimator",
@@ -3864,17 +3842,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1343/persona_icon.png"
     },
     {
-      "name": "PewDiePie's Tuber Simulator",
-      "bundleIdentifier": "com.markuz777.pewdiepiestubersimulator",
-      "developerName": "markuz777",
-      "version": "2.75.0",
-      "versionDate": "2026-04-07T17:44:33.000Z",
-      "size": 198483742,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
-      "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
-      "iconURL": "https://i.imgur.com/CiXfQpr.jpeg"
-    },
-    {
       "name": "Phocus: Portrait Mode Editor",
       "bundleIdentifier": "com.blatant.phocusportraitmodeeditor",
       "developerName": "Blatant",
@@ -3925,8 +3892,8 @@
       "name": "PicsArt Pro",
       "bundleIdentifier": "com.dangerouspixel.picsartpro",
       "developerName": "Dangerous Pixel",
-      "version": "29.7.1",
-      "versionDate": "2026-04-07T18:29:33.000Z",
+      "version": "29.8.2",
+      "versionDate": "2026-04-20T13:36:05.000Z",
       "size": 71112152,
       "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
       "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
@@ -4411,17 +4378,6 @@
       "appID": "com.louisanslow.record"
     },
     {
-      "name": "SCRL: Photo Collage Maker",
-      "bundleIdentifier": "com.blatant.scrlphotocollagemaker",
-      "developerName": "Blatant",
-      "version": "9.33.1",
-      "versionDate": "2026-04-08T16:05:07.000Z",
-      "size": 70840129,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SCRL.ipa",
-      "localizedDescription": "<b>Unleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.</b><div><br><div></div><div>\u2022 Exceptional Collage Maker with Hundreds of Hand-Picked Templates\r</div><div>Start your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style. \r</div><div class=\"\">Our design experts hand-pick each template to ensure the highest quality and versatility. Plus, new collage templates are added regularly, so you\u2019ll always have fresh options to choose from.\r</div><div class=\"\"><br></div><div>\u2022 Seamless Swipe-Through Carousel Posts\r</div><div class=\"\">Easily create stunning swipe-through carousel posts that captivate your audience. Our intuitive design tools make it effortless to merge photos into panoramic carousel posts or create scroll-through collage layouts that flow seamlessly. \r</div><div class=\"\"><br></div><div>\u2022 Premade Grid Layouts for Collages\r</div><div class=\"\">Now you can create beautiful, cohesive photo grids and Instagram layouts that span multiple photos, giving your feed a stunning, unified look. Combine grids with our photo collage templates, swipe-through carousel posts, and freeform canvas for endless possibilities.\r</div><div class=\"\"><br></div><div>\u2022 Add More Than 10 Photos to a Single Post\r</div><div>Break the limitations of traditional posts &amp; Instagram layouts. With SCRL, you can add more than 10 photos in a single post, providing more room for your creativity and storytelling.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/rLkcUhw.jpeg"
-    },
-    {
       "name": "ScummVM",
       "bundleIdentifier": "org.scummvm.scummvm",
       "developerName": "ScummVM Team",
@@ -4519,6 +4475,17 @@
         }
       ],
       "appID": "com.toyopagroup.picaboo"
+    },
+    {
+      "name": "SnapEdit: Photo Editor AI",
+      "bundleIdentifier": "com.blatant.snapeditphotoeditorai",
+      "developerName": "Blatant",
+      "version": "6.5.1",
+      "versionDate": "2026-04-20T13:41:32.000Z",
+      "size": 128387746,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SnapEdit.ipa",
+      "localizedDescription": "<h3>Meet AI Expand in SnapEdit: the power to extend your images beyond the original frame. Fix awkward cropping. Create sweeping landscapes from tighter shots.\r</h3><div>\r</div><div>SnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\r</div><div class=\"\">Transform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\r</div><div class=\"\"><br></div><div class=\"\"><b>KEY FEATURES:\r</b></div><div class=\"\">ONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objects in your pictures. With just a single touch, SnapEdit intelligently analyzes your photo and seamlessly removes any undesired elements, leaving behind a clean and polished image.\r</div><div class=\"\">SUPER ERASE (PRO required): Specialized model designed to remove larger distractions. Makes them vanish in a flash, leaving your photos sleek, clean, and distraction-free.\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">IMAGE ENHANCEMENT: </b>Elevate your photo quality with SnapEdit\u2019s powerful image enhancement tools. Adjust brightness, contrast, saturation, and more to bring out the hidden details and make your images truly captivating. Enhance colors, sharpen edges, and create a professional finish with ease.\r</div><div>AI Expand: Let you fix your limited framing in one tap. AI Expand will widen backgrounds, fill missing areas, or adjust photo sizes for social media. Create perfectly balanced images that look natural and complete every time.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/vLy4luI.png"
     },
     {
       "name": "Soul Knight Hack",
@@ -5150,6 +5117,17 @@
       ]
     },
     {
+      "name": "The Battle Cats",
+      "bundleIdentifier": "com.iosgods.thebattlecats",
+      "developerName": "iOSGods",
+      "version": "15.2.1",
+      "versionDate": "2026-04-20T13:30:49.000Z",
+      "size": 171065627,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/battleCats.ipa",
+      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div><br></div><div><br></div><h3>Hack Features:<br>\r- Infinite Cash<br>\r- One hit kill<br>- Infinite Cat Foods &amp; EXP (requires IOSGods vip)</h3><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">-= Weirdly Cute Cats rampage across the world! =-\r</div><div class=\"\">Command your Cats with simple controls in a battle through space and time! No need to register to develop your own Cat Army! BATTLE WITH ALL THE CATS!!\r</div><div class=\"\"><br></div><div class=\"\">=Super Simple Battle System=\r</div><div class=\"\">Just tap on the Cat you want to fight for you!\r</div><div class=\"\">Fire the Cat Cannon to blast baddies getting too close to your base! Overcome weird enemies with the right Cat squad and take down the enemy base!\r</div><div class=\"\"><br></div><div class=\"\">=Super Simple Leveling System=\r</div><div class=\"\">Clear stages to get XP and items to level up the Cats! What will they evolve to at level 10? Can you unlock their True Form?</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1378/battleCats_icon.jpeg"
+    },
+    {
       "name": "Thermometer",
       "bundleIdentifier": "com.growpixel.blackbox.store.Thermometer",
       "developerName": "Ryan McLeod",
@@ -5303,6 +5281,17 @@
           "absoluteVersion": "8.0.2"
         }
       ]
+    },
+    {
+      "name": "Unfold: Story and Reels Maker",
+      "bundleIdentifier": "com.squarespace.unfoldstoryandreelsmaker",
+      "developerName": "Squarespace",
+      "version": "8.157.0",
+      "versionDate": "2026-04-20T13:45:48.000Z",
+      "size": 163485644,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Unfold.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div>\u2014 Stitch video clips together with Reels templates\r<div>\r</div><div>\u2014 Create with template collections like Film\r</div><div>\u2014 Plan and preview your Instagram Feed\r</div><div>\u2014 Remove any background with our AI editing tool\r</div><div>\u2014 Make a Bio Site for your new link in bio\r</div><div class=\"\">\u2014 Edit your content with filters and effects\r</div><div class=\"\"><br></div><div>Reels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\r</div><div>Story, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1281/Unfold_icon.png"
     },
     {
       "name": "UTM",
@@ -5711,6 +5700,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1284/VlogNow_icon.png"
+    },
+    {
+      "name": "VSCO",
+      "bundleIdentifier": "com.michaellema.vsco",
+      "developerName": "Michael Lema",
+      "version": "460.0.1",
+      "versionDate": "2026-04-20T13:34:27.000Z",
+      "size": 96977746,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
+      "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/821/vsco1_icon.png"
     },
     {
       "beta": false,
