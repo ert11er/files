@@ -67,6 +67,28 @@
       ]
     },
     {
+      "name": "Adobe Premiere: Video Editor",
+      "bundleIdentifier": "com.blatant.adobepremierevideoeditor",
+      "developerName": "Blatant",
+      "version": "26.10.1",
+      "versionDate": "2026-04-22T15:35:00.000Z",
+      "size": 97895549,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/premierAdobe.ipa",
+      "localizedDescription": "Effortless editing. Total control. Meet the fast, free, and focused mobile video editing app that's powerful enough for any idea, yet simple enough for anyone to use. Edit videos from wherever you are, with no ads or watermarks. Premiere offers unmatched speed on a precise multi-track timeline and studio-quality audio featuring crystal clear voice recordings and perfectly timed AI sound effects -- plus Firefly-powered visuals to create stand out videos.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1412/premierAdobe_icon.png"
+    },
+    {
+      "name": "AI Calorie Tracker by Yazio",
+      "bundleIdentifier": "com.blatant.aicalorietrackerbyyazio",
+      "developerName": "Blatant",
+      "version": "12.81.1",
+      "versionDate": "2026-04-22T15:55:48.000Z",
+      "size": 119803119,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/AICalorieTracker.ipa",
+      "localizedDescription": "<b>Welcome to Yazio, the most effective AI calorie tracker, intermittent fasting app and food tracker for losing weight without dieting!\r</b><div><b>\r</b></div><div class=\"\"><b>Track calories, eat better and reach your goals with Yazio\u2019s free calorie counter app!\r</b></div><div class=\"\"><b><br></b></div><div class=\"\">Yazio is your all-in-one solution, whether you're aiming for a calorie deficit, tracking meals or looking for an advanced AI calorie tracker. Designed to support sustainable weight loss, muscle gain and weight maintenance, Yazio empowers you to make smart food choices with the help of its AI calorie tracker. Yazio combines a science-backed approach with cutting-edge AI calorie tracker technology to deliver long-term results without the need for extreme diets.\r</div><div class=\"\"><br></div><div><ul><li class=\"\">- Easy-to-use AI calorie tracker and food tracker\r</li><li>- Calorie deficit tracker to reach your weight goals\r</li><li>- Huge food database with 95% of all food items\r</li><li>- Calorie tracker with barcode scanner\r</li><li>- Meal planning, food tracker and personalized recipes\r</li><li>- Integrated step and activity tracking\r</li><li>- Water tracker with reminders\r</li><li>- Instant access with no signup required\r</li><li>- Regular updates for calorie counter, food tracker and AI calorie tracker tools\r</li><li>- Food tracker and nutrition tools for men and women\r</li><li>- Support for healthy muscle building and weight gain\r</li><li>- Focus on long-term results, not yo-yo dieting</li></ul></div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1460/AICalorieTracker_icon.png"
+    },
+    {
       "name": "AltStore",
       "bundleIdentifier": "com.rileytestut.AltStore",
       "developerName": "Riley Testut",
@@ -471,6 +493,17 @@
       ]
     },
     {
+      "name": "B612 - AI Photo and Video Editor",
+      "bundleIdentifier": "com.blatant.b612aiphotoandvideoeditor",
+      "developerName": "Blatant",
+      "version": "15.1.0",
+      "versionDate": "2026-04-22T15:38:48.000Z",
+      "size": 132121404,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/b612.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>B612 is the best all-in-one camera &amp; photo/video editing app. We offer various free features and tools to make every moment more special.\r<div>\r</div><div>Meet trendy effects, filters, and stickers that are updated every day!\r</div><div>=== Main features ===\r</div><div>*Create your own filters*\r</div><div>- Create a one-of-a-kind filter and share it with friends\r</div><div>- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\r</div><div>- Meet the creative and diverse filters of B612 creators.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1347/b612_icon.png"
+    },
+    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Yandevelop",
@@ -589,17 +622,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/BuddyBudget.ipa",
       "localizedDescription": "Buddy helps you set up a budget and keep track of your expenses, either by yourself or together with your loved ones.\r<div class=\"\">Here\u2019s what is waiting for you inside:\r</div><div class=\"\"><br></div><div class=\"\"><b>BUDGETS\r</b></div><div>Buddy will help you not to overspend on your well-earned salary by setting up a budget plan that fits you. \r</div><div>Do you want a shared budget with your partner? Or keep the expenses between you and your mates fair on the vacation? No problem, just invite them and get a clear picture of who spent what.\r</div><div class=\"\"><b>CONNECT YOUR BANK\r</b></div><div>Import all transactions from your bank account into Buddy and see how your budget is doing.\r</div><div class=\"\"><b>OVERVIEW\r</b></div><div>We'll give you a beautiful &amp; detailed overview of your spendings, income, and savings.\r</div><div class=\"\"><b>SPLIT</b></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/3IhFVCQ.jpeg"
-    },
-    {
-      "name": "Busuu: Language Learning",
-      "bundleIdentifier": "com.blatant.busuulanguagelearning",
-      "developerName": "Blatant",
-      "version": "30.9.0",
-      "versionDate": "2026-04-13T08:21:35.000Z",
-      "size": 41323858,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
-      "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
     },
     {
       "name": "CARROT Weather",
@@ -948,6 +970,17 @@
           "absoluteVersion": "1.6"
         }
       ]
+    },
+    {
+      "name": "Crsel: Carousel and Story Maker",
+      "bundleIdentifier": "com.blatant.crselcarouselandstorymaker",
+      "developerName": "Blatant",
+      "version": "1.3.701",
+      "versionDate": "2026-04-22T15:47:14.000Z",
+      "size": 144457400,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/crsel.ipa",
+      "localizedDescription": "<b>Crsel is the all-in-one app for creating aesthetic Instagram carousels, collages, stories, and Reels covers. Designed for creators who care about storytelling and style.</b><div><br><div></div><div class=\"\"><ul><li>Use our seamless Instagram Carousel Maker. Design multi-slide posts that connect visually. Align elements across frames and preview the full swipe effect. Perfect for photo series, lookbooks, tutorials, or storytelling posts.\r</li><li>From clean, minimal layouts to bold, layered collages, Crsel gives you everything you need to design posts that feel intentional, premium, and uniquely yours.\r</li><li>Trendy Collage Templates. Choose from layered, editorial-style templates made for storytelling! Combine multiple photos, add text, and guide your audience through a visual journey.\r</li><li>Story Templates That Match Your Feed. Create IG stories and Reels covers using the same style as your carousels. Maintain a cohesive aesthetic across all your content, from feed to story highlights.\r</li><li>Reels Cover Designer. Design eye-catching Reels thumbnails that match your feed. Crsel helps you maintain a polished and branded look across all formats\r</li><li>AI Cutout Tool. Automatically remove backgrounds from photos with one tap. Easily layer people, objects, or products over textured backdrops and collage elements.</li></ul></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1461/crsel_icon.png"
     },
     {
       "name": "Crunchyroll++",
@@ -1637,8 +1670,8 @@
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
-      "version": "7.118.1",
-      "versionDate": "2026-04-20T13:32:30.000Z",
+      "version": "7.119",
+      "versionDate": "2026-04-22T15:46:49.000Z",
       "size": 182898277,
       "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
       "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
@@ -1957,6 +1990,17 @@
       "appID": "com.antique.emuThreeDS"
     },
     {
+      "name": "EPIK - AI Photo and Video Edito",
+      "bundleIdentifier": "com.blatant.epikaiphotoandvideoedito",
+      "developerName": "Blatant",
+      "version": "7.1.0",
+      "versionDate": "2026-04-22T14:43:10.000Z",
+      "size": 167590962,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/EpikAI.ipa",
+      "localizedDescription": "Use professional editing tools and powerful AI technology to easily and conveniently edit photos.<div><br><div></div><div></div><div class=\"\"><b>[AI tool]\r</b></div><div>\u30fb Enhance: Improve clarity and resolution! Create high-quality photos\r</div><div>\u30fb AI skin: Perfect your skin by AI correcting blemishes\r</div><div>\u30fb Smart AI cutout: Carefully separate figures, objects, and even animals\r</div><div>\u30fb Remove: Easily remove unwanted parts\r</div><div>\u30fb AI filter: Create your own characters in different styles\r</div><div class=\"\">\u30fb Hairstyle and Expression: Create a new look\r</div><div class=\"\"><br></div><div class=\"\"><b>[Professional photo editing tools]\r</b></div><div>\u30fb HSL, Curves, Split Tone, Selective: Precise color adjustments\r</div><div>\u30fb Lux, Texture, Grain, Brilliance, Vignette: Create different moods\r</div><div>\u30fb Crop, Rotate, Mirror, Flip, Perspective, Adjust resolution: Set the composition you want\r</div><div>\u30fb Batch: Edit multiple photos at once\r</div><div>\u30fb Patch, Clone: Naturally edit or copy a specific part</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1417/EpikAI_icon.png"
+    },
+    {
       "name": "Facebook++",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
@@ -2129,17 +2173,6 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
-      "name": "Fitness AI Gym Workout Planner",
-      "bundleIdentifier": "com.blatant.fitnessaigymworkoutplanner",
-      "developerName": "Blatant",
-      "version": "17.0",
-      "versionDate": "2026-04-13T09:05:43.000Z",
-      "size": 140468515,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/FintessAIGYM.ipa",
-      "localizedDescription": "Workout at home or at the gym with FitnessAI\u2019s advanced training algorithm to guide you through the perfect set, rep and weight combination to reach your fitness goals.<div><br><div></div><div>\u25cf Get results with whatever equipment you have available to you. Whether your fitness goals are to build muscle, get toned or lose weight fast, FitnessAI is the simplest way to access a world class training regiment.\r</div><div>\u25cf Our easy to follow gym and home workouts are backed by data, not intuition. FitnessAI\u2019s simple layout allows for easy exercise tracking for your full body workout.\r</div><div>\u25cf FitnessAI plans your gym sessions and optimizing for health, strength and fitness. It\u2019s algorithm offers high rep modes to help you get toned, as well as advanced progressive overload optimizations to help you build mass while weight lifting. Get stronger, faster at home or the gym.\r</div><div>\u25cf Your personal trainer in your pocket offers the most effective gym / home exercises  that target your back, biceps, chest, triceps, shoulder, legs, core workouts and weight lifting ab exercises. Specializing in both beginner weight lifting exercises and advance strength training techniques, FitnessAI is sure to help you at the gym.\r</div><div>\u25cf The best weight lifting app / best weightlifting gym routine designed by weightlifters, for weightlifters. Based on 5.9M workouts, our innovative algorithm is sure to out-perform any human personal trainer or fitness coach at the gym. Not to mention, it\u2019s a fraction of the cost, and smarter! Finally a weight lifting app that does what a weight lifting app is meant to do!\r</div><div>\u25cf Optimized gym workouts make your weight lifting routine as efficient as possible at the gym. Our gym routine is top notch and sure to help you get stronger, and reach your fitness goals\r</div><div>&nbsp;</div><div> \r</div><div> \r</div><div>\r</div><div> \r</div><div> \r</div></div>",
-      "iconURL": "https://i.imgur.com/KQaZmo4.jpeg"
-    },
-    {
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
@@ -2212,17 +2245,6 @@
       "iconURL": "https://i.imgur.com/85tRTde.jpeg"
     },
     {
-      "name": "Gardenscapes Hack",
-      "bundleIdentifier": "com.markuz777.gardenscapeshack",
-      "developerName": "markuz777",
-      "version": "9.5.5",
-      "versionDate": "2026-04-13T07:50:48.000Z",
-      "size": 154434000,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Gardenscapes.ipa",
-      "localizedDescription": "<div class=\"\"><i class=\"\"><br></i></div><h3><span class=\"\">Features:<br>\n</span><span class=\"\">- Infinite Moves<br>\n</span><span class=\"\">- Infinite Boosters<br>\n</span><span class=\"\">- Infinite Lives</span></h3><div class=\"\"><span class=\"\">Tap to slay hundreds of Titans with your sword as you journey through the land in this clicker RPG adventure. Upgrade your blade for new gear, gather pets, and enter multiplayer clan raids with users across the globe to leave your legacy as the Ultimate Sword Master.</span></div><div class=\"\"><span class=\"\"><br></span></div><div class=\"\"><br></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/833/Gardenscapes_icon.png"
-    },
-    {
       "name": "GBA4iOS",
       "bundleIdentifier": "com.rileytestut.GBA4iOS",
       "developerName": "Riley Testut",
@@ -2258,17 +2280,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/GraveyardKeeper.ipa",
       "localizedDescription": "Graveyard Keeper is the most inaccurate medieval cemetery management sim of all time. Build and manage your own graveyard, and expand into other ventures, while finding shortcuts to cut costs. Use all the resources you can find. After all, this is a game about the spirit of capitalism, and doing whatever it takes to build a thriving business. And it\u2019s also a love story.<div><br><div></div><div>- Face ethical dilemmas. Do you really want to spend money on that proper burger meat for the witch-burning festival, when you have so many resources lying around? \r</div><div>- Gather valuable materials and craft new items. Expand your Graveyard into a thriving business. Help yourself -- gather the valuable resources scattered across the surrounding areas, and explore what this land has to offer. \r</div><div>- Quests and corpses. These dead bodies don't need all those organs, do they? Why not grind them up and sell them to the local butcher? Or you can go on proper quests, you roleplayer.\r</div><div>- Explore mysterious dungeons. No medieval game would be complete without those! Take a trip into the unknown, and find discover new alchemy ingredients -- which may or may not poison a whole bunch of nearby villagers.&nbsp;</div></div>",
       "iconURL": "https://i.imgur.com/wiLZqYR.png"
-    },
-    {
-      "name": "Grim Soul: Survival",
-      "bundleIdentifier": "com.markuz777.grimsoulsurvival",
-      "developerName": "markuz777",
-      "version": "8.1.0",
-      "versionDate": "2026-04-13T07:46:29.000Z",
-      "size": 173219080,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
-      "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/810/grimsoul_icon.png"
     },
     {
       "name": "HD Flix (No Ads)",
@@ -3152,8 +3163,8 @@
       "name": "Lightroom Hacked",
       "bundleIdentifier": "com.laxus.lightroomhacked",
       "developerName": "Laxus",
-      "version": "11.3.0",
-      "versionDate": "2026-04-16T11:45:24.000Z",
+      "version": "11.3.1",
+      "versionDate": "2026-04-22T15:34:30.000Z",
       "size": 192623012,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Lightroom.ipa",
       "localizedDescription": "<div class=\"\"><br></div><div class=\"\"><b>Hack Features:&nbsp;</b></div><div class=\"\"><ul><li class=\"\"><b>&nbsp;PREMIUM&nbsp;</b></li></ul></div><div class=\"\">Edit raw and videos, and all other premium features unlocked.</div>Lightroom for iOS is a photo and video editing app. It provides powerful editing features like sliders, color grading, and a video editor, all accessible on your mobile device. You can also upgrade for premium features that include RAW capture, HDR, and more, with seamless access across all your devices.&nbsp;",
@@ -3283,15 +3294,15 @@
       "appID": "com.luma-touch.LumaFusion"
     },
     {
-      "name": "Luminar Mobile AI Photo Editor",
-      "bundleIdentifier": "com.blatant.luminarmobileaiphotoeditor",
-      "developerName": "Blatant",
-      "version": "3.5",
-      "versionDate": "2026-04-09T15:45:12.000Z",
-      "size": 373249461,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/luminar.ipa",
-      "localizedDescription": "Luminar Mobile \u2014 Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1411/luminar_icon.png"
+      "name": "Magic Eraser Background Editor",
+      "bundleIdentifier": "com.dangerouspixel.magiceraserbackgroundeditor",
+      "developerName": "Dangerous Pixel",
+      "version": "3.13.0",
+      "versionDate": "2026-04-22T15:09:17.000Z",
+      "size": 244413160,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MagicEraser.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Instantly remove the background or object of any picture, edit, arrange and save as PNG or JPG! Join 10 million Magic Background Eraser creators and take your images to the next level with AI powered high resolution editing.\r</div><div>Ideal for online sellers or photo enthusiasts, it is the most usable app for free without a watermark. Extra features are available for an affordable price.\r</div><div>Remove objects or cut out and save transparent images for use in Instagram, Poshmark, Shopify, Pinterest and many other apps. Add a white, colored or custom background to your photo cut-out and grow your brand with beautiful product posts and stories.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1303/MagicEraser_icon.png"
     },
     {
       "name": "MAME4iOS",
@@ -3338,17 +3349,6 @@
       ]
     },
     {
-      "name": "Merge Cooking",
-      "bundleIdentifier": "com.mergecooking.mergecooking",
-      "developerName": "Merge Cooking",
-      "version": "1.35.1",
-      "versionDate": "2026-04-09T15:39:04.000Z",
-      "size": 290198480,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MergeCooking.ipa",
-      "localizedDescription": "<h3>In app purchases are free</h3><div><br></div><div><br></div>Do you know you can enjoy the food around the world without traveling?\r<div>\r</div><div>Do you know you can master the secret of cooking with just a few simple steps?\r</div><div>Tie your apron and put your chef hat on!\r</div><div>In Merge Cooking, you can cook anything!\r</div><div>- Welcome, Chef!\r</div><div>Your assistant Lea is waiting for you to start the adventure of opening restaurants and serving customers around the world. Merge Cooking not only allows you to cook as a star chef and master the world cuisine but also helps you realize your designer dream and renovate Michelin star restaurants!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1362/MergeCooking_icon.png"
-    },
-    {
       "name": "Messenger++",
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "Michael Lema",
@@ -3381,6 +3381,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Mimo: Learn Coding/Programming",
+      "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
+      "developerName": "Blatant",
+      "version": "12.9.1",
+      "versionDate": "2026-04-22T15:50:54.000Z",
+      "size": 136645016,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
+      "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1409/mimo_icon.png"
     },
     {
       "name": "Mini vMac",
@@ -3417,17 +3428,6 @@
           "absoluteVersion": "2.5"
         }
       ]
-    },
-    {
-      "name": "Minutes: AI Meeting Note Taker",
-      "bundleIdentifier": "com.blatant.minutesaimeetingnotetaker",
-      "developerName": "Blatant",
-      "version": "1.11",
-      "versionDate": "2026-04-13T08:18:25.000Z",
-      "size": 12708547,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MinutesAI.ipa",
-      "localizedDescription": "<b>MinutesAI automatically does your meeting notes and transcriptions with AI.</b>&nbsp;<div>Minutes records audio and provides word for word transcripts with speakers labels. Then, it gives you formatted notes, summaries, and the ability to search for key terms/topics. You can ask questions like \u201cWhat stats did Laura reference on her slide?.\u201d\r<div>\r</div><div>\r</div><div class=\"\">Minutes takes care of your notes so you can stay focused on what\u2019s important. It's build with privacy in mind, meaning Minutes will never sell or provide third-party access to your data.\r</div><div class=\"\"><br></div><div>Minutes is great for:\r</div><div>- Taking meeting notes automatically, and easily sharing with your coworkers\r</div><div>- Recording and transcribing interviews, lectures, podcasts, videos, YouTube videos, webinars, keynotes\r</div><div class=\"\">- Providing live captioning to the deaf and managers with a quiet microphone\r</div><div class=\"\"><br></div><div class=\"\">Record &amp; Transcribe Live\r</div><div>- Start recording with one click\r</div><div>- Specify keywords (uncommon words, terms, acronyms, names, etc.) for Minutes AI to listen for\r</div><div>- Specify transcription and summary languages (eg transcribe in Spanish, take notes in English)\r</div><div>- Get a highly accurate live transcription with labeled speakers\r</div><div>- See a list of key points to review later\r</div><div>- Ask questions and chat with the recording using AI</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1401/MinutesAI_icon.png"
     },
     {
       "name": "Mojo: AI Video and Reels Editor",
@@ -3572,17 +3572,6 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/NotabilityAI.ipa",
       "localizedDescription": "<div><div class=\"\"><b>Whether you\u2019re studying for an exam, organizing a meeting, or sketching your next big idea\u2014Notability is the essential resource you can rely on to capture, organize, and share your thoughts with ease.\r</b></div><div class=\"\"><br></div><div>YOUR ALL-IN-ONE DIGITAL NOTEBOOK\r</div><div>\u2022 Write, type, or sketch with lifelike digital ink, highlighters, and text tools.\r</div><div>\u2022 Mark up anything: PDFs, textbooks, lecture slides, images, and more.\r</div><div>\u2022 Stay organized with customizable folders and subjects.\r</div><div>STUDY SMARTER WITH LEARN AI\r</div><div>\u2022 Live Smart Note instant summaries of your notes.\r</div><div>\u2022 Quizzes and flashcards tailored to you.\r</div><div>\u2022 Chat with your notes \u2013 your AI-powered assistant\r</div><div>RECORD, REVIEW AND REMEMBER \r</div><div>\u2022 Audio recording synced to your notes; perfect for lectures and meetings.\r</div><div>\u2022 Search for anything, including transcripts, text and handwriting.</div><div>\r</div><div>\r</div><div>\r</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1462/NotabilityAI_icon.png"
-    },
-    {
-      "name": "Nulls Brawl",
-      "bundleIdentifier": "com.dangerouspixel.nullsbrawl",
-      "developerName": "Dangerous Pixel",
-      "version": "66.293",
-      "versionDate": "2026-04-09T16:32:59.000Z",
-      "size": 232761780,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/brawl1.ipa",
-      "localizedDescription": "<p class=\"\"><span class=\"\" style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><i>Features:</i></span><br></p><p class=\"\"></p><ul><li class=\"\">Unlimited Gems&nbsp;</li><li class=\"\">Unlimited Gold&nbsp;</li><li class=\"\">Private Server&nbsp;</li><li class=\"\">Friendly Battle Members will know who</li></ul><p></p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/813/brawl1_icon.jpeg"
     },
     {
       "name": "Odyssey",
@@ -3818,17 +3807,6 @@
         ]
       },
       "appID": "com.faizandurrani.paperback.ios"
-    },
-    {
-      "name": "Peachy Pro",
-      "bundleIdentifier": "com.dvntm.peachypro",
-      "developerName": "dvntm",
-      "version": "2.11.0",
-      "versionDate": "2026-04-13T08:15:56.000Z",
-      "size": 102963908,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PeachyPro.ipa",
-      "localizedDescription": "Aiming at perfection in everything, Peachy is a powerful &amp; handy pro photo editor, especially for selfie editing &amp; retouching, body shape editing.<div><br></div><div>Everybody is an excellent photographer with this simple retouch tool, it helps you meet the best version of you, smooth skin, whiten teeth, reshape face, fix blemishes, remove wrinkles, become taller, add makeup, tattoo, muscles &amp; filters and so on.</div><div><br></div><div>Peachy provides lots of portrait and selfie photo editing features. Download it and give a try!</div><div><br></div><div>RETOUCH</div><div>\u00b7Remove wrinkles and acne</div><div>\u00b7Smooth and brightened your skin</div><div>\u00b7Reduce dark circles under your eyes</div><div>\u00b7Whiten your teeth</div><div>\u00b7Add volume and darken your eyebrow</div><div><br></div><div>RESHAPE</div><div>\u00b7Reshape your body and facial structure</div><div>\u00b7Refine a specific area of the selfie, for example, arms or facial features</div><div>\u00b7Bloat your breast, enlarge muscles and facial features</div><div><br></div><div>HEIGHT CORRECTION</div><div>\u00b7Elongate your legs and become taller</div><div>\u00b7Enhance your body both laterally and longitudinally</div><div><br></div><div>ADD MUSCLES</div><div>\u00b7Add six pack abs muscles</div><div>\u00b7Add chest muscles</div><div><br></div><div>ADD TATTOO</div><div>\u00b7Add creative tattoos to your body</div><div><br></div><div>LIGHTING EFFECTS</div><div>\u00b7Improve lighting effects of the selfie or portrait</div><div><br></div><div>ACCESSORIES</div><div>\u00b7Decorate your selfie or portrait with stylish accessories</div><div><br></div><div>FILTERS</div><div>\u00b7High-fashion vintage filters, perfect for selfie</div><div><br></div><div>ADJUST</div><div>\u00b7Create custom filters by adjusting brightness, contrast etc.</div><div><br></div><div>Perfect your selfies or portraits in Peachy, and share with your friends online, it can be fun and inspiring!</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/876/PeachyPro_icon.png"
     },
     {
       "name": "Phocus: Portrait Mode Editor",
@@ -4247,26 +4225,15 @@
       "versionDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n"
     },
     {
-      "name": "Reface",
-      "bundleIdentifier": "com.reface.reface",
-      "developerName": "Reface",
-      "version": "6.4.1",
-      "versionDate": "2026-04-13T08:19:11.000Z",
-      "size": 41665553,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Reface.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">Create professional business photos and revamp your style with the Hair Style and Hair Color tool!\r</div><div>Try Face Swap on Photos and Videos &amp; Generate Stunning AI Headshots Easily. Join the Reface community of over 150 million creators around the world. Enhance your photo collection with stunningly realistic AI baby and headshot generator using the innovation of AI-powered editing features, quickly swap faces on photos, change your hairstyles or social media headshots with templates, create AI content from your favorite moments, choose from tons of stylized photo filters, and more. Reface is your all-in-one AI Face Swap photo &amp; video editor with all the tools you need to create your personal content.</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1006/Reface_icon.png"
-    },
-    {
-      "name": "Regram for Instagram",
-      "bundleIdentifier": "com.fouadraheb.regramforinstagram",
-      "developerName": "Fouad Raheb",
-      "version": "424.1.0 (2.8.1)",
-      "versionDate": "2026-04-13T07:59:52.000Z",
-      "size": 204357512,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/regram.ipa",
-      "localizedDescription": "<span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Built-into Instagram</b></span><div>Runs inside Instagram, so no need to install a separate app or service. It also uses Instagram private API for Analytics and other features</div><div class=\"\"><b>Profile Analyzer</b></div><div>Scans your Instagram profile to provide in-depth analysis, including who unfollowed you, who doesn't follow you back, and any changes to their profiles (picture, username, full name, privacy, and verification).</div><div class=\"\"><b>Stories Archive</b><br>Automatically download and store all your uploaded Stories including the full viewers and likers list and allow to view analytics of top viewers and likers.</div><div class=\"\"><b>Media Downloader</b></div><div class=\"\">Downloads any Instagram media, including posts, stories, reels, post audio, and direct messages.</div><div class=\"\"><b>Privacy</b></div><div class=\"\">View stories and read direct messages without sending seen receipts, send them manually with a single tap.</div><div class=\"\"><b>Messages</b></div><div class=\"\">Keep unsent messages, stop sending typing and screenshot notifications, download audio messages, save vanish media messages, confirm call buttons, and more.</div><div class=\"\"><b>Utilities &amp; Customization</b></div><div class=\"\">Confirm clicking like and follow buttons, copy captions, comments and bios, format stories, posts and last active dates to a more detailed date format.<br><br></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1239/regram_icon.png"
+      "name": "Renovate AI : Home Design",
+      "bundleIdentifier": "com.billymoore.renovateaihomedesign",
+      "developerName": "BillyMoore",
+      "version": "5.1.4",
+      "versionDate": "2026-04-22T15:49:21.000Z",
+      "size": 54117768,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/RenovateAI.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div><br></div><div>Transform your home effortlessly with Renovate AI! Redesign interiors, exteriors, and landscapes using AI tools for stunning, photorealistic results. Try it now!\r</div><div>Reimagine Your Space with Renovate AI!\r</div><div>Discover the future of architectural design and home renovation with Renovate AI, your go-to solution for creating stunning interiors and exteriors. Whether you're planning a full home design, room design, or landscape design, our cutting-edge technology simplifies every step in your design space.\r</div><div>With our powerful features as an AI room planner and home planner, Renovate AI empowers you to transform your home into the space you\u2019ve always envisioned. Everything you need, from exploring furniture options to perfecting your home decor, is at your fingertips.\r</div><div>With Renovate AI, you can explore endless design possibilities for both the interior design and exterior of your house. Experiment with different colors, furniture, and materials until you create the perfect look that reflects your style. Use our AI home design and AI interior design features to bring your ideas to life. Whether it's creating your dream bedroom or designing a home design 3D layout, we\u2019ve got you covered. Start your journey with Renovate AI today and realize your dream home design in no time!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1307/RenovateAI_icon.png"
     },
     {
       "name": "RetroArch",
@@ -4445,11 +4412,22 @@
       ]
     },
     {
+      "name": "Simply Guitar - Learn Guitar",
+      "bundleIdentifier": "com.simplyltd.simplyguitarlearnguitar",
+      "developerName": "Simply Ltd",
+      "version": "10.18",
+      "versionDate": "2026-04-22T15:30:31.000Z",
+      "size": 151621471,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SimplyGuitar.ipa",
+      "localizedDescription": "Learn to play the guitar at your own pace with step-by-step tutorials, made by world-class music teachers, and receive feedback from the app while you learn to play your favorite songs!<div><br><div></div><div class=\"\">No experience needed  | For all ages | Works with any guitar\r</div><div class=\"\"><br></div><div class=\"\"><b>--- Make your musical dreams come true ---\r</b></div><div>\u2022 Play chords &amp; songs straight away!\r</div><div>\u2022 Learn step by step with high-quality video lessons\r</div><div>\u2022 Receive feedback from the app and know when you are playing correctly or need guidance\r</div><div>\u2022 Learn all the necessary techniques to play the songs you love:       \r</div><div>&nbsp; &nbsp; &nbsp; - Guitar fundamentals\r</div><div>&nbsp; &nbsp; &nbsp; - Read and play tabs\r</div><div>&nbsp; &nbsp; &nbsp; - Playing chords\r</div><div>&nbsp; &nbsp; &nbsp; - Chord switching\r</div><div>&nbsp; &nbsp; &nbsp; - Strumming techniques \r</div><div>&nbsp; &nbsp; &nbsp; - Invaluable tips and tricks for playing correctly\r</div><div>&nbsp; &nbsp; &nbsp; - Technique boosting exercises\r</div><div>\u2022 Track your progress \r</div><div>\u2022 Learn to tune your guitar (professional tuner included!)\r</div><div>\u2022 Receive fast support from our musicians \r</div><div>\u2022 Have fun and quickly improve your skills</div><div> \r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/pzTOFJ4.jpeg"
+    },
+    {
       "name": "Simply Piano Hacked",
       "bundleIdentifier": "com.laxus.simplypianohacked",
       "developerName": "Laxus",
-      "version": "9.10.63",
-      "versionDate": "2026-04-16T11:31:53.000Z",
+      "version": "9.10.64",
+      "versionDate": "2026-04-22T15:20:45.000Z",
       "size": 195483304,
       "downloadURL": "https://s3.flekstore.com/ipa-library/SimplyPiano.ipa",
       "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\" style=\"\">iOSGods\r</a></span></div><div><b class=\"\"><br></b></div><b class=\"\">Hack Features:</b><div class=\"\"><b class=\"\">- Unlocked All Courses (Turn on from Mod Menu first)</b></div><div class=\"\"><br></div><div class=\"\">A fast and fun way to learn piano - works with any piano or keyboard. Learn to play the songs you love with Simply Piano!</div><div class=\"\"><br></div><div class=\"\">Simply Piano is a fast and fun way to learn piano, from beginner to pro. Works with any piano or keyboard. Chosen as one of the best iPhone apps.</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">- Tons of fun songs like Imagine, Chandelier, All Of Me and Counting Stars, also J.S. Bach</div><div class=\"\"><br></div><div class=\"\">- Includes courses for different musical tastes and playing levels</div><div class=\"\"><br></div><div class=\"\">- Learn the basics step-by-step from reading sheet music to playing with both hands</div><div class=\"\"><br></div><div class=\"\">- Slow down library songs to choose your own pace for easy learning</div><div class=\"\"><br></div><div class=\"\">- Personalized 5-Min Workouts ensuring you progress fast and always succeed</div><div class=\"\"><br></div><div class=\"\">- Suitable for all ages, no previous knowledge required to learn piano</div><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">No Piano? Try the Touch Courses with 3D Touch to turn your device into an on-screen keyboard!</div>",
@@ -4499,17 +4477,6 @@
       "iconURL": "https://i.imgur.com/vLy4luI.png"
     },
     {
-      "name": "Soul Knight Hack",
-      "bundleIdentifier": "com.markuz777.soulknighthack",
-      "developerName": "markuz777",
-      "version": "8.1.0",
-      "versionDate": "2026-04-13T07:42:12.000Z",
-      "size": 309758980,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/SoulKnight.ipa",
-      "localizedDescription": "<h3><i>Hack Features:</i></h3><div><i>- God Mode</i></div><div><i>- Infinite Ammo</i></div><div><i>- Instant Skill</i></div><div><i>- Infinite Currencies</i></div><div><br></div>This is the shooter game that features extremely easy and intuitive control. Its super smooth and enjoyable gameplay, mixed with rogue-like elements, will get you hooked from the very first run!",
-      "iconURL": "https://flekstore.com/img-storage/apps/1164/SoulKnight_icon.png"
-    },
-    {
       "name": "SoundCloud++",
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "Rov3r",
@@ -4556,6 +4523,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Splice - Video Editor and Maker",
+      "bundleIdentifier": "com.blatant.splicevideoeditorandmaker",
+      "developerName": "Blatant",
+      "version": "4.28.62",
+      "versionDate": "2026-04-22T15:31:35.000Z",
+      "size": 115599959,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Splice.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Simple yet powerful, Splice makes it easy to create fully customized, professional-looking videos on your iPhone or iPad. Imagine the performance of a desktop editor, optimized for your mobile device. Just tap to trim clips, add slow motion effects, and overlay multiple clips to create beautiful videos you\u2019ll love to share. It\u2019s never been easier to edit like a pro on the go.\r<div>\r</div><div><br></div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1369/Splice_icon.png"
     },
     {
       "name": "SpooferPro",
@@ -5046,6 +5024,17 @@
       "appID": "com.streamer.ios"
     },
     {
+      "name": "Tachimanga - Full-featured manga reader",
+      "bundleIdentifier": "com.blatant.tachimangafullfeaturedmangareader",
+      "developerName": "Blatant",
+      "version": "4.15",
+      "versionDate": "2026-04-22T15:11:51.000Z",
+      "size": 121654068,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Tachimanga.ipa",
+      "localizedDescription": "Discover a new world of manga with Tachimanga.\r<div>- Supports manga in ZIP/CBZ and EPUB formats.\r</div><div>- Supports reading manga from Komga, which is a self-hosted manga server.\r</div><div><br></div>",
+      "iconURL": "https://i.imgur.com/aDABwm7.jpeg"
+    },
+    {
       "name": "Taurine",
       "bundleIdentifier": "org.coolstar.taurine",
       "developerName": "Odyssey Team",
@@ -5193,6 +5182,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "TOR Browser Hack",
+      "bundleIdentifier": "com.syto203.torbrowserhack",
+      "developerName": "syto203",
+      "version": "4.0.2",
+      "versionDate": "2026-04-22T15:55:18.000Z",
+      "size": 28514277,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/OrnetPP.ipa",
+      "localizedDescription": "<i>Features:</i><div>- Hacked Premium&nbsp;</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/875/OrnetPP_icon.png"
     },
     {
       "name": "Twitch++",
