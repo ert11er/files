@@ -36,7 +36,6 @@ from datetime import datetime
 import email.utils
 
 def generate_json_and_rss():
-    # Use relative paths from the root of the repo
     posts_dir = 'blog/posts'
     if not os.path.exists(posts_dir):
         print(f"Directory {posts_dir} does not exist.")
@@ -61,13 +60,59 @@ def generate_json_and_rss():
     # Sort posts by date descending
     posts.sort(key=lambda x: x.get('date', ''), reverse=True)
     
-    # 1. Update posts.json
+    # 1. Update posts.json with full content (like rss.xml)
+    posts_with_content = []
+    for post in posts:
+        slug = post.get('slug', '')
+        post_filepath = os.path.join(posts_dir, f"{slug}.md")
+        body_content = ""
+        if os.path.exists(post_filepath):
+            with open(post_filepath, 'r', encoding='utf-8') as f:
+                body_content = extract_body(f.read())
+        
+        full_content = f"{post.get('description', '')}\n\n{body_content}" if body_content else post.get('description', '')
+        
+        posts_with_content.append({
+            'title': post.get('title', ''),
+            'date': post.get('date', ''),
+            'tags': post.get('tags', []),
+            'description': post.get('description', ''),
+            'slug': slug,
+            'content': full_content
+        })
+    
     output_json_path = 'blog/posts.json'
     with open(output_json_path, 'w', encoding='utf-8') as f:
-        json.dump(posts, f, indent=2, ensure_ascii=False)
+        json.dump(posts_with_content, f, indent=2, ensure_ascii=False)
     print(f"Successfully updated {output_json_path}")
 
-    # 2. Update rss.xml
+    # 2. Generate posts.md for LLMs
+    md_content = "# Posts\n\n"
+    for post in posts:
+        md_content += f"## {post.get('title', '')}\n\n"
+        md_content += f"**Date:** {post.get('date', '')}\n\n"
+        md_content += f"**Tags:** {', '.join(post.get('tags', []))}\n\n"
+        md_content += f"**Slug:** {post.get('slug', '')}\n\n"
+        md_content += f"**Description:** {post.get('description', '')}\n\n"
+        md_content += "---\n\n"
+        
+        slug = post.get('slug', '')
+        post_filepath = os.path.join(posts_dir, f"{slug}.md")
+        body_content = ""
+        if os.path.exists(post_filepath):
+            with open(post_filepath, 'r', encoding='utf-8') as f:
+                body_content = extract_body(f.read())
+        
+        full_content = f"{post.get('description', '')}\n\n{body_content}" if body_content else post.get('description', '')
+        md_content += f"{full_content}\n\n"
+        md_content += "---\n\n"
+    
+    output_md_path = 'blog/posts.md'
+    with open(output_md_path, 'w', encoding='utf-8') as f:
+        f.write(md_content)
+    print(f"Successfully updated {output_md_path}")
+
+    # 3. Update rss.xml
     rss_items = []
     for post in posts:
         # Get the body content for RSS

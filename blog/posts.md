@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-<channel>
-  <title>Ders Notları</title>
-  <link>https://ert11er.github.io/files/blog/</link>
-  <description>Kişisel ders notları ve teknik yazılar.</description>
-  <language>tr</language>
-    <item>
-      <title>Ders kaynakları</title>
-      <link>https://ert11er.github.io/files/blog/#/post/ders-kaynaklari</link>
-      <description>Güncellenen tüm ders kaynakları listesi
+# Posts
+
+## Ders kaynakları
+
+**Date:** 2026-4-19
+
+**Tags:** genel
+
+**Slug:** ders-kaynaklari
+
+**Description:** Güncellenen tüm ders kaynakları listesi
+
+---
+
+Güncellenen tüm ders kaynakları listesi
 
 Güncellendiğinde mesaj almak için whatsapp grubumuzu takip edin: https://whatsapp.com/channel/0029VbC3D1Z9hXEzzelYdm1a
 
@@ -31,7 +35,7 @@ Güncel ders kaynakları
 
 - https://www.derslig.com/dersler
 
-- https://www.isemdijital.com/Cozumler/WebZkitapListesi?layout=True&amp;seriId=0&amp;yilId=0&amp;seviyeId=5&amp;ustKurumId=87&amp;dersId=0&amp;yilId=0
+- https://www.isemdijital.com/Cozumler/WebZkitapListesi?layout=True&seriId=0&yilId=0&seviyeId=5&ustKurumId=87&dersId=0&yilId=0
 
 - https://osymsevdiren.notion.site/OKULDAN-GEL-NCE-NASIL-ENERJ-K-ALI-AB-L-RS-N-2e57bf019c3d8046b8a6f16bde1c606f
 
@@ -42,7 +46,7 @@ Güncel ders kaynakları
 
 - https://fliphtml5.com/bookcase/ujoxp
 
-- https://drive.google.com/file/d/1ndORCaELM8bDdbVGr_cbj-LI6xigBaRJ/view?mcp_token=eyJwaWQiOjM1ODU4MTMsInNpZCI6OTYzMzg2ODUzLCJheCI6IjNmZDExMTNlYzFkZjM4M2E4MTE3NmZkOTdlYzU2MzdkIiwidHMiOjE3NzUzODI0NjksImV4cCI6MTc3NzgwMTY2OX0.vbB2_q_TqTj-XrYjYpLHpWD6PKDehiuIOg7gTLyt9vA&amp;fbclid=PAT01DUAQ_DxtleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacdlIM6ZkWHWkV_1K_pnLE_2zoGfMsjOovjg8EwBhKNApa-upVAXdn-XjuGlA_aem_F7clQ4WDPAcikm6Edo_ogg
+- https://drive.google.com/file/d/1ndORCaELM8bDdbVGr_cbj-LI6xigBaRJ/view?mcp_token=eyJwaWQiOjM1ODU4MTMsInNpZCI6OTYzMzg2ODUzLCJheCI6IjNmZDExMTNlYzFkZjM4M2E4MTE3NmZkOTdlYzU2MzdkIiwidHMiOjE3NzUzODI0NjksImV4cCI6MTc3NzgwMTY2OX0.vbB2_q_TqTj-XrYjYpLHpWD6PKDehiuIOg7gTLyt9vA&fbclid=PAT01DUAQ_DxtleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAacdlIM6ZkWHWkV_1K_pnLE_2zoGfMsjOovjg8EwBhKNApa-upVAXdn-XjuGlA_aem_F7clQ4WDPAcikm6Edo_ogg
 
 - https://osymsevdiren.notion.site/JSPARK-IN-SINAVA-ALI-MA-Y-NTEM-33a7bf019c3d80079d43dd955e22b90e
  - https://odsgm.meb.gov.tr/www/sinif-ici-olcme-etkinlikleri/icerik/1572
@@ -121,13 +125,23 @@ Bu gruplar benim değildir.
 
 - https://www.ingilizcedilbilgisi.net/
 
-- https://www.cantayayinlari.com/ingilizce</description>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Merhaba Dünya</title>
-      <link>https://ert11er.github.io/files/blog/#/post/merhaba-dunya</link>
-      <description>Bu blogun ilk ders notu yazısıdır.
+- https://www.cantayayinlari.com/ingilizce
+
+---
+
+## Merhaba Dünya
+
+**Date:** 2025-12-26
+
+**Tags:** genel
+
+**Slug:** merhaba-dunya
+
+**Description:** Bu blogun ilk ders notu yazısıdır.
+
+---
+
+Bu blogun ilk ders notu yazısıdır.
 
 # Merhaba Dünya
 
@@ -141,8 +155,7 @@ Bu benim yeni **ders notları** blogumun ilk yazısı. Burada öğrendiğim her 
 
 Bu site **GitHub Pages** üzerinde barındırılmaktadır.
 
-Görüşmek üzere!</description>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0300</pubDate>
-    </item>
-</channel>
-</rss>
+Görüşmek üzere!
+
+---
+
