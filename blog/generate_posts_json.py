@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import html
 
 def extract_frontmatter(content):
     # Regex to extract YAML frontmatter
@@ -90,10 +91,14 @@ def generate_json_and_rss():
         description = post.get('description', '')
         full_content = f"{description}\n\n{body_content}" if body_content else description
         
+        # Escape XML special characters
+        escaped_title = html.escape(post.get('title', ''))
+        escaped_content = html.escape(full_content)
+        
         item = f"""    <item>
-      <title>{post.get('title', '')}</title>
+      <title>{escaped_title}</title>
       <link>https://ert11er.github.io/files/blog/#/post/{post.get('slug', '')}</link>
-      <description>{full_content}</description>
+      <description>{escaped_content}</description>
       <pubDate>{pub_date}</pubDate>
     </item>"""
         rss_items.append(item)
