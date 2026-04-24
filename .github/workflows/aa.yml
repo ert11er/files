@@ -30,5 +30,5 @@ jobs:
             - name: Commit and push changes to files-private
               uses: stefanzweifel/git-auto-commit-action@v5
               with:
-                  commit_message: "Update blog posts and rss"
-                  file_pattern: "blog/posts.json blog/rss.xml"
+                  commit_message: "Update blog posts,posts.md and rss"
+                  file_pattern: "blog/posts.json blog/rss.xml blog/posts.md"
