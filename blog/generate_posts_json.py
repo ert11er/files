@@ -24,6 +24,13 @@ def extract_frontmatter(content):
                 metadata[key] = value.strip('"').strip("'")
     return metadata
 
+def extract_body(content):
+    # Remove frontmatter and get the body text
+    match = re.search(r'^---\s*\n(.*?)\n---\s*\n(.*)', content, re.DOTALL)
+    if match:
+        return match.group(2).strip()
+    return ""
+
 from datetime import datetime
 import email.utils
 
@@ -62,6 +69,14 @@ def generate_json_and_rss():
     # 2. Update rss.xml
     rss_items = []
     for post in posts:
+        # Get the body content for RSS
+        slug = post.get('slug', '')
+        post_filepath = os.path.join(posts_dir, f"{slug}.md")
+        body_content = ""
+        if os.path.exists(post_filepath):
+            with open(post_filepath, 'r', encoding='utf-8') as f:
+                body_content = extract_body(f.read())
+        
         # Convert YYYY-MM-DD to RFC 822 (e.g., Fri, 26 Dec 2025 00:00:00 +0300)
         date_str = post.get('date', '')
         try:
@@ -71,10 +86,14 @@ def generate_json_and_rss():
         except:
             pub_date = date_str
 
+        # Combine description and body content for RSS (body for SEO)
+        description = post.get('description', '')
+        full_content = f"{description}\n\n{body_content}" if body_content else description
+        
         item = f"""    <item>
       <title>{post.get('title', '')}</title>
       <link>https://ert11er.github.io/files/blog/#/post/{post.get('slug', '')}</link>
-      <description>{post.get('description', '')}</description>
+      <description>{full_content}</description>
       <pubDate>{pub_date}</pubDate>
     </item>"""
         rss_items.append(item)
