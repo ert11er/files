@@ -89,16 +89,18 @@ def generate_json_and_rss():
 
         # Combine description and body content for RSS (body for SEO)
         description = post.get('description', '')
-        full_content = f"{description}\n\n{body_content}" if body_content else description
+        # Escape each part before combining
+        escaped_description = html.escape(description)
+        escaped_body = html.escape(body_content)
+        full_content = f"{escaped_description}\n\n{escaped_body}" if body_content else escaped_description
         
         # Escape XML special characters
         escaped_title = html.escape(post.get('title', ''))
-        escaped_content = html.escape(full_content)
         
         item = f"""    <item>
       <title>{escaped_title}</title>
       <link>https://ert11er.github.io/files/blog/#/post/{post.get('slug', '')}</link>
-      <description>{escaped_content}</description>
+      <description>{full_content}</description>
       <pubDate>{pub_date}</pubDate>
     </item>"""
         rss_items.append(item)
