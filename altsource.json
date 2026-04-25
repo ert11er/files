@@ -762,6 +762,17 @@
       "appID": "com.google.ios.youtubecercubelegacy"
     },
     {
+      "name": "CHAI: Social AI Platform- Chat",
+      "bundleIdentifier": "com.billymoore.chaisocialaiplatformchat",
+      "developerName": "BillyMoore",
+      "version": "20260422.0.0",
+      "versionDate": "2026-04-24T06:55:53.000Z",
+      "size": 85285443,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/chai.ipa",
+      "localizedDescription": "Build and Share AI\r<div>\r</div><div>\r</div><div>Our app revolutionizes the way we interact with AI chatbots. With our advanced technology, our chatbots think and reply like real characters, complete with authentic voices. You can choose from a massive selection of characters, each with their own unique voice and personality. Whether you're chatting with your favorite celebrity, a beloved character from a movie or TV show, or a historical figure, you'll feel like you're talking to a real person.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1328/chai_icon.png"
+    },
+    {
       "name": "Channels",
       "bundleIdentifier": "com.channelsapp.channels",
       "developerName": "Furkan Simsir",
@@ -1030,6 +1041,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/darkroom.ipa",
       "localizedDescription": "Optimize your creative workflow with Darkroom: Photo &amp; Video Editor, now available for macOS. Experience the pinnacle of desktop editing with Darkroom, designed to elevate your photo and video projects with its comprehensive, feature-rich editing suite.<div><br><div></div><div></div><div class=\"\">Dive into a world where AI powers precision editing, offering you the ability to meticulously sculpt your visuals. With advanced depth editing and object recognition, fine-tune the elements of your photos\u2014like skies, hair, and skin\u2014with unmatched accuracy. Darkroom rivals the functionality of industry giants such as Adobe Lightroom and Canva, providing a versatile toolkit for every creative need.\r</div><div class=\"\"><br></div><div>Unleash your creativity with intuitive tools like touch-responsive curves and selective color adjustments, making the editing process smoother and enabling the creation of distinctive presets. Explore the richness of RAW photography with full-resolution support and 16-bit color depth, ensuring every detail, shadow, and highlight is perfectly captured.</div><div>\r</div><div>\r</div></div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1423/darkroom_icon.png"
+    },
+    {
+      "name": "Dazz Cam - Vintage Camera",
+      "bundleIdentifier": "com.blatant.dazzcamvintagecamera",
+      "developerName": "Blatant",
+      "version": "2.17",
+      "versionDate": "2026-04-24T07:17:48.000Z",
+      "size": 106980613,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Dazz.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>Dazz Camera, Pro Photographer in your Pocket.\r</div><div>\r</div><div class=\"\"><br></div><div class=\"\">We believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\r</div><div class=\"\">\r</div><div><br></div><div>Dazz camera is inspired by classic film cameras from the 80s. We\u2019ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, half-frame cameras, instant camera, 3D film photography, disposable camera, and more.</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1297/Dazz_icon.png"
     },
     {
       "name": "Deezer++",
@@ -1738,17 +1760,6 @@
       "beta": false
     },
     {
-      "name": "Earn to Die Rogue",
-      "bundleIdentifier": "com.iosgods.earntodierogue",
-      "developerName": "iOSGods",
-      "version": "1.23.234",
-      "versionDate": "2026-04-15T12:58:10.000Z",
-      "size": 195447346,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/EarnToDieRougue.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div><b><br></b></div><div class=\"\"><b><br></b></div><b>Hack Features\r</b><div><b>- Unlimited Cash\r</b></div><div><b>- Unlimited Gold\r</b></div><div><b>- Unlimited Skill Tree Tokens\r</b></div><div><b>- Unlimited Blueprints\r</b></div><div><b>- Unlimited Scrap Metal\r</b></div><div><b>- Unlimited Posters -&gt; Earn or spend some.\r</b></div><div><b>- Max Level -&gt; Earn some stars.\r</b></div><div><b>- Hero God Mode\r</b></div><div><b>- Hero One-Hit Kill\r</b></div><div><b>- 0 Hero Level Up Cost\r</b></div><div><b>- Prestige Pass Unlocked\r</b></div><div><b>- Elite Pass Unlocked\r</b></div><div class=\"\"><b>- Unlimited Fuel\r</b></div><div class=\"\"><b>- Unlimited Boost</b></div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/nUZjth3.jpeg"
-    },
-    {
       "name": "EhPanda",
       "bundleIdentifier": "app.ehpanda",
       "developerName": "Araki Tatsuzou",
@@ -2258,17 +2269,6 @@
         }
       ],
       "appID": "com.rileytestut.GBA4iOS"
-    },
-    {
-      "name": "Graveyard Keeper",
-      "bundleIdentifier": "com.ioptk.graveyardkeeper",
-      "developerName": "IOPTK ",
-      "version": "1.129",
-      "versionDate": "2026-04-15T13:28:55.000Z",
-      "size": 185994467,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/GraveyardKeeper.ipa",
-      "localizedDescription": "Graveyard Keeper is the most inaccurate medieval cemetery management sim of all time. Build and manage your own graveyard, and expand into other ventures, while finding shortcuts to cut costs. Use all the resources you can find. After all, this is a game about the spirit of capitalism, and doing whatever it takes to build a thriving business. And it\u2019s also a love story.<div><br><div></div><div>- Face ethical dilemmas. Do you really want to spend money on that proper burger meat for the witch-burning festival, when you have so many resources lying around? \r</div><div>- Gather valuable materials and craft new items. Expand your Graveyard into a thriving business. Help yourself -- gather the valuable resources scattered across the surrounding areas, and explore what this land has to offer. \r</div><div>- Quests and corpses. These dead bodies don't need all those organs, do they? Why not grind them up and sell them to the local butcher? Or you can go on proper quests, you roleplayer.\r</div><div>- Explore mysterious dungeons. No medieval game would be complete without those! Take a trip into the unknown, and find discover new alchemy ingredients -- which may or may not poison a whole bunch of nearby villagers.&nbsp;</div></div>",
-      "iconURL": "https://i.imgur.com/wiLZqYR.png"
     },
     {
       "name": "Grim Soul: Survival",
@@ -3277,17 +3277,6 @@
       "headline": "Fix #1300"
     },
     {
-      "name": "Luck be a Landlord",
-      "bundleIdentifier": "com.iosgods.luckbealandlord",
-      "developerName": "iOSGods",
-      "version": "1.2.15",
-      "versionDate": "2026-04-15T12:55:45.000Z",
-      "size": 78514639,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/LuckBeLandlord.ipa",
-      "localizedDescription": "<b>Roguelike Deckbuilder\n</b><div>\n</div><div class=\"\"><br></div><div>Defeat your landlord in this slot machine roguelike deckbuilder!\n</div><div>Your landlord is knocking on your door. You have one coin left to your name. You insert the coin into your slot machine...and...JACKPOT! Luck be a Landlord, tonight!\n</div><div>Luck be a Landlord is a roguelike deckbuilder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.\n</div><div>Features:\n</div><div>152 Symbols\n</div><div>227 Items\n</div><div>186 Achievements\n</div><div>20 Apartment Floors&nbsp;</div><div>\n</div><div>\n</div><div>\n</div>",
-      "iconURL": "https://i.imgur.com/6pgzhsW.png"
-    },
-    {
       "name": "LumaFusion",
       "bundleIdentifier": "com.luma-touch.LumaFusion",
       "developerName": "Luma Touch, LLC",
@@ -3840,6 +3829,17 @@
         ]
       },
       "appID": "com.faizandurrani.paperback.ios"
+    },
+    {
+      "name": "PewDiePie's Tuber Simulator",
+      "bundleIdentifier": "com.markuz777.pewdiepiestubersimulator",
+      "developerName": "markuz777",
+      "version": "2.76.0",
+      "versionDate": "2026-04-23T15:17:05.000Z",
+      "size": 198483742,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PewDiePieTuber.ipa",
+      "localizedDescription": "<h3>Hack features:&nbsp;</h3><div class=\"\"><ul><li>Infinite cash&nbsp;</li><li>Infinite views&nbsp;</li><li>Premium activated</li></ul></div><div><br></div>Create your very own pocket Tuber and follow in the footsteps of internet sensation PewDiePie!<div><br></div><div>Get creative and make viral videos, design trendy rooms, unlock cool items, and participate in fun community events! You can even create hilarious memes in the Meme Maker and share them with all your friends! Do you have what it takes to go viral and dethrone PewDiePie? Find out in PewDiePie\u2019s Tuber Simulator, the ultimate YouTuber simulation game!</div>",
+      "iconURL": "https://i.imgur.com/Tn9kUIM.jpeg"
     },
     {
       "name": "Photomath++",
