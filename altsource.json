@@ -1510,17 +1510,6 @@
       "appID": "com.rileytestut.Delta.Beta"
     },
     {
-      "name": "Delta Executor for Roblox",
-      "bundleIdentifier": "com.deltaexecutor.deltaexecutorforroblox",
-      "developerName": "Delta Executor",
-      "version": "2.716",
-      "versionDate": "2026-04-16T10:33:54.000Z",
-      "size": 140988698,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/roblox.ipa",
-      "localizedDescription": "<div class=\"\"><a href=\"https://delta-executor.com/\">Official website</a></div>Explore how Roblox Delta Executor is transforming the landscape of Roblox scripting, offering a host of premium features and industry-leading support, all free of charge, to users worldwide, revolutionizing the scripting experience for millions.",
-      "iconURL": "https://flekstore.com/img-storage/apps/1113/roblox_icon.png"
-    },
-    {
       "name": "Delta iPac Edition",
       "bundleIdentifier": "com.ianclawson.DeltaPacEdition",
       "developerName": "Riley Testut & Ian Clawson",
