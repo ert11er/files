@@ -504,6 +504,17 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1347/b612_icon.png"
     },
     {
+      "name": "Bazaart: AI Photo Video Editor",
+      "bundleIdentifier": "com.dangerouspixel.bazaartaiphotovideoeditor",
+      "developerName": "Dangerous Pixel",
+      "version": "26.1.17",
+      "versionDate": "2026-04-30T08:13:42.000Z",
+      "size": 47437417,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Bazaart1.ipa",
+      "localizedDescription": "POWERFUL DESIGN &amp; EDITING TOOLS<div>\u2022 Create mind-blowing AI avatars of you, your cat or dog</div><div>\u2022 Magically remove the background from any photo with the magic background eraser</div><div>\u2022 Remove unwanted objects and people from any photo with surgical precision using the remove tool</div><div>\u2022 Create fantastic images using a powerful AI art tool and magically turn your text to image</div><div>\u2022 Cut out photos and videos like a pro with a selection of handy crop, scissors, eraser and shape cut-out tools</div><div>\u2022 Enhance, adjust, and customize photos and videos: Change exposure, contrast, saturation, vibrance, warmth, tint, shadows, highlights, fade, sharpness and blur</div><div>\u2022 Add up to 100 photo layers and 5 video layers: each layer is independently editable and all changes reversible</div><div>\u2022 Apply fabulous filters on photos and videos to add a \u201cwow\u201d effect</div><div>\u2022 Create custom edge styles for photos and videos with the outline and shadow tools</div><div>\u2022 Blend photos and videos for mind-blowing effects</div><div>\u2022 Sketch and draw freely with the drawing tool</div><div>\u2022 Curve your text to match an arc or a circle</div><div>\u2022 Edit and modify text with alignment, letter and line spacing</div><div>\u2022 Perfectly align photos, videos, text, and any element with auto-snapping</div><div>\u2022 Position elements precisely with the nudge tool</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1028/Bazaart1_icon.png"
+    },
+    {
       "name": "BeReal++",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "developerName": "Yandevelop",
@@ -549,17 +560,6 @@
         }
       ],
       "beta": false
-    },
-    {
-      "name": "Bloons TD 6",
-      "bundleIdentifier": "com.iosgods.bloonstd6",
-      "developerName": "iOSGods",
-      "version": "54.1",
-      "versionDate": "2026-04-21T10:05:07.000Z",
-      "size": 121579900,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BloonsTD6.ipa",
-      "localizedDescription": "<div class=\"\"><span class=\"\">Required registration on</span><i class=\"\"> <a href=\"https://iosgods.com/\">iOSGods</a></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Feauteres:</i></div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- God Mode</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Money&nbsp;</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Monkey Money</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Consumes</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Unlocked All Towers</span><br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">- Unlocked All Heroes</span><br><div><div class=\"\"><b><i><br></i></b><div class=\"\">&nbsp; &nbsp; Five-star tower defense with unrivaled depth and replayability. Now with rewarded leaderboards for even more fun and challenge!\n</div><div class=\"\">The Bloons are back and this time they mean business! Build awesome towers, choose your favorite upgrades, hire cool new Special Agents, and pop every last invading Bloon!\n</div><div class=\"\">&nbsp; &nbsp; Featuring 2 brand new Towers, cool Special Agents, glorious retina graphics, original Tracks and Special Missions, a whole new tier of Specialty Building upgrades, and the powerful Monkey Lab to further upgrade your towers, Bloons TD 5 delivers hours and hours of fun, challenging play to fans and new players alike.\n</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; Hours and Hours of Awesome Gameplay:\n</div><div class=\"\">\u2022 21 powerful towers with Activated Abilities and 2 upgrade paths\n</div><div class=\"\">\u2022 10 Special Agents\n</div><div class=\"\">\u2022 50+ Tracks\n</div><div class=\"\">\u2022 10 Special Missions\n</div><div class=\"\">\u2022 250+ Random Missions\n</div><div class=\"\">\u2022 New Bloon enemies - tougher Camos, Regrower Bloons, and the fearsome ZOMG\n</div><div class=\"\">\u2022 50+ Game Center Achievements and Challenges\n</div><div class=\"\">\u2022 iCloud Support\n</div><div class=\"\">\u2022 3 different game modes\n</div><div class=\"\">\u2022 Freeplay mode after mastering a track\n</div><div class=\"\">\u2022 4 difficulty settings and family-friendly theme so anyone can play\n</div><div class=\"\"><br></div><div class=\"\">&nbsp; &nbsp; And that's just the beginning - regular planned updates will keep Bloons TD 5 fresh, fun, and challenging for many months to come. Now it's time to pop some Bloons!\n</div><div class=\"\">&nbsp; &nbsp; Remember to save to iCloud after each victory or purchase to save your progress.\n</div><div class=\"\">iPad and iPad mini version also available - check out Bloons TD 5 HD for full screen UI awesomeness!</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div></div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/841/BloonsTD6_icon.png"
     },
     {
       "name": "blurt.blog",
@@ -613,15 +613,15 @@
       "appID": "blog.blurt.blurt"
     },
     {
-      "name": "Buddy: Budget Planner App",
-      "bundleIdentifier": "com.blatant.buddybudgetplannerapp",
+      "name": "Busuu: Language Learning",
+      "bundleIdentifier": "com.blatant.busuulanguagelearning",
       "developerName": "Blatant",
-      "version": "13.33",
-      "versionDate": "2026-04-20T13:32:53.000Z",
-      "size": 80979677,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/BuddyBudget.ipa",
-      "localizedDescription": "Buddy helps you set up a budget and keep track of your expenses, either by yourself or together with your loved ones.\r<div class=\"\">Here\u2019s what is waiting for you inside:\r</div><div class=\"\"><br></div><div class=\"\"><b>BUDGETS\r</b></div><div>Buddy will help you not to overspend on your well-earned salary by setting up a budget plan that fits you. \r</div><div>Do you want a shared budget with your partner? Or keep the expenses between you and your mates fair on the vacation? No problem, just invite them and get a clear picture of who spent what.\r</div><div class=\"\"><b>CONNECT YOUR BANK\r</b></div><div>Import all transactions from your bank account into Buddy and see how your budget is doing.\r</div><div class=\"\"><b>OVERVIEW\r</b></div><div>We'll give you a beautiful &amp; detailed overview of your spendings, income, and savings.\r</div><div class=\"\"><b>SPLIT</b></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/3IhFVCQ.jpeg"
+      "version": "30.11.0",
+      "versionDate": "2026-04-30T08:20:18.000Z",
+      "size": 41323858,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/busuu.ipa",
+      "localizedDescription": "<p><em>Required registration on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p>Tweaked version of&nbsp;Busuu: Language Learning.</p>\r\n\r\n<p>Learn up to 12 languages:&nbsp;English, French, Spanish, Italian, German, Chinese, Japanese, Portuguese (Brazilian), Polish, Russian, Arabic or Turkish.</p>\r\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/778/busuu_icon.png"
     },
     {
       "name": "CARROT Weather",
@@ -765,8 +765,8 @@
       "name": "CHAI: Social AI Platform- Chat",
       "bundleIdentifier": "com.billymoore.chaisocialaiplatformchat",
       "developerName": "BillyMoore",
-      "version": "20260422.0.0",
-      "versionDate": "2026-04-24T06:55:53.000Z",
+      "version": "20260424.0.0",
+      "versionDate": "2026-04-30T09:31:40.000Z",
       "size": 85285443,
       "downloadURL": "https://s3.flekstore.com/ipa-library/chai.ipa",
       "localizedDescription": "Build and Share AI\r<div>\r</div><div>\r</div><div>Our app revolutionizes the way we interact with AI chatbots. With our advanced technology, our chatbots think and reply like real characters, complete with authentic voices. You can choose from a massive selection of characters, each with their own unique voice and personality. Whether you're chatting with your favorite celebrity, a beloved character from a movie or TV show, or a historical figure, you'll feel like you're talking to a real person.</div>",
@@ -842,17 +842,6 @@
         "privacy": []
       },
       "appID": "net.rinsuki.slapps.citra"
-    },
-    {
-      "name": "Clarity: Mental Health Journal",
-      "bundleIdentifier": "com.blatant.claritymentalhealthjournal",
-      "developerName": "Blatant",
-      "version": "5.5.19",
-      "versionDate": "2026-04-21T08:04:51.000Z",
-      "size": 144893127,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ClarityMental.ipa",
-      "localizedDescription": "<h3>Clarity is your all-in-one mental health hub for managing stress, anxiety, and low mood. Learn what affects your mood, develop healthier thought patterns, problem solve with the AI chatbot, practice effective coping skills, build resilience, and foster personal growth.</h3><div><br><div></div><div class=\"\"><b>HOW IT WORKS\r</b></div><div>Clarity is built on proven methods widely studied and endorsed in the world of mental health. The core principle is simple yet powerful: by understanding and changing your thoughts, you can better manage your emotions and actions.\r</div><div class=\"\">Clarity integrates approaches from behavioral science, positive psychology, and mindfulness to bring you the best self-care tools offered by modern science.\r</div><div class=\"\"><br></div><div class=\"\"><b>REFRAME YOUR THOUGHTS\r</b></div><div>- Use proven techniques to break free from negative thought cycles.\r</div><div>- Identify and confront Cognitive Distortions hindering your mental well-being.\r</div><div class=\"\">- Challenge and transform your thought processes for the better.\r</div><div class=\"\"><br></div><div class=\"\"><b>AI-INFUSED JOURNALING &amp; CHAT\r</b></div><div>- Step into the future of mental health with innovative AI features.\r</div><div>- Journal with AI-driven questions and analysis that adapt to your mental state.\r</div><div>- Feel heard with a thoughtful and compassionate AI Chatbot built for self-reflection.</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/IU85ISw.jpeg"
     },
     {
       "name": "Clip",
@@ -1032,17 +1021,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1276/CSR2_icon.png"
     },
     {
-      "name": "Darkroom: Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.darkroomphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "7.1.4",
-      "versionDate": "2026-04-16T11:37:24.000Z",
-      "size": 159660645,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/darkroom.ipa",
-      "localizedDescription": "Optimize your creative workflow with Darkroom: Photo &amp; Video Editor, now available for macOS. Experience the pinnacle of desktop editing with Darkroom, designed to elevate your photo and video projects with its comprehensive, feature-rich editing suite.<div><br><div></div><div></div><div class=\"\">Dive into a world where AI powers precision editing, offering you the ability to meticulously sculpt your visuals. With advanced depth editing and object recognition, fine-tune the elements of your photos\u2014like skies, hair, and skin\u2014with unmatched accuracy. Darkroom rivals the functionality of industry giants such as Adobe Lightroom and Canva, providing a versatile toolkit for every creative need.\r</div><div class=\"\"><br></div><div>Unleash your creativity with intuitive tools like touch-responsive curves and selective color adjustments, making the editing process smoother and enabling the creation of distinctive presets. Explore the richness of RAW photography with full-resolution support and 16-bit color depth, ensuring every detail, shadow, and highlight is perfectly captured.</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1423/darkroom_icon.png"
-    },
-    {
       "name": "Dazz Cam - Vintage Camera",
       "bundleIdentifier": "com.blatant.dazzcamvintagecamera",
       "developerName": "Blatant",
@@ -1088,6 +1066,17 @@
         }
       ],
       "beta": false
+    },
+    {
+      "name": "Dehancer",
+      "bundleIdentifier": "com.ipalibrary.dehancer",
+      "developerName": "IPA Library",
+      "version": "6.0",
+      "versionDate": "2026-04-30T09:26:59.000Z",
+      "size": 46255037,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Dehancer.ipa",
+      "localizedDescription": "Elevate your photos and videos with our analog tools for a film-like aesthetic:<div><br></div><div>\u2022 Film Profiles: Choose from 60+ accurate film profiles, including classics like Kodak Vision, Kodak Portra 400, Cinestill 800T, and more. Explore vintage options like Ambrotype.</div><div>\u2022 Presets: Instantly recreate retro film vibes with handcrafted presets. Craft your own and share them effortlessly.</div><div>\u2022 Film Grain: Our unique algorithm creates customizable film-like grain, adding authenticity to your visuals.</div><div>\u2022 Print Tools: Combine films with print profiles for authentic analog images. Customize characteristics like contrast and photo latitude.</div><div>\u2022 Film Compression: Adjust highlights to mimic the compressed tonal range of film. Emulate the analog appearance and have editing flexibility.</div><div>\u2022 Halation: Reproduce the film's red-orange halo effect around light sources and edges, enhancing the appeal and natural tones.</div><div>\u2022 Bloom: Add warmth and vintage glow resembling optical filters. Dehancer accurately replicates the real physics of light and simulates the Bloom effect in the most analogous way.</div><div>\u2022 Vignette: Add depth and focus using vignetting.</div><div class=\"\">\u2022 Film Breath &amp; Gate Weave: Dynamic animated effects for video, simulating real film-like shifts between frames.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1181/Dehancer_icon.png"
     },
     {
       "name": "Delta",
@@ -1703,8 +1692,8 @@
       "name": "Duolingo Hacked",
       "bundleIdentifier": "com.blatant.duolingohacked",
       "developerName": "Blatant",
-      "version": "7.119",
-      "versionDate": "2026-04-22T15:46:49.000Z",
+      "version": "7.120.1",
+      "versionDate": "2026-04-30T08:53:40.000Z",
       "size": 182898277,
       "downloadURL": "https://s3.flekstore.com/ipa-library/duolingo.ipa",
       "localizedDescription": "<br><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">Learn a new language with the world\u2019s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n</div><div class=\"\"><br></div><div class=\"\">Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n</div><div class=\"\"><br></div><div class=\"\">And now, you can learn Math, Music, and Chess the Duolingo way!\n</div><div class=\"\">\u2022 Build real-world math skills \u2013 from calculating tips to identifying patterns \u2013 and sharpen your mental math in our Math course.\n</div><div class=\"\">\u2022 Learn how to read music and play familiar songs on your device in our Music course \u2013 no instrument required.\n</div><div class=\"\">\u2022 Master moves, level up your game, and play real matches in our brand new Chess course. Checkmate!\n</div><div class=\"\"><br></div><div class=\"\">Whether you're learning for travel, school, career, family and friends, or your brain health, you'll love learning with Duolingo.</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div><div class=\"\">\n</div>",
@@ -1909,6 +1898,17 @@
       "appID": "app.ehpanda"
     },
     {
+      "name": "Elevate - Brain Training Games",
+      "bundleIdentifier": "com.blatant.elevatebraintraininggames",
+      "developerName": "Blatant",
+      "version": "5.237.0",
+      "versionDate": "2026-04-30T08:28:06.000Z",
+      "size": 393758474,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/ElevateBrain.ipa",
+      "localizedDescription": "<b>Elevate is a \u201ccognitive pick-me-up\u201d with games that are \u201cgood for mental breaks throughout the workday.\u201d \u2013 Washington Post.\r</b><div><b>\r</b></div><div class=\"\"><b>FEATURES\r</b></div><div class=\"\"><br></div><div>\u2022 40+ Brain Training Games: Improve your critical cognitive skills like focus, memory, processing, math, precision, and comprehension with 40+ brain training games.\r</div><div>\u2022 Performance Tracking: Track your progress and compare your mind\u2019s performance over time with weekly reports and insights.\r</div><div>\u2022 Personalized Workouts: Customize your daily training focus and choose between 3 and 5 games. Get personalized daily workouts that include the skills you need most.\r</div><div>\u2022 Adaptive Progression: Train your brain with adaptive difficulty progression that ensures your experience is challenging.\r</div><div>\u2022 Workout Calendar: Stay motivated by tracking your training streaks and keeping your mind active daily.\r</div><div>\u2022 Elevate Dash on Apple Watch: Play 4 additional mini-games and review your performance on your Apple Watch with Elevate Dash.\r</div><div>\u2022 And more!</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1459/ElevateBrain_icon.png"
+    },
+    {
       "name": "Emnity",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "Emnity Team",
@@ -2012,17 +2012,6 @@
       "appID": "com.antique.emuThreeDS"
     },
     {
-      "name": "EPIK - AI Photo and Video Edito",
-      "bundleIdentifier": "com.blatant.epikaiphotoandvideoedito",
-      "developerName": "Blatant",
-      "version": "7.1.0",
-      "versionDate": "2026-04-22T14:43:10.000Z",
-      "size": 167590962,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/EpikAI.ipa",
-      "localizedDescription": "Use professional editing tools and powerful AI technology to easily and conveniently edit photos.<div><br><div></div><div></div><div class=\"\"><b>[AI tool]\r</b></div><div>\u30fb Enhance: Improve clarity and resolution! Create high-quality photos\r</div><div>\u30fb AI skin: Perfect your skin by AI correcting blemishes\r</div><div>\u30fb Smart AI cutout: Carefully separate figures, objects, and even animals\r</div><div>\u30fb Remove: Easily remove unwanted parts\r</div><div>\u30fb AI filter: Create your own characters in different styles\r</div><div class=\"\">\u30fb Hairstyle and Expression: Create a new look\r</div><div class=\"\"><br></div><div class=\"\"><b>[Professional photo editing tools]\r</b></div><div>\u30fb HSL, Curves, Split Tone, Selective: Precise color adjustments\r</div><div>\u30fb Lux, Texture, Grain, Brilliance, Vignette: Create different moods\r</div><div>\u30fb Crop, Rotate, Mirror, Flip, Perspective, Adjust resolution: Set the composition you want\r</div><div>\u30fb Batch: Edit multiple photos at once\r</div><div>\u30fb Patch, Clone: Naturally edit or copy a specific part</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1417/EpikAI_icon.png"
-    },
-    {
       "name": "Facebook++",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Michael Lema",
@@ -2080,8 +2069,8 @@
       "name": "Facetune",
       "bundleIdentifier": "com.omtk.facetune",
       "developerName": "omtk",
-      "version": "26.7.1",
-      "versionDate": "2026-04-16T11:42:06.000Z",
+      "version": "26.8",
+      "versionDate": "2026-04-30T08:16:56.000Z",
       "size": 50934299,
       "downloadURL": "https://s3.flekstore.com/ipa-library/Facetune.ipa",
       "localizedDescription": "<h3><i>Premium features unlocked</i></h3>\n\n<p>Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.</p>\n\n<p>#1 Photo and Video App in 127 countries!</p>\n",
@@ -2173,6 +2162,17 @@
       "appID": "com.firebird.firebird-emu"
     },
     {
+      "name": "Fitia: Calorie Counter and Diet",
+      "bundleIdentifier": "com.blatant.fitiacaloriecounteranddiet",
+      "developerName": "Blatant",
+      "version": "23.0.0",
+      "versionDate": "2026-04-30T09:15:28.000Z",
+      "size": 151218573,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Fitia.ipa",
+      "localizedDescription": "<b>WHY FITIA WORKS FOR WEIGHT LOSS OR MUSCLE GAIN\r</b><div>\u2022  Fitia creates a plan that adapts to your goals, lifestyle, preferences, and progress.\r</div><div class=\"\">\u2022  You\u2019ll always know what to eat, how much to eat, and how many calories you need to lose weight in a healthy, sustainable way.\r</div><div class=\"\"><br></div><div class=\"\"><b>CALORIE COUNTER &amp; NUTRITION TRACKER\r</b></div><div>&nbsp; \u2022  Track calories, macros, fiber, sugar, saturated fat, and 20+ nutrients.\r</div><div>&nbsp; \u2022  Use Fitia as your daily calorie counter, calorie tracking app, food diary, or nutrition tracker.\r</div><div class=\"\">&nbsp; \u2022  Search any food from the largest verified food database in the world, verified by nutritionists for accuracy.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>CALORIE COUNTING WITH PHOTO, VOICE, OR TYPING\r</b></div><div>No time to log food? Fitia makes calorie counting effortless.\r</div><div>&nbsp;\u2022 Log meals with a photo\r</div><div>&nbsp;\u2022 Track calories using your voice\r</div><div>&nbsp;\u2022 Type and track instantly with smart food recognition\r</div><div class=\"\">&nbsp;Your calorie counter has never been this fast.\r</div><div class=\"\"><br></div><div class=\"\"><b>PERSONALIZED MEAL PLANS FOR WEIGHT LOSS &amp; MUSCLE GAIN\r</b></div><div>\u2022 Generate a complete weight loss meal plan or muscle gain plan tailored to your calorie needs, macros, preferences, and schedule.\r</div><div>\u2022 Fitia automatically builds balanced meals that help you stay in a calorie deficit or surplus depending on your goal.</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/UgNENCm.png"
+    },
+    {
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "Brandon Plank",
@@ -2203,6 +2203,17 @@
       ]
     },
     {
+      "name": "Flight Tracker +",
+      "bundleIdentifier": "com.blatant.flighttracker",
+      "developerName": "Blatant",
+      "version": "8.7.8",
+      "versionDate": "2026-04-30T09:29:13.000Z",
+      "size": 79972304,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/FlightTracker.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Track any flight live with The Flight Tracker. Join 9M+ users getting real-time notifications, weather, route maps, airport info, and Live Activities on iPhone.\r<div>\r</div><div>\r</div><div>Flight delays. Unclear gate changes. Last-minute cancellations.\r</div><div>Travel should be exciting \u2014 not stressful. Whether you're catching a flight, picking up family from the airport, or following someone\u2019s journey across the globe, staying informed shouldn't require checking five different apps.\r</div><div>Flight Tracker + brings everything into one place \u2014 a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smarter.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1367/FlightTracker_icon.png"
+    },
+    {
       "beta": false,
       "name": "Flycast",
       "bundleIdentifier": "com.flyinghead.Flycast",
@@ -2221,17 +2232,6 @@
         "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
         "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
       ]
-    },
-    {
-      "name": "Fortnite",
-      "bundleIdentifier": "com.epicgames.fortnite",
-      "developerName": "Epic Games",
-      "version": "40.20",
-      "versionDate": "2026-04-16T16:06:28.000Z",
-      "size": 237086916,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Fortnite.ipa",
-      "localizedDescription": "<div class=\"\"><div class=\"\"><b class=\"\">Important!</b></div><ul class=\"\"><li class=\"\"><b class=\"\">Fortnite supports iPhone 11 or later with at least 4GB of RAM.</b></li><li class=\"\"><b class=\"\">Required iOS 17.4+</b></li><li class=\"\"><b class=\"\">Fortnite requires special rights for the certificate. If you use enterpise certificate, Fortnite won't work!&nbsp;</b></li><li class=\"\"><b class=\"\">Fortnite requires an additional 13 GB to download. Establish a stable internet connection and do not close the app. The loading percentage may roll back, but it will grow in the future.</b></li></ul></div><div><br></div>Explore large, destructible environments where no two games are ever the same. Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale, whether you choose to build up in Fortnite Battle Royale or go no-builds in Fortnite Zero Build.<div><br></div><div>Discover even more ways to play across thousands of creator-made game genres: adventure, roleplay, survival and more. Or, band together with up to three friends to fend off hordes of monsters in Save the World.</div>",
-      "iconURL": "https://i.imgur.com/85tRTde.jpeg"
     },
     {
       "name": "GBA4iOS",
@@ -2260,6 +2260,17 @@
       "appID": "com.rileytestut.GBA4iOS"
     },
     {
+      "name": "GlowUp - Photo Editor",
+      "bundleIdentifier": "com.blatant.glowupphotoeditor",
+      "developerName": "Blatant",
+      "version": "4.2.1",
+      "versionDate": "2026-04-30T09:37:04.000Z",
+      "size": 181554084,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/GlowUp.ipa",
+      "localizedDescription": "Master your selfie game with GlowUp, the ultimate AI-powered photo editor designed to bring out your natural beauty with flawless, effortless edits. Whether you want subtle retouching or a full makeup transformation, GlowUp puts the power of professional beauty tools right at your fingertips.<div><br><div></div><div class=\"\"><b>[Retouch Selfies]\r</b></div><div>- Airbrush skin with AI-powered retouch tools\r</div><div>- Smooth wrinkles and even out skin tone\r</div><div>- Whiten teeth with a simple swipe\r</div><div class=\"\">- Highlight or soften your best features\r</div><div class=\"\"><br></div><div class=\"\"><b>[Exclusive Makeup Looks]\r</b></div><div>- Choose from natural to bold styles\r</div><div>- Explore dozens of color choices\r</div><div class=\"\">- Customize makeup to perfectly fit your face\r</div><div class=\"\"><br></div><div class=\"\"><b>[AI-Powered Tools]\r</b></div><div>- Instantly transform your hair color and style\r</div><div>- Remove unwanted objects or backgrounds seamlessly\r</div><div>- Enhance photo quality with AI resolution boost</div><div>\r</div><div>\r</div></div>",
+      "iconURL": "https://i.imgur.com/HZNsAEv.jpeg"
+    },
+    {
       "name": "Grim Soul: Survival",
       "bundleIdentifier": "com.markuz777.grimsoulsurvival",
       "developerName": "markuz777",
@@ -2269,6 +2280,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/grimsoul.ipa",
       "localizedDescription": "<h3><span class=\"\">Features:</span></h3><p class=\"\"><ul><li class=\"\"><span class=\"\">Instant energy refills</span></li><li>1 energy consumption</li><li class=\"\">One-hit kill</li><li>Increased attack range</li><li>Increased attack speed</li><li class=\"\">Free crafting</li><li>Free construction</li><li>Unlimited item durability</li><li>Restore loot on death</li><li>Chests unlocked</li><li class=\"\">Speed modifications</li></ul><div class=\"\">Grim Soul is a&nbsp; dark fantasy survival game. A once-prosperous Imperial province, the Plaguelands are now covered in fear and darkness. Its inhabitants have turned into endlessly wandering souls. Your goal is to survive as long as you can in this dangerous land. Collect resources, build a fortress, defend yourself from enemies, and survive combat with zombie-knights and other monsters in this new Souls-like game!</div></p><p></p>\n",
       "iconURL": "https://flekstore.com/img-storage/apps/810/grimsoul_icon.png"
+    },
+    {
+      "name": "HabitKit",
+      "bundleIdentifier": "com.habitkit.habitkit",
+      "developerName": "HabitKit",
+      "version": "1.15",
+      "versionDate": "2026-04-30T08:06:22.000Z",
+      "size": 45844865,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/HabitKit.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div>HabitKit is the perfect app for anyone looking to form new habits or break old ones. With HabitKit, you can track your progress with beautiful tile-based grid charts. Whether you're trying to quit smoking, eat healthier, or exercise more, HabitKit can help you achieve your goals. You can customize your dashboard by adjusting colors, icons and descriptions. Draw motivation from growing the amount of colored tiles on your habit dashboard.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1282/HabitKit_icon.png"
     },
     {
       "name": "HD Flix (No Ads)",
@@ -2346,23 +2368,12 @@
       "name": "Hevy - Workout Tracker Gym Log",
       "bundleIdentifier": "com.blatant.hevyworkouttrackergymlog",
       "developerName": "Blatant",
-      "version": "3.0.7",
-      "versionDate": "2026-04-16T11:34:56.000Z",
+      "version": "3.0.10",
+      "versionDate": "2026-04-30T09:09:55.000Z",
       "size": 117216203,
       "downloadURL": "https://s3.flekstore.com/ipa-library/HevyWorkout.ipa",
       "localizedDescription": "\r<div><br></div><div class=\"\"><b>FEATURES\r</b></div><div>\u2022  Track your lifts with an intuitive, simple to use interface.\r</div><div>\u2022  Use the calendar to stay on top of your training schedule\r</div><div>\u2022  Hundreds of exercises with free high-quality videos for you to focus on your form\r</div><div>\u2022  Follow your friend's progress by following their lifts and copying their routines\r</div><div>\u2022  Create your own custom exercises for your workouts\r</div><div>\u2022  Set up your profile as a private profile or a public one\r</div><div>\u2022  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets\r</div><div>\u2022  Customize automatic rest timers for each exercise\r</div><div>\u2022  Analyze your workout sessions in detail with muscle group graphs\r</div><div>\u2022  Calculation of One Rep Max for all strength exercises\r</div><div>\u2022  Create an unlimited amount of routines\r</div><div>\u2022  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight &amp; total reps\r</div><div>\u2022  Copy your friends' workouts\r</div><div>\u2022  Dark Mode\r</div><div>\u2022  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.</div>",
       "iconURL": "https://i.imgur.com/dEM3E2c.jpeg"
-    },
-    {
-      "name": "Home Workout - No Equipments",
-      "bundleIdentifier": "com.leaphealth.homeworkoutnoequipments",
-      "developerName": "Leap Health",
-      "version": "1.49.0",
-      "versionDate": "2026-04-16T11:36:53.000Z",
-      "size": 333427853,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Homeworkouts.ipa",
-      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3>Looking to build muscle and lose weight? Home Workout has got you covered!\r<div>\r</div><div>Home workouts with no equipment, easy to follow.\r</div><div>Follow the tailored workout plans and expert guidance to meet a fitter, stronger you!\r</div><div>Home Workout app is an expertly crafted fitness app that offers a variety of workouts and workout plans suitable for everyone, from fitness beginners to experts.</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1280/Homeworkouts_icon.png"
     },
     {
       "name": "Homescapes Hack",
@@ -3043,17 +3054,6 @@
       "beta": false
     },
     {
-      "name": "iPoGo ",
-      "bundleIdentifier": "com.ipogo.ipogo",
-      "developerName": "iPoGo",
-      "version": "4.2.1 (0.407.0)",
-      "versionDate": "2026-04-16T20:13:47.000Z",
-      "size": 115162453,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/ipogo.ipa",
-      "localizedDescription": "<p><strong>If you use in LiveContainer: Set Allow location access for LiveContainer app in iPhone settings to always and set Precise Location to ON&nbsp;</strong></p><p><strong>Uninstall other versions of Pokemon Go before downloading iPoGo.</strong></p>\n\n<p class=\"\"><u><i>iPoGo is a hack for Pokemon GO.</i></u></p><p class=\"\">The account may be blocked due to the use of cheats. We have no influence on this and are not responsible in case of blocking.</p><p class=\"\"><b><i>FREE FEATURES :</i></b></p><p class=\"\"><i>\u2022 Teleport Anywhere in the world<br><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Global list of Pokemon/Raids<br></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">\u2022 Ability to always throw Excellent Curveballs<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Autowalk random or specific routes<br></span><span style=\"background-color: var(--f7-text-editor-bg-color); color: var(--f7-text-editor-text-color); font-family: var(--f7-font-family); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight);\" class=\"\">\u2022 Shiny Scanner<br>\u2022 Freeze Pokemon<br>\u2022 Incognito Mode<br>\u2022 Tap on screen to walk there<br>\u2022 Nearby feeds overlay<br>\u2022 Nest/Pokemon/Pokestop/Raid feeds<br>\u2022 Maping and S2 Overlay<br>\u2022 Custom Routes / Hotspots<br>\u2022 Show stats for all saved Pokemon<br>\u2022 Joystick for walking emulation<br>\u2022 Enhanced throw / Remember last ball<br>\u2022 Ability to preview the IV of a pokemon before you catch it<br>\u2022 Ability to see which gyms have empty slots<br>\u2022 Journal to help keep track of your cooldown<br>\u2022 Autowalk random or specific routes</span></i></p><p class=\"\"><b><i class=\"\">V.I.P FEATURES (Purchased on the site of the developer of the hack - ipogo.app) :</i></b></p><p class=\"\">\u2022<i> All Free Features are Included<br>\u2022 Built in Virtual GoPlus (Auto catching)<br>\u2022 Auto reconnect GoPlus<br>\u2022 One click item bag cleaner<br>\u2022 Global feeds overlay / Custom feeds<br>\u2022 Faster map loading<br>\u2022 Block non shiny encounters<br>\u2022 Block non 100iv encounters<br>\u2022 Skip animation screens<br>\u2022 Auto transfer pokemon ability<br>\u2022 One hit Team Rocket<br>\u2022 Fast Catch<br>\u2022 Instant Training Battles<br>\u2022 Spawn Booster + Radius Booster<br>\u2022 The warm and fuzzy feeling of supporting iPogo</i></p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/717/ipogo_icon.jpg"
-    },
-    {
       "bundleIdentifier": "app.ish.iSH",
       "name": "iSH",
       "developerName": "Theodore Dubois and contributors",
@@ -3158,17 +3158,6 @@
       "version": "19.4",
       "versionDate": "2022-03-05T12:00:00-06:00",
       "versionDescription": "Updated to Kodi 19.4. View the changelog here: https://kodi.tv/article/kodi-matrix-19-4-release/"
-    },
-    {
-      "name": "Last Day On Earth Hack",
-      "bundleIdentifier": "com.iosgods.lastdayonearthhack",
-      "developerName": "iOSGods",
-      "version": "1.48.5",
-      "versionDate": "2026-04-20T12:13:17.000Z",
-      "size": 499878426,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/lastday.ipa",
-      "localizedDescription": "<p>Required registration<em> on <a href=\"https://iosgods.com\">iOSGods</a></em></p>\r\n\r\n<p><strong>Hack Features:</strong><br />\r\n&bull; Anti-Cheat -&gt; Disable Cheat detection.<br />\r\n&bull; Item Duplication -&gt; Split an Item to get more.<br />\r\n&bull; Can Duplicate/Split Any Item -&gt; Duplicate any item in your inventory!<br />\r\n&bull; Free Crafting -&gt; Craft without required items. Do not craft unreleased items or your game will stop loading! See the Club to find out which ones you shouldn&#39;t craft.<br />\r\n&bull; Free Building -&gt; Build without required items.<br />\r\n&bull; Free Upgrading -&gt; Upgrade without required items.<br />\r\n&bull; Building hack -&gt; Thanks to the features above<br />\r\n&bull; Infinite Weapon/Item Durability<br />\r\n&bull; Infinite All Armor Durability&nbsp;<br />\r\n&bull; Unlimited Skill Points -&gt; Use skill points to increase them.<br />\r\n&bull; No Level Requirement for Crafting<br />\r\n&bull; Loot Boxes Hack! -&gt; Open 1 loot box and gain 10,000! If IAP/Free Store is patched, use this to gain a lot of loot boxes when opening one.<br />\r\n&bull; Item Increase Hack -&gt; When taking an item from your inbox, it will take it and still keep it in your inbox. If you have a lot of the same item, you can increase said item as much as you want!<br />\r\n&bull; Unlock All Items -&gt; All blueprints unlocked!<br />\r\n&bull; Unlimited Consumables -&gt; Unlimited Food, Water, etc.<br />\r\n&bull; High Rate of Fire -&gt; One Hit Kill. Works well on Shotguns.<br />\r\n&bull; Unlimited Weapon Blueprints - Using the Recycler / Weapon Specialist in Bunker Alfa and the Unlimited Consumable Items Hack, you can get every Weapon Blueprints in the game.<br />\r\n&bull; Bow Instant Charge for Shot -&gt; Tap on the shoot icon to instantly shoot your bow without having to charge it.</p>\r\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/777/lastday_icon.png"
     },
     {
       "name": "Lightroom Hacked",
@@ -3305,17 +3294,6 @@
       "iconURL": "https://flekstore.com/img-storage/apps/1319/MadOutTwo_icon.png"
     },
     {
-      "name": "Magic Eraser Background Editor",
-      "bundleIdentifier": "com.dangerouspixel.magiceraserbackgroundeditor",
-      "developerName": "Dangerous Pixel",
-      "version": "3.13.0",
-      "versionDate": "2026-04-22T15:09:17.000Z",
-      "size": 244413160,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MagicEraser.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div>Instantly remove the background or object of any picture, edit, arrange and save as PNG or JPG! Join 10 million Magic Background Eraser creators and take your images to the next level with AI powered high resolution editing.\r</div><div>Ideal for online sellers or photo enthusiasts, it is the most usable app for free without a watermark. Extra features are available for an affordable price.\r</div><div>Remove objects or cut out and save transparent images for use in Instagram, Poshmark, Shopify, Pinterest and many other apps. Add a white, colored or custom background to your photo cut-out and grow your brand with beautiful product posts and stories.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1303/MagicEraser_icon.png"
-    },
-    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "developerName": "yoshisuga",
@@ -3397,8 +3375,8 @@
       "name": "Mimo: Learn Coding/Programming",
       "bundleIdentifier": "com.blatant.mimolearncodingprogramming",
       "developerName": "Blatant",
-      "version": "12.9.1",
-      "versionDate": "2026-04-22T15:50:54.000Z",
+      "version": "12.10",
+      "versionDate": "2026-04-30T08:21:34.000Z",
       "size": 136645016,
       "downloadURL": "https://s3.flekstore.com/ipa-library/mimo.ipa",
       "localizedDescription": "<b>Mimo </b>is the go-to app for learning to code on the go. Learn and write code anytime, anywhere, with an innovative and interactive coding app in your pocket! With bite-sized lessons, a flexible learning schedule, and tons of practice, Mimo guides you step by step, making learning and practicing your coding skills easy.<div><br><div></div><div></div><div class=\"\">Whether you're a beginner or looking to level up, Mimo helps you build real projects, practice with a built-in code editor, and become a confident developer \u2014 all from your phone.\n</div><div class=\"\"><br></div><div class=\"\"><b>Why Learn with Mimo?\n</b></div><div>In just a few minutes a day, you can:\n</div><div>- Learn Python, HTML, JavaScript, CSS, SQL, and more from scratch or advance your current skill set.\n</div><div>- Practice coding with the mobile code editor.\n</div><div>- Build real projects and explore software development.\n</div><div>- Earn certificates to kickstart your tech career.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>",
@@ -3441,26 +3419,26 @@
       ]
     },
     {
+      "name": "Mockup - UI/UX Design",
+      "bundleIdentifier": "com.blatant.mockupuiuxdesign",
+      "developerName": "Blatant",
+      "version": "4.2",
+      "versionDate": "2026-04-30T08:07:36.000Z",
+      "size": 57962349,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MockupUI.ipa",
+      "localizedDescription": "<br><div>\r</div><div class=\"\"><b>Flexible Canvas for UI/UX Design\r</b></div><div>- Visualize your ideas effortlessly with 45+ device frames in both portrait and landscape orientations.\r</div><div>- Explore limitless design possibilities with a flexible canvas and abundant frames.\r</div><div class=\"\">- Customize the grid, frame, and background colors for a tailored workflow.\r</div><div class=\"\"><br></div><div class=\"\"><b>Sketch &amp; Perfect Your Ideas\r</b></div><div>- Shape your designs with a variety of drawing tools &amp; a full color palette.\r</div><div>- Draw perfect shapes with Shape Detection and Snap-to-grid for precise alignment.\r</div><div>- Move, resize, recolor, and adjust objects easily using the lasso tool.\r</div><div class=\"\">- Write and edit text directly on the canvas using the Scribble tool.\r</div><div class=\"\"><b><br></b></div><div class=\"\"><b>Wireframe with Ease\r</b></div><div>- Access a Library of preset elements or create, save, and reuse your own.\r</div><div>- Insert images and visuals from your files into your designs\r</div><div>- Add text, customize, and save text styles for a consistent look.\r</div><div>- Drag &amp; drop text or images from any app directly into your canvas.\r</div><div>- Elevate your designs with 4000+ symbols from Apple's SF Symbols library.\r</div><div class=\"\">- Add and customize shapes like rectangles, ellipses, and lines.\r</div><div class=\"\"><br></div><div class=\"\"><b>Stay in Control of Your Objects\r</b></div><div>- Cut, copy, or paste selections anywhere in the canvas or from other apps.\r</div><div>- Arrange, align, and distribute objects for precise layouts.\r</div><div>- Select or deselect multiple objects at once with Select Objects mode.</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://i.imgur.com/7EXutr5.jpeg"
+    },
+    {
       "name": "Mojo: AI Video and Reels Editor",
       "bundleIdentifier": "com.blatant.mojoaivideoandreelseditor",
       "developerName": "Blatant",
-      "version": "1.264",
-      "versionDate": "2026-04-20T13:39:38.000Z",
+      "version": "1.265",
+      "versionDate": "2026-04-30T08:25:07.000Z",
       "size": 189797587,
       "downloadURL": "https://s3.flekstore.com/ipa-library/mojo.ipa",
       "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div class=\"\">Creating trending social content has never been simpler. Mojo is an app designed to help you make amazing video content for Instagram and TikTok and more. Mojo is made in Paris and has already been downloaded by over 40 million people worldwide.\r</div><div class=\"\"><br></div><div class=\"\">To use Mojo, simply download the app and start exploring one of our 1,200+ unique templates. After selecting the template you\u2019d like to edit, choose from a number of our editing features to create the perfect video. You can then easily resize and share your content to any social platform with the touch of a button.\r</div><div class=\"\"><br></div><div>While editing, you can choose from a number of our top features like adding auto-captions, text effects, filters, and creating a grid. You can also select one of our trending templates which is already paired perfectly with a trending sound from Instagram and TikTok!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/1335/mojo_icon.png"
-    },
-    {
-      "name": "Mortal Kombat Hack",
-      "bundleIdentifier": "com.iosgods.mortalkombathack",
-      "developerName": "iOSGods",
-      "version": "7.2.1",
-      "versionDate": "2026-04-20T11:00:53.000Z",
-      "size": 1301680687,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/MortalKombat.ipa",
-      "localizedDescription": "<div class=\"\"><i class=\"\"><span class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\n</a></span></i></div><div class=\"\"><i class=\"\"><b class=\"\"><br></b></i></div><div class=\"\"><i class=\"\"><b class=\"\">Features:</b></i></div><div class=\"\"><i class=\"\"><b class=\"\">- Instantly Kill individual Enemy Characters</b></i></div><div class=\"\"><i class=\"\"><b>- Force Swap Enemy Characters*</b></i></div><div class=\"\"><i class=\"\"><b>- Easy Enemy* (1 hit KO)</b></i></div><div class=\"\"><i><b>- Resurrect and Heal all players*</b></i></div><div class=\"\"><i class=\"\"><b>- Heal All Players*</b></i></div><div class=\"\"><i class=\"\"><b>- Swap Hack - can swap without finishing time</b></i></div><div class=\"\"><i class=\"\"><br></i></div><div class=\"\"><i class=\"\">Get over here and immerse yourself in the iconic and visceral action of MORTAL KOMBAT MOBILE anytime, anywhere. Kollect legendary fighters like Scorpion, Sub-Zero, Raiden, and Kitana and fight in epic 3v3 battles set in the Mortal Kombat universe. This visually stunning fighting and card collection game has multiple modes and re-introduces characters and lore from Mortal Kombat\u2019s 30-Year fighting game legacy. Launch into the action today and prove yourself in the greatest fighting tournament in all of the realms!</i></div><div class=\"\"></div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1160/MortalKombat_icon.png"
     },
     {
       "name": "MyFitnessPal++",
@@ -3521,6 +3499,17 @@
       "beta": false
     },
     {
+      "name": "MyFitnessPal: Calorie Counter",
+      "bundleIdentifier": "com.myfitnesspal.myfitnesspalcaloriecounter",
+      "developerName": "MyFitnessPal",
+      "version": "26.17.0",
+      "versionDate": "2026-04-30T09:03:59.000Z",
+      "size": 80827557,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/MyFitnessPal.ipa",
+      "localizedDescription": "<h3><i class=\"\">Premium features unlocked</i></h3><div class=\"\"><i>Food tracker and health app</i></div><div class=\"\"><i><br></i></div>Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.<div><br></div><div>MyFitnessPal isn\u2019t another restrictive diet app. This is a health app to help you learn about your habits \u2026 see how you eat \u2026 make smarter food choices \u2026 find motivation &amp; support ... and conquer your health goals.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1191/MyFitnessPal_icon.png"
+    },
+    {
       "name": "NineAnimator",
       "bundleIdentifier": "com.marcuszhou.NineAnimator",
       "developerName": "Marcus Zhou",
@@ -3577,8 +3566,8 @@
       "name": "Notability: Smarter AI Notes",
       "bundleIdentifier": "com.blatant.notabilitysmarterainotes",
       "developerName": "Blatant",
-      "version": "16.1.3",
-      "versionDate": "2026-04-16T11:39:45.000Z",
+      "version": "16.2",
+      "versionDate": "2026-04-30T08:36:21.000Z",
       "size": 216310194,
       "downloadURL": "https://s3.flekstore.com/ipa-library/NotabilityAI.ipa",
       "localizedDescription": "<div><div class=\"\"><b>Whether you\u2019re studying for an exam, organizing a meeting, or sketching your next big idea\u2014Notability is the essential resource you can rely on to capture, organize, and share your thoughts with ease.\r</b></div><div class=\"\"><br></div><div>YOUR ALL-IN-ONE DIGITAL NOTEBOOK\r</div><div>\u2022 Write, type, or sketch with lifelike digital ink, highlighters, and text tools.\r</div><div>\u2022 Mark up anything: PDFs, textbooks, lecture slides, images, and more.\r</div><div>\u2022 Stay organized with customizable folders and subjects.\r</div><div>STUDY SMARTER WITH LEARN AI\r</div><div>\u2022 Live Smart Note instant summaries of your notes.\r</div><div>\u2022 Quizzes and flashcards tailored to you.\r</div><div>\u2022 Chat with your notes \u2013 your AI-powered assistant\r</div><div>RECORD, REVIEW AND REMEMBER \r</div><div>\u2022 Audio recording synced to your notes; perfect for lectures and meetings.\r</div><div>\u2022 Search for anything, including transcripts, text and handwriting.</div><div>\r</div><div>\r</div><div>\r</div></div>",
@@ -3820,6 +3809,17 @@
       "appID": "com.faizandurrani.paperback.ios"
     },
     {
+      "name": "Peachy Pro",
+      "bundleIdentifier": "com.dvntm.peachypro",
+      "developerName": "dvntm",
+      "version": "2.11.2",
+      "versionDate": "2026-04-30T08:32:18.000Z",
+      "size": 102963908,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/PeachyPro.ipa",
+      "localizedDescription": "Aiming at perfection in everything, Peachy is a powerful &amp; handy pro photo editor, especially for selfie editing &amp; retouching, body shape editing.<div><br></div><div>Everybody is an excellent photographer with this simple retouch tool, it helps you meet the best version of you, smooth skin, whiten teeth, reshape face, fix blemishes, remove wrinkles, become taller, add makeup, tattoo, muscles &amp; filters and so on.</div><div><br></div><div>Peachy provides lots of portrait and selfie photo editing features. Download it and give a try!</div><div><br></div><div>RETOUCH</div><div>\u00b7Remove wrinkles and acne</div><div>\u00b7Smooth and brightened your skin</div><div>\u00b7Reduce dark circles under your eyes</div><div>\u00b7Whiten your teeth</div><div>\u00b7Add volume and darken your eyebrow</div><div><br></div><div>RESHAPE</div><div>\u00b7Reshape your body and facial structure</div><div>\u00b7Refine a specific area of the selfie, for example, arms or facial features</div><div>\u00b7Bloat your breast, enlarge muscles and facial features</div><div><br></div><div>HEIGHT CORRECTION</div><div>\u00b7Elongate your legs and become taller</div><div>\u00b7Enhance your body both laterally and longitudinally</div><div><br></div><div>ADD MUSCLES</div><div>\u00b7Add six pack abs muscles</div><div>\u00b7Add chest muscles</div><div><br></div><div>ADD TATTOO</div><div>\u00b7Add creative tattoos to your body</div><div><br></div><div>LIGHTING EFFECTS</div><div>\u00b7Improve lighting effects of the selfie or portrait</div><div><br></div><div>ACCESSORIES</div><div>\u00b7Decorate your selfie or portrait with stylish accessories</div><div><br></div><div>FILTERS</div><div>\u00b7High-fashion vintage filters, perfect for selfie</div><div><br></div><div>ADJUST</div><div>\u00b7Create custom filters by adjusting brightness, contrast etc.</div><div><br></div><div>Perfect your selfies or portraits in Peachy, and share with your friends online, it can be fun and inspiring!</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/876/PeachyPro_icon.png"
+    },
+    {
       "name": "PewDiePie's Tuber Simulator",
       "bundleIdentifier": "com.markuz777.pewdiepiestubersimulator",
       "developerName": "markuz777",
@@ -3867,15 +3867,15 @@
       "appID": "com.microblink.PhotoMath"
     },
     {
-      "name": "PicsArt Pro",
-      "bundleIdentifier": "com.dangerouspixel.picsartpro",
-      "developerName": "Dangerous Pixel",
-      "version": "29.8.2",
-      "versionDate": "2026-04-20T13:36:05.000Z",
-      "size": 71112152,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/picsart.ipa",
-      "localizedDescription": "<i class=\"\">Sign in to use all premium features.</i><div><i><br></i>Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/966/picsart_icon.png"
+      "name": "Photoroom: AI Photo Editor",
+      "bundleIdentifier": "com.blatant.photoroomaiphotoeditor",
+      "developerName": "Blatant",
+      "version": "2026.17.01",
+      "versionDate": "2026-04-30T08:23:19.000Z",
+      "size": 133527206,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Photoroom_AI.ipa",
+      "localizedDescription": "<ul><li>- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\r</li><li>- One-tap background removal. Remove or replace backgrounds for polished, professional images.\r</li><li>- Virtual models. Showcase clothing on AI-generated models without the need for a photoshoot.\r</li><li>- Stage products. Place products in realistic, on-brand scenes with just a tap.\r</li><li>- Beautify products. Enhance your shots with AI-powered lighting and detail improvements.\r</li><li>- Batch editing. Edit multiple photos at once\u2014perfect for e-commerce.\r</li><li>- AI Instagram Stories. Create eye-catching, ready-to-post Stories effortlessly.\r</li><li>- Optimized images for social &amp; marketplaces. Resize for Instagram, YouTube, Amazon, Shopify, Etsy, Depop, Poshmark, and more.\r</li><li>- Professional templates. Customize designer-made templates for promotions and special events.\r</li><li>- Advanced retouching. Remove objects, clean up images, and refine photos with ease.\r</li><li>- Brand Kit. Keep your designs consistent with saved elements.\r</li><li>- Team collaboration. Invite team members to edit and share designs.</li></ul><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1403/Photoroom_AI_icon.png"
     },
     {
       "name": "Play!",
@@ -4020,17 +4020,6 @@
           "absoluteVersion": "1.13.2"
         }
       ]
-    },
-    {
-      "name": "Prequel: Photo and Video Editor",
-      "bundleIdentifier": "com.blatant.prequelphotoandvideoeditor",
-      "developerName": "Blatant",
-      "version": "2.92.0",
-      "versionDate": "2026-04-21T08:23:21.000Z",
-      "size": 274846061,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/PrequelPhoto.ipa",
-      "localizedDescription": "<h3><b>Create aesthetic edits with Prequel and iconic effects like DISCO, DIAMOND, BLING, TEAL, MIAMI, PRISM, VHS, and D3D. Prequel helps you bring your ideas to life.</b></h3><div><b><br></b><div></div><div class=\"\"><b>FREE FEATURES\r</b></div><div>\u2022 800+ EFFECTS and FILTERS to match any style.\r</div><div>\u2022 TEMPLATES: create high-quality aesthetic videos in one tap.\r</div><div>\u2022 D3D: create amazing 3D moving pictures easily and add trendy effects.\r</div><div>\u2022 TEXT: 30+ custom fonts to add text to your photos and videos.\r</div><div>\u2022 MUSIC: add tracks to your videos to enhance the mood.\r</div><div>\u2022 STICKERS: add gifs, emojis, and stickers to your photos.\r</div><div class=\"\">\u2022 ADJUSTS: various tools to tune your content and get the result you need.\r</div><div class=\"\">\u2022 INTRO: carefully designed starting effects for your photos and videos.</div><div class=\"\"><br></div><div class=\"\"><b>PREQUEL GOLD SUBSCRIPTION\r</b></div><div class=\"\">Get unlimited full access to all Prequel effects and filters. Use an advanced editing toolkit with a wide range of adjustment tools.\r</div><div class=\"\">Prequel Gold is available as a subscription. Prices may vary depending on your country of residence and may be converted to your local currency.</div><div class=\"\">\r</div><div class=\"\">\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/MvCwlrg.jpeg"
     },
     {
       "name": "Provenance",
@@ -4356,17 +4345,6 @@
       "appID": "com.louisanslow.record"
     },
     {
-      "name": "RollerCoaster Tycoon Hack",
-      "bundleIdentifier": "com.iosgods.rollercoastertycoonhack",
-      "developerName": "iOSGods",
-      "version": "3.51.0",
-      "versionDate": "2026-04-21T10:09:07.000Z",
-      "size": 590662220,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/RolleCoasterTycoon.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div><br></div><h3>Hack Features:<br>\r- Infinite Currencies<br>\r- ViP Member<br>\r- Upgrade cost 1 card</h3><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">The gold standard for 3D park-building sims returns, with more fun, challenges, and thrills than ever\u2026.\r</div><div class=\"\">A deep simulation game where you manage it all -- coasters, rides, shops, restaurants, bathrooms, janitors, ride engineers -- everything is up to you. Use the roller coaster builder to draw intense coasters, full of loops, rolls, twists, corkscrews, dips, dives, and more.\r</div><div class=\"\">-Collect and customize hundreds of attractions\r</div><div class=\"\">-Push the limits of coaster design .. add loops, rolls, twists, corkscrews, dips, dives, and more\r</div><div class=\"\">-Upgrade your park to grow attendance and make more\r</div><div class=\"\">-Earn rewards playing time-based challenges\r</div><div class=\"\">-Visit your friend\u2019s parks and trade items\r</div><div class=\"\">-Build a water park with wet rides and crazy slides\r</div><div class=\"\">-Fun events all year long</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
-      "iconURL": "https://i.imgur.com/EGtIJQ8.jpeg"
-    },
-    {
       "name": "ScummVM",
       "bundleIdentifier": "org.scummvm.scummvm",
       "developerName": "ScummVM Team",
@@ -4502,12 +4480,23 @@
       "name": "SnapEdit: Photo Editor AI",
       "bundleIdentifier": "com.blatant.snapeditphotoeditorai",
       "developerName": "Blatant",
-      "version": "6.5.1",
-      "versionDate": "2026-04-20T13:41:32.000Z",
+      "version": "6.5.6",
+      "versionDate": "2026-04-30T09:39:02.000Z",
       "size": 128387746,
       "downloadURL": "https://s3.flekstore.com/ipa-library/SnapEdit.ipa",
       "localizedDescription": "<h3>Meet AI Expand in SnapEdit: the power to extend your images beyond the original frame. Fix awkward cropping. Create sweeping landscapes from tighter shots.\r</h3><div>\r</div><div>SnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\r</div><div class=\"\">Transform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\r</div><div class=\"\"><br></div><div class=\"\"><b>KEY FEATURES:\r</b></div><div class=\"\">ONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objects in your pictures. With just a single touch, SnapEdit intelligently analyzes your photo and seamlessly removes any undesired elements, leaving behind a clean and polished image.\r</div><div class=\"\">SUPER ERASE (PRO required): Specialized model designed to remove larger distractions. Makes them vanish in a flash, leaving your photos sleek, clean, and distraction-free.\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">IMAGE ENHANCEMENT: </b>Elevate your photo quality with SnapEdit\u2019s powerful image enhancement tools. Adjust brightness, contrast, saturation, and more to bring out the hidden details and make your images truly captivating. Enhance colors, sharpen edges, and create a professional finish with ease.\r</div><div>AI Expand: Let you fix your limited framing in one tap. AI Expand will widen backgrounds, fill missing areas, or adjust photo sizes for social media. Create perfectly balanced images that look natural and complete every time.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
       "iconURL": "https://i.imgur.com/vLy4luI.png"
+    },
+    {
+      "name": "SNOW - AI Profile",
+      "bundleIdentifier": "com.blatant.snowaiprofile",
+      "developerName": "Blatant",
+      "version": "15.1.1",
+      "versionDate": "2026-04-30T08:11:16.000Z",
+      "size": 133730441,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/SnowAI.ipa",
+      "localizedDescription": "SNOW is a camera app used by over 200 million people around the world.\r<div>\r</div><div>\r</div><div>- Find your favorite version of yourself by creating and saving custom beauty effects.\r</div><div>- Take profile-worthy selfies with stylish AR makeup features.\r</div><div>- Explore thousands of stickers with updates every day.\r</div><div>- Don't miss exclusive seasonal filters that add color to your daily life.\r</div><div>- Professional photo edits with just a few taps.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1398/SnowAI_icon.png"
     },
     {
       "name": "SoundCloud++",
@@ -4572,8 +4561,8 @@
       "name": "SpooferPro",
       "bundleIdentifier": "com.spooferpro.spooferpro",
       "developerName": "SpooferPro",
-      "version": "0.407.0(0.656)",
-      "versionDate": "2026-04-16T15:40:49.000Z",
+      "version": "0.409.0 (0.661)",
+      "versionDate": "2026-04-30T10:02:44.000Z",
       "size": 138735247,
       "downloadURL": "https://s3.flekstore.com/ipa-library/spoofer.ipa",
       "localizedDescription": "<div><b>If you use in LiveContainer: Set Allow location access for LiveContainer app in iPhone settings to always and set Precise Location to ON&nbsp;</b></div><b><div><b><br></b></div>Description:</b><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">SpooferPro is an iOS GPS Spoofer and gameplay enhancer designed to assist players in their gameplay and gain resources very efficiently.</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\">Join SpooferPro on Discord for feature and installation guides, quick app support, gameplay tips and more!</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">Uninstall Pok\u00e9monGo/iSpoofer/iPogo before installing</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div class=\"\"><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><b>Free features:</b></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Gps Spoof, Autowalk, GPX support</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Import routes and hotspots</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Over 800 premade GPX routes</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Pok\u00e9mon Scanner for Shiny &amp; Hundo</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Built in Virtual GO Plus module</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Fast Map loading</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffOne click item bag cleaner</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 One click Pok\u00e9mon bag cleaner</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffNearby Feed + Overlay</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Global feeds with customization&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Freeze movement in encounter</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffBlock non shiny encounters</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffBlock non hundo (100iv) encounters</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Encounter settings (Throw excellent etc)</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 \ufeff\ufeffTeam Rocket 1 hit</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Journal / Stats tracker</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Notifications &amp; IV preview</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Cooldown warning on teleport</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Loop Gpx route</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Tap to Walk</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Incognito/Anonymous Mode</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"><b>Pro Features</b></span><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\" class=\"\"> (Purchased on the website of the developer spooferpro.com) :</span></div><div class=\"\"><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\"><br></span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Includes all free features</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Ban protection through active patches&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Pro Catch&amp;Spin (99x better than VGP)</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Auto clean Pok\u00e9mon &amp; Item bag</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Instant Rocket Battles&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Instant Battles for team leaders</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Skip animations</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Spawn Booster</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Tap to teleport</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Buddy feature - feed, play, snapshot</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Invisible Team rocket fight&nbsp;</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Auto Heal Pok\u00e9mon</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Walk route &amp; pick up Zygarde cell</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Auto Favorite</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Reconnect VGP for you</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Performance Mode</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Enable features on reboot (farm loop)</span></div><div><span style=\"color: var(--f7-text-editor-text-color); font-size: var(--f7-text-editor-font-size); font-weight: var(--f7-text-editor-font-weight); background-color: var(--f7-text-editor-bg-color); font-family: var(--f7-font-family);\">&nbsp;\u2022 Many more features...</span></div><div><br></div><div class=\"\">Join SpooferPro community:</div><div class=\"\"><a href=\"https://spooferpro.com\">Website</a>: https://spooferpro.com</div><div class=\"\"><a href=\"https://discord.gg/52HpPM4T2p\">Discord</a>: https://discord.gg/52HpPM4T2p</div><div class=\"\"><a href=\"https://t.me/SpooferProOffical\">Telegram</a>: https://t.me/SpooferProOffical</div>",
@@ -5150,17 +5139,6 @@
       ]
     },
     {
-      "name": "The Battle Cats",
-      "bundleIdentifier": "com.iosgods.thebattlecats",
-      "developerName": "iOSGods",
-      "version": "15.2.1",
-      "versionDate": "2026-04-20T13:30:49.000Z",
-      "size": 171065627,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/battleCats.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div><br></div><div><br></div><h3>Hack Features:<br>\r- Infinite Cash<br>\r- One hit kill<br>- Infinite Cat Foods &amp; EXP (requires IOSGods vip)</h3><div class=\"\"><br></div><div class=\"\"><br></div><div class=\"\">-= Weirdly Cute Cats rampage across the world! =-\r</div><div class=\"\">Command your Cats with simple controls in a battle through space and time! No need to register to develop your own Cat Army! BATTLE WITH ALL THE CATS!!\r</div><div class=\"\"><br></div><div class=\"\">=Super Simple Battle System=\r</div><div class=\"\">Just tap on the Cat you want to fight for you!\r</div><div class=\"\">Fire the Cat Cannon to blast baddies getting too close to your base! Overcome weird enemies with the right Cat squad and take down the enemy base!\r</div><div class=\"\"><br></div><div class=\"\">=Super Simple Leveling System=\r</div><div class=\"\">Clear stages to get XP and items to level up the Cats! What will they evolve to at level 10? Can you unlock their True Form?</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div><div class=\"\">\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1378/battleCats_icon.jpeg"
-    },
-    {
       "name": "Thermometer",
       "bundleIdentifier": "com.growpixel.blackbox.store.Thermometer",
       "developerName": "Ryan McLeod",
@@ -5226,6 +5204,17 @@
       "downloadURL": "https://s3.flekstore.com/ipa-library/OrnetPP.ipa",
       "localizedDescription": "<i>Features:</i><div>- Hacked Premium&nbsp;</div>",
       "iconURL": "https://flekstore.com/img-storage/apps/875/OrnetPP_icon.png"
+    },
+    {
+      "name": "Truecaller: Caller ID Lookup ",
+      "bundleIdentifier": "com.blatant.truecallercalleridlookup",
+      "developerName": "Blatant",
+      "version": "26.16.5",
+      "versionDate": "2026-04-30T08:30:47.000Z",
+      "size": 74500784,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/truecaller.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div><div><br></div><div class=\"\">With Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\r</div><div class=\"\"><br></div><div class=\"\">#1 CALLER ID &amp; SPAM BLOCKING APP WORLDWIDE\r</div><div class=\"\"><br></div><div>\u2022 An all new Caller ID experience on iPhone with iOS 18.2 and above\r</div><div>\u2022 Automatically identify spam, fraud, and robocalls before you pick up\r</div><div>\u2022 View &amp; search previously identified calls in the Phone app\r</div><div>\u2022 Take advantage of the best spam call blocker for iPhone\r</div><div>\u2022 Enable spam identification and blocking by accessing Settings &gt; Apps &gt; Phone &gt; Call Blocking &amp; Identification\r</div><div>\u2022 A paid subscription is required to access this feature</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1371/truecaller_icon.png"
     },
     {
       "name": "Twitch++",
@@ -5303,17 +5292,6 @@
           "absoluteVersion": "8.0.2"
         }
       ]
-    },
-    {
-      "name": "Unfold: Story and Reels Maker",
-      "bundleIdentifier": "com.squarespace.unfoldstoryandreelsmaker",
-      "developerName": "Squarespace",
-      "version": "8.157.0",
-      "versionDate": "2026-04-20T13:45:48.000Z",
-      "size": 163485644,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/Unfold.ipa",
-      "localizedDescription": "<h3>Premium features unlocked</h3><div class=\"\"><br></div>\u2014 Stitch video clips together with Reels templates\r<div>\r</div><div>\u2014 Create with template collections like Film\r</div><div>\u2014 Plan and preview your Instagram Feed\r</div><div>\u2014 Remove any background with our AI editing tool\r</div><div>\u2014 Make a Bio Site for your new link in bio\r</div><div class=\"\">\u2014 Edit your content with filters and effects\r</div><div class=\"\"><br></div><div>Reels Templates: Make trendsetting videos for social media in minutes. Pick an exclusive Reels template, add clips and photos, and let Unfold do the rest.\r</div><div>Story, Post, and Animated Templates: Create beautiful content for social with over 400+ templates to choose from. Add filters and effects to your photos directly within the template. Write your text with unique fonts and use advanced text tools. Select a background color or choose a texture. Then share your story with the world!</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://flekstore.com/img-storage/apps/1281/Unfold_icon.png"
     },
     {
       "name": "UTM",
@@ -5702,26 +5680,26 @@
       }
     },
     {
-      "name": "VivaCut - AI Video Editor",
-      "bundleIdentifier": "com.blatant.vivacutaivideoeditor",
-      "developerName": "Blatant",
-      "version": "4.5.8",
-      "versionDate": "2026-04-21T07:54:35.000Z",
-      "size": 224840915,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/VivaCut.ipa",
-      "localizedDescription": "<h3>VivaCut, Professional Video Editor APP for full screen video creating. Whether you want to make artistic films or simply share memories and funny moments with friends, VivaCut is a perfect choice for you!</h3><div><br><div></div><div class=\"\"><b class=\"\">Powerful Video Editing App  \r</b></div><div>[Cool Transition] Create amazing with cinematic overlay video editor with transition effects in VivaCut\r</div><div>[visual effects] VHS, RGB, Trippy, Glitch, GB, Grainy, Fisheye\r</div><div>[Music Marker] Mark the track and add effects according to the music rhythm. \r</div><div class=\"\">[Audio Extraction] Aesthetic video editor with transition effects, extract music from any video\r</div><div class=\"\"><br></div><div class=\"\"><b>Video Editor with All Features</b></div><div>[Multi-layer timeline] An intuitive and sleek editing interface with zoom for frame by frame precision with overlay video editor app\r</div><div>[Video Transition] Create amazing with cinematic overlay video editor with transition effects in VivaCut\r</div><div>[Video Adjustment] Control Brightness, contrast, saturation, hue, color temperature, vignetting and enhance video quality\r</div><div>[Music] Add music to video free and use overlay video editor with transitions for it\r</div><div class=\"\">[Glitch Effects] Coolest video editing app with glitch effects and transitions!\r</div><div class=\"\"><br></div><div class=\"\"><b class=\"\">Video Clip Editing \r</b></div><div>[Trim and cut videos] Professional tools developed for precise Video Editing App\r</div><div>[Splice videos] Split videos and optimize for sharing on your stories\r</div><div>[Combine video clips] Merge clips into a stunning video with transitions effects, combine video clips into one video\r</div><div>[Speed Control] Fast &amp; slow motion alight your video like the best video editor with all features, only with VivaCut Video!</div><div>\r</div><div>\r</div></div>",
-      "iconURL": "https://i.imgur.com/katB5l3.jpeg"
+      "name": "VEED - AI Captions and Shorts",
+      "bundleIdentifier": "com.veed.veedaicaptionsandshorts",
+      "developerName": "VEED",
+      "version": "8.12.0",
+      "versionDate": "2026-04-30T09:32:58.000Z",
+      "size": 110418748,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/veed.ipa",
+      "localizedDescription": "<h3>Premium features unlocked</h3><div><br></div>Enjoy stress-free video creation with AI captions, quick translations, and more editing tools in one app. VEED makes it easy to add engaging and accurate captions to your talking videos. With advanced AI technology that supports 100+ languages, this caption app is becoming the go-to short video editor and subtitle generator for businesses, educators, and content creators.",
+      "iconURL": "https://flekstore.com/img-storage/apps/1337/veed_icon.png"
     },
     {
-      "name": "VSCO",
-      "bundleIdentifier": "com.michaellema.vsco",
-      "developerName": "Michael Lema",
-      "version": "460.0.1",
-      "versionDate": "2026-04-20T13:34:27.000Z",
-      "size": 96977746,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/vsco1.ipa",
-      "localizedDescription": "<p class=\"\"><h3 class=\"\">Premium presets and tools unlocked</h3><div>VSCO is a mobile app for photo and video editing, offering a suite of tools for enhancing images and videos, as well as a platform for sharing and discovering creative content.</div>\n</p><p class=\"\"><br></p><p class=\"\"><br></p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p><p class=\"\">\r</p>\n",
-      "iconURL": "https://flekstore.com/img-storage/apps/821/vsco1_icon.png"
+      "name": "VN Video Editor",
+      "bundleIdentifier": "com.blatant.vnvideoeditor",
+      "developerName": "Blatant",
+      "version": "2.3.4",
+      "versionDate": "2026-04-30T07:49:14.000Z",
+      "size": 316753263,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/VlogNow.ipa",
+      "localizedDescription": "<h3 class=\"\">Premium features unlocked</h3><div><br></div><div>VN is an easy-to-use and free video editing app with no watermark. The intuitive interface makes video editing simple, with no prior knowledge needed. It offers all the features required to create professional and high-quality videos, satisfying both the needs of professional and amateur video editors.</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1284/VlogNow_icon.png"
     },
     {
       "beta": false,
@@ -5794,6 +5772,28 @@
       ]
     },
     {
+      "name": "WhatsApp Business",
+      "bundleIdentifier": "com.fouadraheb.whatsappbusiness",
+      "developerName": "FouadRaheb",
+      "version": "26.16.74",
+      "versionDate": "2026-04-30T09:59:19.000Z",
+      "size": 105049917,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/WatusiBusiness.ipa",
+      "localizedDescription": "The all-in-one tweak for WhatsApp Business!<div><br></div><div>Stalky and OnlineNotify tweaks are disabled by default and can be enabled from inside Watusi Settings.</div>",
+      "iconURL": "https://flekstore.com/img-storage/apps/1211/WatusiBusiness_icon.png"
+    },
+    {
+      "name": "WhatsApp Watusi",
+      "bundleIdentifier": "com.fouadraheb.whatsappwatusi",
+      "developerName": "Fouad Raheb",
+      "version": "26.16.74",
+      "versionDate": "2026-04-30T09:52:01.000Z",
+      "size": 121430663,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/Watusi.ipa",
+      "localizedDescription": "<p class=\"\"><br></p>\n\n<p class=\"\">Features:<br>\n- Stealth Mode<br>\n- Disable Read Receipts<br>\n- Selective Read Receipts<br>\n- Disable Delivery Receipts<br>\n- Custom Theme<br>\n- Custom Text Color<br>\n- Full Profile Pic<br>\n- Send Unlimited Media<br>\n- Share Music<br>\n- Record audio<br>\n- Passcode/TouchID</p>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/82/Watusi_icon.png"
+    },
+    {
       "name": "WhatsApp++",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "unlimapps",
@@ -5817,17 +5817,6 @@
         }
       ],
       "appID": "net.whatsapp.WhatsApp"
-    },
-    {
-      "name": "Wizardry Variants Daphne Hack",
-      "bundleIdentifier": "com.iosgods.wizardryvariantsdaphnehack",
-      "developerName": "iOSGods",
-      "version": "1.28.1",
-      "versionDate": "2026-04-21T11:17:58.000Z",
-      "size": 1418132461,
-      "downloadURL": "https://s3.flekstore.com/ipa-library/WizardyVariants.ipa",
-      "localizedDescription": "<div class=\"\">Required registration on <a href=\"https://iosgods.com/\">iOSGods\r</a></div><div class=\"\"><br></div><h3 class=\"\">Hack Features:<br>- Damage Multiplier<br>\r- Defense Multiplier</h3><div><br></div><div>The portal of despair opens again. The labyrinth calls you to destruction. Revel in the endless dangers, relish the risk, devour the rewards.\r</div><div>Savor the risk.\r</div><div>Wizardry Variants Daphne carries on the lineage of the classic RPG series, Wizardry. The portal to the labyrinth of despair, where even destruction is pleasure, has opened once again.\r</div><div class=\"\"><b>\u25a0 Story\r</b></div><div>Once every 100 years, the Abyss opens.\r</div><div>It is a curse of death that consumes the continent. A Warlock who coveted Death, devoured people and animals and enveloped the world in despair.\r</div><div>Inheriting the power to seal the Abyss over generations, kings have continued to protect the kingdom from its curse.\r</div><div>But now, the king has vanished, and the world is being consumed by death, moment by moment.\r</div><div>Resistance itself is meaningless.\r</div><div>There is naught but to perish.</div><div class=\"\"><b>\u25a0 Adventure with allies\r</b></div><div>Experience an adventure of your very own with unique allies based on combinations of classes and races.\r</div><div class=\"\"><b>\u25a0 Difficulty with a bite\r</b></div><div>Perilous traps and mighty foes await in the dungeon. Take on a high difficulty that only Wizardry can offer.\r</div><div class=\"\"><b>\u25a0 Intuitive Controls\r</b></div><div>Play a full 3D dungeon anytime, anywhere, with one hand on your upright smartphone.\r</div><div><br></div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div><div>\r</div>",
-      "iconURL": "https://i.imgur.com/fpkzY7P.jpeg"
     },
     {
       "name": "WolframAlpha",
@@ -5969,6 +5958,17 @@
         }
       ],
       "appID": "stream.yattee.app"
+    },
+    {
+      "name": "YouTube Music Ultimate",
+      "bundleIdentifier": "com.dangerouspixel.youtubemusicultimate",
+      "developerName": "Dangerous Pixel",
+      "version": "9.17.2",
+      "versionDate": "2026-04-30T09:30:58.000Z",
+      "size": 60000000,
+      "downloadURL": "https://s3.flekstore.com/ipa-library/YTmusic1.ipa",
+      "localizedDescription": "<p><strong>Uninstall original YouTube Music</strong></p>\n\n<p><strong>Features:</strong></p>\n\n<div><ul><li>Run in background</li><li>No ads&nbsp;</li><li>And more</li></ul></div>\n",
+      "iconURL": "https://flekstore.com/img-storage/apps/605/YTmusic1_icon.png"
     },
     {
       "name": "YouTube++",
