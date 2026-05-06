@@ -3188,14 +3188,14 @@
       "developerName": "LiveContainer Team",
       "subtitle": "Run iOS apps without actually installing them!",
       "version": "3.7.6",
-      "versionDate": "2026-05-02T04:20:09Z",
-      "versionDescription": "Nightly build from [2e04312](https://github.com/LiveContainer/LiveContainer/commit/2e04312): Fix nightly release\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/25356414772/attempts/1).\n",
+      "versionDate": "2026-05-05T07:22:53Z",
+      "versionDescription": "Nightly build from [809bd65](https://github.com/LiveContainer/LiveContainer/commit/809bd65): remove url scheme check\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/25366448340/attempts/1).\n",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
       "localizedDescription": "Run iOS apps without actually installing them!",
       "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
       "tintColor": "#0784FC",
       "category": "utilities",
-      "size": 4601041,
+      "size": 4602456,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
       ],
@@ -3254,16 +3254,16 @@
       "versions": [
         {
           "version": "3.7.6",
-          "date": "2026-05-02T04:20:09Z",
-          "localizedDescription": "Nightly build from [2e04312](https://github.com/LiveContainer/LiveContainer/commit/2e04312): Fix nightly release\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/25356414772/attempts/1).\n",
+          "date": "2026-05-05T07:22:53Z",
+          "localizedDescription": "Nightly build from [809bd65](https://github.com/LiveContainer/LiveContainer/commit/809bd65): remove url scheme check\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/25366448340/attempts/1).\n",
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
-          "size": 4601041,
-          "commit": "2e04312",
-          "headline": "Fix nightly release"
+          "size": 4602456,
+          "commit": "809bd65",
+          "headline": "remove url scheme check"
         }
       ],
-      "commit": "2e04312",
-      "headline": "Fix nightly release"
+      "commit": "809bd65",
+      "headline": "remove url scheme check"
     },
     {
       "name": "LumaFusion",
