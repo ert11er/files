@@ -73,8 +73,7 @@ jobs:
 
                   # Collect all potential apps
                   all_collected_apps = []
-
-                  # Phase 1: Collect apps from other sources
+                  
                   for source_url in other_sources:
                       try:
                           print(f"Fetching data from {source_url}")
@@ -85,6 +84,9 @@ jobs:
                           response.raise_for_status()
                           source_data = response.json()
                           
+                          # Debug: print the structure of the response
+                          print(f"  Response keys: {list(source_data.keys())}")
+                          
                           if "apps" in source_data:
                               count = 0
                               for app in source_data["apps"]:
@@ -92,6 +94,8 @@ jobs:
                                       all_collected_apps.append(app)
                                       count += 1
                               print(f"  Collected {count} apps from {source_data.get('name', source_url)}")
+                          else:
+                              print(f"  No 'apps' key found in response from {source_url}")
                       except Exception as e:
                           print(f"  Error fetching data from {source_url}: {e}")
 
