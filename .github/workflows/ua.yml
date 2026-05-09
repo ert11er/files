@@ -57,6 +57,19 @@ jobs:
                       "https://repo.apptesters.org"
                   ]
 
+                  # Sources that require a user agent
+                  sources_requiring_ua = {
+                      "https://bit.ly/Quantumsource",
+                      "https://bit.ly/Quantumsource-plus",
+                      "https://bit.ly/wuxuslibraryplus",
+                      "https://bit.ly/Altstore-complete",
+                      "https://bit.ly/40Isul6",
+                      "https://alts.lao.sb",
+                      "https://repo.starfiles.co/public?gbox"
+                  }
+
+                  user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+
                   altsource = {
                       "name": "Ert Source",
                       "identifier": "com.ert.source",
@@ -72,7 +85,10 @@ jobs:
                   for source_url in other_sources:
                       try:
                           print(f"Fetching data from {source_url}")
-                          response = requests.get(source_url, timeout=10)
+                          headers = {}
+                          if source_url in sources_requiring_ua:
+                              headers["User-Agent"] = user_agent
+                          response = requests.get(source_url, headers=headers, timeout=10)
                           response.raise_for_status()
                           source_data = response.json()
                           
