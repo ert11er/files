@@ -24,28 +24,6 @@ jobs:
             - name: Install dependencies
               run: pip install requests
 
-            - name: Fetch app data
-              run: curl -sS "https://nestapi.flekstore.com/app?page=0&search=false&filter=updates" -o ids.txt
-
-            - name: Format app data (ids.txt to bids.json)
-              run: |
-                  cat <<'EOF' > bids.py
-                  import json, sys
-                  try:
-                      with open("ids.txt", "r", encoding="utf-8") as infile:
-                          data = json.load(infile)
-                      with open("bids.json", "w", encoding="utf-8") as outfile:
-                          json.dump(data, outfile, indent=4, ensure_ascii=False)
-                      print("Successfully converted ids.txt to beautified bids.json")
-                  except FileNotFoundError:
-                      print("Error: ids.txt not found.")
-                      sys.exit(1)
-                  except json.JSONDecodeError:
-                      print("Error: Could not decode JSON from ids.txt. Check the file format.")
-                      sys.exit(1)
-                  EOF
-                  python bids.py
-
             - name: Generate altsource.json (Deduplication Logic)
               run: |
                   cat <<'EOF' > bids_sorter.py
@@ -55,7 +33,7 @@ jobs:
                       "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/apps_nightly.json",
                       "https://connect.sidestore.io/",
                       "https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/apps.json",
-                      "https://ipa.cypwn.xyz/cypwn.json",
+                      "https://ipa.cypwn.xyz/sidestore.json",
                       "https://bit.ly/Quantumsource",
                       "https://bit.ly/Quantumsource-plus",
                       "https://bit.ly/wuxuslibraryplus",
@@ -107,54 +85,6 @@ jobs:
                               print(f"  Collected {count} apps from {source_data.get('name', source_url)}")
                       except Exception as e:
                           print(f"  Error fetching data from {source_url}: {e}")
-
-                  # Phase 2: Collect apps fetched from flekstore
-                  try:
-                      with open("bids.json", "r", encoding="utf-8") as f:
-                          bids_data = json.load(f)
-                  except Exception as e:
-                      print(f"Warning: Could not read bids.json: {e}")
-                      bids_data = []
-
-                  for bid_item in bids_data:
-                      app_id = bid_item.get("id")
-                      if not app_id:
-                          continue
-                      url = f"https://nestapi.flekstore.com/app/{app_id}"
-                      try:
-                          response = requests.get(url, timeout=10)
-                          response.raise_for_status()
-                          api_data = response.json()
-
-                          developer = api_data.get("developer")
-                          name = api_data.get("name")
-                          bundle_identifier = None
-                          if developer and name:
-                              dev_part = developer.split('|')[0].strip()
-                              sanitized_dev = re.sub(r'[^a-zA-Z0-9]', '', dev_part).lower()
-                              sanitized_name = re.sub(r'[^a-zA-Z0-9]', '', name).lower()
-                              if sanitized_dev and sanitized_name:
-                                  bundle_identifier = f"com.{sanitized_dev}.{sanitized_name}"
-
-                          install_url = api_data.get('install_url')
-                          download_url = f"https://s3.flekstore.com/ipa-library/{install_url}" if install_url else None
-                          
-                          if bundle_identifier and download_url:
-                              app_entry = {
-                                  "name": name,
-                                  "bundleIdentifier": bundle_identifier,
-                                  "developerName": developer,
-                                  "version": api_data.get("version"),
-                                  "versionDate": api_data.get("date"),
-                                  "size": api_data.get("size"),
-                                  "downloadURL": download_url,
-                                  "localizedDescription": api_data.get("description"),
-                                  "iconURL": api_data.get("icon")
-                              }
-                              all_collected_apps.append(app_entry)
-                              print(f"  Collected {name} from Flekstore")
-                      except Exception as e:
-                          print(f"  Error fetching data for app ID {app_id}: {e}")
 
                   # Helper to parse version string into a comparable tuple
                   def get_version_tuple(v):
