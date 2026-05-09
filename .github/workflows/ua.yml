@@ -33,7 +33,6 @@ jobs:
                       "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/apps_nightly.json",
                       "https://connect.sidestore.io/",
                       "https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/apps.json",
-                      "https://ipa.cypwn.xyz/sidestore.json",
                       "https://bit.ly/Quantumsource",
                       "https://bit.ly/Quantumsource-plus",
                       "https://bit.ly/wuxuslibraryplus",
@@ -59,13 +58,7 @@ jobs:
 
                   # Sources that require a user agent
                   sources_requiring_ua = {
-                      "https://bit.ly/Quantumsource",
-                      "https://bit.ly/Quantumsource-plus",
-                      "https://bit.ly/wuxuslibraryplus",
-                      "https://bit.ly/Altstore-complete",
-                      "https://bit.ly/40Isul6",
-                      "https://alts.lao.sb",
-                      "https://repo.starfiles.co/public?gbox"
+                  "https://ipa.cypwn.xyz/sidestore.json"
                   }
 
                   user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
