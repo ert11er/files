@@ -150,6 +150,7 @@ sources_requiring_ua = {
 
 user_agent = "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +https://www.google.com/bot.html)"
 
+
 altsource = {
     "name": "Ert Source",
     "identifier": "com.ert.source",
@@ -157,6 +158,7 @@ altsource = {
     "apps": [],
     "news": []
 }
+
 def is_valid_url(url):
     """Check if URL is a valid absolute URL"""
     if not url or not isinstance(url, str):
@@ -166,34 +168,47 @@ def is_valid_url(url):
         return all([result.scheme in ('http', 'https'), result.netloc])
     except:
         return False
+
 def sanitize_app(app):
-    """Sanitize app data, removing/fixing invalid URLs"""
+    """Sanitize app data, removing invalid URLs and filtering symbols from text"""
     if not isinstance(app, dict):
         return None
-    # Provide fallback for invalid icon URL
+
+    # Sembolleri ( !, ?, # vb.) temizlemek için yardımcı fonksiyon
+    def clean_text(text):
+        if not text or not isinstance(text, str):
+            return text
+        # Sadece alfanümerik karakterleri ve boşlukları tutar
+        return re.sub(r'[^\w\s]', '', text).strip()
+
+    # Başlık (name), Altyazı (subtitle) ve varsa Caption kısımlarını filtrele
+    if "name" in app:
+        app["name"] = clean_text(app["name"])
+    
+    if "subtitle" in app:
+        app["subtitle"] = clean_text(app["subtitle"])
+        
+    if "caption" in app:
+        app["caption"] = clean_text(app["caption"])
+
+    # İsim boşsa veya semboller silinince boş kaldıysa iptal et
+    if not app.get("name"):
+        return None
+
+    # URL Kontrolleri
     if "iconURL" in app:
         if not is_valid_url(app["iconURL"]):
-            app["iconURL"] = "https://placehold.co/512x512"  # fallback
-        else:
-            app["iconURL"] = "https://placehold.co/512x512"  # default if missing
-    if not "name" in app:
-        app.clear()
-    if app["name"] == "":
-        app.clear()
+            app["iconURL"] = "https://placehold.co/512x512"
     
-
-    
-    # Remove or fix invalid screenshot URLs
     if "screenshotURLs" in app and isinstance(app["screenshotURLs"], list):
         app["screenshotURLs"] = [url for url in app["screenshotURLs"] if is_valid_url(url)]
     
-    # Ensure required fields exist
+    # Zorunlu alan kontrolü
     if not app.get("bundleIdentifier"):
         return None
     
     return app
     
-# Collect all potential apps
 all_collected_apps = []
 
 for source_url in other_sources:
@@ -206,33 +221,24 @@ for source_url in other_sources:
         response.raise_for_status()
         source_data = response.json()
         
-        # Debug: print the structure of the response
-        print(f"  Response keys: {list(source_data.keys())}")
-        
         if "apps" in source_data:
             count = 0
             for app in source_data["apps"]:
                 sanitized = sanitize_app(app)
                 if sanitized:
                     all_collected_apps.append(sanitized)
-            count += 1
+                    count += 1
             print(f"  Collected {count} apps from {source_data.get('name', source_url)}")
-        else:
-            print(f"  No 'apps' key found in response from {source_url}")
     except Exception as e:
         print(f"  Error fetching data from {source_url}: {e}")
 
-# Helper to parse version string into a comparable tuple
 def get_version_tuple(v):
     if not v: return (0,)
-    # Extract only digits and dots to try and handle versions like "1.2.3 (beta)"
     parts = re.findall(r'\d+', str(v))
     return tuple(int(x) for x in parts) if parts else (0,)
 
-# Blacklist of words to filter out apps based on their description
-blacklist_words = ["unlock premium"] # Add words here, e.g., ["jailbreak", "crack"]
+blacklist_words = ["unlock premium"]
 
-# Apply blacklist filtering
 if blacklist_words:
     filtered_apps = []
     for app in all_collected_apps:
@@ -243,7 +249,6 @@ if blacklist_words:
             print(f"  Filtering out {app.get('name')} due to blacklisted word in description.")
     all_collected_apps = filtered_apps
 
-# Group apps by bundleIdentifier
 apps_by_bid = {}
 for app in all_collected_apps:
     bid = app.get("bundleIdentifier")
@@ -253,19 +258,13 @@ for app in all_collected_apps:
 
 final_apps = []
 for bid, group in apps_by_bid.items():
-    # Sort group by version tuple (newest first)
     group.sort(key=lambda x: get_version_tuple(x.get("version")), reverse=True)
-    
     if not group: continue
     
-    # The newest version value
     newest_app = group[0]
     newest_version_tuple = get_version_tuple(newest_app.get("version"))
-    
-    # Find all apps that match this newest version
     candidates = [a for a in group if get_version_tuple(a.get("version")) == newest_version_tuple]
     
-    # Add to final list with potential name/ID suffixes for duplicates of the SAME version
     for i, app in enumerate(candidates):
         if i > 0:
             app["name"] = f"{app.get('name')} -{i}"
@@ -276,5 +275,6 @@ altsource["apps"] = final_apps
 altsource["apps"].sort(key=lambda x: x.get('name', '').lower())
 
 with open("altsource.json", "w", encoding="utf-8") as f:
-    json.dump(altsource, f, indent=2)
+    json.dump(altsource, f, indent=2, ensure_ascii=False)
+
 print(f"\nSuccessfully generated altsource.json with {len(final_apps)} apps.")
