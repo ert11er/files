@@ -178,7 +178,7 @@ def sanitize_app(app):
             app["iconURL"] = "https://placehold.co/512x512"  # default if missing
     if not "name" in app:
         app.clear()
-    if app[name] == "":
+    if app["name"] == "":
         app.clear()
     
 
