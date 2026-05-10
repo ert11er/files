@@ -81,16 +81,17 @@ jobs:
                           return all([result.scheme in ('http', 'https'), result.netloc])
                       except:
                           return False
-
                   def sanitize_app(app):
                       """Sanitize app data, removing/fixing invalid URLs"""
                       if not isinstance(app, dict):
                           return None
-                      
-                      # Remove or fix invalid icon URL
+                      # Provide fallback for invalid icon URL
                       if "iconURL" in app:
                           if not is_valid_url(app["iconURL"]):
-                              del app["iconURL"]
+                              app["iconURL"] = "https://placehold.co/512x512"  # fallback
+                          else:
+                              app["iconURL"] = "https://placehold.co/512x512"  # default if missing
+    
                       
                       # Remove or fix invalid screenshot URLs
                       if "screenshotURLs" in app and isinstance(app["screenshotURLs"], list):
