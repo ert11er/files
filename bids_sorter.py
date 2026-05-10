@@ -237,7 +237,7 @@ def get_version_tuple(v):
     parts = re.findall(r'\d+', str(v))
     return tuple(int(x) for x in parts) if parts else (0,)
 
-blacklist_words = ["unlock premium"]
+blacklist_words = []
 
 if blacklist_words:
     filtered_apps = []
