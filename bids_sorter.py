@@ -176,6 +176,7 @@ def sanitize_app(app):
             app["iconURL"] = "https://placehold.co/512x512"  # fallback
         else:
             app["iconURL"] = "https://placehold.co/512x512"  # default if missing
+    
 
     
     # Remove or fix invalid screenshot URLs
