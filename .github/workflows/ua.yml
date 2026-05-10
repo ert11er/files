@@ -121,7 +121,7 @@ jobs:
                           if "apps" in source_data:
                               count = 0
                               for app in source_data["apps"]:
-                              sanitized = sanitize_app(app)
+                                  sanitized = sanitize_app(app)
                                   if sanitized:
                                       all_collected_apps.append(sanitized)
                                       count += 1
