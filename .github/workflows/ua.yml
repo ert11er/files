@@ -30,7 +30,7 @@ jobs:
                   import json, requests, sys, re
 
                   other_sources = [
-                      "https://appstore.nabzclan.vip/repos/altstoreformat2.php"
+                      "https://appstore.nabzclan.vip/repos/altstoreformat2.php",
                       "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/apps_nightly.json",
                       "https://connect.sidestore.io/",
                       "https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/apps.json",
