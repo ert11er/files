@@ -27,6 +27,7 @@ jobs:
             - name: Generate altsource.json (Deduplication Logic)
               run: |
                   cat <<'EOF' > bids_sorter.py
+                  from urllib.parse import urlparse
                   import json, requests, sys, re
 
                   other_sources = [
@@ -71,7 +72,36 @@ jobs:
                       "apps": [],
                       "news": []
                   }
+                  def is_valid_url(url):
+                      """Check if URL is a valid absolute URL"""
+                      if not url or not isinstance(url, str):
+                          return False
+                      try:
+                          result = urlparse(url)
+                          return all([result.scheme in ('http', 'https'), result.netloc])
+                      except:
+                          return False
 
+                  def sanitize_app(app):
+                      """Sanitize app data, removing/fixing invalid URLs"""
+                      if not isinstance(app, dict):
+                          return None
+                      
+                      # Remove or fix invalid icon URL
+                      if "iconURL" in app:
+                          if not is_valid_url(app["iconURL"]):
+                              del app["iconURL"]
+                      
+                      # Remove or fix invalid screenshot URLs
+                      if "screenshotURLs" in app and isinstance(app["screenshotURLs"], list):
+                          app["screenshotURLs"] = [url for url in app["screenshotURLs"] if is_valid_url(url)]
+                      
+                      # Ensure required fields exist
+                      if not app.get("bundleIdentifier"):
+                          return None
+                      
+                      return app
+                      
                   # Collect all potential apps
                   all_collected_apps = []
                   
@@ -91,8 +121,9 @@ jobs:
                           if "apps" in source_data:
                               count = 0
                               for app in source_data["apps"]:
-                                  if app.get("bundleIdentifier"):
-                                      all_collected_apps.append(app)
+                              sanitized = sanitize_app(app)
+                                  if sanitized:
+                                      all_collected_apps.append(sanitized)
                                       count += 1
                               print(f"  Collected {count} apps from {source_data.get('name', source_url)}")
                           else:
