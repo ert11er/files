@@ -2,6 +2,7 @@ from urllib.parse import urlparse
 import json, requests, sys, re
 
 other_sources = [
+    "https://therealfoxster.github.io/altsource/apps.json",
     "https://fastsign.dev/repo.json",
     "https://fastsign.dev/repo.lite.json",
     "https://fastsign.dev/repo.lite.altstore.json",
