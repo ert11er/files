@@ -268,7 +268,7 @@ for bid, group in apps_by_bid.items():
     for i, app in enumerate(candidates):
         if i > 0:
             app["name"] = f"{app.get('name')} {i}"
-            app["bundleIdentifier"] = f"{app.get('bundleIdentifier')}-{i}"
+            app["bundleIdentifier"] = f"{app.get('bundleIdentifier')}{i}"
         final_apps.append(app)
 
 altsource["apps"] = final_apps
