@@ -222,9 +222,18 @@ for source_url in other_sources:
         response.raise_for_status()
         source_data = response.json()
         
+        # --- EXCLUDE ALTSTORE PAL SOURCES ---
+        if source_data.get("isPAL") or "palsource" in source_url.lower():
+            print(f"  Skipping AltStore PAL source: {source_url}")
+            continue
+            
         if "apps" in source_data:
             count = 0
             for app in source_data["apps"]:
+                # Exclude individual PAL/paid apps
+                if app.get("paywall") or app.get("closedSource") or app.get("palOnly"):
+                    continue
+                    
                 sanitized = sanitize_app(app)
                 if sanitized:
                     all_collected_apps.append(sanitized)
@@ -232,6 +241,7 @@ for source_url in other_sources:
             print(f"  Collected {count} apps from {source_data.get('name', source_url)}")
     except Exception as e:
         print(f"  Error fetching data from {source_url}: {e}")
+
 
 def get_version_tuple(v):
     if not v: return (0,)
