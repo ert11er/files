@@ -12,6 +12,8 @@ Güncel ders kaynakları
 
 **Tüm Dersler/Genel**
 
+- https://yazilideposu.com.tr/
+
 - https://lizard-slope-46c.notion.site/SON-G-N-YAZILIDAN-90-100-ALMA-S-STEM-3332d2630f2f808f8892e68e0a4b153d
 
 - https://kovanacademy.com/
