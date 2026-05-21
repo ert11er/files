@@ -216,6 +216,11 @@ def sanitize_app(app):
             if version.get("size", 0) == 0:
                 version["size"] = 40756573
 
+    # Yeni: Patreon etiketini kontrol et (İsim, Altyazı veya açıklama kısmında)
+    content_string = (app.get("name", "") + app.get("subtitle", "") + app.get("localizedDescription", "")).lower()
+    if "patreon" in content_string:
+        return None
+
     return app
     
 all_collected_apps = []
