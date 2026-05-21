@@ -223,7 +223,11 @@ for source_url in other_sources:
         source_data = response.json()
         
         # --- EXCLUDE ALTSTORE PAL SOURCES ---
-        if source_data.get("isPAL") or "palsource" in source_url.lower():
+        # Örnek JSON'daki gibi 'marketplaceID' gibi PAL'a özgü bir alan var mı kontrol edelim
+        # Veya source_data içerisinde PAL'ı tanımlayan spesifik bir yapı varsa onu hedefleyelim
+        is_pal = source_data.get("isPAL") is True or any(app.get("marketplaceID") for app in source_data.get("apps", []))
+        
+        if is_pal or "palsource" in source_url.lower():
             print(f"  Skipping AltStore PAL source: {source_url}")
             continue
             
