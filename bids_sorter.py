@@ -208,6 +208,13 @@ def sanitize_app(app):
     if not app.get("bundleIdentifier"):
         return None
     
+    # Size kontrolü: Eğer size 0 ise varsayılan değeri ata
+    if "versions" in app and isinstance(app["versions"], list):
+        for version in app["versions"]:
+            # Eğer size alanı 0 ise veya eksikse düzelt
+            if version.get("size", 0) == 0:
+                version["size"] = 40756573
+
     return app
     
 all_collected_apps = []
