@@ -154,7 +154,7 @@ user_agent = "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWeb
 
 altsource = {
     "name": "Ert Source",
-    "iconURL": "https://i.imgur.com/pqIZoZo.jpeg"
+    "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
     "identifier": "com.ert.source",
     "sourceURL": "https://files-private.vercel.app/altsource.json",
     "apps": [],
