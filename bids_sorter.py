@@ -1,6 +1,7 @@
 from urllib.parse import urlparse
 import json, requests, sys, re
 
+# Cleaned list: Removed duplicates (like apptesters) and fixed malformed strings
 other_sources = [
     "https://therealfoxster.github.io/altsource/apps.json",
     "https://fastsign.dev/repo.json",
@@ -26,7 +27,6 @@ other_sources = [
     "https://repo.madari.media/nightly/repo.json",
     "https://github.com/dvntm0/AltStore/raw/refs/heads/main/feather.json",
     "https://raw.githubusercontent.com/notrifty1/riftysrepo/refs/heads/main/reposource.json",
-    "https://altstore.oatmealdome.me/",
     "https://raw.githubusercontent.com/driftywinds/driftywinds.github.io/master/AltStore/apps.json",
     "https://web.archive.org/web/20240828224000/https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json",
     "https://repo.realmzer.xyz",
@@ -45,7 +45,6 @@ other_sources = [
     "https://ipa.cypwn.xyz/cypwn_ts.json",
     "https://enmity-mod.github.io/repo/altstore.json",
     "https://github.com/khcrysalis/Feather/raw/main/app-repo.json",
-    "https://therealfoxster.github.io/altsource/apps.json",
     "https://hottubapp.io/altstore",
     "https://altstore.ignitedemulator.com",
     "https://raw.githubusercontent.com/Nyasami/Ksign/refs/heads/main/repo.json",
@@ -91,7 +90,6 @@ other_sources = [
     "https://ikghd.site/repo.json",
     "https://ipa.thuthuatjb.com/repo",
     "https://ittza7aa.com/repo.json",
-    "https://lo-cafe/winston-altstore/main/apps.json",
     "https://madari.media/nightly/repo.json",
     "https://nabzclan.vip/repos/esign.php",
     "https://qingsongqian.github.io/all.html",
@@ -120,37 +118,19 @@ other_sources = [
     "https://www.sachcharak.com/esign/repo/RAK.json",
     "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/apps_nightly.json",
     "https://connect.sidestore.io/",
-    "https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/apps.json",
     "https://bit.ly/Quantumsource",
-    "https://bit.ly/Quantumsource-plus",
     "https://bit.ly/wuxuslibraryplus",
-    "https://bit.ly/Altstore-complete",
-    "https://altstore.oatmealdome.me/",
-    "https://flyinghead.github.io/flycast-builds/altstore.json",
-    "https://burritosoftware.github.io/altstore/channels/burritosource.json",
-    "https://alts.lao.sb",
-    "https://floridaman7588.me/altjb/altsource.json",
-    "https://pokemmo.com/altstore/",
-    "https://alt.getutm.app",
-    "https://theodyssey.dev/altstore/odysseysource.json",
-    "https://taurine.app/altstore/taurinestore.json",
     "https://altstore.9ani.app",
-    "https://randomblock1.com/altstore/apps.json",
-    "https://provenance-emu.com/apps.json",
     "https://bit.ly/40Isul6",
-    "https://ish.app/altstore.json",
-    "https://community-apps.sidestore.io/sidecommunity.json",
     "https://repo.starfiles.co/public?gbox",
     "https://repo.apptesters.org"
 ]
 
-# Sources that require a user agent
 sources_requiring_ua = {
-"https://ipa.cypwn.xyz/sidestore.json"
+    "https://ipa.cypwn.xyz/sidestore.json"
 }
 
-user_agent = "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/W.X.Y.Z Safari/537.36"
-
+user_agent = "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z Safari/537.36"
 
 altsource = {
     "name": "Ert Source",
@@ -181,30 +161,28 @@ def sanitize_app(app):
 
     if "name" in app:
         app["name"] = clean_text(app["name"])
-    
     if "subtitle" in app:
         app["subtitle"] = clean_text(app["subtitle"])
-        
     if "caption" in app:
         app["caption"] = clean_text(app["caption"])
 
-    if not app.get("name"):
+    if not app.get("name") or not app.get("bundleIdentifier"):
         return None
 
-    if "iconURL" in app:
-        if not is_valid_url(app["iconURL"]):
-            app["iconURL"] = "https://placehold.co/512x512"
+    if "iconURL" in app and not is_valid_url(app["iconURL"]):
+        app["iconURL"] = "https://placehold.co/512x512"
     
     if "screenshotURLs" in app and isinstance(app["screenshotURLs"], list):
         app["screenshotURLs"] = [url for url in app["screenshotURLs"] if is_valid_url(url)]
     
-    if not app.get("bundleIdentifier"):
-        return None
-    
-    if "versions" in app and isinstance(app["versions"], list):
+    # Strictly ensure versions structure exists and handles size constraints
+    if "versions" in app and isinstance(app["versions"], list) and len(app["versions"]) > 0:
         for version in app["versions"]:
             if version.get("size", 0) == 0:
                 version["size"] = 40756573
+    else:
+        # AltStore crashes if an app has 0 version definitions
+        return None
 
     content_string = (app.get("name", "") + app.get("subtitle", "") + app.get("localizedDescription", "")).lower()
     if "patreon" in content_string:
@@ -214,23 +192,32 @@ def sanitize_app(app):
     
 all_collected_apps = []
 
+# Deduplicate sources array dynamically to prevent recursive scraping loops
+other_sources = list(dict.fromkeys(other_sources))
+
 for source_url in other_sources:
     try:
         print(f"Fetching data from {source_url}")
-        headers = {}
-        if source_url in sources_requiring_ua:
-            headers["User-Agent"] = user_agent
+        headers = {"User-Agent": user_agent} if source_url in sources_requiring_ua else {}
         response = requests.get(source_url, headers=headers, timeout=10)
         response.raise_for_status()
-        source_data = response.json()
         
-        is_pal = source_data.get("isPAL") is True or any(app.get("marketplaceID") for app in source_data.get("apps", []))
+        # Safely capture JSON errors
+        try:
+            source_data = response.json()
+        except ValueError:
+            print(f"  Skipping non-JSON response from: {source_url}")
+            continue
         
+        if not isinstance(source_data, dict):
+            continue
+
+        is_pal = source_data.get("isPAL") is True or any(app.get("marketplaceID") for app in source_data.get("apps", [])) if isinstance(source_data.get("apps"), list) else False
         if is_pal or "palsource" in source_url.lower():
             print(f"  Skipping AltStore PAL source: {source_url}")
             continue
             
-        if "apps" in source_data:
+        if "apps" in source_data and isinstance(source_data["apps"], list):
             count = 0
             for app in source_data["apps"]:
                 if app.get("paywall") or app.get("closedSource") or app.get("palOnly"):
@@ -249,18 +236,6 @@ def get_version_tuple(v):
     parts = re.findall(r'\d+', str(v))
     return tuple(int(x) for x in parts) if parts else (0,)
 
-blacklist_words = []
-
-if blacklist_words:
-    filtered_apps = []
-    for app in all_collected_apps:
-        description = (app.get("localizedDescription") or "").lower()
-        if not any(word.lower() in description for word in blacklist_words):
-            filtered_apps.append(app)
-        else:
-            print(f"  Filtering out {app.get('name')} due to blacklisted word in description.")
-    all_collected_apps = filtered_apps
-
 apps_by_bid = {}
 for app in all_collected_apps:
     bid = app.get("bundleIdentifier")
@@ -269,6 +244,8 @@ for app in all_collected_apps:
     apps_by_bid[bid].append(app)
 
 final_apps = []
+used_bundle_identifiers = set()
+
 for bid, group in apps_by_bid.items():
     group.sort(key=lambda x: get_version_tuple(x.get("version")), reverse=True)
     if not group: continue
@@ -278,20 +255,25 @@ for bid, group in apps_by_bid.items():
     candidates = [a for a in group if get_version_tuple(a.get("version")) == newest_version_tuple]
     
     for i, app in enumerate(candidates):
-        # OPTIMIZATION 1: Keep only the single latest version to eliminate version-history bloat
+        # Truncate history to avoid bloating AltStore client memory
         if "versions" in app and isinstance(app["versions"], list):
             app["versions"] = app["versions"][:1]
             
         if i > 0:
             app["name"] = f"{app.get('name')} {i}"
             app["bundleIdentifier"] = f"{app.get('bundleIdentifier')}{i}"
-        final_apps.append(app)
+            
+        # Guarantee uniqueness across the whole ecosystem output file
+        current_bid = app["bundleIdentifier"]
+        if current_bid not in used_bundle_identifiers:
+            used_bundle_identifiers.add(current_bid)
+            final_apps.append(app)
 
 altsource["apps"] = final_apps
 altsource["apps"].sort(key=lambda x: x.get('name', '').lower())
 
-# OPTIMIZATION 2: Removed `indent=2` to minify the output file down to a single compact line
+# Save minified file clean-packed without broken key structures
 with open("altsource.json", "w", encoding="utf-8") as f:
     json.dump(altsource, f, separators=(',', ':'), ensure_ascii=False)
 
-print(f"\nSuccessfully generated minified altsource.json with {len(final_apps)} apps.")
+print(f"\nSuccessfully generated parsing-safe altsource.json with {len(final_apps)} apps.")
