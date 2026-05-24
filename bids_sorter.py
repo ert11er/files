@@ -162,7 +162,6 @@ altsource = {
 }
 
 def is_valid_url(url):
-    """Check if URL is a valid absolute URL"""
     if not url or not isinstance(url, str):
         return False
     try:
@@ -172,18 +171,14 @@ def is_valid_url(url):
         return False
 
 def sanitize_app(app):
-    """Sanitize app data, removing invalid URLs and filtering symbols from text"""
     if not isinstance(app, dict):
         return None
 
-    # Sembolleri ( !, ?, # vb.) temizlemek için yardımcı fonksiyon
     def clean_text(text):
         if not text or not isinstance(text, str):
             return text
-        # Sadece alfanümerik karakterleri ve boşlukları tutar
         return re.sub(r'[^\w\s]', '', text).strip()
 
-    # Başlık (name), Altyazı (subtitle) ve varsa Caption kısımlarını filtrele
     if "name" in app:
         app["name"] = clean_text(app["name"])
     
@@ -193,11 +188,9 @@ def sanitize_app(app):
     if "caption" in app:
         app["caption"] = clean_text(app["caption"])
 
-    # İsim boşsa veya semboller silinince boş kaldıysa iptal et
     if not app.get("name"):
         return None
 
-    # URL Kontrolleri
     if "iconURL" in app:
         if not is_valid_url(app["iconURL"]):
             app["iconURL"] = "https://placehold.co/512x512"
@@ -205,18 +198,14 @@ def sanitize_app(app):
     if "screenshotURLs" in app and isinstance(app["screenshotURLs"], list):
         app["screenshotURLs"] = [url for url in app["screenshotURLs"] if is_valid_url(url)]
     
-    # Zorunlu alan kontrolü
     if not app.get("bundleIdentifier"):
         return None
     
-    # Size kontrolü: Eğer size 0 ise varsayılan değeri ata
     if "versions" in app and isinstance(app["versions"], list):
         for version in app["versions"]:
-            # Eğer size alanı 0 ise veya eksikse düzelt
             if version.get("size", 0) == 0:
                 version["size"] = 40756573
 
-    # Yeni: Patreon etiketini kontrol et (İsim, Altyazı veya açıklama kısmında)
     content_string = (app.get("name", "") + app.get("subtitle", "") + app.get("localizedDescription", "")).lower()
     if "patreon" in content_string:
         return None
@@ -235,9 +224,6 @@ for source_url in other_sources:
         response.raise_for_status()
         source_data = response.json()
         
-        # --- EXCLUDE ALTSTORE PAL SOURCES ---
-        # Örnek JSON'daki gibi 'marketplaceID' gibi PAL'a özgü bir alan var mı kontrol edelim
-        # Veya source_data içerisinde PAL'ı tanımlayan spesifik bir yapı varsa onu hedefleyelim
         is_pal = source_data.get("isPAL") is True or any(app.get("marketplaceID") for app in source_data.get("apps", []))
         
         if is_pal or "palsource" in source_url.lower():
@@ -247,7 +233,6 @@ for source_url in other_sources:
         if "apps" in source_data:
             count = 0
             for app in source_data["apps"]:
-                # Exclude individual PAL/paid apps
                 if app.get("paywall") or app.get("closedSource") or app.get("palOnly"):
                     continue
                     
@@ -258,7 +243,6 @@ for source_url in other_sources:
             print(f"  Collected {count} apps from {source_data.get('name', source_url)}")
     except Exception as e:
         print(f"  Error fetching data from {source_url}: {e}")
-
 
 def get_version_tuple(v):
     if not v: return (0,)
@@ -294,6 +278,10 @@ for bid, group in apps_by_bid.items():
     candidates = [a for a in group if get_version_tuple(a.get("version")) == newest_version_tuple]
     
     for i, app in enumerate(candidates):
+        # OPTIMIZATION 1: Keep only the single latest version to eliminate version-history bloat
+        if "versions" in app and isinstance(app["versions"], list):
+            app["versions"] = app["versions"][:1]
+            
         if i > 0:
             app["name"] = f"{app.get('name')} {i}"
             app["bundleIdentifier"] = f"{app.get('bundleIdentifier')}{i}"
@@ -302,7 +290,8 @@ for bid, group in apps_by_bid.items():
 altsource["apps"] = final_apps
 altsource["apps"].sort(key=lambda x: x.get('name', '').lower())
 
+# OPTIMIZATION 2: Removed `indent=2` to minify the output file down to a single compact line
 with open("altsource.json", "w", encoding="utf-8") as f:
-    json.dump(altsource, f, indent=2, ensure_ascii=False)
+    json.dump(altsource, f, separators=(',', ':'), ensure_ascii=False)
 
-print(f"\nSuccessfully generated altsource.json with {len(final_apps)} apps.")
+print(f"\nSuccessfully generated minified altsource.json with {len(final_apps)} apps.")
